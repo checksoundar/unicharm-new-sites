@@ -1,0 +1,167 @@
+{
+ "captured": "2026-09-24T03:59:31.747Z",
+ "totalInstances": 14,
+ "totalVariants": 7,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 2,
+   "instances": 6
+  },
+  {
+   "base": "table",
+   "variants": 2,
+   "instances": 4
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "form",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "tabs",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "cards",
+   "key": "cards::div|div6.script1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "cards_3af011e717f9.jpg",
+   "repUrl": "http://www.lgunicharm.co.kr/",
+   "samples": [
+    {
+     "url": "http://www.lgunicharm.co.kr/",
+     "file": "cards_3af011e717f9.jpg"
+    },
+    {
+     "url": "https://www.lgunicharm.co.kr/",
+     "file": "cards_2e7dd3059ef9.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2|tbl,frm,ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_25c7a805be9e.jpg",
+   "repUrl": "https://www.lgunicharm.co.kr/ccm3.asp",
+   "samples": [
+    {
+     "url": "https://www.lgunicharm.co.kr/ccm3.asp",
+     "file": "form_25c7a805be9e.jpg"
+    }
+   ],
+   "topLabel": "소비자중심경영"
+  },
+  {
+   "base": "table",
+   "key": "table::div|h311.h43.p15.table1|tbl,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "table_5e05e46b91bb.jpg",
+   "repUrl": "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+   "samples": [
+    {
+     "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+     "file": "table_e3b78876fcd4.jpg"
+    },
+    {
+     "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+     "file": "table_5e05e46b91bb.jpg"
+    },
+    {
+     "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp",
+     "file": "table_3aa8fcb16692.jpg"
+    }
+   ],
+   "topLabel": "1. 개인정보의 수집목적 및 이용목적"
+  },
+  {
+   "base": "table",
+   "key": "table::div|br1.h311.h43.p15.table2|tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_1e397c7dd940.jpg",
+   "repUrl": "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+   "samples": [
+    {
+     "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+     "file": "table_1e397c7dd940.jpg"
+    }
+   ],
+   "topLabel": "1. 개인정보의 수집목적 및 이용목적"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_5f6d99e56515.jpg",
+   "repUrl": "http://www.lgunicharm.co.kr/brand_bc.asp",
+   "samples": [
+    {
+     "url": "http://www.lgunicharm.co.kr/brand_bc.asp",
+     "file": "tabs_5f6d99e56515.jpg"
+    }
+   ],
+   "topLabel": "Baby Care"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "unknown_b9360780b617.jpg",
+   "repUrl": "http://www.lgunicharm.co.kr/brand_bc.asp",
+   "samples": [
+    {
+     "url": "http://www.lgunicharm.co.kr/brand_bc.asp",
+     "file": "unknown_b9360780b617.jpg"
+    },
+    {
+     "url": "http://www.lgunicharm.co.kr/location.asp",
+     "file": "unknown_d3e9ed1845b2.jpg"
+    },
+    {
+     "url": "https://www.lgunicharm.co.kr/welfare.asp",
+     "file": "unknown_bc4666dbb8d0.jpg"
+    },
+    {
+     "url": "https://www.lgunicharm.co.kr/ccm3.asp",
+     "file": "unknown_7be3b7e1d537.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_7f264cfdf006.jpg",
+   "repUrl": "https://www.lgunicharm.co.kr/welfare.asp",
+   "samples": [
+    {
+     "url": "http://www.lgunicharm.co.kr/location.asp",
+     "file": "unknown_0787c873f8d2.jpg"
+    },
+    {
+     "url": "https://www.lgunicharm.co.kr/welfare.asp",
+     "file": "unknown_7f264cfdf006.jpg"
+    }
+   ],
+   "topLabel": "About 엘지유니참"
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "captured": "2026-09-24T03:59:02.343Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 54,
+ "totalGroups": 3,
+ "patternGroups": 3,
+ "longTailPages": 0,
+ "groupMeta": {
+  "/{page}": {
+   "total": 48,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/etc/{section}/{slug}": {
+   "total": 4,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Etc sub-pages"
+  },
+  "/": {
+   "total": 2,
+   "rendered": 2,
+   "type": "pattern",
+   "label": "Homepage & root"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://www.lgunicharm.co.kr/",
+   "http://www.lgunicharm.co.kr/"
+  ],
+  "/{page}": [
+   "https://www.lgunicharm.co.kr/introduce.asp",
+   "https://www.lgunicharm.co.kr/history.asp",
+   "https://www.lgunicharm.co.kr/office.asp",
+   "https://www.lgunicharm.co.kr/location.asp",
+   "https://www.lgunicharm.co.kr/brand_fc.asp",
+   "https://www.lgunicharm.co.kr/brand_bc.asp",
+   "https://www.lgunicharm.co.kr/brand_hc.asp",
+   "https://www.lgunicharm.co.kr/brand_pc.asp",
+   "https://www.lgunicharm.co.kr/brand_cf.asp",
+   "https://www.lgunicharm.co.kr/financial.asp",
+   "https://www.lgunicharm.co.kr/esg.asp",
+   "https://www.lgunicharm.co.kr/csr.asp",
+   "https://www.lgunicharm.co.kr/ccm1.asp",
+   "https://www.lgunicharm.co.kr/ccm2.asp",
+   "https://www.lgunicharm.co.kr/ccm3.asp",
+   "https://www.lgunicharm.co.kr/talent.asp",
+   "https://www.lgunicharm.co.kr/position.asp",
+   "https://www.lgunicharm.co.kr/recruit_process.asp",
+   "https://www.lgunicharm.co.kr/welfare.asp",
+   "https://www.lgunicharm.co.kr/terms.asp",
+   "https://www.lgunicharm.co.kr/privacy.asp",
+   "https://www.lgunicharm.co.kr/cf_1.asp",
+   "https://www.lgunicharm.co.kr/cf_2.asp",
+   "https://www.lgunicharm.co.kr/cf_3.asp",
+   "http://www.lgunicharm.co.kr/introduce.asp",
+   "http://www.lgunicharm.co.kr/history.asp",
+   "http://www.lgunicharm.co.kr/office.asp",
+   "http://www.lgunicharm.co.kr/location.asp",
+   "http://www.lgunicharm.co.kr/brand_fc.asp",
+   "http://www.lgunicharm.co.kr/brand_bc.asp",
+   "http://www.lgunicharm.co.kr/brand_hc.asp",
+   "http://www.lgunicharm.co.kr/brand_pc.asp",
+   "http://www.lgunicharm.co.kr/brand_cf.asp",
+   "http://www.lgunicharm.co.kr/financial.asp",
+   "http://www.lgunicharm.co.kr/esg.asp",
+   "http://www.lgunicharm.co.kr/csr.asp",
+   "http://www.lgunicharm.co.kr/ccm1.asp",
+   "http://www.lgunicharm.co.kr/ccm2.asp",
+   "http://www.lgunicharm.co.kr/ccm3.asp",
+   "http://www.lgunicharm.co.kr/talent.asp",
+   "http://www.lgunicharm.co.kr/position.asp",
+   "http://www.lgunicharm.co.kr/recruit_process.asp",
+   "http://www.lgunicharm.co.kr/welfare.asp",
+   "http://www.lgunicharm.co.kr/terms.asp",
+   "http://www.lgunicharm.co.kr/privacy.asp",
+   "http://www.lgunicharm.co.kr/cf_1.asp",
+   "http://www.lgunicharm.co.kr/cf_2.asp",
+   "http://www.lgunicharm.co.kr/cf_3.asp"
+  ],
+  "/etc/{section}/{slug}": [
+   "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp",
+   "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+   "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+   "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp"
+  ]
+ }
+}

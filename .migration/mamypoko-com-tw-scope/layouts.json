@@ -1,0 +1,163 @@
+{
+ "captured": "2026-09-24T04:00:19.773Z",
+ "renderedPages": 8,
+ "distinctSignatures": 6,
+ "templates": [
+  {
+   "signature": "media>list>media>table>text>text",
+   "family": "table",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mamypoko.com.tw/gotoshopping.php",
+    "https://www.mamypoko.com.tw/knowledge_02_01_06_c.php"
+   ],
+   "sections": {
+    "gotoshopping.php": 1,
+    "knowledge_02_01_06_c.php": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "gotoshopping.php(1)",
+    "knowledge_02_01_06_c.php(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "media>list>table>text>text",
+   "family": "table",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mamypoko.com.tw/knowledge_02_05_02_c.php",
+    "https://www.mamypoko.com.tw/yuuta.php"
+   ],
+   "sections": {
+    "knowledge_02_05_02_c.php": 1,
+    "yuuta.php": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "5": 2
+   },
+   "topSections": [
+    "knowledge_02_05_02_c.php(1)",
+    "yuuta.php(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "media>list>media>carousel>text>text>list>iframe-embed>media>list>text>text",
+   "family": "carousel",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.com.tw/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "12": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "media>list>list",
+   "family": "media",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.com.tw/tkopen/2020.html"
+   ],
+   "sections": {
+    "tkopen": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "tkopen(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media"
+  },
+  {
+   "signature": "media>list>iframe-embed",
+   "family": "embed",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.com.tw/oyasumiman/2022.html"
+   ],
+   "sections": {
+    "oyasumiman": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "oyasumiman(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "embed-page"
+  },
+  {
+   "signature": "media>list>text",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.com.tw/tkpants/2020.html"
+   ],
+   "sections": {
+    "tkpants": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "tkpants(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  }
+ ]
+}

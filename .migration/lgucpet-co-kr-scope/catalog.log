@@ -1,0 +1,11 @@
+2026-09-24 03:43:08 | INFO | Site crawler starting
+2026-09-24 03:43:08 | INFO | Starting crawl: https://lgucpet.co.kr
+2026-09-24 03:43:08 | INFO | Max pages: 9000, Delay: 350ms, Timeout: 15000ms
+2026-09-24 03:43:08 | INFO | Max retries per URL: 1
+2026-09-24 03:43:10 | INFO | Robots.txt disallow rules found: 0
+2026-09-24 03:43:12 | INFO | ✓ 1/9000 | Queue: 0 | ✅ https://lgucpet.co.kr/...
+2026-09-24 03:43:13 | INFO | Checkpoint saved: 1 visited, 0 queued
+2026-09-24 03:43:13 | INFO | CRAWL COMPLETE
+2026-09-24 03:43:13 | INFO | Total URLs discovered: 1
+2026-09-24 03:43:13 | INFO | Status breakdown:
+2026-09-24 03:43:13 | INFO | ✅ 200 (Success): 1

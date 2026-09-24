@@ -1,0 +1,286 @@
+{
+ "captured": "2026-09-24T03:59:30.832Z",
+ "renderedPages": 13,
+ "distinctSignatures": 11,
+ "templates": [
+  {
+   "signature": "hero>text>table>table>text>text>text",
+   "family": "table",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+    "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/"
+   ],
+   "sections": {
+    "%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d": 1,
+    "%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "7": 2
+   },
+   "topSections": [
+    "%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d(1)",
+    "%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "hero>nav>table>table>table>table>table>table>table>table>table>table>table>table>text",
+   "family": "table",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://lgucpet.co.kr/category/vet-corner/cat-health-tips/",
+    "https://lgucpet.co.kr/category/vet-corner/dog-health-tips/"
+   ],
+   "sections": {
+    "category": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "15": 2
+   },
+   "topSections": [
+    "category(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "hero>list",
+   "family": "hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80/"
+   ],
+   "sections": {
+    "%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "hero-page"
+  },
+  {
+   "signature": "text>text>columns>columns>text>text>text>text>text>text>text>columns>text>columns",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/about/"
+   ],
+   "sections": {
+    "about": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "14": 1
+   },
+   "topSections": [
+    "about(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>text>media",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/cat-vet/"
+   ],
+   "sections": {
+    "cat-vet": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "cat-vet(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/category/uncategorized/"
+   ],
+   "sections": {
+    "category": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "category(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>list>text>text>columns>text>text>cards>text>text>text>columns>text>iframe-embed>text>iframe-embed>columns>text",
+   "family": "embed",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "18": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "embed-page"
+  },
+  {
+   "signature": "hero>hero>nav>text>list>text>text>text>text>text",
+   "family": "hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/category/vet-corner/"
+   ],
+   "sections": {
+    "category": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "10": 1
+   },
+   "topSections": [
+    "category(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "hero-page"
+  },
+  {
+   "signature": "hero>table",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/dog-summer-walk-heat-safety/"
+   ],
+   "sections": {
+    "dog-summer-walk-heat-safety": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "dog-summer-walk-heat-safety(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "text>text>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/youtube/"
+   ],
+   "sections": {
+    "youtube": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "youtube(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "form",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lgucpet.co.kr/elementor-%ed%8e%98%ec%9d%b4%ec%a7%80-1923/"
+   ],
+   "sections": {
+    "elementor-%ed%8e%98%ec%9d%b4%ec%a7%80-1923": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "elementor-%ed%8e%98%ec%9d%b4%ec%a7%80-1923(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  }
+ ]
+}

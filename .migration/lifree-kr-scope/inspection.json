@@ -1,0 +1,46 @@
+{
+ "captured": "2026-09-24T04:01:29.203Z",
+ "locales": [],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 2,
+  "totalLive": 13,
+  "totalUrls": 13,
+  "selectedTotal": 4,
+  "skippedTotal": 9,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 4,
+  "rTotal": 12,
+  "rGroups": 1,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 12,
+   "selected": 4,
+   "skipped": 8,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/product"
+  },
+  {
+   "groupId": "G01",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

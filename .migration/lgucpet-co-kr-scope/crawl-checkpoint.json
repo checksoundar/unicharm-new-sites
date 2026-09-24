@@ -1,0 +1,15 @@
+{
+  "queue": [],
+  "visited": [
+    "https://lgucpet.co.kr/"
+  ],
+  "urls": [
+    {
+      "url": "https://lgucpet.co.kr/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://lgucpet.co.kr/"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+ "captured": "2026-09-24T03:59:02.363Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 13,
+ "totalGroups": 2,
+ "patternGroups": 1,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/{page}": {
+   "total": 12,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Homepage & root"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://lifree.kr/"
+  ],
+  "/{page}": [
+   "https://lifree.kr/product",
+   "https://lifree.kr/lifree-comfort-underwear",
+   "https://lifree.kr/lifree-comfort-underwear-long-lasting-new",
+   "https://lifree.kr/lifree-comfort-mat",
+   "https://lifree.kr/brand-story",
+   "https://lifree.kr/health-guide",
+   "https://lifree.kr/incontinence-exercise-guide",
+   "https://lifree.kr/pelvic-training",
+   "https://lifree.kr/pelvic-walking",
+   "https://lifree.kr/contact",
+   "https://lifree.kr/faq",
+   "https://lifree.kr/lifree-active-underwear-unisex"
+  ]
+ }
+}

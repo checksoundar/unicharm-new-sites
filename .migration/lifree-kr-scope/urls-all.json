@@ -1,0 +1,75 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T03:45:54.261Z",
+    "totalUrls": 13,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 13,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://lifree.kr/",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/product",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/lifree-comfort-underwear",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/lifree-comfort-underwear-long-lasting-new",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/lifree-comfort-mat",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/brand-story",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/health-guide",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/incontinence-exercise-guide",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/pelvic-training",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/pelvic-walking",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/contact",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/faq",
+        "status": 200
+      },
+      {
+        "url": "https://lifree.kr/lifree-active-underwear-unisex",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

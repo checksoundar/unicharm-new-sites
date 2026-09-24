@@ -1,0 +1,239 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T03:45:54.175Z",
+    "totalUrls": 54,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 54,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.lgunicharm.co.kr/",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/introduce.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/history.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/office.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/location.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/brand_fc.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/brand_bc.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/brand_hc.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/brand_pc.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/brand_cf.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/financial.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/esg.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/csr.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/ccm1.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/ccm2.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/ccm3.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/talent.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/position.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/recruit_process.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/welfare.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/terms.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/privacy.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/cf_1.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/cf_2.asp",
+        "status": 200
+      },
+      {
+        "url": "https://www.lgunicharm.co.kr/cf_3.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/introduce.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/history.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/office.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/location.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/brand_fc.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/brand_bc.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/brand_hc.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/brand_pc.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/brand_cf.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/financial.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/esg.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/csr.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/ccm1.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/ccm2.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/ccm3.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/talent.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/position.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/recruit_process.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/welfare.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/terms.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/privacy.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/cf_1.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/cf_2.asp",
+        "status": 200
+      },
+      {
+        "url": "http://www.lgunicharm.co.kr/cf_3.asp",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

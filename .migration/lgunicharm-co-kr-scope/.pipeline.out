@@ -1,0 +1,82 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/lgunicharm-co-kr-scope
+▶ site: https://www.lgunicharm.co.kr/
+CJK font: NotoSansCJKjp-Regular.otf: "Noto Sans CJK JP" "Regular"
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 54
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 3
+Pattern groups (>= 2): 3 - covering 54 pages -> sampled to ~10
+Long-tail unique pages (rendered in full): 0
+=> RENDER SET SIZE: 10
+
+Top 30 pattern groups:
+   48 -> 4 sampled   /{page}
+    4 -> 4 sampled   /etc/{section}/{slug}
+    2 -> 2 sampled   /
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 10
+Distinct layout signatures: 5
+
+=== Layout templates (est. full-population pages) ===
+    4 pp  rendered=  4   data-table       text>table                                     |  etc(4)
+    2 pp  rendered=  2   carousel-page    carousel>list                                  |  (home)(2)
+    2 pp  rendered=  2   section-nav-list list>text>list                                 |  location.asp(1) welfare.asp(1)
+    1 pp  rendered=  1   section-nav-list list>list>list                                 |  brand_bc.asp(1)
+    1 pp  rendered=  1   form-page        list>form>list                                 |  ccm3.asp(1)
+
+=== Third-party integrations detected ===
+    7 CDN/JS libs
+    2 Other third-party: www.google.com
+    1 Other third-party: t1.daumcdn.net
+
+=== Global objects ===
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 14
+Total variants: 7
+
+=== Base type -> variants / instances ===
+   6 inst    2 variants   unknown
+   4 inst    2 variants   table
+   2 inst    1 variants   cards
+   1 inst    1 variants   form
+   1 inst    1 variants   tabs
+
+=== Top 20 variants ===
+   4 x   unknown       pages=  4   div|div1|img,lst,aN,iN
+   3 x   table         pages=  3   div|h311.h43.p15.table1|tbl,hd,aN,iN
+   2 x   cards         pages=  2   div|div6.script1|img,lst,hd,aN,iN
+   2 x   unknown       pages=  2   div|div2|img,hd,aN,iN
+   1 x   form          pages=  1   div|div2|tbl,frm,ifr,hd,aN,iN
+   1 x   table         pages=  1   div|br1.h311.h43.p15.table2|tbl,hd,aN,iN
+   1 x   tabs          pages=  1   div|div1|img,lst,hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 3 template groups | full: 1 sampled: 1 excluded: 1
+pages — inspected: 8 skipped: 46 non-200: 0 of 54 urls
+
+=== Template groups (by size) ===
+  G00    48  sampled   /{page}                           Root-level product & marketing pages
+  G01     4  full      /etc/{section}/{slug}             Etc sub-pages
+  G02     2  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 2 | first-party domain: co.kr
+Probable backend integrations: 0 | unclassified hosts: 0
+
+=== By category ===
+
+=== Services (by page coverage) ===
+▶ [11/12] compute supplementary data
+compute-data: live pages 54 | structure groups 0 | docs 0 | url groups 26 | layout heatmap rows 4 | block heatmap rows 5 | integrations 3
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/lgunicharm-co-kr-site-analysis-dashboard.html 2.67 MB
+templates: 4 galleries: Cards:1, Tabs:1, Table:2, Form:1, Unknown / Custom:2
+IMAGES: 7 TEMPLATE_SHOTS: 4
+✅ done.

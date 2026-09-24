@@ -1,0 +1,157 @@
+{
+ "captured": "2026-09-24T04:02:00.064Z",
+ "sampledPages": 4,
+ "firstPartyDomain": "com.tw",
+ "totalServices": 4,
+ "categories": [
+  {
+   "category": "Advertising",
+   "count": 1
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Customer data platform",
+   "count": 1
+  },
+  {
+   "category": "Video",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "ad.doubleclick.net",
+    "googleads.g.doubleclick.net",
+    "www.googleadservices.com",
+    "www.google.com"
+   ],
+   "hostCount": 4,
+   "endpoints": [
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "GET googleads.g.doubleclick.net/pagead/id",
+    "GET www.googleadservices.com/pagead/conversion/:id",
+    "POST googleads.g.doubleclick.net/pagead/viewthroughconversion/:id",
+    "GET www.google.com/pagead/1p-conversion/:id",
+    "POST ad.doubleclick.net/activity;src=:id;type=mamyp0;cat=mamyp:n;rcb=4;ord=:id;npa=0;auiddc=:id",
+    "GET www.google.com/gmp/conversion/_dc_unique_id=:id;_dc_ptd=ChAI8PHN1QYQh5Wf2ZHW9-kUEh8AS0KCeo"
+   ],
+   "pages": 4,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 3,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google-analytics.com/j/collect",
+    "POST www.google.com/g/collect",
+    "POST www.google-analytics.com/g/collect"
+   ],
+   "pages": 4,
+   "coverage": "100%"
+  },
+  {
+   "name": "Segment (CDP)",
+   "category": "Customer data platform",
+   "note": "Segment analytics.js ingest/settings",
+   "hosts": [
+    "omnitag.omnisegment.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET omnitag.omnisegment.com/route-config.json"
+   ],
+   "pages": 4,
+   "coverage": "100%"
+  },
+  {
+   "name": "Video platform API",
+   "category": "Video",
+   "note": "",
+   "hosts": [
+    "www.gstatic.com",
+    "www.youtube.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "GET www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+    "POST www.youtube.com/youtubei/v1/log_event",
+    "POST www.youtube.com/api/stats/atr",
+    "POST www.youtube.com/api/stats/qoe"
+   ],
+   "pages": 3,
+   "coverage": "75%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.google.com",
+   "pages": 4,
+   "sample": "POST www.google.com/measurement/conversion"
+  },
+  {
+   "host": "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+   "pages": 3,
+   "sample": "POST mpc2-prod-26-is5qnl632q-uc.a.run.app/events"
+  },
+  {
+   "host": "jnn-pa.googleapis.com",
+   "pages": 2,
+   "sample": "POST jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+  },
+  {
+   "host": "d3-36c34dc0877246a0b32c4f4e24be6ce8.ecs.us-east-1.on.aws",
+   "pages": 1,
+   "sample": "POST d3-36c34dc0877246a0b32c4f4e24be6ce8.ecs.us-east-1.on.aws/events"
+  },
+  {
+   "host": "analytics.omniscientai.com",
+   "pages": 1,
+   "sample": "GET analytics.omniscientai.com/omnitag/config"
+  },
+  {
+   "host": "v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws",
+   "pages": 1,
+   "sample": "POST v5-b75ccb2b73c54aa4a5098ab7f8533696.ecs.us-east-2.on.aws/events"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 1,
+   "sample": "POST www.googletagmanager.com/td"
+  },
+  {
+   "host": "s.yimg.com",
+   "pages": 1,
+   "sample": "GET s.yimg.com/wi/config/:id.json"
+  },
+  {
+   "host": "anylist.c.appier.net",
+   "pages": 1,
+   "sample": "GET anylist.c.appier.net/r2"
+  },
+  {
+   "host": "s.c.appier.net",
+   "pages": 1,
+   "sample": "GET s.c.appier.net/aprcm"
+  },
+  {
+   "host": "r.adgeek.net",
+   "pages": 1,
+   "sample": "GET r.adgeek.net/api/:id"
+  }
+ ]
+}

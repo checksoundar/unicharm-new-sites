@@ -1,0 +1,139 @@
+{
+ "captured": "2026-09-24T03:59:16.450Z",
+ "renderedPages": 10,
+ "distinctSignatures": 5,
+ "templates": [
+  {
+   "signature": "text>table",
+   "family": "table",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp"
+   ],
+   "sections": {
+    "etc": 4
+   },
+   "locales": {
+    "root": 4
+   },
+   "blockCountMode": {
+    "2": 4
+   },
+   "topSections": [
+    "etc(4)"
+   ],
+   "topLocales": [
+    "root:4"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "carousel>list",
+   "family": "carousel",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "http://www.lgunicharm.co.kr/",
+    "https://www.lgunicharm.co.kr/"
+   ],
+   "sections": {
+    "(home)": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "2": 2
+   },
+   "topSections": [
+    "(home)(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "list>text>list",
+   "family": "list",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "http://www.lgunicharm.co.kr/location.asp",
+    "https://www.lgunicharm.co.kr/welfare.asp"
+   ],
+   "sections": {
+    "location.asp": 1,
+    "welfare.asp": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "3": 2
+   },
+   "topSections": [
+    "location.asp(1)",
+    "welfare.asp(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>list>list",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "http://www.lgunicharm.co.kr/brand_bc.asp"
+   ],
+   "sections": {
+    "brand_bc.asp": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "brand_bc.asp(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>form>list",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.lgunicharm.co.kr/ccm3.asp"
+   ],
+   "sections": {
+    "ccm3.asp": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "ccm3.asp(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  }
+ ]
+}

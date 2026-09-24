@@ -1,0 +1,13 @@
+{
+ "captured": "2026-09-24T03:59:02.376Z",
+ "strategy": "pattern-groups(>=2) sampled to 4; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 13,
+ "renderCount": 5,
+ "urls": [
+  "https://lifree.kr/",
+  "https://lifree.kr/brand-story",
+  "https://lifree.kr/incontinence-exercise-guide",
+  "https://lifree.kr/lifree-comfort-underwear",
+  "https://lifree.kr/product"
+ ]
+}

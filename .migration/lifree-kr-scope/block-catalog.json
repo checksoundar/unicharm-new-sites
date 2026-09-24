@@ -1,0 +1,29 @@
+{
+ "captured": "2026-09-24T03:59:34.330Z",
+ "totalInstances": 1,
+ "totalVariants": 1,
+ "baseSummary": [
+  {
+   "base": "text",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_a7c07807cfae.jpg",
+   "repUrl": "https://lifree.kr/incontinence-exercise-guide",
+   "samples": [
+    {
+     "url": "https://lifree.kr/incontinence-exercise-guide",
+     "file": "text_a7c07807cfae.jpg"
+    }
+   ],
+   "topLabel": "요실금 관리 운동법"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "captured": "2026-09-24T04:01:27.796Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>columns>columns>columns>columns",
+   "estPop": 1,
+   "url": "https://lifree.kr/",
+   "file": "t00_article-text.jpg",
+   "captured": true,
+   "bytes": 209220
+  },
+  {
+   "idx": 1,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>columns",
+   "estPop": 1,
+   "url": "https://lifree.kr/incontinence-exercise-guide",
+   "file": "t01_article-text.jpg",
+   "captured": false,
+   "error": "page.goto: Timeout 45000ms exceeded.\nCall log:\n  - navigating to \"https://lifree.kr/incontinence-exercise-guide\", waitin"
+  },
+  {
+   "idx": 2,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>text>text",
+   "estPop": 1,
+   "url": "https://lifree.kr/brand-story",
+   "file": "t02_section-nav-list.jpg",
+   "captured": false,
+   "error": "page.goto: net::ERR_TIMED_OUT at https://lifree.kr/brand-story\nCall log:\n  - navigating to \"https://lifree.kr/brand-stor"
+  },
+  {
+   "idx": 4,
+   "name": "columns",
+   "family": "columns",
+   "signature": "columns>columns>columns",
+   "estPop": 1,
+   "url": "https://lifree.kr/lifree-comfort-underwear",
+   "file": "t04_columns.jpg",
+   "captured": false,
+   "error": "page.goto: net::ERR_TIMED_OUT at https://lifree.kr/lifree-comfort-underwear\nCall log:\n  - navigating to \"https://lifree."
+  }
+ ]
+}

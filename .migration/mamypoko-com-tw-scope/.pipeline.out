@@ -1,0 +1,119 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/mamypoko-com-tw-scope
+▶ site: https://www.mamypoko.com.tw/
+CJK font: NotoSansCJKjp-Regular.otf: "Noto Sans CJK JP" "Regular"
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 158
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 3
+Pattern groups (>= 2): 2 - covering 157 pages -> sampled to ~7
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 8
+
+Top 30 pattern groups:
+  154 -> 4 sampled   /{page}
+    3 -> 3 sampled   /{page}/{slug}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 8
+Distinct layout signatures: 6
+
+=== Layout templates (est. full-population pages) ===
+    2 pp  rendered=  2   data-table       media>list>media>table>text>text               |  gotoshopping.php(1) knowledge_02_01_06_c.php(1)
+    2 pp  rendered=  2   data-table       media>list>table>text>text                     |  knowledge_02_05_02_c.php(1) yuuta.php(1)
+    1 pp  rendered=  1   carousel-page    media>list>media>carousel>text>text>list>ifram |  (home)(1)
+    1 pp  rendered=  1   media            media>list>list                                |  tkopen(1)
+    1 pp  rendered=  1   embed-page       media>list>iframe-embed                        |  oyasumiman(1)
+    1 pp  rendered=  1   media-article    media>list>text                                |  tkpants(1)
+
+=== Third-party integrations detected ===
+  138 Google Tag Manager
+   57 Google Ads/DoubleClick
+   43 Meta (Facebook) Pixel
+   12 YouTube embed
+    8 Other third-party: omnitag.omniscientai.com
+    7 Google Analytics
+    3 Other third-party: adlogs.ad2iction.com
+    2 Other third-party: jscdn.appier.net
+    1 Other third-party: m.vpadn.com
+    1 Other third-party: ecs.tagtoo.co
+    1 Other third-party: tkportal.aotter.net
+    1 Other third-party: d.line-scdn.net
+    1 Other third-party: s.yimg.com
+    1 Other third-party: ad.tagtoo.co
+    1 Other third-party: r.adgeek.net
+
+=== Global objects ===
+   8 dataLayer
+   8 gtag
+   8 google_tag_manager
+   8 fbq
+   7 ga
+   5 _gaq
+   3 YT
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 32
+Total variants: 13
+
+=== Base type -> variants / instances ===
+  14 inst    3 variants   unknown
+   6 inst    2 variants   text
+   5 inst    2 variants   media
+   3 inst    2 variants   table
+   2 inst    2 variants   video
+   1 inst    1 variants   cards
+   1 inst    1 variants   carousel
+
+=== Top 20 variants ===
+   8 x   unknown       pages=  7   div|div1|img,lst,aN,iN
+   5 x   text          pages=  5   div|div2|aN,iN
+   5 x   unknown       pages=  5   div|div4|img,aN,iN
+   3 x   media         pages=  3   div|div1|img,aN,iN
+   2 x   media         pages=  2   div|div1|img,lst,aN,iN
+   2 x   table         pages=  2   div|div2.script1|img,tbl,lst,aN,iN
+   1 x   cards         pages=  1   div|div2|img,aN,iN
+   1 x   carousel      pages=  1   div|div1|img,aN,iN
+   1 x   table         pages=  1   div|div2|img,tbl,aN,iN
+   1 x   text          pages=  1   section|div1|hd,aN,iN
+   1 x   unknown       pages=  1   div|div10|img,hd,aN,iN
+   1 x   video         pages=  1   div|div2|img,ifr,aN,iN
+   1 x   video         pages=  1   div|aN.div5|img,tbl,ifr,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 5 template groups | full: 0 sampled: 2 excluded: 3
+pages — inspected: 7 skipped: 222 non-200: 69 of 229 urls
+
+=== Template groups (by size) ===
+  G00   159  sampled   /{page}                           Root-level product & marketing pages
+  G01    35  sampled   /{page}/{slug}                    Root-level product & marketing pages
+  G02    32  excluded  /{page}/{section}                 Root-level product & marketing pages
+  G03     2  excluded  /{page}/{section}/{slug}          Root-level product & marketing pages
+  G04     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 4 | first-party domain: com.tw
+Probable backend integrations: 4 | unclassified hosts: 11
+
+=== By category ===
+  1 Advertising
+  1 Analytics
+  1 Customer data platform
+  1 Video
+
+=== Services (by page coverage) ===
+  4pg  Advertising                 Google Ads / DoubleClick
+  4pg  Analytics                   Google Analytics (GA4)
+  4pg  Customer data platform      Segment (CDP)
+  3pg  Video                       Video platform API
+▶ [11/12] compute supplementary data
+compute-data: live pages 158 | structure groups 0 | docs 0 | url groups 158 | layout heatmap rows 5 | block heatmap rows 7 | integrations 15
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/mamypoko-com-tw-site-analysis-dashboard.html 9.82 MB
+templates: 5 galleries: Cards:1, Carousel:1, Table:2, Media:2, Video:2, Text:2, Unknown / Custom:3
+IMAGES: 13 TEMPLATE_SHOTS: 5
+✅ done.

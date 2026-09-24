@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://lifree.kr/",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/"
+  },
+  {
+    "url": "https://lifree.kr/product",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/product/"
+  },
+  {
+    "url": "https://lifree.kr/lifree-comfort-underwear",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/lifree-comfort-underwear/"
+  },
+  {
+    "url": "https://lifree.kr/lifree-comfort-underwear-long-lasting-new",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/lifree-comfort-underwear-long-lasting-new/"
+  },
+  {
+    "url": "https://lifree.kr/lifree-comfort-mat",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/lifree-comfort-mat/"
+  },
+  {
+    "url": "https://lifree.kr/brand-story",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/brand-story/"
+  },
+  {
+    "url": "https://lifree.kr/health-guide",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/health-guide/"
+  },
+  {
+    "url": "https://lifree.kr/incontinence-exercise-guide",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/incontinence-exercise-guide/"
+  },
+  {
+    "url": "https://lifree.kr/pelvic-training",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/pelvic-training/"
+  },
+  {
+    "url": "https://lifree.kr/pelvic-walking",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/pelvic-walking/"
+  },
+  {
+    "url": "https://lifree.kr/contact",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/contact/"
+  },
+  {
+    "url": "https://lifree.kr/faq",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/faq/"
+  },
+  {
+    "url": "https://lifree.kr/lifree-active-underwear-unisex",
+    "method": "crawl",
+    "status": 200,
+    "retries": 0,
+    "finalUrl": "https://lifree.kr/lifree-active-underwear-unisex/"
+  }
+]

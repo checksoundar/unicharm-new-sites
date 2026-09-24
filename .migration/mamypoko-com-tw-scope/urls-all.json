@@ -1,0 +1,1535 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T03:56:23.466Z",
+    "totalUrls": 378,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 307,
+      "redirect": 0,
+      "clientError": 69,
+      "serverError": 0,
+      "errorTimeout": 2
+    },
+    "urls": [
+      {
+        "url": "https://www.mamypoko.com.tw/",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_list.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkpants.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_12.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_14.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_02_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_03_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_11.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_08.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_06.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_13.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_07.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_09.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/yuuta.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/introduce.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/introduce_about.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/introduce_about_video01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/introduce_about_video02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowled.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_07.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_03_08.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/member.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/questionnaire.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/gotoshopping.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/video.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/member_policy.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/sitemap.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Findex.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/index.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_04.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_06.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_13.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_06_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_10.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_12.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_14.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_15.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_08.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_11.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_09.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_04_03_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_17.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_16.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_01_06.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_01_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_03_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_04_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_05_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_05_03.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_07_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_09_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_list.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_03.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_10_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_10_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_10_00.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_04_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Ftkopen.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Ftkpants.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_12.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_14.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_02_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_03_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_08.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Foyasumiman.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkpants/2020.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_06.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_13.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_07.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_09.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fyuuta.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_point.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_history.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_voice.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_hospital.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_recommend.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_news.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_product_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fintroduce.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fintroduce_about.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fintroduce_about_video01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/images/introduce/0709_Song_poko_big.mpg",
+        "status": 0
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/images/introduce/0709_Song_poko_small.mpg",
+        "status": 0
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fintroduce_about_video02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowled.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_07.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_02_03.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_18.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_19.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_01_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_03_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_04_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_01_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_03_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_04_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_01_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_03_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_04_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_05_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_06_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_07_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_05_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_06_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_07_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_05_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_06_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_07_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_08_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_09_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_10_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_08_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_09_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_10_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_08_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_09_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_01_10_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_02_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_02_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_03_08.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fmember.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fquestionnaire.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fgotoshopping.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fvideo.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fmember_policy.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fsitemap.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/news.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_04.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_06.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_13.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_06.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_06_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_10.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_12.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_14.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_15.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_08.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_11.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_09.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_04.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_04_03_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_17.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_16.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_01_06.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_01_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_03_05.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_04_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_05_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_05_03.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_07_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fproduct_09_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_01_0%CB%87.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_03.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/2020.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_point.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_history.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_voice.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/hospital_hosptital.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_hospital.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_recommend.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_news.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fhospital_product_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/product_01_02.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_18.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_01_19.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_01_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_03_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_04_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_01_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_03_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_04_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_01_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_03_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_04_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_05_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_06_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_07_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_05_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_06_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_07_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_05_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_06_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_07_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_08_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_09_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_10_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_08_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_09_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_10_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_08_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_09_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_01_10_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_02_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_02_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_d.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_e.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_f.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_g.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_h.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_i.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_j.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_k.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_l.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_m.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_n.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_q.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_03_02_r.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_d.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_e.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_f.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_g.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_h.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_i.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_j.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_k.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_04_02_l.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_01.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_d.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_e.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_f.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_g.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_h.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_i.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_j.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_k.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_l.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_m.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fnews.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/news_detail.php?bbsid=QDE4NDRA",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/news_detail.php?bbsid=QDE0MDJA",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_list.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/tkopen.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/tkpants.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_12.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_14.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_02_01.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_03_01.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_11.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_08.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/oyasumiman.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_05.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_06.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_13.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_07.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/product_09.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/yuuta.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/introduce.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/introduce_about.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/introduce_about_video01.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/introduce_about_video02.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/knowled.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/knowledge_01_07.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/knowledge_02.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/knowledge_03_08.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/member.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/questionnaire.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/gotoshopping.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/video.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/member_policy.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/sitemap.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/tkopen/line_login_brand.php?rtype=%2Ftkopen.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_list.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/tkopen.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/tkpants.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_12.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_14.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_02_01.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_03_01.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_11.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_08.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/oyasumiman.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_05.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_06.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_13.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_07.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/product_09.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/yuuta.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/introduce.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/introduce_about.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/introduce_about_video01.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/introduce_about_video02.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/knowled.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/knowledge_01_07.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/knowledge_02.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/knowledge_03_08.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/member.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/questionnaire.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/gotoshopping.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/video.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/member_policy.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/sitemap.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/oyasumiman/line_login_brand.php?rtype=%2Foyasumiman.php",
+        "status": 404
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_d.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_e.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_f.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_g.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_h.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_i.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_j.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_k.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_l.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_m.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_n.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_q.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_03_02_r.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_d.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_e.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_f.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_g.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_h.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_i.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_j.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_k.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_04_02_l.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_a.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_b.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_c.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_d.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_e.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_f.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_g.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_h.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_i.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_j.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_k.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_l.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fknowledge_02_05_02_m.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/news_detail.php?bbsid=1844",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/line_login_brand.php?rtype=%2Fnews_detail.php",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.com.tw/news_detail.php?bbsid=1402",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

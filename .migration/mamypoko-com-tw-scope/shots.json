@@ -1,0 +1,71 @@
+{
+ "captured": "2026-09-24T04:01:27.430Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "data-table",
+   "family": "table",
+   "signature": "media>list>media>table>text>text",
+   "estPop": 2,
+   "url": "https://www.mamypoko.com.tw/gotoshopping.php",
+   "file": "t00_data-table.jpg",
+   "captured": true,
+   "bytes": 138005
+  },
+  {
+   "idx": 1,
+   "name": "data-table",
+   "family": "table",
+   "signature": "media>list>table>text>text",
+   "estPop": 2,
+   "url": "https://www.mamypoko.com.tw/knowledge_02_05_02_c.php",
+   "file": "t01_data-table.jpg",
+   "captured": true,
+   "bytes": 641769
+  },
+  {
+   "idx": 2,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "media>list>media>carousel>text>text>list>iframe-embed>media>list>text>text",
+   "estPop": 1,
+   "url": "https://www.mamypoko.com.tw/",
+   "file": "t02_carousel-page.jpg",
+   "captured": true,
+   "bytes": 405513
+  },
+  {
+   "idx": 3,
+   "name": "media",
+   "family": "media",
+   "signature": "media>list>list",
+   "estPop": 1,
+   "url": "https://www.mamypoko.com.tw/tkopen/2020.html",
+   "file": "t03_media.jpg",
+   "captured": true,
+   "bytes": 1959564
+  },
+  {
+   "idx": 4,
+   "name": "embed-page",
+   "family": "embed",
+   "signature": "media>list>iframe-embed",
+   "estPop": 1,
+   "url": "https://www.mamypoko.com.tw/oyasumiman/2022.html",
+   "file": "t04_embed-page.jpg",
+   "captured": true,
+   "bytes": 1510557
+  },
+  {
+   "idx": 5,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "media>list>text",
+   "estPop": 1,
+   "url": "https://www.mamypoko.com.tw/tkpants/2020.html",
+   "file": "t05_media-article.jpg",
+   "captured": true,
+   "bytes": 2162467
+  }
+ ]
+}

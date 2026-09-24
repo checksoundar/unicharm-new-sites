@@ -1,0 +1,377 @@
+{
+ "captured": "2026-09-24T04:01:41.145Z",
+ "totalInstances": 41,
+ "totalVariants": 17,
+ "baseSummary": [
+  {
+   "base": "text",
+   "variants": 5,
+   "instances": 19
+  },
+  {
+   "base": "columns",
+   "variants": 2,
+   "instances": 7
+  },
+  {
+   "base": "table",
+   "variants": 2,
+   "instances": 4
+  },
+  {
+   "base": "hero",
+   "variants": 2,
+   "instances": 3
+  },
+  {
+   "base": "accordion",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "carousel",
+   "variants": 2,
+   "instances": 2
+  },
+  {
+   "base": "video",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "unknown",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::section|div1.h21.p3|hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_5953a72429d4.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "accordion_5953a72429d4.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+     "file": "accordion_a3a4db419b98.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "cards",
+   "key": "cards::section|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_71e7d147a266.jpg",
+   "repUrl": "https://lgucpet.co.kr/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "cards_71e7d147a266.jpg"
+    }
+   ],
+   "topLabel": "데오토일렛"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_8f5498162842.jpg",
+   "repUrl": "https://lgucpet.co.kr/about/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "carousel_8f5498162842.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_152c6c03b765.jpg",
+   "repUrl": "https://lgucpet.co.kr/about/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "carousel_152c6c03b765.jpg"
+    }
+   ],
+   "topLabel": "함께하는 모든 순간, 더 특별하게"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 2,
+   "repFile": "columns_42b110e6d349.jpg",
+   "repUrl": "https://lgucpet.co.kr/about/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "columns_e52f83d87863.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "columns_42b110e6d349.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "columns_0591a014f95d.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "columns_f1843cb426c1.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "columns_b769e1d48b59.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "columns_9af265aa8597.jpg"
+    }
+   ],
+   "topLabel": "Carefully Chosen for Your Pet"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div2|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_f06e54c3d720.jpg",
+   "repUrl": "https://lgucpet.co.kr/about/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "columns_f06e54c3d720.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "hero",
+   "key": "hero::section|div2|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "hero_e3765b8a0c2f.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "hero_e3765b8a0c2f.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+     "file": "hero_7adde262f101.jpg"
+    }
+   ],
+   "topLabel": "긴노스푼 종합영양식"
+  },
+  {
+   "base": "hero",
+   "key": "hero::section|div1.img1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "hero_d193673e049b.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80/",
+     "file": "hero_d193673e049b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::section|div1.h21.p3|tbl,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "table_6595ec36c127.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "table_a0d7d55c3ae0.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+     "file": "table_6595ec36c127.jpg"
+    }
+   ],
+   "topLabel": "공식 확인 제품정보"
+  },
+  {
+   "base": "table",
+   "key": "table::section|div1.h21.p2|tbl,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "table_9dc604b1e830.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "table_71521920def4.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+     "file": "table_9dc604b1e830.jpg"
+    }
+   ],
+   "topLabel": "선택 전 비교 기준"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 13,
+   "pagesFound": 2,
+   "repFile": "text_1d813d0e9b2a.jpg",
+   "repUrl": "https://lgucpet.co.kr/about/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "text_c0104ba37559.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "text_3edfb4f68488.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "text_1d813d0e9b2a.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "text_c6cce4c38ac3.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "text_c7f8e8ed9a44.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/about/",
+     "file": "text_58fde6c55068.jpg"
+    }
+   ],
+   "topLabel": "LG 유니참 펫케어 소개"
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1.h21.p1|hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_93e5800b25bd.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "text_93e5800b25bd.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+     "file": "text_b331311bc979.jpg"
+    }
+   ],
+   "topLabel": "제품 특징과 기능"
+  },
+  {
+   "base": "text",
+   "key": "text::section|h21.p2|hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_50e0e72e73ad.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "text_243f27584d23.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c/",
+     "file": "text_50e0e72e73ad.jpg"
+    }
+   ],
+   "topLabel": "사용 및 관리 방법"
+  },
+  {
+   "base": "text",
+   "key": "text::section|p1.strong1.ul1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_23df73b18829.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d/",
+     "file": "text_23df73b18829.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_c81104993047.jpg",
+   "repUrl": "https://lgucpet.co.kr/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "text_c81104993047.jpg"
+    }
+   ],
+   "topLabel": "Cat Toilet"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|aside1.div1.h23.ol1.p4.ul2|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_3b99a7044345.jpg",
+   "repUrl": "https://lgucpet.co.kr/%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/%ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80/",
+     "file": "unknown_3b99a7044345.jpg"
+    }
+   ],
+   "topLabel": "배변패드에서 확인할 4가지 변화"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div1|ifr,aN,iN",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "video_f13ae31493e9.jpg",
+   "repUrl": "https://lgucpet.co.kr/",
+   "samples": [
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "video_f13ae31493e9.jpg"
+    },
+    {
+     "url": "https://lgucpet.co.kr/",
+     "file": "video_07a340ef7e08.jpg"
+    }
+   ],
+   "topLabel": ""
+  }
+ ]
+}

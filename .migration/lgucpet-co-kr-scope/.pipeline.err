@@ -1,0 +1,24 @@
+Render set: 13, already done: 0, todo: 13
+DONE rendering. ok=13 fail=0 total_processed=13
+Render set 13, pages already captured 0, todo 13
+DONE. pages=13 blocks=41
+✗ t00_data-table.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/%ea%b8%b4%eb%85%b8%ec%8a%
+✗ t01_data-table.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/category/vet-corner/cat-h
+✗ t02_hero-page.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/%ea%b0%95%ec%95%84%ec%a7%
+✗ t03_article-text.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/about/
+Call log:
+  - navi
+✗ t04_media-article.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/cat-vet/
+Call log:
+  - na
+✗ t05_article-text.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/category/uncategorized/
+C
+✗ t06_embed-page.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/
+Call log:
+  - navigating
+✗ t07_hero-page.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/category/vet-corner/
+Call
+✗ t10_form-page.jpg  page.goto: net::ERR_TIMED_OUT at https://lgucpet.co.kr/elementor-%ed%8e%98%ec%9d
+DONE shots: 0/9
+Backend sample 3, already done 0, todo 3
+DONE backend capture. pages=3 ok=0

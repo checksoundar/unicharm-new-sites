@@ -1,0 +1,105 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/lgucpet-co-kr-scope
+▶ site: https://lgucpet.co.kr/
+CJK font: NotoSansCJKjp-Regular.otf: "Noto Sans CJK JP" "Regular"
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 55
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 5
+Pattern groups (>= 2): 4 - covering 54 pages -> sampled to ~12
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 13
+
+Top 30 pattern groups:
+   44 -> 4 sampled   /{page}
+    6 -> 4 sampled   /{malformed}
+    2 -> 2 sampled   /category/{section}
+    2 -> 2 sampled   /category/{section}/{page}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 13
+Distinct layout signatures: 11
+
+=== Layout templates (est. full-population pages) ===
+    2 pp  rendered=  2   data-table       hero>text>table>table>text>text>text           |  %ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%a2%85%ed%95%a9%ec%98%81%ec%96%91%ec%8b%9d(1) %ea%b8%b4%eb%85%b8%ec%8a%a4%ed%91%bc-%ec%b9%98%ed%82%a8%ed%86%a0%ed%95%91-%ec%82%ac%eb%a3%8c(1)
+    2 pp  rendered=  2   data-table       hero>nav>table>table>table>table>table>table>t |  category(2)
+    1 pp  rendered=  1   hero-page        hero>list                                      |  %ea%b0%95%ec%95%84%ec%a7%80-%eb%b0%b0%eb%b3%80%ed%8c%a8%eb%93%9c%ec%97%90%ec%84%9c-%ed%99%95%ec%9d%b8%ed%95%98%eb%8a%94-%ec%86%8c%eb%b3%80-%eb%b3%80%ed%99%94-4%ea%b0%80%ec%a7%80(1)
+    1 pp  rendered=  1   article-text     text>text>columns>columns>text>text>text>text> |  about(1)
+    1 pp  rendered=  1   media-article    text>text>media                                |  cat-vet(1)
+    1 pp  rendered=  1   article-text     text>text                                      |  category(1)
+    1 pp  rendered=  1   embed-page       text>list>text>text>columns>text>text>cards>te |  (home)(1)
+    1 pp  rendered=  1   hero-page        hero>hero>nav>text>list>text>text>text>text>te |  category(1)
+    1 pp  rendered=  1   data-table       hero>table                                     |  dog-summer-walk-heat-safety(1)
+    1 pp  rendered=  1   article-text     text>text>text                                 |  youtube(1)
+    1 pp  rendered=  1   form-page        form                                           |  elementor-%ed%8e%98%ec%9d%b4%ec%a7%80-1923(1)
+
+=== Third-party integrations detected ===
+   10 YouTube embed
+
+=== Global objects ===
+  13 wp
+   1 YT
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 41
+Total variants: 17
+
+=== Base type -> variants / instances ===
+  19 inst    5 variants   text
+   7 inst    2 variants   columns
+   4 inst    2 variants   table
+   3 inst    2 variants   hero
+   2 inst    1 variants   accordion
+   2 inst    2 variants   carousel
+   2 inst    1 variants   video
+   1 inst    1 variants   cards
+   1 inst    1 variants   unknown
+
+=== Top 20 variants ===
+  13 x   text          pages=  2   div|div1|hd,aN,iN
+   6 x   columns       pages=  2   div|div1|img,hd,aN,iN
+   2 x   accordion     pages=  2   section|div1.h21.p3|hd,aN,iN
+   2 x   hero          pages=  2   section|div2|img,hd,aN,iN
+   2 x   table         pages=  2   section|div1.h21.p3|tbl,hd,aN,iN
+   2 x   table         pages=  2   section|div1.h21.p2|tbl,hd,aN,iN
+   2 x   text          pages=  2   section|div1.h21.p1|hd,aN,iN
+   2 x   text          pages=  2   section|h21.p2|hd,aN,iN
+   2 x   video         pages=  1   div|div1|ifr,aN,iN
+   1 x   cards         pages=  1   section|div1|img,hd,aN,iN
+   1 x   carousel      pages=  1   div|div2|aN,iN
+   1 x   carousel      pages=  1   div|div1|img,hd,aN,iN
+   1 x   columns       pages=  1   div|div2|aN,iN
+   1 x   hero          pages=  1   section|div1.img1|img,aN,iN
+   1 x   text          pages=  1   section|p1.strong1.ul1|lst,aN,iN
+   1 x   text          pages=  1   div|div1|lst,hd,aN,iN
+   1 x   unknown       pages=  1   div|aside1.div1.h23.ol1.p4.ul2|lst,hd,aN,i
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 5 template groups | full: 0 sampled: 0 excluded: 5
+pages — inspected: 0 skipped: 55 non-200: 0 of 55 urls
+
+=== Template groups (by size) ===
+  G00    44  excluded  /{page}                           Root-level product & marketing pages
+  G01     6  excluded  /{malformed}                      Malformed / double-encoded URLs
+  G02     2  excluded  /category/{section}               Category section pages
+  G03     2  excluded  /category/{section}/{page}        Category sub-pages
+  G04     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 3 | first-party domain: co.kr
+Probable backend integrations: 0 | unclassified hosts: 0
+
+=== By category ===
+
+=== Services (by page coverage) ===
+▶ [11/12] compute supplementary data
+compute-data: live pages 55 | structure groups 0 | docs 0 | url groups 52 | layout heatmap rows 6 | block heatmap rows 9 | integrations 1
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/lgucpet-co-kr-site-analysis-dashboard.html 2.18 MB
+templates: 6 galleries: Hero:2, Cards:1, Columns:2, Carousel:2, Accordion:1, Table:2, Video:1, Text:5, Unknown / Custom:1
+IMAGES: 17 TEMPLATE_SHOTS: 0
+✅ done.

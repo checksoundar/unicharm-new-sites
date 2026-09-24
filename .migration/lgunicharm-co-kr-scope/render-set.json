@@ -1,0 +1,18 @@
+{
+ "captured": "2026-09-24T03:59:02.356Z",
+ "strategy": "pattern-groups(>=2) sampled to 4; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 54,
+ "renderCount": 10,
+ "urls": [
+  "http://www.lgunicharm.co.kr/",
+  "http://www.lgunicharm.co.kr/brand_bc.asp",
+  "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+  "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+  "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+  "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp",
+  "http://www.lgunicharm.co.kr/location.asp",
+  "https://www.lgunicharm.co.kr/",
+  "https://www.lgunicharm.co.kr/ccm3.asp",
+  "https://www.lgunicharm.co.kr/welfare.asp"
+ ]
+}

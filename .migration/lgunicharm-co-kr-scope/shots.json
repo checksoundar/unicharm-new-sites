@@ -1,0 +1,60 @@
+{
+ "captured": "2026-09-24T03:59:55.227Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "data-table",
+   "family": "table",
+   "signature": "text>table",
+   "estPop": 4,
+   "url": "https://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+   "file": "t00_data-table.jpg",
+   "captured": true,
+   "bytes": 82149
+  },
+  {
+   "idx": 1,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "carousel>list",
+   "estPop": 2,
+   "url": "https://www.lgunicharm.co.kr/",
+   "file": "t01_carousel-page.jpg",
+   "captured": true,
+   "bytes": 290399
+  },
+  {
+   "idx": 2,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>text>list",
+   "estPop": 2,
+   "url": "https://www.lgunicharm.co.kr/welfare.asp",
+   "file": "t02_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 153239
+  },
+  {
+   "idx": 3,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list>list",
+   "estPop": 1,
+   "url": "https://www.lgunicharm.co.kr/brand_bc.asp",
+   "file": "t03_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 126637
+  },
+  {
+   "idx": 4,
+   "name": "form-page",
+   "family": "form",
+   "signature": "list>form>list",
+   "estPop": 1,
+   "url": "https://www.lgunicharm.co.kr/ccm3.asp",
+   "file": "t04_form-page.jpg",
+   "captured": true,
+   "bytes": 275478
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "captured": "2026-09-24T03:59:23.639Z",
+ "renderedPages": 5,
+ "distinctSignatures": 5,
+ "templates": [
+  {
+   "signature": "text>columns>columns>columns>columns",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lifree.kr/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>columns",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lifree.kr/incontinence-exercise-guide"
+   ],
+   "sections": {
+    "incontinence-exercise-guide": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "incontinence-exercise-guide(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "list>text>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lifree.kr/brand-story"
+   ],
+   "sections": {
+    "brand-story": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "brand-story(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "text>columns>columns",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lifree.kr/product"
+   ],
+   "sections": {
+    "product": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "product(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "columns>columns>columns",
+   "family": "columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://lifree.kr/lifree-comfort-underwear"
+   ],
+   "sections": {
+    "lifree-comfort-underwear": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "lifree-comfort-underwear(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "columns"
+  }
+ ]
+}

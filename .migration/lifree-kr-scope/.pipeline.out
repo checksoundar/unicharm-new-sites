@@ -1,0 +1,66 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/lifree-kr-scope
+▶ site: https://lifree.kr/
+CJK font: NotoSansCJKjp-Regular.otf: "Noto Sans CJK JP" "Regular"
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 13
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 2
+Pattern groups (>= 2): 1 - covering 12 pages -> sampled to ~4
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 5
+
+Top 30 pattern groups:
+   12 -> 4 sampled   /{page}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 5
+Distinct layout signatures: 5
+
+=== Layout templates (est. full-population pages) ===
+    1 pp  rendered=  1   article-text     text>columns>columns>columns>columns           |  (home)(1)
+    1 pp  rendered=  1   article-text     text>columns                                   |  incontinence-exercise-guide(1)
+    1 pp  rendered=  1   section-nav-list list>text>text                                 |  brand-story(1)
+    1 pp  rendered=  1   article-text     text>columns>columns                           |  product(1)
+    1 pp  rendered=  1   columns          columns>columns>columns                        |  lifree-comfort-underwear(1)
+
+=== Third-party integrations detected ===
+
+=== Global objects ===
+   5 wp
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 1
+Total variants: 1
+
+=== Base type -> variants / instances ===
+   1 inst    1 variants   text
+
+=== Top 20 variants ===
+   1 x   text          pages=  1   div|div1|hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Text)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 2 template groups | full: 0 sampled: 1 excluded: 1
+pages — inspected: 4 skipped: 9 non-200: 0 of 13 urls
+
+=== Template groups (by size) ===
+  G00    12  sampled   /{page}                           Root-level product & marketing pages
+  G01     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 1 | first-party domain: lifree.kr
+Probable backend integrations: 0 | unclassified hosts: 0
+
+=== By category ===
+
+=== Services (by page coverage) ===
+▶ [11/12] compute supplementary data
+compute-data: live pages 13 | structure groups 0 | docs 0 | url groups 13 | layout heatmap rows 3 | block heatmap rows 1 | integrations 0
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/lifree-kr-site-analysis-dashboard.html 0.80 MB
+templates: 3 galleries: Text:1
+IMAGES: 1 TEMPLATE_SHOTS: 1
+✅ done.

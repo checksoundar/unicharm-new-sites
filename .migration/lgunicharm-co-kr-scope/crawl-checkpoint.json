@@ -1,0 +1,439 @@
+{
+  "queue": [],
+  "visited": [
+    "https://www.lgunicharm.co.kr/",
+    "https://www.lgunicharm.co.kr/introduce.asp",
+    "https://www.lgunicharm.co.kr/history.asp",
+    "https://www.lgunicharm.co.kr/office.asp",
+    "https://www.lgunicharm.co.kr/location.asp",
+    "https://www.lgunicharm.co.kr/brand_fc.asp",
+    "https://www.lgunicharm.co.kr/brand_bc.asp",
+    "https://www.lgunicharm.co.kr/brand_hc.asp",
+    "https://www.lgunicharm.co.kr/brand_pc.asp",
+    "https://www.lgunicharm.co.kr/brand_cf.asp",
+    "https://www.lgunicharm.co.kr/financial.asp",
+    "https://www.lgunicharm.co.kr/esg.asp",
+    "https://www.lgunicharm.co.kr/csr.asp",
+    "https://www.lgunicharm.co.kr/ccm1.asp",
+    "https://www.lgunicharm.co.kr/ccm2.asp",
+    "https://www.lgunicharm.co.kr/ccm3.asp",
+    "https://www.lgunicharm.co.kr/talent.asp",
+    "https://www.lgunicharm.co.kr/position.asp",
+    "https://www.lgunicharm.co.kr/recruit_process.asp",
+    "https://www.lgunicharm.co.kr/welfare.asp",
+    "http://www.lgunicharm.co.kr/",
+    "https://www.lgunicharm.co.kr/terms.asp",
+    "https://www.lgunicharm.co.kr/privacy.asp",
+    "https://www.lgunicharm.co.kr/cf_1.asp",
+    "https://www.lgunicharm.co.kr/cf_2.asp",
+    "https://www.lgunicharm.co.kr/cf_3.asp",
+    "http://www.lgunicharm.co.kr/introduce.asp",
+    "http://www.lgunicharm.co.kr/history.asp",
+    "http://www.lgunicharm.co.kr/office.asp",
+    "http://www.lgunicharm.co.kr/location.asp",
+    "http://www.lgunicharm.co.kr/brand_fc.asp",
+    "http://www.lgunicharm.co.kr/brand_bc.asp",
+    "http://www.lgunicharm.co.kr/brand_hc.asp",
+    "http://www.lgunicharm.co.kr/brand_pc.asp",
+    "http://www.lgunicharm.co.kr/brand_cf.asp",
+    "http://www.lgunicharm.co.kr/financial.asp",
+    "http://www.lgunicharm.co.kr/esg.asp",
+    "http://www.lgunicharm.co.kr/csr.asp",
+    "http://www.lgunicharm.co.kr/ccm1.asp",
+    "http://www.lgunicharm.co.kr/ccm2.asp",
+    "http://www.lgunicharm.co.kr/ccm3.asp",
+    "http://www.lgunicharm.co.kr/talent.asp",
+    "http://www.lgunicharm.co.kr/position.asp",
+    "http://www.lgunicharm.co.kr/recruit_process.asp",
+    "http://www.lgunicharm.co.kr/welfare.asp",
+    "http://www.lgunicharm.co.kr/terms.asp",
+    "http://www.lgunicharm.co.kr/privacy.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+    "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+    "http://www.lgunicharm.co.kr/cf_1.asp",
+    "http://www.lgunicharm.co.kr/cf_2.asp",
+    "http://www.lgunicharm.co.kr/cf_3.asp"
+  ],
+  "urls": [
+    {
+      "url": "https://www.lgunicharm.co.kr/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/introduce.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/introduce.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/history.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/history.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/office.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/office.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/location.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/location.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/brand_fc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/brand_fc.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/brand_bc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/brand_bc.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/brand_hc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/brand_hc.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/brand_pc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/brand_pc.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/brand_cf.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/brand_cf.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/financial.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/financial.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/esg.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/esg.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/csr.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/csr.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/ccm1.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/ccm1.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/ccm2.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/ccm2.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/ccm3.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/ccm3.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/talent.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/talent.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/position.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/position.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/recruit_process.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/recruit_process.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/welfare.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/welfare.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/terms.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/terms.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/privacy.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/privacy.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/cf_1.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/cf_1.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/cf_2.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/cf_2.asp"
+    },
+    {
+      "url": "https://www.lgunicharm.co.kr/cf_3.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://www.lgunicharm.co.kr/cf_3.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/introduce.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/introduce.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/history.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/history.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/office.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/office.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/location.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/location.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/brand_fc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/brand_fc.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/brand_bc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/brand_bc.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/brand_hc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/brand_hc.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/brand_pc.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/brand_pc.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/brand_cf.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/brand_cf.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/financial.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/financial.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/esg.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/esg.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/csr.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/csr.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/ccm1.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/ccm1.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/ccm2.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/ccm2.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/ccm3.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/ccm3.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/talent.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/talent.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/position.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/position.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/recruit_process.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/recruit_process.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/welfare.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/welfare.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/terms.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/terms.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/privacy.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/privacy.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/etc/pop_privacy/sofy_privacy_20161226.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/etc/pop_privacy/lifree_privacy_20161215.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/etc/pop_privacy/petcare_privacy_20161215.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/etc/pop_privacy/mamypoko_privacy_20131001.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/cf_1.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/cf_1.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/cf_2.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/cf_2.asp"
+    },
+    {
+      "url": "http://www.lgunicharm.co.kr/cf_3.asp",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "http://www.lgunicharm.co.kr/cf_3.asp"
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+ "captured": "2026-09-24T04:01:29.466Z",
+ "locales": [],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 5,
+  "totalLive": 160,
+  "totalUrls": 229,
+  "selectedTotal": 7,
+  "skippedTotal": 222,
+  "non200Total": 69,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 7,
+  "rTotal": 194,
+  "rGroups": 2,
+  "exclTotal": 35,
+  "exclGroups": 3,
+  "nonEnExcluded": 35
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 159,
+   "selected": 4,
+   "skipped": 155,
+   "non200": 5,
+   "category": "sampled",
+   "example": "/product.php"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{page}/{slug}",
+   "label": "Root-level product & marketing pages",
+   "total": 35,
+   "selected": 3,
+   "skipped": 32,
+   "non200": 32,
+   "category": "sampled",
+   "example": "/tkpants/2020.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{page}/{section}",
+   "label": "Root-level product & marketing pages",
+   "total": 32,
+   "selected": 0,
+   "skipped": 32,
+   "non200": 32,
+   "category": "excluded",
+   "example": "/tkopen/product.php"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{page}/{section}/{slug}",
+   "label": "Root-level product & marketing pages",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/images/introduce/0709_Song_poko_big.mpg"
+  },
+  {
+   "groupId": "G04",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

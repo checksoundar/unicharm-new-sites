@@ -1,0 +1,59 @@
+{
+ "captured": "2026-09-24T04:00:04.620Z",
+ "locales": [],
+ "sections": [
+  "etc"
+ ],
+ "selInspect": {
+  "totalGroups": 3,
+  "totalLive": 54,
+  "totalUrls": 54,
+  "selectedTotal": 8,
+  "skippedTotal": 46,
+  "non200Total": 0,
+  "nonRrendered": 4,
+  "nonRtotal": 4,
+  "fullGroups": 1,
+  "rRendered": 4,
+  "rTotal": 48,
+  "rGroups": 1,
+  "exclTotal": 2,
+  "exclGroups": 1,
+  "nonEnExcluded": 2
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 48,
+   "selected": 4,
+   "skipped": 44,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/introduce.asp"
+  },
+  {
+   "groupId": "G01",
+   "template": "/etc/{section}/{slug}",
+   "label": "Etc sub-pages",
+   "total": 4,
+   "selected": 4,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/etc/pop_privacy/sofy_privacy_20161226.asp"
+  },
+  {
+   "groupId": "G02",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}
