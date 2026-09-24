@@ -1,0 +1,146 @@
+{
+ "captured": "2026-09-24T04:30:59.629Z",
+ "renderedPages": 13,
+ "distinctSignatures": 5,
+ "templates": [
+  {
+   "signature": "text>text>text",
+   "family": "text",
+   "rendered": 7,
+   "estPop": 7,
+   "urls": [
+    "https://certainty.com.my/about/incontinence-management",
+    "https://certainty.com.my/about/causes-of-incontinence",
+    "https://certainty.com.my/about/type-of-incontinence",
+    "https://certainty.com.my/about/what-is-adl",
+    "https://certainty.com.my/certainty/dasar-privasi",
+    "https://certainty.com.my/certainty/privacy-policy",
+    "https://certainty.com.my/privacy-policy"
+   ],
+   "sections": {
+    "about": 4,
+    "certainty": 2,
+    "privacy-policy": 1
+   },
+   "locales": {
+    "root": 7
+   },
+   "blockCountMode": {
+    "3": 7
+   },
+   "topSections": [
+    "about(4)",
+    "certainty(2)",
+    "privacy-policy(1)"
+   ],
+   "topLocales": [
+    "root:7"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>media>text>text>media>text",
+   "family": "media+text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://certainty.com.my/",
+    "https://certainty.com.my/product/tape"
+   ],
+   "sections": {
+    "(home)": 1,
+    "product": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "(home)(1)",
+    "product(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>text>text>text>media>text",
+   "family": "media+text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://certainty.com.my/product/dry-maxpants",
+    "https://certainty.com.my/product/maxpants"
+   ],
+   "sections": {
+    "product": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "product(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>media>text>form>text",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://certainty.com.my/contact"
+   ],
+   "sections": {
+    "contact": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "contact(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "text>text>text>text>text>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://certainty.com.my/product/airy-drypants"
+   ],
+   "sections": {
+    "product": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "product(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  }
+ ]
+}

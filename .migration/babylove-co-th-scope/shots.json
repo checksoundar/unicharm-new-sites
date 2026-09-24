@@ -1,0 +1,115 @@
+{
+ "captured": "2026-09-24T04:57:14.251Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list>text",
+   "estPop": 35,
+   "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B8%81-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89",
+   "file": "t00_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 39531
+  },
+  {
+   "idx": 1,
+   "name": "data-table",
+   "family": "table",
+   "signature": "list>table>text",
+   "estPop": 25,
+   "url": "https://babylove.co.th/diaper-tips/5-signs-baby-diaper-too-small",
+   "file": "t01_data-table.jpg",
+   "captured": true,
+   "bytes": 39550
+  },
+  {
+   "idx": 2,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "list>text>media>text>list>text>text",
+   "estPop": 8,
+   "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+   "file": "t02_media-article.jpg",
+   "captured": true,
+   "bytes": 39548
+  },
+  {
+   "idx": 3,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "media>list>media>list>text>media>list>text",
+   "estPop": 2,
+   "url": "https://babylove.co.th/",
+   "file": "t03_media-article.jpg",
+   "captured": true,
+   "bytes": 39465
+  },
+  {
+   "idx": 5,
+   "name": "minimal-page",
+   "family": "empty",
+   "signature": "(empty)",
+   "estPop": 2,
+   "url": "https://babylove.co.th/en/online-shopping",
+   "file": "t05_minimal-page.jpg",
+   "captured": true,
+   "bytes": 39487
+  },
+  {
+   "idx": 6,
+   "name": "embed-page",
+   "family": "embed",
+   "signature": "list>iframe-embed>media>text>list>text>text",
+   "estPop": 2,
+   "url": "https://babylove.co.th/promotions",
+   "file": "t06_embed-page.jpg",
+   "captured": true,
+   "bytes": 39575
+  },
+  {
+   "idx": 7,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list",
+   "estPop": 1,
+   "url": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+   "file": "t07_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 39559
+  },
+  {
+   "idx": 8,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text",
+   "estPop": 1,
+   "url": "https://babylove.co.th/%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C",
+   "file": "t08_article-text.jpg",
+   "captured": true,
+   "bytes": 39573
+  },
+  {
+   "idx": 10,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text>list>text",
+   "estPop": 1,
+   "url": "https://babylove.co.th/products/day-night-pants-plus",
+   "file": "t10_article-text.jpg",
+   "captured": true,
+   "bytes": 39562
+  },
+  {
+   "idx": 11,
+   "name": "data-table",
+   "family": "table",
+   "signature": "list>table",
+   "estPop": 1,
+   "url": "https://babylove.co.th/tvc/tvc-hypoallergenic",
+   "file": "t11_data-table.jpg",
+   "captured": true,
+   "bytes": 39538
+  }
+ ]
+}

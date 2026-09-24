@@ -1,0 +1,164 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/babylove-co-th-scope
+▶ site: https://babylove.co.th/en/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 472
+Attachments/images excluded from render (docs): 5
+Total path-pattern groups: 30
+Pattern groups (>= 2): 19 - covering 461 pages -> sampled to ~70
+Long-tail unique pages (rendered in full): 11
+=> RENDER SET SIZE: 81
+
+Top 30 pattern groups:
+  109 -> 4 sampled   /baby-tips/{slug}
+   90 -> 4 sampled   /{locale}/{section}/{slug}
+   39 -> 4 sampled   /parent-tips/{slug}
+   37 -> 4 sampled   /{locale}/{section}/{page}
+   32 -> 4 sampled   /{malformed}
+   28 -> 4 sampled   /baby-tips/{section}
+   18 -> 4 sampled   /promotions/{slug}
+   15 -> 4 sampled   /{locale}/{section}
+   15 -> 4 sampled   /products/{section}
+   15 -> 4 sampled   /parent-tips/{section}
+   13 -> 4 sampled   /diaper-tips/{slug}
+   12 -> 4 sampled   /{page}
+   12 -> 4 sampled   /mother-class/{slug}
+   10 -> 4 sampled   /tvc/{slug}
+    6 -> 4 sampled   /promotions/{section}
+    4 -> 4 sampled   /tvc/{section}
+    2 -> 2 sampled   /
+    2 -> 2 sampled   /products/{slug}
+    2 -> 2 sampled   /diaper-tips/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 81
+Distinct layout signatures: 12
+
+=== Layout templates (est. full-population pages) ===
+   35 pp  rendered= 35   section-nav-list list>list>text                                 |  baby-tips(9) parent-tips(9) diaper-tips(7)
+   25 pp  rendered= 25   data-table       list>table>text                                |  tvc(11) mother-class(6) products(6)
+    8 pp  rendered=  8   media-article    list>text>media>text>list>text>text            |  promotions(7) %E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1(1)
+    2 pp  rendered=  2   media-article    media>list>media>list>text>media>list>text     |  (home)(2)
+    2 pp  rendered=  2   media-article    list>text>media>list>text>text                 |  baby-tips(2)
+    2 pp  rendered=  2   minimal-page     (empty)                                        |  online-shopping(1) redirect(1)
+    2 pp  rendered=  2   embed-page       list>iframe-embed>media>text>list>text>text    |  promotions(2)
+    1 pp  rendered=  1   section-nav-list list>list                                      |  %E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2(1)
+    1 pp  rendered=  1   article-text     text>text                                      |  %E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C(1)
+    1 pp  rendered=  1   section-nav-list list>text>list>text>text                       |  parent-tips(1)
+    1 pp  rendered=  1   article-text     text>text>list>text                            |  products(1)
+    1 pp  rendered=  1   data-table       list>table                                     |  tvc(1)
+
+=== Third-party integrations detected ===
+   80 CDN/JS libs
+   79 Google Tag Manager
+   78 Meta (Facebook) Pixel
+   77 Other third-party: sdk.kensento.com
+   59 YouTube embed
+   11 Other third-party: buttons-config.sharethis.com
+   11 Other third-party: platform-api.sharethis.com
+   11 Other third-party: t.sharethis.com
+    3 TikTok Pixel
+    3 Other third-party: deo.shopeemobile.com
+    1 Google Analytics
+    1 Other third-party: d.line-scdn.net
+    1 Google Ads/DoubleClick
+
+=== Global objects ===
+  79 dataLayer
+  78 gtag
+  75 google_tag_manager
+  19 YT
+   1 ga
+   1 fbq
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 286
+Total variants: 31
+
+=== Base type -> variants / instances ===
+ 141 inst   11 variants   unknown
+  88 inst    4 variants   text
+  19 inst    5 variants   media
+  19 inst    2 variants   video
+  16 inst    7 variants   carousel
+   2 inst    1 variants   table
+   1 inst    1 variants   accordion
+
+=== Top 20 variants ===
+  85 x   text          pages= 72   div|div1|aN,iN
+  63 x   unknown       pages= 63   header|div1|img,lst,aN,iN
+  17 x   video         pages= 17   div|div1.section3|img,tbl,lst,ifr,hd,aN,iN
+  15 x   unknown       pages= 15   div|div1.section4|img,lst,hd,aN,iN
+  14 x   unknown       pages= 14   section|div1|img,lst,aN,iN
+  12 x   unknown       pages= 12   header|div1.metaN|img,lst,aN,iN
+  10 x   media         pages= 10   section|div1|img,hd,aN,iN
+  10 x   unknown       pages= 10   div|div1.script1.section4|img,lst,hd,aN,iN
+  10 x   unknown       pages= 10   section|div1|img,hd,aN,iN
+   7 x   unknown       pages=  7   div|section2|img,hd,aN,iN
+   6 x   carousel      pages=  6   div|div1.section9.style1|img,tbl,lst,hd,aN
+   5 x   unknown       pages=  5   div|div1.section5|img,lst,hd,aN,iN
+   4 x   media         pages=  4   section|div1|img,aN,iN
+   3 x   carousel      pages=  3   div|div1.section6|img,lst,hd,aN,iN
+   2 x   carousel      pages=  2   section|div1|img,lst,hd,aN,iN
+   2 x   carousel      pages=  2   div|section2|img,hd,aN,iN
+   2 x   media         pages=  2   section|div2|img,aN,iN
+   2 x   media         pages=  2   section|aN|img,aN,iN
+   2 x   table         pages=  2   div|div1.section4|img,tbl,lst,hd,aN,iN
+   2 x   unknown       pages=  2   section|div1|img,lst,hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Media)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 31 template groups | full: 13 sampled: 16 excluded: 2
+pages — inspected: 79 skipped: 418 non-200: 25 of 497 urls
+
+=== Template groups (by size) ===
+  G00   109  sampled   /baby-tips/{slug}                 Baby-tips section pages
+  G01    90  sampled   /{locale}/{section}/{slug}        Locale sub-pages
+  G02    39  sampled   /parent-tips/{slug}               Parent-tips section pages
+  G03    37  sampled   /{locale}/{section}/{page}        Locale sub-pages
+  G04    32  sampled   /{malformed}                      Malformed / double-encoded URLs
+  G05    28  sampled   /baby-tips/{section}              Baby-tips section pages
+  G06    27  sampled   /{locale}/{section}               Locale section / landing pages
+  G07    23  sampled   /{page}                           Root-level product & marketing pages
+  G08    18  sampled   /promotions/{slug}                Promotions section pages
+  G09    15  sampled   /products/{section}               Products section pages
+  G10    15  sampled   /parent-tips/{section}            Parent-tips section pages
+  G11    13  sampled   /diaper-tips/{slug}               Diaper-tips section pages
+  G12    12  sampled   /mother-class/{slug}              Mother-class section pages
+  G13    10  sampled   /tvc/{slug}                       Tvc section pages
+  G14     6  sampled   /promotions/{section}             Promotions section pages
+  G15     4  full      /tvc/{section}                    Tvc section pages
+  G16     2  excluded  /                                 Homepage & root
+  G17     2  sampled   /{page}/{section}                 Root-level product & marketing pages
+  G18     2  full      /products/{slug}                  Products section pages
+  G19     2  full      /diaper-tips/{section}            Diaper-tips section pages
+  G20     1  full      /{locale}                         Locale homepages
+  G21     1  excluded  /{locale}/{slug}                  Locale section / landing pages
+  G22     1  full      /diaper-tips                      Diaper-tips — landing
+  G23     1  full      /about/{section}                  About section pages
+  G24     1  full      /products                         Products — landing
+  G25     1  full      /promotions                       Promotions — landing
+  G26     1  full      /parent-tips                      Parent-tips — landing
+  G27     1  full      /baby-tips                        Baby-tips — landing
+  G28     1  full      /mother-class                     Mother-class — landing
+  G29     1  full      /tvc                              Tvc — landing
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 21 | first-party domain: co.th
+Probable backend integrations: 1 | unclassified hosts: 2
+
+=== By category ===
+  1 First-party forms
+
+=== Services (by page coverage) ===
+ 21pg  First-party forms           Babylove: Forms / Lead API
+▶ [11/12] compute supplementary data
+compute-data: live pages 472 | structure groups 1 | docs 4 | url groups 31 | layout heatmap rows 6 | block heatmap rows 7 | integrations 14
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/babylove-co-th-site-analysis-dashboard.html 8.03 MB
+templates: 6 galleries: Carousel:7, Accordion:1, Table:1, Media:5, Video:2, Text:4, Unknown / Custom:11
+IMAGES: 31 TEMPLATE_SHOTS: 6
+✅ done.

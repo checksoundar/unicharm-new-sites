@@ -1,0 +1,100 @@
+{
+ "captured": "2026-09-24T05:02:40.817Z",
+ "sampledPages": 10,
+ "firstPartyDomain": "co.th",
+ "totalServices": 3,
+ "categories": [
+  {
+   "category": "Advertising",
+   "count": 1
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Video",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "pagead2.googlesyndication.com",
+    "googleads.g.doubleclick.net",
+    "ad.doubleclick.net",
+    "www.googleadservices.com",
+    "www.google.com"
+   ],
+   "hostCount": 5,
+   "endpoints": [
+    "POST pagead2.googlesyndication.com/ccm/collect",
+    "GET googleads.g.doubleclick.net/pagead/id",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "GET www.googleadservices.com/pagead/conversion/:id",
+    "POST googleads.g.doubleclick.net/pagead/viewthroughconversion/:id",
+    "GET www.google.com/pagead/1p-conversion/:id"
+   ],
+   "pages": 4,
+   "coverage": "40%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 4,
+   "coverage": "40%"
+  },
+  {
+   "name": "Video platform API",
+   "category": "Video",
+   "note": "",
+   "hosts": [
+    "www.gstatic.com",
+    "www.youtube.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "GET www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+    "POST www.youtube.com/youtubei/v1/log_event",
+    "POST www.youtube.com/api/stats/atr"
+   ],
+   "pages": 2,
+   "coverage": "20%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "api.kensento.com",
+   "pages": 7,
+   "sample": "GET api.kensento.com/bars/v2FMfyNGzMH71EO5y2BPDT2iFQb8esMWkcxk4UpeJd2BJc3D"
+  },
+  {
+   "host": "www.google.com",
+   "pages": 4,
+   "sample": "POST www.google.com/ccm/collect"
+  },
+  {
+   "host": "mpc2-prod-26-is5qnl632q-uc.a.run.app",
+   "pages": 4,
+   "sample": "POST mpc2-prod-26-is5qnl632q-uc.a.run.app/events"
+  },
+  {
+   "host": "jnn-pa.googleapis.com",
+   "pages": 1,
+   "sample": "POST jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+  }
+ ]
+}

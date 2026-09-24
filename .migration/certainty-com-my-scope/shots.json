@@ -1,0 +1,60 @@
+{
+ "captured": "2026-09-24T04:31:47.249Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text>text",
+   "estPop": 7,
+   "url": "https://certainty.com.my/about/incontinence-management",
+   "file": "t00_article-text.jpg",
+   "captured": true,
+   "bytes": 456903
+  },
+  {
+   "idx": 1,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>media>text>text>media>text",
+   "estPop": 2,
+   "url": "https://certainty.com.my/",
+   "file": "t01_media-article.jpg",
+   "captured": true,
+   "bytes": 294176
+  },
+  {
+   "idx": 2,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>text>text>text>media>text",
+   "estPop": 2,
+   "url": "https://certainty.com.my/product/dry-maxpants",
+   "file": "t02_media-article.jpg",
+   "captured": true,
+   "bytes": 335116
+  },
+  {
+   "idx": 3,
+   "name": "form-page",
+   "family": "form",
+   "signature": "text>media>text>form>text",
+   "estPop": 1,
+   "url": "https://certainty.com.my/contact",
+   "file": "t03_form-page.jpg",
+   "captured": true,
+   "bytes": 188870
+  },
+  {
+   "idx": 4,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text>text>text>text>text",
+   "estPop": 1,
+   "url": "https://certainty.com.my/product/airy-drypants",
+   "file": "t04_article-text.jpg",
+   "captured": true,
+   "bytes": 379106
+  }
+ ]
+}

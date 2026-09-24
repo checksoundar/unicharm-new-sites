@@ -1,0 +1,87 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T04:30:34.757Z",
+    "totalUrls": 16,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 15,
+      "redirect": 0,
+      "clientError": 1,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://certainty.com.my/",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/contact",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/product/airy-drypants",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/product/dry-maxpants",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/about/what-is-adl",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/about/causes-of-incontinence",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/about/type-of-incontinence",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/about/symptoms-of-incontinence",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/about/incontinence-management",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/product/drypants",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/product/superpants",
+        "status": 404
+      },
+      {
+        "url": "https://certainty.com.my/product/maxpants",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/product/tape",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/privacy-policy",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/certainty/privacy-policy",
+        "status": 200
+      },
+      {
+        "url": "https://certainty.com.my/certainty/dasar-privasi",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

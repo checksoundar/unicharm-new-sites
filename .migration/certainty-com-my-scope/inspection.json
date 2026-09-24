@@ -1,0 +1,82 @@
+{
+ "captured": "2026-09-24T04:31:49.233Z",
+ "locales": [],
+ "sections": [
+  "product",
+  "about"
+ ],
+ "selInspect": {
+  "totalGroups": 5,
+  "totalLive": 15,
+  "totalUrls": 16,
+  "selectedTotal": 12,
+  "skippedTotal": 4,
+  "non200Total": 1,
+  "nonRrendered": 4,
+  "nonRtotal": 4,
+  "fullGroups": 2,
+  "rRendered": 8,
+  "rTotal": 11,
+  "rGroups": 2,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/product/{section}",
+   "label": "Product section pages",
+   "total": 6,
+   "selected": 4,
+   "skipped": 2,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/product/airy-drypants"
+  },
+  {
+   "groupId": "G01",
+   "template": "/about/{section}",
+   "label": "About section pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/about/what-is-adl"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/contact"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{page}/{section}",
+   "label": "Root-level product & marketing pages",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/certainty/privacy-policy"
+  },
+  {
+   "groupId": "G04",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

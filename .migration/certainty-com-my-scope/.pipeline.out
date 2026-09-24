@@ -1,0 +1,96 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/certainty-com-my-scope
+▶ site: https://certainty.com.my/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 15
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 5
+Pattern groups (>= 2): 4 - covering 14 pages -> sampled to ~12
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 13
+
+Top 30 pattern groups:
+    5 -> 4 sampled   /product/{section}
+    5 -> 4 sampled   /about/{section}
+    2 -> 2 sampled   /{page}
+    2 -> 2 sampled   /{page}/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 13
+Distinct layout signatures: 5
+
+=== Layout templates (est. full-population pages) ===
+    7 pp  rendered=  7   article-text     text>text>text                                 |  about(4) certainty(2) privacy-policy(1)
+    2 pp  rendered=  2   media-article    text>media>text>text>media>text                |  (home)(1) product(1)
+    2 pp  rendered=  2   media-article    text>text>text>text>media>text                 |  product(2)
+    1 pp  rendered=  1   form-page        text>media>text>form>text                      |  contact(1)
+    1 pp  rendered=  1   article-text     text>text>text>text>text>text                  |  product(1)
+
+=== Third-party integrations detected ===
+   78 Meta (Facebook) Pixel
+   65 Google Tag Manager
+   26 Google Analytics
+   13 Other third-party: ajax.googleapis.com
+   13 Other third-party: d3e54v103j8qbb.cloudfront.net
+
+=== Global objects ===
+  13 dataLayer
+  13 ga
+  13 google_tag_manager
+  13 fbq
+  13 wp
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 40
+Total variants: 9
+
+=== Base type -> variants / instances ===
+  28 inst    3 variants   unknown
+   4 inst    2 variants   media
+   3 inst    1 variants   tabs
+   3 inst    1 variants   text
+   1 inst    1 variants   cards
+   1 inst    1 variants   form
+
+=== Top 20 variants ===
+  14 x   unknown       pages= 13   div|div2|img,aN,iN
+  13 x   unknown       pages=  6   div|div1|img,hd,aN,iN
+   3 x   tabs          pages=  3   div|div2|img,aN,iN
+   3 x   text          pages=  3   div|div1|hd,aN,iN
+   2 x   media         pages=  2   div|div2|img,aN,iN
+   2 x   media         pages=  2   div|div1|img,aN,iN
+   1 x   cards         pages=  1   div|div2|img,aN,iN
+   1 x   form          pages=  1   div|div1|lst,frm,hd,aN,iN
+   1 x   unknown       pages=  1   div|div2|img,hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 5 template groups | full: 2 sampled: 2 excluded: 1
+pages — inspected: 12 skipped: 4 non-200: 1 of 16 urls
+
+=== Template groups (by size) ===
+  G00     6  sampled   /product/{section}                Product section pages
+  G01     5  sampled   /about/{section}                  About section pages
+  G02     2  full      /{page}                           Root-level product & marketing pages
+  G03     2  full      /{page}/{section}                 Root-level product & marketing pages
+  G04     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 5 | first-party domain: com.my
+Probable backend integrations: 1 | unclassified hosts: 1
+
+=== By category ===
+  1 Analytics
+
+=== Services (by page coverage) ===
+  5pg  Analytics                   Google Analytics (GA4)
+▶ [11/12] compute supplementary data
+compute-data: live pages 15 | structure groups 0 | docs 0 | url groups 6 | layout heatmap rows 3 | block heatmap rows 6 | integrations 5
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/certainty-com-my-site-analysis-dashboard.html 3.92 MB
+templates: 3 galleries: Cards:1, Tabs:1, Form:1, Media:2, Text:1, Unknown / Custom:3
+IMAGES: 9 TEMPLATE_SHOTS: 3
+✅ done.

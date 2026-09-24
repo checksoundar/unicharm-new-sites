@@ -1,0 +1,27 @@
+{
+ "captured": "2026-09-24T04:31:41.714Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "form-page",
+   "family": "form",
+   "signature": "text>list>text>form",
+   "estPop": 22,
+   "url": "https://unicharmpet.co.id/category/health-care/",
+   "file": "t00_form-page.jpg",
+   "captured": true,
+   "bytes": 486195
+  },
+  {
+   "idx": 1,
+   "name": "form-page",
+   "family": "form",
+   "signature": "text>list>cards>form",
+   "estPop": 6,
+   "url": "https://unicharmpet.co.id/10-jenis-anjing-lucu-yang-cocok-dipelihara/",
+   "file": "t01_form-page.jpg",
+   "captured": true,
+   "bytes": 803677
+  }
+ ]
+}

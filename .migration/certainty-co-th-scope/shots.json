@@ -1,0 +1,126 @@
+{
+ "captured": "2026-09-24T05:01:12.946Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "breadcrumb-page",
+   "family": "breadcrumbed",
+   "signature": "nav>breadcrumbs>text>list>text",
+   "estPop": 8,
+   "url": "https://certainty.co.th/faq",
+   "file": "t00_breadcrumb-page.jpg",
+   "captured": true,
+   "bytes": 309702
+  },
+  {
+   "idx": 1,
+   "name": "breadcrumb-page",
+   "family": "breadcrumbed",
+   "signature": "breadcrumbs>text>text>list",
+   "estPop": 6,
+   "url": "https://certainty.co.th/blogs",
+   "file": "t01_breadcrumb-page.jpg",
+   "captured": true,
+   "bytes": 521554
+  },
+  {
+   "idx": 2,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "media>nav>breadcrumbs>text>list",
+   "estPop": 6,
+   "url": "https://certainty.co.th/blogs/-27",
+   "file": "t02_media-article.jpg",
+   "captured": true,
+   "bytes": 521243
+  },
+  {
+   "idx": 5,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "media>nav>breadcrumbs>text>list>text",
+   "estPop": 4,
+   "url": "https://certainty.co.th/blogs/0",
+   "file": "t05_media-article.jpg",
+   "captured": true,
+   "bytes": 521113
+  },
+  {
+   "idx": 8,
+   "name": "embed-page",
+   "family": "embed",
+   "signature": "nav>breadcrumbs>iframe-embed>cards>list>text",
+   "estPop": 3,
+   "url": "https://certainty.co.th/how_to_care_for_seniors/read/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%89%E0%B8%B5%E0%B8%94%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%8B%E0%B8%B9%E0%B8%A5%E0%B8%B4%E0%B8%99",
+   "file": "t08_embed-page.jpg",
+   "captured": true,
+   "bytes": 318093
+  },
+  {
+   "idx": 11,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "media>nav>breadcrumbs>cards>list",
+   "estPop": 2,
+   "url": "https://certainty.co.th/news-and-activities/-27",
+   "file": "t11_card-grid.jpg",
+   "captured": true,
+   "bytes": 469230
+  },
+  {
+   "idx": 12,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "nav>breadcrumbs>cards>list>text",
+   "estPop": 2,
+   "url": "https://certainty.co.th/news-and-activities/-9",
+   "file": "t12_card-grid.jpg",
+   "captured": true,
+   "bytes": 579979
+  },
+  {
+   "idx": 13,
+   "name": "embed-page",
+   "family": "embed",
+   "signature": "breadcrumbs>text>iframe-embed>text>list",
+   "estPop": 2,
+   "url": "https://certainty.co.th/news-and-activities/read/%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%81%E0%B8%A3%E0%B8%B0%E0%B8%88%E0%B8%B2%E0%B8%A2-%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%8D-%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%88-%E0%B8%81%E0%B8%B4%E0%B9%8A%E0%B8%81-%E0%B8%A1%E0%B8%A2%E0%B8%B8%E0%B8%A3%E0%B8%B4%E0%B8%8D",
+   "file": "t13_embed-page.jpg",
+   "captured": true,
+   "bytes": 519017
+  },
+  {
+   "idx": 14,
+   "name": "minimal-page",
+   "family": "empty",
+   "signature": "(empty)",
+   "estPop": 1,
+   "url": "https://certainty.co.th/blogs/-1",
+   "file": "t14_minimal-page.jpg",
+   "captured": true,
+   "bytes": 521243
+  },
+  {
+   "idx": 15,
+   "name": "accordion-page",
+   "family": "accordion",
+   "signature": "media>text>text>accordion>text>list",
+   "estPop": 1,
+   "url": "https://certainty.co.th/",
+   "file": "t15_accordion-page.jpg",
+   "captured": true,
+   "bytes": 789048
+  },
+  {
+   "idx": 16,
+   "name": "data-table",
+   "family": "table",
+   "signature": "nav>breadcrumbs>table>text>list>text",
+   "estPop": 1,
+   "url": "https://certainty.co.th/blogs/read/difference-tape-diaper-and-pullup",
+   "file": "t16_data-table.jpg",
+   "captured": true,
+   "bytes": 1697351
+  }
+ ]
+}

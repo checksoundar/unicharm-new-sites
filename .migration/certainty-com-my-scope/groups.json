@@ -1,0 +1,68 @@
+{
+ "captured": "2026-09-24T04:30:36.254Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 15,
+ "totalGroups": 5,
+ "patternGroups": 4,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/product/{section}": {
+   "total": 5,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Product section pages"
+  },
+  "/about/{section}": {
+   "total": 5,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "About section pages"
+  },
+  "/{page}": {
+   "total": 2,
+   "rendered": 2,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/{page}/{section}": {
+   "total": 2,
+   "rendered": 2,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Homepage & root"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://certainty.com.my/"
+  ],
+  "/{page}": [
+   "https://certainty.com.my/contact",
+   "https://certainty.com.my/privacy-policy"
+  ],
+  "/product/{section}": [
+   "https://certainty.com.my/product/airy-drypants",
+   "https://certainty.com.my/product/dry-maxpants",
+   "https://certainty.com.my/product/drypants",
+   "https://certainty.com.my/product/maxpants",
+   "https://certainty.com.my/product/tape"
+  ],
+  "/about/{section}": [
+   "https://certainty.com.my/about/what-is-adl",
+   "https://certainty.com.my/about/causes-of-incontinence",
+   "https://certainty.com.my/about/type-of-incontinence",
+   "https://certainty.com.my/about/symptoms-of-incontinence",
+   "https://certainty.com.my/about/incontinence-management"
+  ],
+  "/{page}/{section}": [
+   "https://certainty.com.my/certainty/privacy-policy",
+   "https://certainty.com.my/certainty/dasar-privasi"
+  ]
+ }
+}

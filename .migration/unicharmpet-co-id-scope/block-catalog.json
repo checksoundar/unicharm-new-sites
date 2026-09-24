@@ -1,0 +1,275 @@
+{
+ "captured": "2026-09-24T04:31:25.454Z",
+ "totalInstances": 90,
+ "totalVariants": 9,
+ "baseSummary": [
+  {
+   "base": "form",
+   "variants": 1,
+   "instances": 30
+  },
+  {
+   "base": "text",
+   "variants": 1,
+   "instances": 30
+  },
+  {
+   "base": "unknown",
+   "variants": 2,
+   "instances": 21
+  },
+  {
+   "base": "accordion",
+   "variants": 1,
+   "instances": 4
+  },
+  {
+   "base": "cards",
+   "variants": 2,
+   "instances": 2
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "video",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|div2|img,lst,hd,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "accordion_adfd70bb94cf.jpg",
+   "repUrl": "https://unicharmpet.co.id/dry-food-kucing-yang-bagus-untuk-kesehatan/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/10-jenis-anjing-lucu-yang-cocok-dipelihara/",
+     "file": "accordion_477bbb85e2fa.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/pampers-anjing-jantan/",
+     "file": "accordion_be4c8247e10b.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/dry-food-kucing-yang-bagus-untuk-kesehatan/",
+     "file": "accordion_adfd70bb94cf.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/wet-food-atau-dry-food-mana-yang-lebih-unggul-untuk-kucing-anda/",
+     "file": "accordion_cc037c92af53.jpg"
+    }
+   ],
+   "topLabel": "10 Jenis Anjing Lucu yang Cocok Dipelihara"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div4|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_b61da725ea7d.jpg",
+   "repUrl": "https://unicharmpet.co.id/produk/deli-joy-pouch-adult-tuna-topping-katsuobushi/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/produk/deli-joy-pouch-adult-tuna-topping-katsuobushi/",
+     "file": "cards_b61da725ea7d.jpg"
+    }
+   ],
+   "topLabel": "Deli-Joy Pouch Adult Tuna topping Katsuobushi"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div4|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_daa4b5b17e1a.jpg",
+   "repUrl": "https://unicharmpet.co.id/produk/manner-wear-girl-xl-7/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/produk/manner-wear-girl-xl-7/",
+     "file": "cards_daa4b5b17e1a.jpg"
+    }
+   ],
+   "topLabel": "Manner Wear Girl XL 7"
+  },
+  {
+   "base": "form",
+   "key": "form::footer|div4|img,frm,hd,aN,iN",
+   "instances": 30,
+   "pagesFound": 30,
+   "repFile": "form_1a80347fc0cc.jpg",
+   "repUrl": "https://unicharmpet.co.id/category/health-care/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/category/health-care/",
+     "file": "form_1a80347fc0cc.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/10-jenis-anjing-lucu-yang-cocok-dipelihara/",
+     "file": "form_0ecc6df2ba0d.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/",
+     "file": "form_9bff2639c0f1.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/tips-trick/",
+     "file": "form_e001b6b5d5b5.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/toilet-care/",
+     "file": "form_9e2649f2f2a5.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/uncategorized/",
+     "file": "form_94c581c63e76.jpg"
+    }
+   ],
+   "topLabel": "Dapatkan Kode Diskon!"
+  },
+  {
+   "base": "table",
+   "key": "table::div|div4|img,tbl,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "table_b3aabad6d007.jpg",
+   "repUrl": "https://unicharmpet.co.id/produk/deo-toilet-pasir-anti-bau/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/produk/deli-joy-creamy-chicken-wings/",
+     "file": "table_fff77adf9a9b.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk/deo-toilet-pasir-anti-bau/",
+     "file": "table_b3aabad6d007.jpg"
+    }
+   ],
+   "topLabel": "Deli-Joy Creamy Chicken Wings"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|aN,iN",
+   "instances": 30,
+   "pagesFound": 30,
+   "repFile": "text_ab282dc0ae73.jpg",
+   "repUrl": "https://unicharmpet.co.id/category/health-care/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/category/health-care/",
+     "file": "text_ab282dc0ae73.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/10-jenis-anjing-lucu-yang-cocok-dipelihara/",
+     "file": "text_29031046fc30.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/",
+     "file": "text_3cd00e53fbcb.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/tips-trick/",
+     "file": "text_3483bfdea120.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/toilet-care/",
+     "file": "text_fe0dad0eac77.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/uncategorized/",
+     "file": "text_bb95a3b42279.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2|img,hd,aN,iN",
+   "instances": 13,
+   "pagesFound": 13,
+   "repFile": "unknown_31a8be10d357.jpg",
+   "repUrl": "https://unicharmpet.co.id/category/health-care/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/category/health-care/",
+     "file": "unknown_31a8be10d357.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/tips-trick/",
+     "file": "unknown_8f0cf0261177.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/toilet-care/",
+     "file": "unknown_07edf614152b.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/category/uncategorized/",
+     "file": "unknown_7802f7f69070.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk/",
+     "file": "unknown_95dfedaf62e7.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/tag/anjing-samoyed/",
+     "file": "unknown_fecaece82ce0.jpg"
+    }
+   ],
+   "topLabel": "Solusi Perawatan Hewan Peliharaan: Kucing dan Anjing"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "unknown_0f2bf54974c5.jpg",
+   "repUrl": "https://unicharmpet.co.id/produk-tag/delijoy/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/produk-kategori/dry-food/",
+     "file": "unknown_543d4e2f4353.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk-kategori/snack-kucing/",
+     "file": "unknown_c98e38b59c2a.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk-kategori/wet-food-kucing/",
+     "file": "unknown_17e4e0d194d6.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk-kategori/toilet-care-kucing/",
+     "file": "unknown_8ac8f04b7f16.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk-tag/adult/",
+     "file": "unknown_6ffc656166e7.jpg"
+    },
+    {
+     "url": "https://unicharmpet.co.id/produk-tag/delijoy/",
+     "file": "unknown_0f2bf54974c5.jpg"
+    }
+   ],
+   "topLabel": "Kategori Dry Food"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div7|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video_be69e865fe9b.jpg",
+   "repUrl": "https://unicharmpet.co.id/",
+   "samples": [
+    {
+     "url": "https://unicharmpet.co.id/",
+     "file": "video_be69e865fe9b.jpg"
+    }
+   ],
+   "topLabel": "Tentang Unicharm Pet"
+  }
+ ]
+}

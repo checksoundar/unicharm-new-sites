@@ -1,0 +1,42 @@
+{
+ "captured": "2026-09-24T04:59:13.758Z",
+ "sampledPages": 21,
+ "firstPartyDomain": "co.th",
+ "totalServices": 1,
+ "categories": [
+  {
+   "category": "First-party forms",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Babylove: Forms / Lead API",
+   "category": "First-party forms",
+   "note": "Form submission / lead capture",
+   "hosts": [
+    "www.babylove.co.th",
+    "babylove.co.th"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.babylove.co.th/cdn-cgi/challenge-platform/h/b/fo/:id::id:7nmyKze8hP9ZFVc38jn3RQ5kjp4-j",
+    "POST babylove.co.th/cdn-cgi/challenge-platform/h/b/fo/:id::id:7nmyKze8hP9ZFVc38jn3RQ5kjp4-jqBYx"
+   ],
+   "pages": 21,
+   "coverage": "100%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "challenges.cloudflare.com",
+   "pages": 21,
+   "sample": "POST challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/:id::id:m21Vz22fmANYGoGHne4tRl"
+  },
+  {
+   "host": "brunhild.challenges.cloudflare.com",
+   "pages": 21,
+   "sample": "GET brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/i/:id/LmsDWimjWntNliXmKX"
+  }
+ ]
+}

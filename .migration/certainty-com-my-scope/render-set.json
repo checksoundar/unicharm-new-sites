@@ -1,0 +1,21 @@
+{
+ "captured": "2026-09-24T04:30:36.266Z",
+ "strategy": "pattern-groups(>=2) sampled to 4; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 15,
+ "renderCount": 13,
+ "urls": [
+  "https://certainty.com.my/",
+  "https://certainty.com.my/about/causes-of-incontinence",
+  "https://certainty.com.my/about/incontinence-management",
+  "https://certainty.com.my/about/type-of-incontinence",
+  "https://certainty.com.my/about/what-is-adl",
+  "https://certainty.com.my/certainty/dasar-privasi",
+  "https://certainty.com.my/certainty/privacy-policy",
+  "https://certainty.com.my/contact",
+  "https://certainty.com.my/privacy-policy",
+  "https://certainty.com.my/product/airy-drypants",
+  "https://certainty.com.my/product/dry-maxpants",
+  "https://certainty.com.my/product/maxpants",
+  "https://certainty.com.my/product/tape"
+ ]
+}

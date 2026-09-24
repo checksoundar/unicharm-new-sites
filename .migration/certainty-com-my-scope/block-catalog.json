@@ -1,0 +1,238 @@
+{
+ "captured": "2026-09-24T04:31:27.216Z",
+ "totalInstances": 40,
+ "totalVariants": 9,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 3,
+   "instances": 28
+  },
+  {
+   "base": "media",
+   "variants": 2,
+   "instances": 4
+  },
+  {
+   "base": "tabs",
+   "variants": 1,
+   "instances": 3
+  },
+  {
+   "base": "text",
+   "variants": 1,
+   "instances": 3
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "form",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "cards",
+   "key": "cards::div|div2|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "cards_56b6d2314c96.jpg",
+   "repUrl": "https://certainty.com.my/about/type-of-incontinence",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/about/type-of-incontinence",
+     "file": "cards_56b6d2314c96.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_3e4e90f272de.jpg",
+   "repUrl": "https://certainty.com.my/contact",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/contact",
+     "file": "form_3e4e90f272de.jpg"
+    }
+   ],
+   "topLabel": "How can we help you?"
+  },
+  {
+   "base": "media",
+   "key": "media::div|div2|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_bb86e737befb.jpg",
+   "repUrl": "https://certainty.com.my/",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/",
+     "file": "media_bb86e737befb.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/product/tape",
+     "file": "media_43c20075c016.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_dde5872e3bd5.jpg",
+   "repUrl": "https://certainty.com.my/product/dry-maxpants",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/product/dry-maxpants",
+     "file": "media_dde5872e3bd5.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/product/maxpants",
+     "file": "media_d03d303db17e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div2|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "tabs_c248442c972a.jpg",
+   "repUrl": "https://certainty.com.my/about/incontinence-management",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/about/causes-of-incontinence",
+     "file": "tabs_b83363197e11.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/about/incontinence-management",
+     "file": "tabs_c248442c972a.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/about/what-is-adl",
+     "file": "tabs_96a2538f5551.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_5c127b9566a7.jpg",
+   "repUrl": "https://certainty.com.my/certainty/dasar-privasi",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/certainty/dasar-privasi",
+     "file": "text_5c127b9566a7.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/certainty/privacy-policy",
+     "file": "text_8e0919cfc7d8.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/privacy-policy",
+     "file": "text_391617a6bef6.jpg"
+    }
+   ],
+   "topLabel": "Personal Data Protection Notification and Consent"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2|img,aN,iN",
+   "instances": 14,
+   "pagesFound": 13,
+   "repFile": "unknown_8d6bc1de4d0b.jpg",
+   "repUrl": "https://certainty.com.my/product/airy-drypants",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/about/causes-of-incontinence",
+     "file": "unknown_3b7487c54ca6.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/",
+     "file": "unknown_165f147ff634.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/about/incontinence-management",
+     "file": "unknown_faec9e5dd94c.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/about/type-of-incontinence",
+     "file": "unknown_aedbb0c1046a.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/about/what-is-adl",
+     "file": "unknown_2ebe090b6f07.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/certainty/dasar-privasi",
+     "file": "unknown_de4010e543c3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,hd,aN,iN",
+   "instances": 13,
+   "pagesFound": 6,
+   "repFile": "unknown_f11c0cd9c778.jpg",
+   "repUrl": "https://certainty.com.my/",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/",
+     "file": "unknown_c1115be79a2d.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/",
+     "file": "unknown_f11c0cd9c778.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/contact",
+     "file": "unknown_fed393d58825.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/product/airy-drypants",
+     "file": "unknown_60d32590fca8.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/product/dry-maxpants",
+     "file": "unknown_5aeee3233410.jpg"
+    },
+    {
+     "url": "https://certainty.com.my/product/airy-drypants",
+     "file": "unknown_57377fe5ef2b.jpg"
+    }
+   ],
+   "topLabel": "Easy to wear\n‍"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_865bb1f76f37.jpg",
+   "repUrl": "https://certainty.com.my/product/airy-drypants",
+   "samples": [
+    {
+     "url": "https://certainty.com.my/product/airy-drypants",
+     "file": "unknown_865bb1f76f37.jpg"
+    }
+   ],
+   "topLabel": "Product Benefits"
+  }
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "captured": "2026-09-24T04:31:43.828Z",
+ "locales": [],
+ "sections": [
+  "category",
+  "produk-kategori",
+  "produk-tag",
+  "produk",
+  "tag"
+ ],
+ "selInspect": {
+  "totalGroups": 9,
+  "totalLive": 337,
+  "totalUrls": 337,
+  "selectedTotal": 0,
+  "skippedTotal": 337,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 337,
+  "exclGroups": 9,
+  "nonEnExcluded": 337
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 182,
+   "selected": 0,
+   "skipped": 182,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/10-jenis-anjing-lucu-yang-cocok-dipelihara"
+  },
+  {
+   "groupId": "G01",
+   "template": "/produk/{slug}",
+   "label": "Produk section pages",
+   "total": 67,
+   "selected": 0,
+   "skipped": 67,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/produk/deli-joy-creamy-chicken-wings"
+  },
+  {
+   "groupId": "G02",
+   "template": "/produk-tag/{section}",
+   "label": "Produk-tag section pages",
+   "total": 31,
+   "selected": 0,
+   "skipped": 31,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/produk-tag/adult"
+  },
+  {
+   "groupId": "G03",
+   "template": "/tag/{section}",
+   "label": "Tag section pages",
+   "total": 31,
+   "selected": 0,
+   "skipped": 31,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/tag/anjing-samoyed"
+  },
+  {
+   "groupId": "G04",
+   "template": "/tag/{slug}",
+   "label": "Tag section pages",
+   "total": 13,
+   "selected": 0,
+   "skipped": 13,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/tag/deli-joy-complete-balanced-nutrition"
+  },
+  {
+   "groupId": "G05",
+   "template": "/category/{section}",
+   "label": "Category section pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/category/health-care"
+  },
+  {
+   "groupId": "G06",
+   "template": "/produk-kategori/{section}",
+   "label": "Produk-kategori section pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/produk-kategori/dry-food"
+  },
+  {
+   "groupId": "G07",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G08",
+   "template": "/produk",
+   "label": "Produk — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/produk"
+  }
+ ]
+}

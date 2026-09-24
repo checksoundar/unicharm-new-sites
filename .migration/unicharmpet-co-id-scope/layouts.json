@@ -1,0 +1,112 @@
+{
+ "captured": "2026-09-24T04:30:19.466Z",
+ "renderedPages": 30,
+ "distinctSignatures": 3,
+ "templates": [
+  {
+   "signature": "text>list>text>form",
+   "family": "form",
+   "rendered": 22,
+   "estPop": 22,
+   "urls": [
+    "https://unicharmpet.co.id/category/health-care/",
+    "https://unicharmpet.co.id/",
+    "https://unicharmpet.co.id/category/tips-trick/",
+    "https://unicharmpet.co.id/category/toilet-care/",
+    "https://unicharmpet.co.id/category/uncategorized/",
+    "https://unicharmpet.co.id/produk-kategori/dry-food/",
+    "https://unicharmpet.co.id/produk-kategori/snack-kucing/",
+    "https://unicharmpet.co.id/produk-kategori/toilet-care-kucing/"
+   ],
+   "sections": {
+    "category": 4,
+    "(home)": 1,
+    "produk-kategori": 4,
+    "produk-tag": 4,
+    "produk": 1,
+    "tag": 8
+   },
+   "locales": {
+    "root": 22
+   },
+   "blockCountMode": {
+    "4": 22
+   },
+   "topSections": [
+    "tag(8)",
+    "category(4)",
+    "produk-kategori(4)",
+    "produk-tag(4)",
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:22"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "text>list>cards>form",
+   "family": "form",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://unicharmpet.co.id/10-jenis-anjing-lucu-yang-cocok-dipelihara/",
+    "https://unicharmpet.co.id/dry-food-kucing-yang-bagus-untuk-kesehatan/",
+    "https://unicharmpet.co.id/pampers-anjing-jantan/",
+    "https://unicharmpet.co.id/produk/deli-joy-pouch-adult-tuna-topping-katsuobushi/",
+    "https://unicharmpet.co.id/produk/manner-wear-girl-xl-7/",
+    "https://unicharmpet.co.id/wet-food-atau-dry-food-mana-yang-lebih-unggul-untuk-kucing-anda/"
+   ],
+   "sections": {
+    "10-jenis-anjing-lucu-yang-cocok-dipelihara": 1,
+    "dry-food-kucing-yang-bagus-untuk-kesehatan": 1,
+    "pampers-anjing-jantan": 1,
+    "produk": 2,
+    "wet-food-atau-dry-food-mana-yang-lebih-unggul-untuk-kucing-anda": 1
+   },
+   "locales": {
+    "root": 6
+   },
+   "blockCountMode": {
+    "4": 6
+   },
+   "topSections": [
+    "produk(2)",
+    "10-jenis-anjing-lucu-yang-cocok-dipelihara(1)",
+    "dry-food-kucing-yang-bagus-untuk-kesehatan(1)",
+    "pampers-anjing-jantan(1)",
+    "wet-food-atau-dry-food-mana-yang-lebih-unggul-untuk-kucing-anda(1)"
+   ],
+   "topLocales": [
+    "root:6"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "text>list>table>form",
+   "family": "form",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://unicharmpet.co.id/produk/deli-joy-creamy-chicken-wings/",
+    "https://unicharmpet.co.id/produk/deo-toilet-pasir-anti-bau/"
+   ],
+   "sections": {
+    "produk": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "4": 2
+   },
+   "topSections": [
+    "produk(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "form-page"
+  }
+ ]
+}

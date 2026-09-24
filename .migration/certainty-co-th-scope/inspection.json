@@ -1,0 +1,272 @@
+{
+ "captured": "2026-09-24T05:01:14.930Z",
+ "locales": [],
+ "sections": [
+  "how_to_care_for_seniors",
+  "blogs",
+  "faq",
+  "news-and-activities",
+  "product"
+ ],
+ "selInspect": {
+  "totalGroups": 22,
+  "totalLive": 596,
+  "totalUrls": 598,
+  "selectedTotal": 66,
+  "skippedTotal": 532,
+  "non200Total": 2,
+  "nonRrendered": 9,
+  "nonRtotal": 9,
+  "fullGroups": 6,
+  "rRendered": 57,
+  "rTotal": 588,
+  "rGroups": 15,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{malformed}",
+   "label": "Malformed / double-encoded URLs",
+   "total": 93,
+   "selected": 4,
+   "skipped": 89,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/how_to_care_for_seniors/read/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%AD%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B8%B0%E0%B8%AA%E0%B8%B7%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%99%E0%B8%98%E0%B8%B8%E0%B9%8C%E0%B8%A0%E0%B8%B2%E0%B8%A2%E0%B8%99%E0%B8%AD%E0%B8%81"
+  },
+  {
+   "groupId": "G01",
+   "template": "/blogs/{slug}",
+   "label": "Blogs section pages",
+   "total": 71,
+   "selected": 4,
+   "skipped": 67,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/blogs/0"
+  },
+  {
+   "groupId": "G02",
+   "template": "/how_to_care_for_seniors/{slug}",
+   "label": "How_to_care_for_seniors section pages",
+   "total": 62,
+   "selected": 4,
+   "skipped": 58,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/how_to_care_for_seniors/0"
+  },
+  {
+   "groupId": "G03",
+   "template": "/faq/{slug}",
+   "label": "Faq section pages",
+   "total": 61,
+   "selected": 4,
+   "skipped": 57,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/faq/0"
+  },
+  {
+   "groupId": "G04",
+   "template": "/how_to_care_for_seniors/{section}",
+   "label": "How_to_care_for_seniors section pages",
+   "total": 59,
+   "selected": 4,
+   "skipped": 55,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/how_to_care_for_seniors/-1"
+  },
+  {
+   "groupId": "G05",
+   "template": "/blogs/{section}",
+   "label": "Blogs section pages",
+   "total": 59,
+   "selected": 4,
+   "skipped": 55,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/blogs/-1"
+  },
+  {
+   "groupId": "G06",
+   "template": "/faq/{section}",
+   "label": "Faq section pages",
+   "total": 59,
+   "selected": 4,
+   "skipped": 55,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/faq/-1"
+  },
+  {
+   "groupId": "G07",
+   "template": "/news-and-activities/{section}",
+   "label": "News-and-activities section pages",
+   "total": 58,
+   "selected": 4,
+   "skipped": 54,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/news-and-activities/-1"
+  },
+  {
+   "groupId": "G08",
+   "template": "/blogs/{section}/{slug}",
+   "label": "Blogs sub-pages",
+   "total": 28,
+   "selected": 4,
+   "skipped": 24,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/blogs/read/difference-tape-diaper-and-pullup"
+  },
+  {
+   "groupId": "G09",
+   "template": "/product/{section}",
+   "label": "Product section pages",
+   "total": 10,
+   "selected": 4,
+   "skipped": 6,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/product/pd-daypants"
+  },
+  {
+   "groupId": "G10",
+   "template": "/how_to_care_for_seniors/{section}/{slug}",
+   "label": "How_to_care_for_seniors sub-pages",
+   "total": 8,
+   "selected": 4,
+   "skipped": 4,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/how_to_care_for_seniors/read/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%8A%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9B%E0%B8%B2%E0%B8%81"
+  },
+  {
+   "groupId": "G11",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 7,
+   "selected": 4,
+   "skipped": 3,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/why_certainty"
+  },
+  {
+   "groupId": "G12",
+   "template": "/news-and-activities/{section}/{slug}",
+   "label": "News-and-activities sub-pages",
+   "total": 6,
+   "selected": 4,
+   "skipped": 2,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/news-and-activities/read/%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%9A%E0%B8%B8%E0%B8%8D-%E0%B8%AD%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B9%83%E0%B8%88%E0%B8%AF%E0%B8%9B%E0%B8%B5-6-%E0%B8%AA%E0%B8%A1%E0%B8%97%E0%B8%9A%E0%B8%97%E0%B8%B8%E0%B8%99-1000000-%E0%B8%9A%E0%B8%B2%E0%B8%97"
+  },
+  {
+   "groupId": "G13",
+   "template": "/product/{slug}",
+   "label": "Product section pages",
+   "total": 4,
+   "selected": 4,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/product/pd-certainty-tape-xl-xxl"
+  },
+  {
+   "groupId": "G14",
+   "template": "/news-and-activities/{slug}",
+   "label": "News-and-activities section pages",
+   "total": 4,
+   "selected": 3,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/news-and-activities/0"
+  },
+  {
+   "groupId": "G15",
+   "template": "/blogs/{section}/{page}",
+   "label": "Blogs sub-pages",
+   "total": 3,
+   "selected": 2,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/blogs/read/activities-for-senoirs"
+  },
+  {
+   "groupId": "G16",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G17",
+   "template": "/how_to_care_for_seniors",
+   "label": "How_to_care_for_seniors — landing",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/how_to_care_for_seniors"
+  },
+  {
+   "groupId": "G18",
+   "template": "/blogs",
+   "label": "Blogs — landing",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/blogs"
+  },
+  {
+   "groupId": "G19",
+   "template": "/faq",
+   "label": "Faq — landing",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/faq"
+  },
+  {
+   "groupId": "G20",
+   "template": "/news-and-activities",
+   "label": "News-and-activities — landing",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/news-and-activities"
+  },
+  {
+   "groupId": "G21",
+   "template": "/faq/{section}/{slug}",
+   "label": "Faq sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/faq/read/%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9B%E0%B8%B1%E0%B8%AA%E0%B8%AA%E0%B8%B2%E0%B8%A7%E0%B8%B0%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%82%E0%B8%B1%E0%B8%94"
+  }
+ ]
+}

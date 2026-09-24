@@ -1,0 +1,797 @@
+{
+ "captured": "2026-09-24T04:56:53.245Z",
+ "totalInstances": 286,
+ "totalVariants": 31,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 11,
+   "instances": 141
+  },
+  {
+   "base": "text",
+   "variants": 4,
+   "instances": 88
+  },
+  {
+   "base": "media",
+   "variants": 5,
+   "instances": 19
+  },
+  {
+   "base": "video",
+   "variants": 2,
+   "instances": 19
+  },
+  {
+   "base": "carousel",
+   "variants": 7,
+   "instances": 16
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "accordion",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|div5|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_3a4810378ea3.jpg",
+   "repUrl": "https://babylove.co.th/%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C",
+     "file": "accordion_3a4810378ea3.jpg"
+    }
+   ],
+   "topLabel": "BabyLove"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1.section9.style1|img,tbl,lst,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "carousel_c4bdd6f9ae6d.jpg",
+   "repUrl": "https://babylove.co.th/products/day-night-pants-plus",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/products/antimos",
+     "file": "carousel_a6603d7cf011.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/products/day-night-pants-plus",
+     "file": "carousel_c4bdd6f9ae6d.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/products/long-lasting-pants",
+     "file": "carousel_ac6e17afbcf6.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/products/natural-care-baby-wipes",
+     "file": "carousel_84f804faf799.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/products/power-pants",
+     "file": "carousel_4223499d6489.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/products/toys-pants",
+     "file": "carousel_090e0591aa84.jpg"
+    }
+   ],
+   "topLabel": "เบบี้เลิฟ ผ้าอ้อมกันยุง"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1.section6|img,lst,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "carousel_91b703099ef6.jpg",
+   "repUrl": "https://babylove.co.th/en/about/babylove",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/about/%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81",
+     "file": "carousel_d1db2b9454ea.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/about/babylove",
+     "file": "carousel_94c6aa83b4f4.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/about/babylove",
+     "file": "carousel_91b703099ef6.jpg"
+    }
+   ],
+   "topLabel": "เรื่องราวความน่าเลิฟ"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::section|div1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "carousel_5fb6731db4a9.jpg",
+   "repUrl": "https://babylove.co.th/",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/",
+     "file": "carousel_5fb6731db4a9.jpg"
+    },
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "carousel_3814039d8cf4.jpg"
+    }
+   ],
+   "topLabel": "ผลิตภัณฑ์ของเรา"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|section2|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "carousel_dfab27347652.jpg",
+   "repUrl": "https://babylove.co.th/baby-tips",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/baby-tips",
+     "file": "carousel_dfab27347652.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/0-3months",
+     "file": "carousel_2de60ccee0c2.jpg"
+    }
+   ],
+   "topLabel": "บทความน่าเลิฟ\nสำหรับลูกน้อย"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|b1.div1.section5.style1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_3654aed71cb4.jpg",
+   "repUrl": "https://babylove.co.th/en",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/en",
+     "file": "carousel_3654aed71cb4.jpg"
+    }
+   ],
+   "topLabel": "Tips"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1.section8.style1|img,tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_948886eee9ca.jpg",
+   "repUrl": "https://babylove.co.th/en/products/easy-tape",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/en/products/easy-tape",
+     "file": "carousel_948886eee9ca.jpg"
+    }
+   ],
+   "topLabel": "BabyLove Easy Tape M, L"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|section3|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_87852cd8437a.jpg",
+   "repUrl": "https://babylove.co.th/parent-tips",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/parent-tips",
+     "file": "carousel_87852cd8437a.jpg"
+    }
+   ],
+   "topLabel": "บทความน่าเลิฟ\nสำหรับคุณแม่"
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,hd,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "media_afecc52ab84d.jpg",
+   "repUrl": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+     "file": "media_afecc52ab84d.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions",
+     "file": "media_04e22e03bad3.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/baby-kid-best-buy-2017",
+     "file": "media_e20bf533c3d7.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/baby-love-shares-happiness-pak-kret-childrens-home",
+     "file": "media_944f7ddc7c62.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/diy-diaper-boxes",
+     "file": "media_653583fd2646.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/babycharity",
+     "file": "media_0d7c703d6ee6.jpg"
+    }
+   ],
+   "topLabel": "สั่งซื้อออนไลน์"
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "media_78ad9140e830.jpg",
+   "repUrl": "https://babylove.co.th/",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/",
+     "file": "media_78ad9140e830.jpg"
+    },
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "media_4c85dbaecb90.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips",
+     "file": "media_250d0f094be1.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/0-3months",
+     "file": "media_0104826c49e7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|div2|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_ce248907843b.jpg",
+   "repUrl": "https://babylove.co.th/",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/",
+     "file": "media_ce248907843b.jpg"
+    },
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "media_9028c81f0cbf.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|aN|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_d140f63a1a04.jpg",
+   "repUrl": "https://babylove.co.th/",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/",
+     "file": "media_d140f63a1a04.jpg"
+    },
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "media_3d0f1550f3b1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_716e2d342126.jpg",
+   "repUrl": "https://babylove.co.th/",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/",
+     "file": "media_716e2d342126.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1.section4|img,tbl,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "table_a52440406ece.jpg",
+   "repUrl": "https://babylove.co.th/diaper-tips/choosing-the-right-baby-diaper-size",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/diaper-tips/5-signs-baby-diaper-too-small",
+     "file": "table_fc2a7714ab41.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/diaper-tips/choosing-the-right-baby-diaper-size",
+     "file": "table_a52440406ece.jpg"
+    }
+   ],
+   "topLabel": "ลูกน้อยหุ่นจ้ำม่ำ ควรเปลี่ยนไซซ์ผ้าอ้อมเมื่อไหร่? เช็กสัญญาณ"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|aN,iN",
+   "instances": 85,
+   "pagesFound": 72,
+   "repFile": "text_58d200afeb86.jpg",
+   "repUrl": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+     "file": "text_58d200afeb86.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/",
+     "file": "text_15696c133e41.jpg"
+    },
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "text_565a1000581e.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B8%81-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89",
+     "file": "text_e85498b27c64.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/6-%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87",
+     "file": "text_cf63b9b9fc57.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+     "file": "text_b2420dbbee22.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_693d29c2ceff.jpg",
+   "repUrl": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+     "file": "text_693d29c2ceff.jpg"
+    }
+   ],
+   "topLabel": "Browser"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b07bf0022818.jpg",
+   "repUrl": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+     "file": "text_b07bf0022818.jpg"
+    }
+   ],
+   "topLabel": "What happened?"
+  },
+  {
+   "base": "text",
+   "key": "text::div|p1.script1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b8d5e148c0de.jpg",
+   "repUrl": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+     "file": "text_b8d5e148c0de.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::header|div1|img,lst,aN,iN",
+   "instances": 63,
+   "pagesFound": 63,
+   "repFile": "unknown_bdb18cda779a.jpg",
+   "repUrl": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+     "file": "unknown_bdb18cda779a.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B8%81-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89",
+     "file": "unknown_6450723ce018.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/6-%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87",
+     "file": "unknown_077099afa960.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+     "file": "unknown_0dd5c45a38b3.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/about/%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81",
+     "file": "unknown_56ee7fee6a4f.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/about/babylove",
+     "file": "unknown_82cc1d864b23.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.section4|img,lst,hd,aN,iN",
+   "instances": 15,
+   "pagesFound": 15,
+   "repFile": "unknown_20dc9a71fa31.jpg",
+   "repUrl": "https://babylove.co.th/en/diaper-tips/diaper-rash",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B8%81-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89",
+     "file": "unknown_10ba26f365e4.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/adenovirus-in-children",
+     "file": "unknown_6fe51d03865e.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/care-baby-rash",
+     "file": "unknown_771045fe86b9.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/clingy-baby-from-often-holding",
+     "file": "unknown_546ff3c628a9.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/ipd-in-children",
+     "file": "unknown_1c36653c35dc.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/music-help-your-children-development",
+     "file": "unknown_868619fdf787.jpg"
+    }
+   ],
+   "topLabel": "ลูกท้องผูก คุณแม่ช่วยได้ มาทำความเข้าใจอาการและป้องกันไว้ก่อ"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,lst,aN,iN",
+   "instances": 14,
+   "pagesFound": 14,
+   "repFile": "unknown_26e022c4d8d2.jpg",
+   "repUrl": "http://www.babylove.co.th/",
+   "samples": [
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "unknown_26e022c4d8d2.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+     "file": "unknown_428aa6c3195c.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips",
+     "file": "unknown_edc08e6aaaca.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/baby-tips/0-3months",
+     "file": "unknown_89c6d68945e7.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/parent-tips",
+     "file": "unknown_a140c098e9d7.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions",
+     "file": "unknown_2ed98813149e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::header|div1.metaN|img,lst,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "unknown_639b78747fdc.jpg",
+   "repUrl": "https://babylove.co.th/en/about/babylove",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/en/about/babylove",
+     "file": "unknown_639b78747fdc.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/articles",
+     "file": "unknown_13a63068d012.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en",
+     "file": "unknown_f9f9ff23901b.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/baby-tips/influenza-a-in-children",
+     "file": "unknown_f7b425733916.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/baby-tips/%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B9%88%E0%B8%B2-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+     "file": "unknown_a176a71b1123.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/diaper-tips",
+     "file": "unknown_370805e6cbaa.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.script1.section4|img,lst,hd,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "unknown_bb27ab779287.jpg",
+   "repUrl": "https://babylove.co.th/parent-tips/10%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/6-%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87",
+     "file": "unknown_963ae45b01b5.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/parent-tips/%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C",
+     "file": "unknown_ced65160c323.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/parent-tips/adjusting-to-parenthood",
+     "file": "unknown_9eb68dbc064b.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/parent-tips/natural-birth-or-cesarean-section",
+     "file": "unknown_c0965fd4ab45.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/parent-tips/exercise-during-pregnancy",
+     "file": "unknown_e5220cb5c76e.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/parent-tips/10%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+     "file": "unknown_bb27ab779287.jpg"
+    }
+   ],
+   "topLabel": "6 เมนูที่แม่ท้องต้องระวัง อาหารที่ส่งผลต่อการเติบโตของลูกในค"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,hd,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "unknown_e741e70b3049.jpg",
+   "repUrl": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+     "file": "unknown_e741e70b3049.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions",
+     "file": "unknown_b99fa57f7ff1.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/baby-kid-best-buy-2017",
+     "file": "unknown_856b822a7be1.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/baby-love-shares-happiness-pak-kret-childrens-home",
+     "file": "unknown_ac5bbac92e24.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/babycharity",
+     "file": "unknown_d60b66f68b8d.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/chitchat-share-mothers-style-babylove",
+     "file": "unknown_e913c3f4c23c.jpg"
+    }
+   ],
+   "topLabel": "ข่าวสารและกิจกรรมอื่นๆ"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|section2|img,hd,aN,iN",
+   "instances": 7,
+   "pagesFound": 7,
+   "repFile": "unknown_86aa01943824.jpg",
+   "repUrl": "https://babylove.co.th/promotions/nepal-disaster-donation",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+     "file": "unknown_64371bd3cadb.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/baby-kid-best-buy-2017",
+     "file": "unknown_3e194e44ea51.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/baby-love-shares-happiness-pak-kret-childrens-home",
+     "file": "unknown_37bcc3ac3bd8.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/babycharity",
+     "file": "unknown_95d76a8a75a6.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/nepal-disaster-donation",
+     "file": "unknown_86aa01943824.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/duang-prateep-foundation",
+     "file": "unknown_95ac7dffc2e3.jpg"
+    }
+   ],
+   "topLabel": "โปรโมชั่นและกิจกรรม"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.section5|img,lst,hd,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "unknown_3d50066cf118.jpg",
+   "repUrl": "https://babylove.co.th/diaper-tips",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/diaper-tips",
+     "file": "unknown_3d50066cf118.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/easy-tape",
+     "file": "unknown_ac0c385d6fb5.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/articles",
+     "file": "unknown_28680a95dc33.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/diaper-tips",
+     "file": "unknown_99bdf00a64cd.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/products",
+     "file": "unknown_909df3038c30.jpg"
+    }
+   ],
+   "topLabel": "ผลิตภัณฑ์ของเรา"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_e65a83d4bf8b.jpg",
+   "repUrl": "https://babylove.co.th/",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/",
+     "file": "unknown_e65a83d4bf8b.jpg"
+    },
+    {
+     "url": "http://www.babylove.co.th/",
+     "file": "unknown_abca5eca0f37.jpg"
+    }
+   ],
+   "topLabel": "บทความน่าเลิฟ"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.script7.section3|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_cd0c525e24fe.jpg",
+   "repUrl": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+     "file": "unknown_cd0c525e24fe.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/contact",
+     "file": "unknown_8cf89b6acb87.jpg"
+    }
+   ],
+   "topLabel": "ติดต่อเรา"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::header|div2.h11|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_6499c5431959.jpg",
+   "repUrl": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+     "file": "unknown_6499c5431959.jpg"
+    }
+   ],
+   "topLabel": "SSL handshake failed Error code 525"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div1.section3|img,tbl,lst,ifr,hd,aN,iN",
+   "instances": 17,
+   "pagesFound": 17,
+   "repFile": "video_79c84a277c60.jpg",
+   "repUrl": "https://babylove.co.th/tvc/babylove-daynight-husband",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/en/mother-class/encourage-baby-development-head-control",
+     "file": "video_963d478558f4.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/tvc",
+     "file": "video_c8642feef6dc.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/tvc/tvc-hypoallergenic",
+     "file": "video_a06078c406ee.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/en/tvc/tvc30sec",
+     "file": "video_619025cd12e2.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/mother-class",
+     "file": "video_a9b2bb7be48e.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/mother-class/child-development-learning-to-stand-and-walk",
+     "file": "video_df1b73235c73.jpg"
+    }
+   ],
+   "topLabel": "ภาพยนตร์โฆษณา"
+  },
+  {
+   "base": "video",
+   "key": "video::div|section2|img,ifr,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "video_feb83bb33264.jpg",
+   "repUrl": "https://babylove.co.th/promotions/chitchat-share-mothers-style-babylove",
+   "samples": [
+    {
+     "url": "https://babylove.co.th/promotions",
+     "file": "video_5ef3d0395e70.jpg"
+    },
+    {
+     "url": "https://babylove.co.th/promotions/chitchat-share-mothers-style-babylove",
+     "file": "video_feb83bb33264.jpg"
+    }
+   ],
+   "topLabel": "โปรโมชั่นและกิจกรรม"
+  }
+ ]
+}

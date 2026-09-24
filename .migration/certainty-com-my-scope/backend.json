@@ -1,0 +1,39 @@
+{
+ "captured": "2026-09-24T04:32:26.845Z",
+ "sampledPages": 5,
+ "firstPartyDomain": "com.my",
+ "totalServices": 1,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 3,
+   "endpoints": [
+    "POST www.google-analytics.com/j/collect",
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 5,
+   "coverage": "100%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "mpc-prod-25-s6uit34pua-wl.a.run.app",
+   "pages": 5,
+   "sample": "POST mpc-prod-25-s6uit34pua-wl.a.run.app/events"
+  }
+ ]
+}

@@ -1,0 +1,362 @@
+{
+ "captured": "2026-09-24T04:54:12.665Z",
+ "renderedPages": 81,
+ "distinctSignatures": 12,
+ "templates": [
+  {
+   "signature": "list>list>text",
+   "family": "list",
+   "rendered": 35,
+   "estPop": 35,
+   "urls": [
+    "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B8%81-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89",
+    "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/6-%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87",
+    "https://babylove.co.th/about/%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81",
+    "https://babylove.co.th/about/babylove",
+    "https://babylove.co.th/baby-tips/adenovirus-in-children",
+    "https://babylove.co.th/baby-tips/care-baby-rash",
+    "https://babylove.co.th/baby-tips/ipd-in-children",
+    "https://babylove.co.th/baby-tips/clingy-baby-from-often-holding"
+   ],
+   "sections": {
+    "%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81": 1,
+    "%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88": 1,
+    "about": 3,
+    "baby-tips": 9,
+    "contact": 1,
+    "diaper-tips": 7,
+    "easy-tape": 1,
+    "articles": 1,
+    "(home)": 1,
+    "parent-tips": 9,
+    "products": 1
+   },
+   "locales": {
+    "root": 28,
+    "en": 7
+   },
+   "blockCountMode": {
+    "3": 35
+   },
+   "topSections": [
+    "baby-tips(9)",
+    "parent-tips(9)",
+    "diaper-tips(7)",
+    "about(3)",
+    "%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81(1)"
+   ],
+   "topLocales": [
+    "root:28",
+    "en:7"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>table>text",
+   "family": "table",
+   "rendered": 25,
+   "estPop": 25,
+   "urls": [
+    "https://babylove.co.th/diaper-tips/5-signs-baby-diaper-too-small",
+    "https://babylove.co.th/diaper-tips/choosing-the-right-baby-diaper-size",
+    "https://babylove.co.th/en/mother-class/encourage-baby-development-head-control",
+    "https://babylove.co.th/en/tvc",
+    "https://babylove.co.th/en/products/easy-tape",
+    "https://babylove.co.th/en/tvc/tvc-hypoallergenic",
+    "https://babylove.co.th/en/tvc/tvc30sec",
+    "https://babylove.co.th/mother-class"
+   ],
+   "sections": {
+    "diaper-tips": 2,
+    "mother-class": 6,
+    "tvc": 11,
+    "products": 6
+   },
+   "locales": {
+    "root": 20,
+    "en": 5
+   },
+   "blockCountMode": {
+    "3": 25
+   },
+   "topSections": [
+    "tvc(11)",
+    "mother-class(6)",
+    "products(6)",
+    "diaper-tips(2)"
+   ],
+   "topLocales": [
+    "root:20",
+    "en:5"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "list>text>media>text>list>text>text",
+   "family": "media+text",
+   "rendered": 8,
+   "estPop": 8,
+   "urls": [
+    "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+    "https://babylove.co.th/promotions/baby-kid-best-buy-2017",
+    "https://babylove.co.th/promotions/baby-love-shares-happiness-pak-kret-childrens-home",
+    "https://babylove.co.th/promotions/babycharity",
+    "https://babylove.co.th/promotions/diy-diaper-boxes",
+    "https://babylove.co.th/promotions/duang-prateep-foundation",
+    "https://babylove.co.th/promotions/the-best-brands-baby-diapers-2020",
+    "https://babylove.co.th/promotions/nepal-disaster-donation"
+   ],
+   "sections": {
+    "%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1": 1,
+    "promotions": 7
+   },
+   "locales": {
+    "root": 8
+   },
+   "blockCountMode": {
+    "7": 8
+   },
+   "topSections": [
+    "promotions(7)",
+    "%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1(1)"
+   ],
+   "topLocales": [
+    "root:8"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "media>list>media>list>text>media>list>text",
+   "family": "media+text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://babylove.co.th/",
+    "http://www.babylove.co.th/"
+   ],
+   "sections": {
+    "(home)": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "8": 2
+   },
+   "topSections": [
+    "(home)(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "list>text>media>list>text>text",
+   "family": "media+text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://babylove.co.th/baby-tips/0-3months",
+    "https://babylove.co.th/baby-tips"
+   ],
+   "sections": {
+    "baby-tips": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "baby-tips(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "(empty)",
+   "family": "empty",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://babylove.co.th/en/online-shopping",
+    "https://babylove.co.th/redirect"
+   ],
+   "sections": {
+    "online-shopping": 1,
+    "redirect": 1
+   },
+   "locales": {
+    "en": 1,
+    "root": 1
+   },
+   "blockCountMode": {
+    "0": 2
+   },
+   "topSections": [
+    "online-shopping(1)",
+    "redirect(1)"
+   ],
+   "topLocales": [
+    "en:1",
+    "root:1"
+   ],
+   "name": "minimal-page"
+  },
+  {
+   "signature": "list>iframe-embed>media>text>list>text>text",
+   "family": "embed",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://babylove.co.th/promotions",
+    "https://babylove.co.th/promotions/chitchat-share-mothers-style-babylove"
+   ],
+   "sections": {
+    "promotions": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "7": 2
+   },
+   "topSections": [
+    "promotions(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "embed-page"
+  },
+  {
+   "signature": "list>list",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2"
+   ],
+   "sections": {
+    "%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "text>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://babylove.co.th/%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C"
+   ],
+   "sections": {
+    "%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "list>text>list>text>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://babylove.co.th/parent-tips"
+   ],
+   "sections": {
+    "parent-tips": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "parent-tips(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "text>text>list>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://babylove.co.th/products/day-night-pants-plus"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "list>table",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://babylove.co.th/tvc/tvc-hypoallergenic"
+   ],
+   "sections": {
+    "tvc": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "tvc(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  }
+ ]
+}

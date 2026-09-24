@@ -1,0 +1,164 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/certainty-co-th-scope
+▶ site: https://certainty.co.th/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 596
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 22
+Pattern groups (>= 2): 16 - covering 590 pages -> sampled to ~61
+Long-tail unique pages (rendered in full): 6
+=> RENDER SET SIZE: 67
+
+Top 30 pattern groups:
+   93 -> 4 sampled   /{malformed}
+   71 -> 4 sampled   /blogs/{slug}
+   62 -> 4 sampled   /how_to_care_for_seniors/{slug}
+   61 -> 4 sampled   /faq/{slug}
+   59 -> 4 sampled   /how_to_care_for_seniors/{section}
+   59 -> 4 sampled   /blogs/{section}
+   59 -> 4 sampled   /faq/{section}
+   58 -> 4 sampled   /news-and-activities/{section}
+   28 -> 4 sampled   /blogs/{section}/{slug}
+   10 -> 4 sampled   /product/{section}
+    8 -> 4 sampled   /how_to_care_for_seniors/{section}/{slug}
+    7 -> 4 sampled   /{page}
+    6 -> 4 sampled   /news-and-activities/{section}/{slug}
+    4 -> 4 sampled   /product/{slug}
+    3 -> 3 sampled   /news-and-activities/{slug}
+    2 -> 2 sampled   /blogs/{section}/{page}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 67
+Distinct layout signatures: 25
+
+=== Layout templates (est. full-population pages) ===
+    8 pp  rendered=  8   breadcrumb-page  nav>breadcrumbs>text>list>text                 |  faq(7) how_to_care_for_seniors(1)
+    6 pp  rendered=  6   breadcrumb-page  breadcrumbs>text>text>list                     |  news-and-activities(3) blogs(2) howtochoose(1)
+    6 pp  rendered=  6   media-article    media>nav>breadcrumbs>text>list                |  blogs(4) how_to_care_for_seniors(1) questionnaire(1)
+    6 pp  rendered=  6   breadcrumb-page  nav>breadcrumbs>text>text>text>text>list>text  |  product(6)
+    5 pp  rendered=  5   breadcrumb-page  breadcrumbs>text>text>text>list                |  blogs(3) news-and-activities(2)
+    4 pp  rendered=  4   media-article    media>nav>breadcrumbs>text>list>text           |  blogs(2) faq(2)
+    4 pp  rendered=  4   media-article    nav>breadcrumbs>media>list>text                |  how_to_care_for_seniors(4)
+    3 pp  rendered=  3   breadcrumb-page  nav>breadcrumbs>list>text>list>text            |  blogs(3)
+    3 pp  rendered=  3   embed-page       nav>breadcrumbs>iframe-embed>cards>list>text   |  how_to_care_for_seniors(3)
+    3 pp  rendered=  3   breadcrumb-page  breadcrumbs>text>text>text>text>list           |  product(2) keyofdispler(1)
+    2 pp  rendered=  2   breadcrumb-page  nav>breadcrumbs>text>text>list>text            |  blogs(2)
+    2 pp  rendered=  2   card-grid        media>nav>breadcrumbs>cards>list               |  news-and-activities(2)
+    2 pp  rendered=  2   card-grid        nav>breadcrumbs>cards>list>text                |  news-and-activities(2)
+    2 pp  rendered=  2   embed-page       breadcrumbs>text>iframe-embed>text>list        |  news-and-activities(2)
+    1 pp  rendered=  1   minimal-page     (empty)                                        |  blogs(1)
+    1 pp  rendered=  1   accordion-page   media>text>text>accordion>text>list            |  (home)(1)
+    1 pp  rendered=  1   data-table       nav>breadcrumbs>table>text>list>text           |  blogs(1)
+    1 pp  rendered=  1   media-article    media>nav>breadcrumbs>text>text>list           |  faq(1)
+    1 pp  rendered=  1   media-article    breadcrumbs>media>text>list                    |  how_to_care_for_seniors(1)
+    1 pp  rendered=  1   breadcrumb-page  media>nav>breadcrumbs>media>list               |  how_to_care_for_seniors(1)
+    1 pp  rendered=  1   media-article    media>nav>breadcrumbs>media>list>text          |  how_to_care_for_seniors(1)
+    1 pp  rendered=  1   embed-page       breadcrumbs>text>iframe-embed>cards>list       |  how_to_care_for_seniors(1)
+    1 pp  rendered=  1   card-grid        media>nav>breadcrumbs>cards>list>text          |  news-and-activities(1)
+    1 pp  rendered=  1   embed-page       nav>breadcrumbs>iframe-embed>text>list>text    |  news-and-activities(1)
+    1 pp  rendered=  1   media-article    nav>breadcrumbs>media>text>list>text           |  why_certainty(1)
+
+=== Third-party integrations detected ===
+  280 Other third-party: a.plerdy.com
+  165 Google Tag Manager
+   66 Meta (Facebook) Pixel
+   63 Other third-party: sdk.kensento.com
+   53 TikTok Pixel
+   50 Google Ads/DoubleClick
+   31 Other third-party: d.line-scdn.net
+    7 YouTube embed
+
+=== Global objects ===
+  66 dataLayer
+  63 google_tag_manager
+  55 gtag
+  31 fbq
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 311
+Total variants: 26
+
+=== Base type -> variants / instances ===
+ 148 inst   11 variants   unknown
+  66 inst    1 variants   breadcrumbs
+  34 inst    4 variants   media
+  33 inst    2 variants   text
+  21 inst    3 variants   cards
+   7 inst    3 variants   video
+   1 inst    1 variants   accordion
+   1 inst    1 variants   table
+
+=== Top 20 variants ===
+  67 x   unknown       pages= 67   footer|div1|img,lst,aN,iN
+  66 x   breadcrumbs   pages= 66   div|div1|lst,aN,iN
+  31 x   text          pages= 31   div|div1|aN,iN
+  22 x   media         pages= 22   div|img1|img,aN,iN
+  18 x   unknown       pages= 18   section|div1.img2|img,hd,aN,iN
+  18 x   unknown       pages= 10   section|div1|img,hd,aN,iN
+  17 x   unknown       pages= 17   section|div2.img1|img,hd,aN,iN
+  12 x   unknown       pages= 12   section|div2|img,hd,aN,iN
+  10 x   media         pages= 10   section|div2.img1|img,hd,aN,iN
+   9 x   cards         pages=  9   section|div1|img,hd,aN,iN
+   9 x   unknown       pages=  7   div|div1.img1|img,hd,aN,iN
+   8 x   cards         pages=  8   section|div2.img1|img,hd,aN,iN
+   4 x   cards         pages=  4   section|div1.img2|img,hd,aN,iN
+   4 x   video         pages=  4   section|div2.img1|img,ifr,hd,aN,iN
+   3 x   unknown       pages=  3   div|div1.img1|img,lst,hd,aN,iN
+   2 x   text          pages=  2   section|div1|hd,aN,iN
+   2 x   video         pages=  2   section|div2|img,ifr,hd,aN,iN
+   1 x   accordion     pages=  1   section|div1|img,lst,hd,aN,iN
+   1 x   media         pages=  1   section|div1|img,aN,iN
+   1 x   media         pages=  1   section|div1.picture1|img,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 22 template groups | full: 6 sampled: 15 excluded: 1
+pages — inspected: 66 skipped: 532 non-200: 2 of 598 urls
+
+=== Template groups (by size) ===
+  G00    93  sampled   /{malformed}                      Malformed / double-encoded URLs
+  G01    71  sampled   /blogs/{slug}                     Blogs section pages
+  G02    62  sampled   /how_to_care_for_seniors/{slug}   How_to_care_for_seniors section pages
+  G03    61  sampled   /faq/{slug}                       Faq section pages
+  G04    59  sampled   /how_to_care_for_seniors/{section}  How_to_care_for_seniors section pages
+  G05    59  sampled   /blogs/{section}                  Blogs section pages
+  G06    59  sampled   /faq/{section}                    Faq section pages
+  G07    58  sampled   /news-and-activities/{section}    News-and-activities section pages
+  G08    28  sampled   /blogs/{section}/{slug}           Blogs sub-pages
+  G09    10  sampled   /product/{section}                Product section pages
+  G10     8  sampled   /how_to_care_for_seniors/{section}/{slug}  How_to_care_for_seniors sub-pages
+  G11     7  sampled   /{page}                           Root-level product & marketing pages
+  G12     6  sampled   /news-and-activities/{section}/{slug}  News-and-activities sub-pages
+  G13     4  full      /product/{slug}                   Product section pages
+  G14     4  sampled   /news-and-activities/{slug}       News-and-activities section pages
+  G15     3  sampled   /blogs/{section}/{page}           Blogs sub-pages
+  G16     1  excluded  /                                 Homepage & root
+  G17     1  full      /how_to_care_for_seniors          How_to_care_for_seniors — landing
+  G18     1  full      /blogs                            Blogs — landing
+  G19     1  full      /faq                              Faq — landing
+  G20     1  full      /news-and-activities              News-and-activities — landing
+  G21     1  full      /faq/{section}/{slug}             Faq sub-pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 10 | first-party domain: co.th
+Probable backend integrations: 3 | unclassified hosts: 4
+
+=== By category ===
+  1 Advertising
+  1 Analytics
+  1 Video
+
+=== Services (by page coverage) ===
+  4pg  Advertising                 Google Ads / DoubleClick
+  4pg  Analytics                   Google Analytics (GA4)
+  2pg  Video                       Video platform API
+▶ [11/12] compute supplementary data
+compute-data: live pages 596 | structure groups 4 | docs 0 | url groups 13 | layout heatmap rows 7 | block heatmap rows 8 | integrations 8
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/certainty-co-th-site-analysis-dashboard.html 16.22 MB
+templates: 7 galleries: Cards:3, Accordion:1, Table:1, Media:4, Video:3, Breadcrumbs:1, Text:2, Unknown / Custom:11
+IMAGES: 26 TEMPLATE_SHOTS: 7
+✅ done.

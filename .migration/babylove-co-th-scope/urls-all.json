@@ -1,0 +1,2520 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T04:52:19.535Z",
+    "totalUrls": 619,
+    "totalDocuments": 5,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 588,
+      "redirect": 0,
+      "clientError": 31,
+      "serverError": 1,
+      "errorTimeout": 4
+    },
+    "urls": [
+      {
+        "url": "https://babylove.co.th/en",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/about/babylove",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/new-born",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/easy-tape",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/play-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/power-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/day-night-pants-plus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/smile-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/antimos",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/toys-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/talky-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/big-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/long-lasting-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/kawaii-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/products/natural-care-baby-wipes",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/distribution",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/promotions",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/articles",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/calculator",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-chart",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/contact",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/online-shopping",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/postpartum",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/0-3months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/4-6months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/7-12months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/1-2years",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/2-3years",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/member/terms-and-condition",
+        "status": 403
+      },
+      {
+        "url": "https://babylove.co.th/en/privacypolicy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/contact-dermatitis-vs-skin-allergy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/train-your-child-potty",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/disposable-diapers-cause-physiologic-bow-legs",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/diaper-rash",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/wear-diapers-comfortably-insummer",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/how-many-time-change-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/howto-change-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/when-using-disposable-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/disposable-diapers-madeof",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/choose-the-right-size-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/tape-or-pant-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/benefits-disposable-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diapertips/index.php?page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/member",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/promotions/babylove-shareshappiness-mirror-foundation",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/promotions/babylove-shares-happiness-giving-diapers-to-pakkred-babies-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/new-born",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/easy-tape",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/play-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/day-pants-plus",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/antimos",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/power-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/smile-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/talky-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/toys-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/big-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/kawaii-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/long-lasting-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/en/natural-care-baby-wipes",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=eda56f781f350442ecde248919e591de",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=56b7a5a33440f062a7502029e3b55438",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=2e53a1a705243c3bd6d4d6c330750d55",
+        "status": 502
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=3313f393c7eddd8628dabd11419e6cf8",
+        "status": 403
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=c774d04744804d209c2319fe5cb15d74",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=0d820c33574ea001b68d6e619cf2dd29",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=9655e056a6ddacab5c285e2fb19bcb66",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=ff2fc9f56457d0cd4f7101c85fb98436",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=ebc556c4f7d6eabad5591a5640e18a70",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=eff08594ed97927ee9a5b78be37cd7f7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=9938fce24943f811745fbf58d61f627b",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=f0085bece0098f63774dcdba10bcff97",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=27de55fef9a0aadb8042983a2680177c",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=25131aa63b81ac9ba1083b51d8c52d9e",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=af9717511074406a1408b9a04661d399",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=bc1f36bc1a445300289a3e9279cc90e4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=c2e70fb30903b1094d5a5e07d67db676",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=284e6188b8e9c076e362d022dbacc9e6",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=6c18a10dee9d97f45c5500845c7a53bd",
+        "status": 403
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=0c6f085257272066be378e1297cc050b",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=a12463f9fb7c1ed0de6550a947b49aed",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=dde090da7c8bc7fa476ee908273c18ea",
+        "status": 403
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=eb74fd5bb43dbdcebb8a4a69d8430730",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=67866557f76bbce4bf8547ad32da19f7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=2763ecf292a598106aea8d549c59f226",
+        "status": 403
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/first-trimester-pregnancy-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/4-trips-to-take-care-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/first-pregnant-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/mother-natural-childbirth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/mother-approaching-labor-signs",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/zika-virus-in-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/postpartum-depression",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/5-complications-pregnant-women-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/10-tips-new-mothers-should-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/tips-for-breastfeeding-babies-during-the-spread-of-covid-19",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/can-pregnant-women-and-breastfeeding-mothers-get-covid-19-vaccination",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/clean-recipes-postpartum-moms",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/mum.php?page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/influenza-b-symptoms-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/how-pm25-affects-baby-health-and-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/risk-of-measles-among-baby-in-winter",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/child-frequent-sore-throat-tonsillitis-signs",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/respiratory-diseases-should-be-aware",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/beware-scarlet-fever",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/whooping-cough-how-mom-should-handle-it",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/norovirus-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/dealing-with-diaper-rash-fungus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/pneumonia-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/symptoms-for-sinusitis-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/influenza-a-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/bath-newbornbaby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/newborn-swaddling-techniques",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/changing-tapediaper",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/taking-care-baby-sensitive-skin",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/baby-sleep-training",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/tell-if-baby-getting-enough-milk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/encourage-baby-development-head-control",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/change-pants-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/encourage-baby-development-rolling-over",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/encourage-the-development-6-8-month",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/stimulate-baby-development-crawling",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/mother-class/stimulate-baby-development-standing-walking",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/member",
+        "status": 403
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/about/babylove",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/new-born",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/easy-tape",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/play-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/power-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/day-night-pants-plus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/smile-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/antimos",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/toys-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/talky-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/big-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/long-lasting-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/kawaii-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/natural-care-baby-wipes",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/distribution",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/articles",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/calculator",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaperchart",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/contact",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/postpartum",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/0-3months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/4-6months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/7-12months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/1-2years",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/2-3years",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/safe-foods-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/first-trimester-pregnancy-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/5-monsoon-diseases-in-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/difference-between-hfmd-and-chickenpox",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/privacypolicy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/behindthescene-husband-daynightpants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/bumper-daynightpantsplus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/bumper-playpants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/tvc-hypoallergenic",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/mothersday-chompoo",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/behind-the-scene-ep4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/behind-the-scene-ep3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/behind-the-scene-ep2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/behind-the-scene-ep1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/tvc30sec",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/tvc/tvc15sec",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/parent-tips/tips-to-overcome-morning-sickness",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/ipd-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/adenovirus-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/hives-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/how-to-handle-baby-with-cold",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/herpangina2023",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=1&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=1&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=1&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=2&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=2&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=3&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=3&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=3&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=4&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=4&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=5&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diaper-tips/disposable-diapersmuslin-cloth-iapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/diapertips/index.php?page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=9da538a2bd05f6a67f24e96474e7c57b",
+        "status": 0
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=ce6d43bf7b02d0f440205290e965e50b",
+        "status": 0
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/handle-morning-sickness",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/mum.php?page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/influenza-a-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/symptoms-for-sinusitis-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/brain-development-tip-the-first-year",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/common-symptoms-in-newborns",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/8-tips-to-prevent-baby-from-heatstroke",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/pneumonia-in-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/promote-good-eating-habits-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/most-frequent-illnesses-among-babies",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/12-knowledge-hand-foot-and-mouth-disease-in-child",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/solving-constipation-among-babies-is-easy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/no-secret-tips-to-promote-development-of-0-to-6-year-old-babies",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/babies-development-how-to-choose-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/skin-rash",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/whooping-cough-how-mom-should-handle-it",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/development-from-newborn-to-4-month",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/infants-1-3-months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/hot-diseases-for-which-parents-should-watch-out-in-summer",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/respiratory-diseases-should-be-aware",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/if-babies-stool-is-green",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/popular-diseases-in-young-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/baby-rash",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/the-power-of-music",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/how-to-choose-good-diapers-for-babies",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/new-covid-variant-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/tips-forfirst-week-postpartum",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/take-care-of-your-baby-oral-health-from-birth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/easy-to-make-food-for-children-of-6-months-to-1-year",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/blood-group-causes-of-jaundice-in-newborn-babies",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/childrens-green-mucus-might-be-a-sign-of-diseases-and-illness-in-cold-weather",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/ultimate-tips-that-nobody-ever-tells-you-on-choosing-dry-and-comfy-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/newborn-baby-poop",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/baby-rash-for-mom-2023",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/covid-19-and-tips-for-disposable-diaper-selection",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/ipd-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/your-babys-excrement-is-more-important-than-you-think",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/laugh-tumor",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/beware-of-rove-beetle",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/how-to-protect-the-newborn-from-covid-19",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/introducing-super-food-to-strengthen-childrens-immunity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/dengue-fever-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/5-signs-baby-diaper-too-small",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/type-of-diaper-fit-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/contact-dermatitis-vs-skin-allergy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/train-baby-go-to-bathroom",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/baby-bowed-legs",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/baby-diaper-rash",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/wear-diapers-in-summer",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/how-often-to-change-baby-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/how-to-change-baby-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/what-age-should-baby-use-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/what-disposable-diapers-are-made",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/choosing-the-right-baby-diaper-size",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips?page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1/babycharity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/new-born",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/easy-tape",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/play-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/day-pants-plus",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/antimos",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/power-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/smile-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/talky-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/toys-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/big-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/kawaii-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/long-lasting-pants",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/natural-care-baby-wipes",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/promotions/babylovesong2023",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/babycharity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/diy-diaper-boxes",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/pak-kret-foster-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/duang-prateep-foundation",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-melody-love-since-pregnancy-set",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-share-love-share-happiness-pak-kret-childrens-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/the-best-brands-baby-diapers-2020",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-shares-happiness-pak-kret-childrens-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-shares-happiness-mirror-foundation",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/daddy-dance-activity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/hypo-allergenic",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/event-tescolotus-aug18",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-joins-robinson-in-sharing-kindness",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/babylove-mybabymywayevent",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-shares-kindness",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/babybash2nd",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-kid-best-buy-2017",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/flood-relief-in-southern-2560",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/fastest-crawling-baby-2016",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/nepal-disaster-donation",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/paula-participated-exhibition-activities-diaper-exchange-day",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/baby-love-joins-in-donating-diapers-to-help-children-in-nepal",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/promotions/chitchat-share-mothers-style-babylove",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/4-trips-to-take-care-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/first-pregnant-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/mother-natural-childbirth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/mother-approaching-labor-signs",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/zika-virus-in-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/postpartum-depression",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/5signal-pregnant-woman-must-be-careful",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-should-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/signs-of-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/breastfeeding-covid-19",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/speech-delay-in-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/signs-of-dehydration-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/direct-latch-vs-bottle-feeding-comparison",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/infant-development-checklist",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/influenza-b-symptoms-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-pm25-affects-baby-health-and-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/essential-baby-winter-travel-checklist",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/winter-diaper-guide-sensitive-skin-babies",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/risk-of-measles-among-baby-in-winter",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/clingy-baby-from-often-holding",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=11",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/tips-for-bathing-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/how-to-wrap-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/how-to-change-disposable-tape-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/care-baby-sensitive-skin",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/train-baby-to-sleep-on-their-own",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/baby-getting-enough-milk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/babys-development-neck-raising",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/how-to-change-disposable-pants-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/stimulating-development-rolingl-over",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/baby-6-8-months-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/stimulate-development-baby-crawling",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/mother-class/child-development-learning-to-stand-and-walk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/babylove-playpants-premium-tvc",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/babylove-playpantspremium-behindthescene",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/babylove-daynight-husband",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/behindthescene-husband-daynightpants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/bumper-playpants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/bumper-daynightpantsplus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/tvc-hypoallergenic",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/mothersday-chompoo",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/behind-the-scene-ep4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/behind-the-scene-ep3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/behind-the-scene-ep2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/behind-the-scene-ep1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/tvc30sec",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/tvc/tvc15sec",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/covid-19-vaccines-during-pregnancy-and-breastfeeding",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/prepare-for-childbirth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?type=1&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?type=1&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?type=1&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/baby-diapers-knowledge",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/exercise-after-giving-birth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/self-postpartum-yoga",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/fathers-raise-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/family-trip-build-relationship",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/mothers-after-giving-birth-insomnia",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/postpartum-moms-food",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/child-frequent-sore-throat-tonsillitis-signs",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/new-mom-guide-baby-food-newborn-to-3-years",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/covid-omicron-xec",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/beware-scarlet-fever",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=8",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=8",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-choose-diapers-protect-baby-from-dengue-mosquitoes",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=9",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=5&page=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=5&page=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=5&page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-mom-sleeping-positions",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/adjusting-to-parenthood",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/estimating-babys-body-length",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/yoga-conquers-anxiety-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-chic-fashion-recommendations",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-mom-sleep-problems",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/best-food-baby-brain-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/baby-foot-trip-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/careful-rsv-viruses-in-rainy-season",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/hmpv-virus-during-rainny-season",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/careful-dengue-fever-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/playing-with-your-child-during-first-year",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-travel-checklist",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/solve-your-child-difficulty-eating",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/4-easy-activities-to-improve-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/about/%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%A7%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/about/%E0%B9%80%E0%B8%AB%E0%B8%95%E0%B8%B8%E0%B8%9C%E0%B8%A5%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B8%B4%E0%B8%9F",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/about/%E0%B8%AA%E0%B9%88%E0%B8%87%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B8%B1%E0%B8%81",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/premium-gold-tape",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/premium-gold-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/night-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/products/day-pants-plus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B9%82%E0%B8%9B%E0%B8%A3%E0%B9%82%E0%B8%A1%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%99%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B4%E0%B8%88%E0%B8%81%E0%B8%A3%E0%B8%A3%E0%B8%A1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%AA%E0%B8%B1%E0%B9%88%E0%B8%87%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B8%AD%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%A5%E0%B8%99%E0%B9%8C",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/common-syptoms-in-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/growth-hormone-with-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/6-months-baby-food-recipes",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/babys-milk-quantity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/drink-water-after-milk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/new-covid-variant-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/%E0%B8%9B%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%84%E0%B8%A7%E0%B8%A3%E0%B8%B1%E0%B8%AA%E0%B9%82%E0%B8%84%E0%B9%82%E0%B8%A3%E0%B8%99%E0%B9%88%E0%B8%B2-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/basic-care-for-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%9C%E0%B8%B7%E0%B9%88%E0%B8%99-%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%81%E0%B8%A7%E0%B8%99%E0%B9%83%E0%B8%88%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%9E%E0%B9%88%E0%B8%AD%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=1&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/how-to-take-care-of-your-childrens-oral-health-since-they-were-born",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=2&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=3&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=4&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/baby-tips/the-right-amount-of-nutrients-for-1-3-year-old-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/en/article/baby.php?type=5&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/how-to-pregnant-mom-sick",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/bathing-you-baby-0-1-year",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-poop-color-mean",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/8-tips-to-prevent-baby-from-heatstroke",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-green-snot",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/pneumonia-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/7-how-to-prevent-rsv-virus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/your-baby-will-be-healthy-with-colorful-food",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/tips-for-stimulating-language-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/mothers-touch-and-hug",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/training-your-child-to-sleep-appropriate-age",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/take-care-baby-to-avoid-diarrhea",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-much-sleep-your-child-need-by-age",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/colorful-toys-and-your-childs-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/5-heartwarming-moments-with-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/newborn-baby-care-basic",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/aware-your-baby-during-summer",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-deal-with-summer-illnesses-in-your-child",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-uncontrollable-laughing-gelastic-seizure",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/beware-of-rove-beetle",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-care-babys-skin-avoid-irritation",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/nightime-diaper-mother-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/choosing-baby-diapers-first-year",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/childhood-obesity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/6%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%A2%E0%B8%AD%E0%B8%94%E0%B8%AE%E0%B8%B4%E0%B8%95%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%9E%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%A5%E0%B8%A1%E0%B8%AB%E0%B8%99%E0%B8%B2%E0%B8%A7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/essential-items-you-for-a-comfortable-trip",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/checklist-september",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/music-help-your-children-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/food-poisoning-in-baby-during-summer",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/choosing-between-diaper-pants-and-disposable-tape-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/dealing-with-diaper-rash-fungus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/choosing-between-salu-diapers-and-disposable-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips/advantages-disposable-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/diaper-tips?page=1",
+        "status": 200
+      },
+      {
+        "url": "http://www.babylove.co.th/",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/drink-coffee-while-pregnant",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/beliefs-in-pregnant-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/ultrasound-frequently-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/10%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%99%E0%B9%88%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B9%89%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B9%83%E0%B8%AB%E0%B8%A1%E0%B9%88",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/hair-loss-with-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnancy-vaccine",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnancy-mom-symptoms",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/%E0%B8%84%E0%B8%99%E0%B9%83%E0%B8%81%E0%B8%A5%E0%B9%89%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%88%E0%B8%B4%E0%B8%95%E0%B9%83%E0%B8%88%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87%E0%B9%80%E0%B8%A1%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%80%E0%B8%A3%E0%B8%B4%E0%B9%88%E0%B8%A1%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/natural-birth-or-cesarean-section",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-mothers-mental-health",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-mothers-best-food",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-mothers-avoid-food",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%9B%E0%B8%A3%E0%B8%B2%E0%B8%9A%E0%B8%AD%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9E%E0%B9%89%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/foods-that-pregnant-mothers-should-avoid",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/health-screening-important",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/unusual-pregnancy-placenta-previa",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/exercise-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/pregnant-mother-traveling-long-distance",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/self-pregnancy-yoga",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/vitamins-and-minerals-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/baby-hospital-bag-checklist",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/babys-hearing-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-choose-newborns-products",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/increased-weight-in-babies-born-prematurely",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-food-allergic",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/adenovirus-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-play-helps-your-children-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/care-baby-oral",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/things-to-know-about-children-aged-1-3-months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/early-feeding-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/breast-milk-the-best-natural-food",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/newborn-milk-intake",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/understand-the-physical-development-of-newborns",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/boost-baby-development-0-6-months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/neonatal-jaundice-in-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/signs-baby-does-not-get-enough-breastmilk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/newborn-urinating-abnormally-often",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-help-your-child-sleep-better",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-rash-problem",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-heat-rashes",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/preparing-your-baby-to-crawl",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/choosing-right-diapers-baby-age",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/cleaning-your-childs-items-and-toys-is-important",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/6-diseases-come-with-cold-winds",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/prepare-your-baby-first-steps",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/care-baby-sensitive-skin",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/5-green-leafy-vegetables-to-boost-childrens-immunity",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/rota-virus",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-development-from-birth-to-4-months",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/stimulate-first-year-child-development-through-play",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/norovirus-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/tips-for-adjusting-your-childs-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-choose-the-perfect-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/teacher-disease",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/hives-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-handle-baby-with-cold",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/symptom-and-danger-of-insomia",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/miraculous-natural-properties-breast-milk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/8-secret-to-develop-baby-brain",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/adjusting-first-week-childbirth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=10",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=9",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?type=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips?type=1&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/differences-between-cesarean-section-and-natural-birth",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/parent-tips/music-stimulates-baby-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/colic-not-scary-as-you-think",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-rash-for-mom-2023",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/fruits-and-vegetables-help-baby-constipation",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/trim-babys-nails",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/important-developments-in-each-age-group",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/herpangina2023",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/green-poop-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/superfoods-boost-baby-immune-system",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/protect-newborns-from-covid-19",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=1&page=6",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/vaccines-tool-prevent-diseases-for-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/constipation-in-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=2&page=6",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/what-symptoms-your-baby-drinking-too-much-milk",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/choosing-baby-disposable-diapers-in-covid-19-era",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/crawling-and-baby-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=8",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=4&page=6",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=5&page=1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=5&page=4",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/stimulate-development-through-play",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/enhance-babys-brain-development-even-when-they-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/%E0%B8%9B%E0%B8%B1%E0%B8%8D%E0%B8%AB%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C-%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B9%83%E0%B8%88",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/_system/_upload/_ckeditor/images/Asset%201.png",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/%E0%B8%97%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C-%E0%B8%AB%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%AA%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%97%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B8%A5%E0%B8%B9%E0%B8%81",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/8-%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%94%E0%B8%B5%E0%B8%95%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B8%84%E0%B8%A3%E0%B8%A3%E0%B8%A0%E0%B9%8C",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B3%E0%B8%84%E0%B8%B1%E0%B8%8D%E0%B9%83%E0%B8%99%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/newborn-belly-button-care",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/caring-your-childs-oral-health",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=6ff65aa6a01666f489d2f84190ce0234",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=89e3722626d4c5993080c0b806eee1ac",
+        "status": 404
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=751788a4d685e383e9e84248d460ccd1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=f66ce5b2c97221f628028c6fbbdf99c7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=a22aa8da457d09f6e2c149aa978f959e",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=819676be9792af73ecb1f9b7b43000c6",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=9b4aab98e706b36f70cb9e340969d25d",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/preventing-coronavirus-in-mom-and-baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%B2%E0%B8%93%E0%B8%99%E0%B8%A1%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%94%E0%B8%B7%E0%B9%88%E0%B8%A1%E0%B9%81%E0%B8%84%E0%B9%88%E0%B9%84%E0%B8%AB%E0%B8%99%E0%B8%96%E0%B8%B6%E0%B8%87%E0%B8%9E%E0%B8%AD%E0%B8%94%E0%B8%B5",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%A5%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%99%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%8A%E0%B8%B1%E0%B9%88%E0%B8%A7%E0%B9%82%E0%B8%A1%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1/%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B9%87%E0%B8%94%E0%B8%A5%E0%B8%B1%E0%B8%9A%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B8%81-%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%8A%E0%B9%88%E0%B8%A7%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/sleep-and-baby-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/choosing-best-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/baby-sleep-well-tip",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AB%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%81%E0%B8%A5%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B9%88%E0%B8%A7%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%9C%E0%B8%94%E0%B8%9C%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A1%E0%B8%B2%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%94%E0%B9%87%E0%B8%81%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%81-%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%A2%E0%B8%B1%E0%B8%87%E0%B9%84%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1/%E0%B8%9C%E0%B8%B7%E0%B9%88%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1-%E0%B9%82%E0%B8%A3%E0%B8%84%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%AB%E0%B8%99%E0%B8%B1%E0%B8%87%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AD%E0%B8%B2%E0%B8%88%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%A1%E0%B8%B2%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/create-eating-habits-for-your-child",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B9%80%E0%B8%84%E0%B8%A5%E0%B9%87%E0%B8%94%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B8%A5%E0%B8%B1%E0%B8%9A-%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%9A%E0%B8%AD%E0%B8%9A%E0%B8%9A%E0%B8%B2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%96%E0%B8%B9%E0%B8%81%E0%B8%AA%E0%B8%B8%E0%B8%82%E0%B8%A5%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B8%93%E0%B8%B0",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%84%E0%B8%B9%E0%B9%88%E0%B8%A1%E0%B8%B7%E0%B8%AD%E0%B8%97%E0%B8%B3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%AA%E0%B8%B0%E0%B8%AD%E0%B8%B2%E0%B8%94%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2-0-1-%E0%B8%9B%E0%B8%B5-%E0%B8%95%E0%B8%B1%E0%B9%89%E0%B8%87%E0%B9%81%E0%B8%95%E0%B9%88%E0%B8%AB%E0%B8%B1%E0%B8%A7%E0%B8%88%E0%B8%A3%E0%B8%94%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%9C%E0%B8%A5%E0%B8%B4%E0%B8%95%E0%B8%A0%E0%B8%B1%E0%B8%93%E0%B8%91%E0%B9%8C%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B8%97%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B9%81%E0%B8%A3%E0%B8%81%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1/%E0%B8%84%E0%B8%B8%E0%B8%93%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B9%80%E0%B8%9B%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%99%E0%B8%9C%E0%B9%89%E0%B8%B2%E0%B8%AD%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%AA%E0%B8%B3%E0%B9%80%E0%B8%A3%E0%B9%87%E0%B8%88%E0%B8%A3%E0%B8%B9%E0%B8%9B%E0%B8%A7%E0%B8%B1%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%84%E0%B8%A3%E0%B8%B1%E0%B9%89%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/care-baby-rash",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/%E0%B8%AD%E0%B8%B2%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%A7%E0%B8%A3%E0%B8%AB%E0%B8%A5%E0%B8%B5%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B9%81%E0%B8%A1%E0%B9%88/6-%E0%B9%80%E0%B8%A1%E0%B8%99%E0%B8%B9%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B9%81%E0%B8%A1%E0%B9%88%E0%B8%97%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%95%E0%B9%89%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B0%E0%B8%A7%E0%B8%B1%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/how-to-train-baby-to-eat-vegetable",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips/newborn-nutrition",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A5%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%9E%E0%B8%B1%E0%B8%92%E0%B8%99%E0%B8%B2%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/%E0%B8%9A%E0%B8%97%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%81%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7%E0%B8%81%E0%B8%B1%E0%B8%9A%E0%B8%A5%E0%B8%B9%E0%B8%81/%E0%B8%94%E0%B8%B9%E0%B9%81%E0%B8%A5%E0%B8%9C%E0%B8%B4%E0%B8%A7%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%99%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B9%84%E0%B8%A3%E0%B9%84%E0%B8%A1%E0%B9%88%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B9%80%E0%B8%81%E0%B8%B4%E0%B8%94%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%A3%E0%B8%B0%E0%B8%84%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%87",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=6",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=7",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?page=8",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/baby-tips?type=3&page=6",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/redirect?token=727cad3a5e6e966ecf894ff53f925d03",
+        "status": 0
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://babylove.co.th/downloads/pdf/baby-checklist.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/downloads/pdf/virus-smaller.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/downloads/pdf/babylove_winter-small.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/downloads/pdf/check-list_Sep17.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://babylove.co.th/downloads/pdf/checklist001.pdf",
+        "status": 0
+      }
+    ]
+  }
+}

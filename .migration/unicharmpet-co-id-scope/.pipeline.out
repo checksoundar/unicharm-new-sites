@@ -1,0 +1,102 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/unicharmpet-co-id-scope
+▶ site: https://unicharmpet.co.id/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 337
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 9
+Pattern groups (>= 2): 7 - covering 335 pages -> sampled to ~28
+Long-tail unique pages (rendered in full): 2
+=> RENDER SET SIZE: 30
+
+Top 30 pattern groups:
+  182 -> 4 sampled   /{page}
+   67 -> 4 sampled   /produk/{slug}
+   31 -> 4 sampled   /produk-tag/{section}
+   31 -> 4 sampled   /tag/{section}
+   13 -> 4 sampled   /tag/{slug}
+    6 -> 4 sampled   /category/{section}
+    5 -> 4 sampled   /produk-kategori/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 30
+Distinct layout signatures: 3
+
+=== Layout templates (est. full-population pages) ===
+   22 pp  rendered= 22   form-page        text>list>text>form                            |  tag(8) category(4) produk-kategori(4)
+    6 pp  rendered=  6   form-page        text>list>cards>form                           |  produk(2) 10-jenis-anjing-lucu-yang-cocok-dipelihara(1) dry-food-kucing-yang-bagus-untuk-kesehatan(1)
+    2 pp  rendered=  2   form-page        text>list>table>form                           |  produk(2)
+
+=== Third-party integrations detected ===
+   90 Google Tag Manager
+   60 Meta (Facebook) Pixel
+   56 Other third-party: idcool.codes
+   30 Google Ads/DoubleClick
+
+=== Global objects ===
+  30 dataLayer
+  30 google_tag_manager
+  30 fbq
+  30 wp
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 90
+Total variants: 9
+
+=== Base type -> variants / instances ===
+  30 inst    1 variants   form
+  30 inst    1 variants   text
+  21 inst    2 variants   unknown
+   4 inst    1 variants   accordion
+   2 inst    2 variants   cards
+   2 inst    1 variants   table
+   1 inst    1 variants   video
+
+=== Top 20 variants ===
+  30 x   form          pages= 30   footer|div4|img,frm,hd,aN,iN
+  30 x   text          pages= 30   div|div1|aN,iN
+  13 x   unknown       pages= 13   div|div2|img,hd,aN,iN
+   8 x   unknown       pages=  8   div|div1|img,hd,aN,iN
+   4 x   accordion     pages=  4   div|div2|img,lst,hd,aN,iN
+   2 x   table         pages=  2   div|div4|img,tbl,lst,hd,aN,iN
+   1 x   cards         pages=  1   div|div4|img,lst,hd,aN,iN
+   1 x   cards         pages=  1   div|div4|img,hd,aN,iN
+   1 x   video         pages=  1   div|div7|img,hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 9 template groups | full: 0 sampled: 0 excluded: 9
+pages — inspected: 0 skipped: 337 non-200: 0 of 337 urls
+
+=== Template groups (by size) ===
+  G00   182  excluded  /{page}                           Root-level product & marketing pages
+  G01    67  excluded  /produk/{slug}                    Produk section pages
+  G02    31  excluded  /produk-tag/{section}             Produk-tag section pages
+  G03    31  excluded  /tag/{section}                    Tag section pages
+  G04    13  excluded  /tag/{slug}                       Tag section pages
+  G05     6  excluded  /category/{section}               Category section pages
+  G06     5  excluded  /produk-kategori/{section}        Produk-kategori section pages
+  G07     1  excluded  /                                 Homepage & root
+  G08     1  excluded  /produk                           Produk — landing
+▶ [10/12] capture backend API calls (sample=40, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 6 | first-party domain: co.id
+Probable backend integrations: 2 | unclassified hosts: 3
+
+=== By category ===
+  1 Advertising
+  1 Analytics
+
+=== Services (by page coverage) ===
+  6pg  Advertising                 Google Ads / DoubleClick
+  6pg  Analytics                   Google Analytics (GA4)
+▶ [11/12] compute supplementary data
+compute-data: live pages 337 | structure groups 0 | docs 0 | url groups 188 | layout heatmap rows 1 | block heatmap rows 7 | integrations 4
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/unicharmpet-co-id-site-analysis-dashboard.html 4.79 MB
+templates: 1 galleries: Cards:2, Accordion:1, Table:1, Form:1, Video:1, Text:1, Unknown / Custom:2
+IMAGES: 9 TEMPLATE_SHOTS: 1
+✅ done.

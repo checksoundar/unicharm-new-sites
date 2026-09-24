@@ -1,0 +1,135 @@
+{
+  "queue": [],
+  "visited": [
+    "https://certainty.com.my/",
+    "https://certainty.com.my/contact",
+    "https://certainty.com.my/product/airy-drypants",
+    "https://certainty.com.my/product/dry-maxpants",
+    "https://certainty.com.my/about/what-is-adl",
+    "https://certainty.com.my/about/causes-of-incontinence",
+    "https://certainty.com.my/about/type-of-incontinence",
+    "https://certainty.com.my/about/symptoms-of-incontinence",
+    "https://certainty.com.my/about/incontinence-management",
+    "https://certainty.com.my/product/drypants",
+    "https://certainty.com.my/product/superpants",
+    "https://certainty.com.my/product/maxpants",
+    "https://certainty.com.my/product/tape",
+    "https://certainty.com.my/privacy-policy",
+    "https://certainty.com.my/certainty/privacy-policy",
+    "https://certainty.com.my/certainty/dasar-privasi"
+  ],
+  "urls": [
+    {
+      "url": "https://certainty.com.my/",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/"
+    },
+    {
+      "url": "https://certainty.com.my/contact",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/contact/"
+    },
+    {
+      "url": "https://certainty.com.my/product/airy-drypants",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/product/airy-drypants/"
+    },
+    {
+      "url": "https://certainty.com.my/product/dry-maxpants",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/product/dry-maxpants/"
+    },
+    {
+      "url": "https://certainty.com.my/about/what-is-adl",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/about/what-is-adl/"
+    },
+    {
+      "url": "https://certainty.com.my/about/causes-of-incontinence",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/about/causes-of-incontinence/"
+    },
+    {
+      "url": "https://certainty.com.my/about/type-of-incontinence",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/about/type-of-incontinence/"
+    },
+    {
+      "url": "https://certainty.com.my/about/symptoms-of-incontinence",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/about/symptoms-of-incontinence/"
+    },
+    {
+      "url": "https://certainty.com.my/about/incontinence-management",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/about/incontinence-management/"
+    },
+    {
+      "url": "https://certainty.com.my/product/drypants",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/product/airy-drypants/"
+    },
+    {
+      "url": "https://certainty.com.my/product/superpants",
+      "method": "crawl",
+      "status": 404,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/product/superpants"
+    },
+    {
+      "url": "https://certainty.com.my/product/maxpants",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/product/dry-maxpants/"
+    },
+    {
+      "url": "https://certainty.com.my/product/tape",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/"
+    },
+    {
+      "url": "https://certainty.com.my/privacy-policy",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/privacy-policy/"
+    },
+    {
+      "url": "https://certainty.com.my/certainty/privacy-policy",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/privacy-policy/"
+    },
+    {
+      "url": "https://certainty.com.my/certainty/dasar-privasi",
+      "method": "crawl",
+      "status": 200,
+      "retries": 0,
+      "finalUrl": "https://certainty.com.my/dasar-privasi/"
+    }
+  ]
+}
