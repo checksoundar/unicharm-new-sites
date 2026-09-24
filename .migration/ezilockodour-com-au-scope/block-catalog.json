@@ -1,0 +1,109 @@
+{
+ "captured": "2026-09-24T06:31:53.632Z",
+ "totalInstances": 10,
+ "totalVariants": 4,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 1,
+   "instances": 7
+  },
+  {
+   "base": "accordion",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "video",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_fdf2fbba183b.jpg",
+   "repUrl": "https://www.ezilockodour.com.au/faqs",
+   "samples": [
+    {
+     "url": "https://www.ezilockodour.com.au/faqs",
+     "file": "accordion_fdf2fbba183b.jpg"
+    }
+   ],
+   "topLabel": "FAQs"
+  },
+  {
+   "base": "table",
+   "key": "table::div|div1|img,tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_ab18673bebdd.jpg",
+   "repUrl": "https://www.ezilockodour.com.au/kits",
+   "samples": [
+    {
+     "url": "https://www.ezilockodour.com.au/kits",
+     "file": "table_ab18673bebdd.jpg"
+    }
+   ],
+   "topLabel": "Our kit options"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,hd,aN,iN",
+   "instances": 7,
+   "pagesFound": 7,
+   "repFile": "unknown_f96ca97b75da.jpg",
+   "repUrl": "https://www.ezilockodour.com.au/news/exploring-the-full-range-of-ezi-lockodour-dual-layer-cat-litter-systems-find-the-perfect-fit-for-your-feline",
+   "samples": [
+    {
+     "url": "https://www.ezilockodour.com.au/about",
+     "file": "unknown_544addb5e807.jpg"
+    },
+    {
+     "url": "https://www.ezilockodour.com.au/about/our-story",
+     "file": "unknown_7fe9e8ae1db2.jpg"
+    },
+    {
+     "url": "https://www.ezilockodour.com.au/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean",
+     "file": "unknown_4729a4969c3a.jpg"
+    },
+    {
+     "url": "https://www.ezilockodour.com.au/news/exploring-the-full-range-of-ezi-lockodour-dual-layer-cat-litter-systems-find-the-perfect-fit-for-your-feline",
+     "file": "unknown_f96ca97b75da.jpg"
+    },
+    {
+     "url": "https://www.ezilockodour.com.au/news/the-purr-fect-solution-5-reasons-your-cat-will-love-an-ezi-lockodour-dual-layer-cat-litter-system",
+     "file": "unknown_665d8e88545e.jpg"
+    },
+    {
+     "url": "https://www.ezilockodour.com.au/news/the-science-behind-the-ezi-lockodour-control-how-it-works",
+     "file": "unknown_d506b72bf396.jpg"
+    }
+   ],
+   "topLabel": "About"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video_f3dc7b60ebdf.jpg",
+   "repUrl": "https://www.ezilockodour.com.au/",
+   "samples": [
+    {
+     "url": "https://www.ezilockodour.com.au/",
+     "file": "video_f3dc7b60ebdf.jpg"
+    }
+   ],
+   "topLabel": "Saves you from smells"
+  }
+ ]
+}

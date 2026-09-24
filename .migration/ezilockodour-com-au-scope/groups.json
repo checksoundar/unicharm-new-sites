@@ -1,0 +1,63 @@
+{
+ "captured": "2026-09-24T06:30:41.369Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 18,
+ "totalGroups": 4,
+ "patternGroups": 3,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/{page}": {
+   "total": 10,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/news/{slug}": {
+   "total": 5,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "News section pages"
+  },
+  "/{page}/{section}": {
+   "total": 2,
+   "rendered": 2,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Homepage & root"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://www.ezilockodour.com.au/"
+  ],
+  "/{page}": [
+   "https://www.ezilockodour.com.au/about",
+   "https://www.ezilockodour.com.au/blog",
+   "https://www.ezilockodour.com.au/contact",
+   "https://www.ezilockodour.com.au/faqs",
+   "https://www.ezilockodour.com.au/find-a-retailer",
+   "https://www.ezilockodour.com.au/how-it-works",
+   "https://www.ezilockodour.com.au/kits",
+   "https://www.ezilockodour.com.au/privacy-policy",
+   "https://www.ezilockodour.com.au/refills",
+   "https://www.ezilockodour.com.au/terms-conditions"
+  ],
+  "/{page}/{section}": [
+   "https://www.ezilockodour.com.au/about/flexible-content-demo",
+   "https://www.ezilockodour.com.au/about/our-story"
+  ],
+  "/news/{slug}": [
+   "https://www.ezilockodour.com.au/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean",
+   "https://www.ezilockodour.com.au/news/exploring-the-full-range-of-ezi-lockodour-dual-layer-cat-litter-systems-find-the-perfect-fit-for-your-feline",
+   "https://www.ezilockodour.com.au/news/how-to-train-your-cat-to-use-the-ezi-lockodour-dual-layer-litter-system-like-a-pro",
+   "https://www.ezilockodour.com.au/news/the-purr-fect-solution-5-reasons-your-cat-will-love-an-ezi-lockodour-dual-layer-cat-litter-system",
+   "https://www.ezilockodour.com.au/news/the-science-behind-the-ezi-lockodour-control-how-it-works"
+  ]
+ }
+}

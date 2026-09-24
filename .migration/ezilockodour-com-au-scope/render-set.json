@@ -1,0 +1,19 @@
+{
+ "captured": "2026-09-24T06:30:41.381Z",
+ "strategy": "pattern-groups(>=2) sampled to 4; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 18,
+ "renderCount": 11,
+ "urls": [
+  "https://www.ezilockodour.com.au/",
+  "https://www.ezilockodour.com.au/about",
+  "https://www.ezilockodour.com.au/about/flexible-content-demo",
+  "https://www.ezilockodour.com.au/about/our-story",
+  "https://www.ezilockodour.com.au/faqs",
+  "https://www.ezilockodour.com.au/kits",
+  "https://www.ezilockodour.com.au/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean",
+  "https://www.ezilockodour.com.au/news/exploring-the-full-range-of-ezi-lockodour-dual-layer-cat-litter-systems-find-the-perfect-fit-for-your-feline",
+  "https://www.ezilockodour.com.au/news/the-purr-fect-solution-5-reasons-your-cat-will-love-an-ezi-lockodour-dual-layer-cat-litter-system",
+  "https://www.ezilockodour.com.au/news/the-science-behind-the-ezi-lockodour-control-how-it-works",
+  "https://www.ezilockodour.com.au/terms-conditions"
+ ]
+}

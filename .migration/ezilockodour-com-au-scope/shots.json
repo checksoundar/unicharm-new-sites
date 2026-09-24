@@ -1,0 +1,49 @@
+{
+ "captured": "2026-09-24T06:32:27.634Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>text>text>text",
+   "estPop": 3,
+   "url": "https://www.ezilockodour.com.au/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean",
+   "file": "t00_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 400699
+  },
+  {
+   "idx": 1,
+   "name": "data-table",
+   "family": "table",
+   "signature": "list>columns>table>text>text>text",
+   "estPop": 1,
+   "url": "https://www.ezilockodour.com.au/about",
+   "file": "t01_data-table.jpg",
+   "captured": true,
+   "bytes": 272470
+  },
+  {
+   "idx": 2,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>text>columns>text",
+   "estPop": 1,
+   "url": "https://www.ezilockodour.com.au/",
+   "file": "t02_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 733092
+  },
+  {
+   "idx": 3,
+   "name": "data-table",
+   "family": "table",
+   "signature": "list>table>table>text>text",
+   "estPop": 1,
+   "url": "https://www.ezilockodour.com.au/about/flexible-content-demo",
+   "file": "t03_data-table.jpg",
+   "captured": true,
+   "bytes": 1417960
+  }
+ ]
+}

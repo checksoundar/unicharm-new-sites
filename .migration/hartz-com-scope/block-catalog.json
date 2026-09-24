@@ -1,0 +1,979 @@
+{
+ "captured": "2026-09-24T07:08:05.530Z",
+ "totalInstances": 135,
+ "totalVariants": 45,
+ "baseSummary": [
+  {
+   "base": "text",
+   "variants": 13,
+   "instances": 36
+  },
+  {
+   "base": "unknown",
+   "variants": 9,
+   "instances": 35
+  },
+  {
+   "base": "accordion",
+   "variants": 4,
+   "instances": 21
+  },
+  {
+   "base": "columns",
+   "variants": 3,
+   "instances": 19
+  },
+  {
+   "base": "hero",
+   "variants": 4,
+   "instances": 9
+  },
+  {
+   "base": "media",
+   "variants": 4,
+   "instances": 6
+  },
+  {
+   "base": "tabs",
+   "variants": 3,
+   "instances": 3
+  },
+  {
+   "base": "video",
+   "variants": 2,
+   "instances": 3
+  },
+  {
+   "base": "carousel",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "form",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "iframe-embed",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::section|div1|img,lst,frm,hd,aN,iN",
+   "instances": 15,
+   "pagesFound": 15,
+   "repFile": "accordion_4e47903509ce.jpg",
+   "repUrl": "https://www.hartz.com/products/dogs/chews/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/products/cats/",
+     "file": "accordion_d9661d9afeab.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/products/cats/diapers/",
+     "file": "accordion_53056bf4969b.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/products/cats/diapers/cat-diapers/",
+     "file": "accordion_f81c5c52a3db.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/products/cats/flea-tick-control-cats/",
+     "file": "accordion_9358f747022d.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/products/cats/flea-tick-control-cats/collars-flea-tick-control-cats/",
+     "file": "accordion_71d167a400dc.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/products/cats/flea-tick-control-cats/ear-mite-treatments-flea-tick-control-cats/",
+     "file": "accordion_6db221b6dc41.jpg"
+    }
+   ],
+   "topLabel": "Filters"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::article|div4|img,tbl,lst,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "accordion_dc4d6518f220.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/product/hartz-ultraguard-flea-and-tick-treatment-for-dogs-and-puppies-2-5kg-to-6kg-traitement-antipuces-et-antitiques-pour-chiens-et-chiots-25kg-et-6kg/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-ultraguard-flea-and-tick-treatment-for-dogs-and-puppies-2-5kg-to-6kg-traitement-antipuces-et-antitiques-pour-chiens-et-chiots-25kg-et-6kg/",
+     "file": "accordion_dc4d6518f220.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-ultraguard-plus-flea-tick-spray-for-dogs-with-aloe-pulverisation-antipuces-et-antitiques-pour-chiens-avec-aloes/",
+     "file": "accordion_eebc62166745.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-ultraguard-rid-flea-tick-dog-shampoo-rid-flea-tick-shampooing-pour-chiens/",
+     "file": "accordion_da42a0da1d6d.jpg"
+    }
+   ],
+   "topLabel": "Hartz® UltraGuard® Flea and Tick Treatment for Dogs and Pupp"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::article|div3|img,tbl,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_29bdfee3d502.jpg",
+   "repUrl": "https://www.hartz.com/product/hartz-groomers-best-professionals-hydrate-shine-dog-shampoo-18oz/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/product/groomers-best-extra-gentle-brightening-shampoo/",
+     "file": "accordion_4248f045952c.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/product/hartz-groomers-best-professionals-hydrate-shine-dog-shampoo-18oz/",
+     "file": "accordion_29bdfee3d502.jpg"
+    }
+   ],
+   "topLabel": "Groomer's Best® Extra Gentle™ Brightening Shampoo™"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::article|div4|tbl,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_8e54e9e7f908.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/product/hartz-all-in-1-collar-lead-combo-for-dogs/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-all-in-1-collar-lead-combo-for-dogs/",
+     "file": "accordion_8e54e9e7f908.jpg"
+    }
+   ],
+   "topLabel": "Hartz® All in 1 Collar & Lead Combo for Dogs"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::section|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_6fb075d497a2.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/",
+     "file": "carousel_6fb075d497a2.jpg"
+    }
+   ],
+   "topLabel": "Caring for Community Cats During the Cold Weather"
+  },
+  {
+   "base": "columns",
+   "key": "columns::section|div2|img,hd,aN,iN",
+   "instances": 12,
+   "pagesFound": 5,
+   "repFile": "columns_029affc53094.jpg",
+   "repUrl": "https://www.hartz.com/hartz-loving-paws/hartz-loving-paws-recent-events/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/hartz-loving-paws/hartz-loving-paws-recent-events/",
+     "file": "columns_029affc53094.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "columns_24b7cf88a3c4.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "columns_e2437a0c6cb3.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "columns_caf005cdfdc8.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/natures-shield/",
+     "file": "columns_62c04ac00871.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/natures-shield/",
+     "file": "columns_063edc1d3dca.jpg"
+    }
+   ],
+   "topLabel": "2025"
+  },
+  {
+   "base": "columns",
+   "key": "columns::section|div1|img,lst,hd,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "columns_a601daeea97e.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "columns_fd3c8de56fd3.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "columns_a601daeea97e.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best/",
+     "file": "columns_bf780f1fb53a.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/natures-shield/",
+     "file": "columns_2e8746b3f4b7.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/true-coat/",
+     "file": "columns_c84293b27fa5.jpg"
+    }
+   ],
+   "topLabel": "Featured Products"
+  },
+  {
+   "base": "columns",
+   "key": "columns::section|div1|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "columns_8a8638dc8270.jpg",
+   "repUrl": "https://www.hartz.com/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/",
+     "file": "columns_cb75c23943d7.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/",
+     "file": "columns_8a8638dc8270.jpg"
+    }
+   ],
+   "topLabel": "Hartz Loving Paws"
+  },
+  {
+   "base": "form",
+   "key": "form::section|div1|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_a8131a3b4d16.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/",
+     "file": "form_a8131a3b4d16.jpg"
+    }
+   ],
+   "topLabel": "Humane World for Animals'™ 3rd annual More Than a Pet Campai"
+  },
+  {
+   "base": "hero",
+   "key": "hero::section|div1|hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "hero_d74ac3de200c.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/",
+     "file": "hero_d74ac3de200c.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/",
+     "file": "hero_4fd17a9d3c7b.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/products/",
+     "file": "hero_c4f49828f2b3.jpg"
+    }
+   ],
+   "topLabel": "Learning Center"
+  },
+  {
+   "base": "hero",
+   "key": "hero::section|div1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "hero_07fbfb6bda6d.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "hero_07fbfb6bda6d.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/natures-shield/",
+     "file": "hero_87ead71b9745.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/true-coat/",
+     "file": "hero_6d03c5a78bdf.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "hero",
+   "key": "hero::section|div1|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "hero_4a450cf9eeeb.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/chewnclean/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "hero_4a450cf9eeeb.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best/",
+     "file": "hero_fad8444c9e2f.jpg"
+    }
+   ],
+   "topLabel": "Satisfy Your Dog's Urge To Chew While Promoting The Benefits"
+  },
+  {
+   "base": "hero",
+   "key": "hero::section|div1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "hero_c6e44cda61ea.jpg",
+   "repUrl": "https://www.hartz.com/hartz-loving-paws/hartz-loving-paws-recent-events/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/hartz-loving-paws/hartz-loving-paws-recent-events/",
+     "file": "hero_c6e44cda61ea.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "iframe-embed",
+   "key": "iframe-embed::section|div1|ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "iframe-embed_190876e27e9b.jpg",
+   "repUrl": "https://www.hartz.com/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/",
+     "file": "iframe-embed_190876e27e9b.jpg"
+    }
+   ],
+   "topLabel": "Life With Pets, the Hartz Way"
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_23c4ef88b5d4.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/chewnclean/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "media_23c4ef88b5d4.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "media_2e623d2bfd96.jpg"
+    }
+   ],
+   "topLabel": "Product Selection"
+  },
+  {
+   "base": "media",
+   "key": "media::div|img1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_352b18136420.jpg",
+   "repUrl": "https://www.hartz.com/sustainabilityactions-commitment/our-commitment-2/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/sustainabilityactions-commitment/our-commitment-2/",
+     "file": "media_352b18136420.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/sustainabilityactions-commitment/our-goals/",
+     "file": "media_0beed9a388ef.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_aca453d89472.jpg",
+   "repUrl": "https://www.hartz.com/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/",
+     "file": "media_aca453d89472.jpg"
+    }
+   ],
+   "topLabel": "Find Our Products at Your Favorite Retailer"
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1.ul1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_148549441575.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/uncategorized/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/uncategorized/",
+     "file": "media_148549441575.jpg"
+    }
+   ],
+   "topLabel": "Knowing What to Feed Your Pet Rats and Mice"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::section|div2.header1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_ebef667730f0.jpg",
+   "repUrl": "https://www.hartz.com/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/",
+     "file": "tabs_ebef667730f0.jpg"
+    }
+   ],
+   "topLabel": "Our Products, Made for Happy, Healthy Pets"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::section|div3|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_cb0b126a5fc2.jpg",
+   "repUrl": "https://www.hartz.com/products/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/products/",
+     "file": "tabs_cb0b126a5fc2.jpg"
+    }
+   ],
+   "topLabel": "Featured Brands"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::section|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_590363f2b857.jpg",
+   "repUrl": "https://www.hartz.com/products/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/products/",
+     "file": "tabs_590363f2b857.jpg"
+    }
+   ],
+   "topLabel": "Featured Products"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "text_9855e593ba95.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/animals/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/animals/",
+     "file": "text_9855e593ba95.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/cats/getting-started-cats/",
+     "file": "text_b1b659302ed5.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/cats/home-away-cats/travel/",
+     "file": "text_caf0fc768b63.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/dogs/habitat-dogs/",
+     "file": "text_91c3239fbfb6.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/dogs/training-play-dogs/training/",
+     "file": "text_44e1c6418e9c.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/featured-home/about-hartz-featured-home/",
+     "file": "text_8fc6798f232d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|img,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 4,
+   "repFile": "text_ad6c47e667f2.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/true-coat/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "text_242302790784.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "text_2aeae27c98d2.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best/",
+     "file": "text_afaf2fccd14c.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best/",
+     "file": "text_b0987d026697.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/true-coat/",
+     "file": "text_5f697f7b0a87.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/true-coat/",
+     "file": "text_ad6c47e667f2.jpg"
+    }
+   ],
+   "topLabel": "About"
+  },
+  {
+   "base": "text",
+   "key": "text::blockquote|p1|aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "text_f85dc9204b1e.jpg",
+   "repUrl": "https://www.hartz.com/hartz-caring-for-feral-cats-in-the-winter/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/11-fall-pet-dangers-to-avoid/",
+     "file": "text_5f8c2205462d.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/small-animal-checklist/",
+     "file": "text_c8a05e9720be.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/hartz-caring-for-feral-cats-in-the-winter/",
+     "file": "text_f85dc9204b1e.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/your-kittens-emotional-needs/",
+     "file": "text_90d60b25853f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::h1||aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "text_cf51d3a9844c.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/diy-a-quick-start-guide-to-setting-up-your-aquarium/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/diy-a-quick-start-guide-to-setting-up-your-aquarium/",
+     "file": "text_cf51d3a9844c.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/teaching-your-cat-to-love-their-carrier/",
+     "file": "text_b3165c3b44da.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/training-tip-maintaining-your-pets-toys/",
+     "file": "text_4ec27b3d8275.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/hartz-caring-for-feral-cats-in-the-winter/",
+     "file": "text_051da176f92d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|img,lst,hd,aN,iN",
+   "instances": 4,
+   "pagesFound": 2,
+   "repFile": "text_677694797acd.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "text_677694797acd.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "text_3cda3ba56404.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "text_36f3dd482f98.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/true-coat/",
+     "file": "text_e7345c2498ff.jpg"
+    }
+   ],
+   "topLabel": "Tips for Bathing your Dog like a Pro!"
+  },
+  {
+   "base": "text",
+   "key": "text::div|p9.script1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_a7840890f291.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/6-tips-bathing-dog/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/6-tips-bathing-dog/",
+     "file": "text_a7840890f291.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p4.script1.ul1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_dc878697ac1c.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/catnip-affect-cat/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/catnip-affect-cat/",
+     "file": "text_dc878697ac1c.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|p4.script1.ul2|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b1ab870b039f.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/diy-a-quick-start-guide-to-setting-up-your-aquarium/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/diy-a-quick-start-guide-to-setting-up-your-aquarium/",
+     "file": "text_b1ab870b039f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|h31.p4.script1.ul1|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_9f9c7cf3709d.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/small-animal-checklist/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/small-animal-checklist/",
+     "file": "text_9f9c7cf3709d.jpg"
+    }
+   ],
+   "topLabel": "Must-Have Items"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1.h11.h32.p6.script1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_defb00f0b71b.jpg",
+   "repUrl": "https://www.hartz.com/hartz-caring-for-feral-cats-in-the-winter/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/hartz-caring-for-feral-cats-in-the-winter/",
+     "file": "text_defb00f0b71b.jpg"
+    }
+   ],
+   "topLabel": "How to Care for Feral Cats"
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1.ul1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_f83ff13e3690.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/featured-home/about-hartz-featured-home/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/featured-home/about-hartz-featured-home/",
+     "file": "text_f83ff13e3690.jpg"
+    }
+   ],
+   "topLabel": "Hartz Loving Paws Volunteers at Work"
+  },
+  {
+   "base": "text",
+   "key": "text::div|h11.p1|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_445227c05c84.jpg",
+   "repUrl": "https://www.hartz.com/product/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/product/",
+     "file": "text_445227c05c84.jpg"
+    }
+   ],
+   "topLabel": "Products"
+  },
+  {
+   "base": "text",
+   "key": "text::div|p12.script1|aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_b98fce134447.jpg",
+   "repUrl": "https://www.hartz.com/your-kittens-emotional-needs/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/your-kittens-emotional-needs/",
+     "file": "text_b98fce134447.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div2|img,lst,hd,aN,iN",
+   "instances": 13,
+   "pagesFound": 13,
+   "repFile": "unknown_91fde71ab466.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-all-in-1-collar-lead-combo-for-dogs/",
+     "file": "unknown_da388c6c5c42.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-ultraguard-flea-and-tick-treatment-for-dogs-and-puppies-2-5kg-to-6kg-traitement-antipuces-et-antitiques-pour-chiens-et-chiots-25kg-et-6kg/",
+     "file": "unknown_97cc70acf725.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/product/hartz-ultraguard-plus-flea-tick-spray-for-dogs-with-aloe-pulverisation-antipuces-et-antitiques-pour-chiens-avec-aloes/",
+     "file": "unknown_0f25f89c8259.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/",
+     "file": "unknown_91fde71ab466.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/chewnclean/",
+     "file": "unknown_b8ba58d1ba30.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "unknown_c62645db8702.jpg"
+    }
+   ],
+   "topLabel": "Learning Center"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|aN|aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "unknown_3104741f87f1.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/6-tips-bathing-dog/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/6-tips-bathing-dog/",
+     "file": "unknown_3104741f87f1.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/catnip-affect-cat/",
+     "file": "unknown_d4951efdab06.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/diy-a-quick-start-guide-to-setting-up-your-aquarium/",
+     "file": "unknown_b2c542c6bfd1.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/small-animal-checklist/",
+     "file": "unknown_413c919881b2.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/en-ca/training-tip-maintaining-your-pets-toys/",
+     "file": "unknown_8b74b8997e4d.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/hartz-caring-for-feral-cats-in-the-winter/",
+     "file": "unknown_e16759279e21.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1.ul1|img,lst,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "unknown_dea43102b959.jpg",
+   "repUrl": "https://www.hartz.com/learning-center/outreach/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/learning-center/animals/",
+     "file": "unknown_39a835dc9aa0.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/cats/getting-started-cats/",
+     "file": "unknown_9fdda11ebcfb.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/cats/home-away-cats/travel/",
+     "file": "unknown_ba3b552af35c.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/dogs/habitat-dogs/",
+     "file": "unknown_92fb321dfbad.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/animals/dogs/training-play-dogs/training/",
+     "file": "unknown_ddc9f29217d1.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/learning-center/more-about-hartz/",
+     "file": "unknown_9bd44ffaa359.jpg"
+    }
+   ],
+   "topLabel": "Choosing Your Child’s First Pet"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2.p1.script1.ul1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_147f1dfd87b6.jpg",
+   "repUrl": "https://www.hartz.com/11-fall-pet-dangers-to-avoid/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/11-fall-pet-dangers-to-avoid/",
+     "file": "unknown_147f1dfd87b6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div3.h26.ol1.p8.script1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_2625a7ced11c.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/teaching-your-cat-to-love-their-carrier/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/teaching-your-cat-to-love-their-carrier/",
+     "file": "unknown_2625a7ced11c.jpg"
+    }
+   ],
+   "topLabel": "Keep Your Carrier in Plain Sight"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|h61.p10.script1.ul6|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_cb3dd118244f.jpg",
+   "repUrl": "https://www.hartz.com/en-ca/training-tip-maintaining-your-pets-toys/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/en-ca/training-tip-maintaining-your-pets-toys/",
+     "file": "unknown_cb3dd118244f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.p1.script1.ul1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_f4dd9ef995a1.jpg",
+   "repUrl": "https://www.hartz.com/new-dog-checklist/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/new-dog-checklist/",
+     "file": "unknown_f4dd9ef995a1.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_65233cd92a43.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best-professionals/",
+     "file": "unknown_65233cd92a43.jpg"
+    }
+   ],
+   "topLabel": "During Bathing"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_276a53bbf644.jpg",
+   "repUrl": "https://www.hartz.com/our-brands/groomers-best/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/our-brands/groomers-best/",
+     "file": "unknown_276a53bbf644.jpg"
+    }
+   ],
+   "topLabel": "About"
+  },
+  {
+   "base": "video",
+   "key": "video::article|div3|img,tbl,lst,ifr,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "video_306586cce6cf.jpg",
+   "repUrl": "https://www.hartz.com/product/hartz-oinkies-smoked-twists-10/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/product/hartz-oinkies-smoked-twists-10/",
+     "file": "video_306586cce6cf.jpg"
+    },
+    {
+     "url": "https://www.hartz.com/product/product-hartz-oinkies-smoked-twists-40/",
+     "file": "video_897a06ace578.jpg"
+    }
+   ],
+   "topLabel": "Hartz® Oinkies® Real Meaty Chews™ Smoked Twists™ – 10 Pack"
+  },
+  {
+   "base": "video",
+   "key": "video::section|div3|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video_6dd902ec5b9d.jpg",
+   "repUrl": "https://www.hartz.com/",
+   "samples": [
+    {
+     "url": "https://www.hartz.com/",
+     "file": "video_6dd902ec5b9d.jpg"
+    }
+   ],
+   "topLabel": "Celebrating 100 Years of  Unconditional Love"
+  }
+ ]
+}

@@ -1,0 +1,148 @@
+{
+ "captured": "2026-09-24T06:43:58.801Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>columns>nav",
+   "estPop": 11,
+   "url": "https://www.sofy.in/blog/body-mind/during-puberty/dealing-with-emotional-ups-and-downs-during-puberty/",
+   "file": "t00_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 495141
+  },
+  {
+   "idx": 1,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "list>text>carousel>text",
+   "estPop": 8,
+   "url": "https://www.sofy.in/product/antibacteria-extra-long-290-mm-straight-type/sofy-antibacteria-extra-long-6-pads/",
+   "file": "t01_carousel-page.jpg",
+   "captured": true,
+   "bytes": 439868
+  },
+  {
+   "idx": 2,
+   "name": "breadcrumb-page",
+   "family": "breadcrumbed",
+   "signature": "text>breadcrumbs>columns",
+   "estPop": 3,
+   "url": "https://www.sofy.in/blog/category/body-mind/",
+   "file": "t02_breadcrumb-page.jpg",
+   "captured": true,
+   "bytes": 526105
+  },
+  {
+   "idx": 3,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text",
+   "estPop": 3,
+   "url": "https://www.sofy.in/products/bodyfit/",
+   "file": "t03_article-text.jpg",
+   "captured": true,
+   "bytes": 373612
+  },
+  {
+   "idx": 4,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>columns>nav",
+   "estPop": 2,
+   "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/benefits-of-using-a-hot-water-bottle-to-treat-period-cramps/",
+   "file": "t04_article-text.jpg",
+   "captured": true,
+   "bytes": 466304
+  },
+  {
+   "idx": 5,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>list>media",
+   "estPop": 2,
+   "url": "https://www.sofy.in/period-education/mothers-self-care/",
+   "file": "t05_media-article.jpg",
+   "captured": true,
+   "bytes": 862878
+  },
+  {
+   "idx": 6,
+   "name": "card-grid",
+   "family": "cards",
+   "signature": "text>cards",
+   "estPop": 2,
+   "url": "https://www.sofy.in/product-overnight/",
+   "file": "t06_card-grid.jpg",
+   "captured": true,
+   "bytes": 372518
+  },
+  {
+   "idx": 8,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "carousel>text>text>text>list>text>text",
+   "estPop": 1,
+   "url": "https://www.sofy.in/blog/",
+   "file": "t08_carousel-page.jpg",
+   "captured": true,
+   "bytes": 623109
+  },
+  {
+   "idx": 10,
+   "name": "form-page",
+   "family": "form",
+   "signature": "form",
+   "estPop": 1,
+   "url": "https://www.sofy.in/feedback/",
+   "file": "t10_form-page.jpg",
+   "captured": true,
+   "bytes": 156378
+  },
+  {
+   "idx": 11,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>text>list>media",
+   "estPop": 1,
+   "url": "https://www.sofy.in/period-education/",
+   "file": "t11_media-article.jpg",
+   "captured": true,
+   "bytes": 402364
+  },
+  {
+   "idx": 12,
+   "name": "tabbed-page",
+   "family": "tabs",
+   "signature": "text>tabs>media>text>media",
+   "estPop": 1,
+   "url": "https://www.sofy.in/period-education/how-sofy-helps/",
+   "file": "t12_tabbed-page.jpg",
+   "captured": true,
+   "bytes": 496231
+  },
+  {
+   "idx": 13,
+   "name": "tabbed-page",
+   "family": "tabs",
+   "signature": "text>list>tabs",
+   "estPop": 1,
+   "url": "https://www.sofy.in/period-education/period-faqs/",
+   "file": "t13_tabbed-page.jpg",
+   "captured": true,
+   "bytes": 186361
+  },
+  {
+   "idx": 14,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list",
+   "estPop": 1,
+   "url": "https://www.sofy.in/products/sofy-cool/",
+   "file": "t14_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 283453
+  }
+ ]
+}

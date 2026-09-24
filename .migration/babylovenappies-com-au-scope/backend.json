@@ -1,0 +1,81 @@
+{
+ "captured": "2026-09-24T06:41:49.526Z",
+ "sampledPages": 8,
+ "firstPartyDomain": "com.au",
+ "totalServices": 3,
+ "categories": [
+  {
+   "category": "Advertising",
+   "count": 1
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Maps",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "ad.doubleclick.net",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST ad.doubleclick.net/activity;src=:id;type=ap0;cat=au-co0;rcb=16;ord=:id;npa=0;auiddc=:id.:i",
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "GET www.google.com/gmp/conversion/_dc_unique_id=:id;_dc_ptd=ChAI8PHN1QYQh5Wf2ZHW9-kUEh8AS0KCes",
+    "POST ad.doubleclick.net/activity;src=:id;type=ap0;cat=au-co0;rcb=10;ord=:id;npa=0;auiddc=:id.:i",
+    "GET www.google.com/gmp/conversion/_dc_unique_id=:id;_dc_ptd=ChAI8PHN1QYQh5Wf2ZHW9-kUEh8AS0KCeq",
+    "POST ad.doubleclick.net/activity;src=:id;type=ap0;cat=au-co0;rcb=4;ord=:id;npa=0;auiddc=:id.:id",
+    "GET www.google.com/gmp/conversion/_dc_unique_id=:id;_dc_ptd=ChAI8PHN1QYQh5Wf2ZHW9-kUEh8AS0KCeu",
+    "POST ad.doubleclick.net/activity;src=:id;type=ap0;cat=au-co0;rcb=15;ord=:id;npa=0;auiddc=:id.:i"
+   ],
+   "pages": 8,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 8,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Maps API",
+   "category": "Maps",
+   "note": "",
+   "hosts": [
+    "maps.googleapis.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET maps.googleapis.com/maps/api/mapsjs/gen_:n"
+   ],
+   "pages": 8,
+   "coverage": "100%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.google.com",
+   "pages": 8,
+   "sample": "POST www.google.com/ccm/collect"
+  }
+ ]
+}

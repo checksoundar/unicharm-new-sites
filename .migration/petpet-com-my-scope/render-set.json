@@ -1,0 +1,13 @@
+{
+ "captured": "2026-09-24T06:30:41.374Z",
+ "strategy": "pattern-groups(>=2) sampled to 4; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 18,
+ "renderCount": 5,
+ "urls": [
+  "https://petpet.com.my/",
+  "https://petpet.com.my/blogs/",
+  "https://petpet.com.my/day-night-tape/",
+  "https://petpet.com.my/redeem/",
+  "https://petpet.com.my/wipes/"
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "captured": "2026-09-24T06:32:19.941Z",
+ "totalInstances": 6,
+ "totalVariants": 1,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 1,
+   "instances": 6
+  }
+ ],
+ "variants": [
+  {
+   "base": "unknown",
+   "key": "unknown::li|aN.div4|lst,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "unknown_4193be25e1d5.jpg",
+   "repUrl": "https://www.delectablescattreats.com/en-au/",
+   "samples": [
+    {
+     "url": "https://www.delectablescattreats.com/en-au/",
+     "file": "unknown_4193be25e1d5.jpg"
+    },
+    {
+     "url": "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-chicken/",
+     "file": "unknown_8eda5cf2166b.jpg"
+    },
+    {
+     "url": "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-gravy-tuna-prawn/",
+     "file": "unknown_aed3d34b8fdc.jpg"
+    },
+    {
+     "url": "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-squeeze-variety-pack-20ct/",
+     "file": "unknown_e48a3165f48f.jpg"
+    },
+    {
+     "url": "https://www.delectablescattreats.com/en-au/where-to-buy/",
+     "file": "unknown_12f2b8bc7e5d.jpg"
+    },
+    {
+     "url": "https://www.delectablescattreats.com/en-au/product/hartz-delectables-squeeze-up-with-chicken/",
+     "file": "unknown_11b5891de2b7.jpg"
+    }
+   ],
+   "topLabel": ""
+  }
+ ]
+}

@@ -1,0 +1,77 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/delectables-enau-com-scope
+▶ site: https://www.delectablescattreats.com/en-au/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 8
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 3
+Pattern groups (>= 2): 1 - covering 6 pages -> sampled to ~4
+Long-tail unique pages (rendered in full): 2
+=> RENDER SET SIZE: 6
+
+Top 30 pattern groups:
+    6 -> 4 sampled   /{locale}/{section}/{slug}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 6
+Distinct layout signatures: 1
+
+=== Layout templates (est. full-population pages) ===
+    6 pp  rendered=  6   section-nav-list list>list>text>text>text>text>text>text        |  en-au(6)
+
+=== Third-party integrations detected ===
+   16 Other third-party: embedsocial.com
+   12 Other third-party: cdn.pricespider.com
+    6 Other third-party: cmp.osano.com
+    6 Other third-party: apps.bazaarvoice.com
+    6 Google Tag Manager
+    3 Other third-party: wtbevents.pricespider.com
+    2 Vimeo
+
+=== Global objects ===
+   6 dataLayer
+   6 gtag
+   6 google_tag_manager
+   6 fbq
+   1 Vimeo
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 6
+Total variants: 1
+
+=== Base type -> variants / instances ===
+   6 inst    1 variants   unknown
+
+=== Top 20 variants ===
+   6 x   unknown       pages=  6   li|aN.div4|lst,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 3 template groups | full: 0 sampled: 0 excluded: 3
+pages — inspected: 0 skipped: 8 non-200: 0 of 8 urls
+
+=== Template groups (by size) ===
+  G00     6  excluded  /{locale}/{section}/{slug}        Locale sub-pages
+  G01     1  excluded  /{locale}                         Locale homepages
+  G02     1  excluded  /{locale}/{section}               Locale section / landing pages
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 3 | first-party domain: delectablescattreats.com
+Probable backend integrations: 2 | unclassified hosts: 1
+
+=== By category ===
+  1 Analytics
+  1 First-party forms
+
+=== Services (by page coverage) ===
+  3pg  Analytics                   Google Analytics (GA4)
+  1pg  First-party forms           Www: Forms / Lead API
+▶ [11/12] compute supplementary data
+compute-data: live pages 8 | structure groups 0 | docs 0 | url groups 3 | layout heatmap rows 1 | block heatmap rows 1 | integrations 7
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/delectablescattreats-com-en-au-site-analysis-dashboard.html 0.86 MB
+templates: 1 galleries: Unknown / Custom:1
+IMAGES: 1 TEMPLATE_SHOTS: 1
+✅ done.

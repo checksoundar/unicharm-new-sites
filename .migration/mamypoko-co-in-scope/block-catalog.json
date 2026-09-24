@@ -1,0 +1,952 @@
+{
+ "captured": "2026-09-24T07:12:10.717Z",
+ "totalInstances": 247,
+ "totalVariants": 39,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 10,
+   "instances": 76
+  },
+  {
+   "base": "columns",
+   "variants": 3,
+   "instances": 40
+  },
+  {
+   "base": "form",
+   "variants": 3,
+   "instances": 36
+  },
+  {
+   "base": "text",
+   "variants": 3,
+   "instances": 36
+  },
+  {
+   "base": "carousel",
+   "variants": 3,
+   "instances": 23
+  },
+  {
+   "base": "accordion",
+   "variants": 8,
+   "instances": 12
+  },
+  {
+   "base": "media",
+   "variants": 3,
+   "instances": 11
+  },
+  {
+   "base": "video",
+   "variants": 3,
+   "instances": 10
+  },
+  {
+   "base": "tabs",
+   "variants": 2,
+   "instances": 2
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|div7.footer1.link1.nav1.noscript1.section1|img,lst,frm,hd,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "accordion_64daaa75a282.jpg",
+   "repUrl": "https://www.mamypoko.co.in/blogs/pregnancy",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/blogs",
+     "file": "accordion_af1332991c7e.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/blogs/infant",
+     "file": "accordion_7be7ed85708f.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/blogs/newborn",
+     "file": "accordion_603786fab4d1.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/blogs/pregnancy",
+     "file": "accordion_64daaa75a282.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/blogs/toddlers",
+     "file": "accordion_9c0629deda2f.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko Blogs"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div6.footer1.link1.nav1.noscript1.section4|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_75579d16fbe0.jpg",
+   "repUrl": "https://www.mamypoko.co.in/about-unicharm",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/about-unicharm",
+     "file": "accordion_75579d16fbe0.jpg"
+    }
+   ],
+   "topLabel": "About Unicharm"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div3.link1.nav1.noscript1.section1|img,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_d702e5199fb0.jpg",
+   "repUrl": "https://www.mamypoko.co.in/community/mamies-world-login",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/community/mamies-world-login",
+     "file": "accordion_d702e5199fb0.jpg"
+    }
+   ],
+   "topLabel": "Welcome To Mamies World"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div7.footer1.link1.nav1.noscript1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_39977281fdd4.jpg",
+   "repUrl": "https://www.mamypoko.co.in/disclaimer",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/disclaimer",
+     "file": "accordion_39977281fdd4.jpg"
+    }
+   ],
+   "topLabel": "Disclaimer"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div8.footer1.link1.nav1.noscript1.section3|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_3e0b4d17d9ff.jpg",
+   "repUrl": "https://www.mamypoko.co.in/infant",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/infant",
+     "file": "accordion_3e0b4d17d9ff.jpg"
+    }
+   ],
+   "topLabel": "Infant"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div9.footer1.link1.nav1.noscript1.section1|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_dd77777c6aa7.jpg",
+   "repUrl": "https://www.mamypoko.co.in/mamypoko-in-news",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/mamypoko-in-news",
+     "file": "accordion_dd77777c6aa7.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko Making Headlines"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div11.footer1.link1.nav1.noscript1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_bc31d3fc2561.jpg",
+   "repUrl": "https://www.mamypoko.co.in/pokochan",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/pokochan",
+     "file": "accordion_bc31d3fc2561.jpg"
+    }
+   ],
+   "topLabel": "Are you ready to meet"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|div6.footer1.link1.nav1.noscript1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_b2c909011a8c.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/new-born-mini-tape-diapers",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/new-born-mini-tape-diapers",
+     "file": "accordion_b2c909011a8c.jpg"
+    }
+   ],
+   "topLabel": "Are you Lost?"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::section|div1|img,hd,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "carousel_691ab5abe859.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/tape-new-baby-diapers/mamypoko-tape-new-baby-new-born-mini-48pack",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "carousel_fcf0ce2149db.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "carousel_f080dccb2940.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "carousel_f43b5397d394.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "carousel_854d0d278012.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "carousel_96d10253fad0.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+     "file": "carousel_34dddef444d0.jpg"
+    }
+   ],
+   "topLabel": "Explore Our Other Products"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1|img,frm,hd,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "carousel_65c9c28c1688.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/tape-new-baby-diapers/mamypoko-tape-new-baby-new-born-mini-48pack",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "carousel_a349a54d8835.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "carousel_c0b1f049a2b1.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "carousel_44d3d3463f31.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "carousel_a58ea2f9c7d2.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "carousel_6bf54da1575d.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+     "file": "carousel_d1544610ac54.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko Pants"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_eeb4a5b44aad.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/komal-care-wipes",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/komal-care-wipes",
+     "file": "carousel_eeb4a5b44aad.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko Wipes"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div2|img,lst,hd,aN,iN",
+   "instances": 23,
+   "pagesFound": 23,
+   "repFile": "columns_7be0338bcd44.jpg",
+   "repUrl": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+     "file": "columns_7be0338bcd44.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/baby-cleaning-wipes",
+     "file": "columns_b20f04cf198f.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/dry-skin-on-newborn-and-how-to-care-for-it",
+     "file": "columns_503125f0c372.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/introducing-spices-to-your-babys-diet-safe-and-tasty-ideas",
+     "file": "columns_238e147c7786.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/rotavirus-vaccine",
+     "file": "columns_afddc4c41057.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/woollens-washing-guide-for-infants-clothes",
+     "file": "columns_fbb55b30b7fe.jpg"
+    }
+   ],
+   "topLabel": "Summary"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div2|img,hd,aN,iN",
+   "instances": 9,
+   "pagesFound": 9,
+   "repFile": "columns_d0183246288a.jpg",
+   "repUrl": "https://www.mamypoko.co.in/toddlers/1st-birthday-themes-for-boys-and-girls",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-launches-the-pappy-bum-happy-mamy-campaign",
+     "file": "columns_6de01c2b65ae.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/mamypoko-in-news/unicharm-is-growing-up-fast-in-india-with-mamy-poko-diaper-pants",
+     "file": "columns_61dd2fddd49d.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/pregnancy/pre-pregnancy-calcium-rich-foods-to-have",
+     "file": "columns_2908eb05057b.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/pregnancy/yoga-postures-that-help-ease-digestion",
+     "file": "columns_d87de1829085.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/toddlers/1st-birthday-themes-for-boys-and-girls",
+     "file": "columns_d0183246288a.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/toddlers/how-can-toddlers-bond-with-their-grandparent",
+     "file": "columns_d3a54d3ee7d4.jpg"
+    }
+   ],
+   "topLabel": "Summary"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "columns_df463701081e.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "columns_df463701081e.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "columns_6fab43fb39d6.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "columns_c8d4a0f0fb1e.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "columns_b7ff825eccf9.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/komal-care-wipes",
+     "file": "columns_7d2a90d8fba0.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/preemie-diapers",
+     "file": "columns_302ff37218b4.jpg"
+    }
+   ],
+   "topLabel": "Product Features"
+  },
+  {
+   "base": "form",
+   "key": "form::div|section1|img,frm,hd,aN,iN",
+   "instances": 34,
+   "pagesFound": 34,
+   "repFile": "form_051ecc7059c6.jpg",
+   "repUrl": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+     "file": "form_051ecc7059c6.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/baby-cleaning-wipes",
+     "file": "form_01c91df2fac1.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/dry-skin-on-newborn-and-how-to-care-for-it",
+     "file": "form_a770da77f0e9.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/introducing-spices-to-your-babys-diet-safe-and-tasty-ideas",
+     "file": "form_d73a71bdfce7.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/rotavirus-vaccine",
+     "file": "form_f33cffa86b9d.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/woollens-washing-guide-for-infants-clothes",
+     "file": "form_ebb4469bded5.jpg"
+    }
+   ],
+   "topLabel": "Hey mamies, stay connected!"
+  },
+  {
+   "base": "form",
+   "key": "form::section|div1|img,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_0309b1b1807d.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "form_0309b1b1807d.jpg"
+    }
+   ],
+   "topLabel": "Hey mamies, stay connected!"
+  },
+  {
+   "base": "form",
+   "key": "form::div|div3|img,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_3dc95d7b08ea.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/preemie-diapers",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/preemie-diapers",
+     "file": "form_3dc95d7b08ea.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko Tape Preemie"
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1|img,aN,iN",
+   "instances": 9,
+   "pagesFound": 9,
+   "repFile": "media_6d9375874973.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "media_6d9375874973.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "media_ab621cba262a.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "media_c180f31f35a3.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "media_56f195328ce6.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/komal-care-wipes",
+     "file": "media_f40166b568d0.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/tape-new-baby-diapers",
+     "file": "media_5bd1e005a999.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_4546470c8d7f.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "media_4546470c8d7f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|img1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_f33077d727c0.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "media_f33077d727c0.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::div|div2|img,tbl,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "table_1e4ded9f34af.jpg",
+   "repUrl": "https://www.mamypoko.co.in/pregnancy/postnatal-diet-chart",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/pregnancy/postnatal-diet-chart",
+     "file": "table_1e4ded9f34af.jpg"
+    }
+   ],
+   "topLabel": "Summary"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::section|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_3803edd8593c.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "tabs_3803edd8593c.jpg"
+    }
+   ],
+   "topLabel": "Companions for Acchi Nini"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div9.footer1.link1.nav1.noscript1.section3|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_41f7d1776286.jpg",
+   "repUrl": "https://www.mamypoko.co.in/pregnancy",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/pregnancy",
+     "file": "tabs_41f7d1776286.jpg"
+    }
+   ],
+   "topLabel": "Pregnancy"
+  },
+  {
+   "base": "text",
+   "key": "text::h1||aN,iN",
+   "instances": 23,
+   "pagesFound": 23,
+   "repFile": "text_3918e4d348cd.jpg",
+   "repUrl": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-unveils-extra-absorb-pants-to-promote-deep-sleep-through-a-comprehensive-campaign",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+     "file": "text_c73eb5e08500.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/baby-cleaning-wipes",
+     "file": "text_ee5603019659.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/dry-skin-on-newborn-and-how-to-care-for-it",
+     "file": "text_a8c754cbd0e9.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/introducing-spices-to-your-babys-diet-safe-and-tasty-ideas",
+     "file": "text_d8b3a40b0686.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/woollens-washing-guide-for-infants-clothes",
+     "file": "text_4f9f3c320cfc.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-outpaces-pampers-to-become-indias-top-selling-diaper-brand-in-fy23",
+     "file": "text_5e653b15ac75.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|hd,aN,iN",
+   "instances": 11,
+   "pagesFound": 11,
+   "repFile": "text_c687d9ae7537.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/wipes",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "text_14d1f705984e.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "text_120a15f66f89.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "text_894c8fa6ced4.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "text_a39f48cd28ed.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "text_18fe9df833dd.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+     "file": "text_10799786d36b.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko All Night Absorb Diapers: Ensuring Uninterrupted Sl"
+  },
+  {
+   "base": "text",
+   "key": "text::h1|span1|aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text_420e69852c88.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/breathable-baby-diaper",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper",
+     "file": "text_420e69852c88.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-35pack",
+     "file": "text_9dac309a65ff.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,hd,aN,iN",
+   "instances": 34,
+   "pagesFound": 34,
+   "repFile": "unknown_e768dd17599d.jpg",
+   "repUrl": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-launches-the-pappy-bum-happy-mamy-campaign",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+     "file": "unknown_876f17ba71fd.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/baby-cleaning-wipes",
+     "file": "unknown_3a06c7b1e78c.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/dry-skin-on-newborn-and-how-to-care-for-it",
+     "file": "unknown_e670be77fbd3.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/introducing-spices-to-your-babys-diet-safe-and-tasty-ideas",
+     "file": "unknown_b47771a0e49c.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/rotavirus-vaccine",
+     "file": "unknown_70c1179b5d09.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/infant/woollens-washing-guide-for-infants-clothes",
+     "file": "unknown_e7148f013091.jpg"
+    }
+   ],
+   "topLabel": "Other Related Blogs"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div3|img,hd,aN,iN",
+   "instances": 16,
+   "pagesFound": 12,
+   "repFile": "unknown_3eb5f8710676.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/tape-new-baby-diapers",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "unknown_c8aba54d5cd2.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "unknown_559c4db802fd.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "unknown_e1f9537ee618.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "unknown_ae518d447442.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "unknown_63fc29595027.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "unknown_818f1cf746c5.jpg"
+    }
+   ],
+   "topLabel": "Product Review"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.img2|img,lst,hd,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "unknown_3e76d6c8c007.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "unknown_3fee60950026.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "unknown_36c9d1983e0f.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "unknown_7074e03b75a2.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "unknown_66f9fe9abb09.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "unknown_3e76d6c8c007.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+     "file": "unknown_c7feb030cc78.jpg"
+    }
+   ],
+   "topLabel": "MamyPoko Pants\nAll Night Absorb"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2|img,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "unknown_9a0ed90f2803.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "unknown_46fbf6b0587e.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "unknown_919d37167488.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "unknown_abac817b1abc.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "unknown_c133e876f773.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "unknown_9a0ed90f2803.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+     "file": "unknown_b32787ecbbe0.jpg"
+    }
+   ],
+   "topLabel": "How to wear MamyPoko Pants All Night Absorb?"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 2,
+   "repFile": "unknown_6abf5bf22571.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "unknown_6abf5bf22571.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "unknown_e908a6cee710.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/preemie-diapers",
+     "file": "unknown_f7bc148ba91c.jpg"
+    }
+   ],
+   "topLabel": "Real Parents, Real Reviews"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div3|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_bb8eff6dbd85.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "unknown_bb8eff6dbd85.jpg"
+    }
+   ],
+   "topLabel": "Mother’s First Choice\n2017"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2.section1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_30b264417a43.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "unknown_30b264417a43.jpg"
+    }
+   ],
+   "topLabel": "Mamies World - From one mother to another!"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_b1f50b6cae7a.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "unknown_b1f50b6cae7a.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div2|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_f14a157aca73.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products",
+     "file": "unknown_f14a157aca73.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_e26c7d1ab532.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products",
+     "file": "unknown_e26c7d1ab532.jpg"
+    }
+   ],
+   "topLabel": "Skin Breathe"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div1|img,ifr,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "video_2e892f4d934b.jpg",
+   "repUrl": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+     "file": "video_2e892f4d934b.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+     "file": "video_93a6cfa684c2.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+     "file": "video_ece69a3edcea.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+     "file": "video_36ad14f5d766.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+     "file": "video_14a58f4c0f22.jpg"
+    },
+    {
+     "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+     "file": "video_0b0519091875.jpg"
+    }
+   ],
+   "topLabel": "Product Videos"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div2|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video_b11209dbcf34.jpg",
+   "repUrl": "https://www.mamypoko.co.in/",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/",
+     "file": "video_b11209dbcf34.jpg"
+    }
+   ],
+   "topLabel": "Making parenthood flawless: Your go-to personal guide"
+  },
+  {
+   "base": "video",
+   "key": "video::div|div2|img,lst,ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video_fbd84398c702.jpg",
+   "repUrl": "https://www.mamypoko.co.in/newborn/parenting-hacks-for-new-moms-baby-care-tips",
+   "samples": [
+    {
+     "url": "https://www.mamypoko.co.in/newborn/parenting-hacks-for-new-moms-baby-care-tips",
+     "file": "video_fbd84398c702.jpg"
+    }
+   ],
+   "topLabel": "Summary"
+  }
+ ]
+}

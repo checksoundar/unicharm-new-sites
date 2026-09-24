@@ -1,0 +1,70 @@
+{
+ "captured": "2026-09-24T06:32:36.619Z",
+ "locales": [],
+ "sections": [
+  "news"
+ ],
+ "selInspect": {
+  "totalGroups": 4,
+  "totalLive": 18,
+  "totalUrls": 18,
+  "selectedTotal": 10,
+  "skippedTotal": 8,
+  "non200Total": 0,
+  "nonRrendered": 2,
+  "nonRtotal": 2,
+  "fullGroups": 1,
+  "rRendered": 8,
+  "rTotal": 15,
+  "rGroups": 2,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 10,
+   "selected": 4,
+   "skipped": 6,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/about"
+  },
+  {
+   "groupId": "G01",
+   "template": "/news/{slug}",
+   "label": "News section pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{page}/{section}",
+   "label": "Root-level product & marketing pages",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/about/flexible-content-demo"
+  },
+  {
+   "groupId": "G03",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

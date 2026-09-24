@@ -1,0 +1,18 @@
+{
+  "siteUrl": "https://babylovenappies.com.au/",
+  "siteOrigin": "https://babylovenappies.com.au",
+  "site": "babylovenappies.com.au",
+  "scope": "Entire domain — Australia (Baby Care)",
+  "eyebrow": "BabyLove Nappies Australia · Site Analysis",
+  "heroTitle": "Structural analysis of babylovenappies.com.au",
+  "heroSub": "",
+  "brandLine": "babylovenappies.com.au<br>Migration Console",
+  "accountName": "Unicharm — BabyLove Nappies Australia",
+  "locale": "en-AU",
+  "discovery": "full breadth-first crawl",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/babylovenappies-com-au-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": ""
+}

@@ -1,0 +1,54 @@
+{
+ "captured": "2026-09-24T07:05:05.223Z",
+ "renderedPages": 56,
+ "distinctSignatures": 1,
+ "templates": [
+  {
+   "signature": "media>form",
+   "family": "form",
+   "rendered": 56,
+   "estPop": 56,
+   "urls": [
+    "https://www.hartz.com/11-fall-pet-dangers-to-avoid/",
+    "https://www.hartz.com/",
+    "https://www.hartz.com/en-ca/6-tips-bathing-dog/",
+    "https://www.hartz.com/en-ca/catnip-affect-cat/",
+    "https://www.hartz.com/en-ca/diy-a-quick-start-guide-to-setting-up-your-aquarium/",
+    "https://www.hartz.com/en-ca/product/hartz-all-in-1-collar-lead-combo-for-dogs/",
+    "https://www.hartz.com/en-ca/product/hartz-ultraguard-flea-and-tick-treatment-for-dogs-and-puppies-2-5kg-to-6kg-traitement-antipuces-et-antitiques-pour-chiens-et-chiots-25kg-et-6kg/",
+    "https://www.hartz.com/en-ca/product/hartz-ultraguard-plus-flea-tick-spray-for-dogs-with-aloe-pulverisation-antipuces-et-antitiques-pour-chiens-avec-aloes/"
+   ],
+   "sections": {
+    "11-fall-pet-dangers-to-avoid": 1,
+    "(home)": 1,
+    "en-ca": 10,
+    "hartz-caring-for-feral-cats-in-the-winter": 1,
+    "learning-center": 11,
+    "hartz-loving-paws": 1,
+    "our-brands": 6,
+    "new-dog-checklist": 1,
+    "product": 5,
+    "products": 16,
+    "sustainabilityactions-commitment": 2,
+    "your-kittens-emotional-needs": 1
+   },
+   "locales": {
+    "root": 56
+   },
+   "blockCountMode": {
+    "2": 56
+   },
+   "topSections": [
+    "products(16)",
+    "learning-center(11)",
+    "en-ca(10)",
+    "our-brands(6)",
+    "product(5)"
+   ],
+   "topLocales": [
+    "root:56"
+   ],
+   "name": "form-page"
+  }
+ ]
+}

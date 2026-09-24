@@ -1,0 +1,105 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/babylovenappies-com-au-scope
+▶ site: https://babylovenappies.com.au/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 199
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 14
+Pattern groups (>= 2): 13 - covering 198 pages -> sampled to ~45
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 46
+
+Top 30 pattern groups:
+   95 -> 4 sampled   /blog/{slug}
+   31 -> 4 sampled   /{page}
+   21 -> 4 sampled   /our-products/{section}
+   15 -> 4 sampled   /blog/{section}
+    9 -> 4 sampled   /about-us/{section}
+    6 -> 4 sampled   /sample-products/{section}
+    3 -> 3 sampled   /
+    3 -> 3 sampled   /our-products
+    3 -> 3 sampled   /about-us
+    3 -> 3 sampled   /about-us/{slug}
+    3 -> 3 sampled   /sample-products
+    3 -> 3 sampled   /blog
+    3 -> 3 sampled   /blog/{section}/{slug}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 46
+Distinct layout signatures: 1
+
+=== Layout templates (est. full-population pages) ===
+   46 pp  rendered= 46   form-page        form>text                                      |  blog(15) about-us(10) our-products(7)
+
+=== Third-party integrations detected ===
+  138 Google Tag Manager
+  137 TikTok Pixel
+   91 Meta (Facebook) Pixel
+   51 Google Ads/DoubleClick
+   47 Google Maps
+   46 Other third-party: unicharm.activehosted.com
+    3 Other third-party: fronterly.com
+
+=== Global objects ===
+  46 dataLayer
+  46 gtag
+  46 google_tag_manager
+  46 fbq
+  46 __NEXT_DATA__
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 46
+Total variants: 3
+
+=== Base type -> variants / instances ===
+  39 inst    1 variants   form
+   7 inst    2 variants   accordion
+
+=== Top 20 variants ===
+  39 x   form          pages= 39   div|aside1.div1.noscript1|img,lst,frm,hd,a
+   6 x   accordion     pages=  6   div|aside1.div1.noscript1|img,lst,frm,hd,a
+   1 x   accordion     pages=  1   div|aside1.div1.noscript1|img,tbl,lst,frm,
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Form)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 14 template groups | full: 7 sampled: 6 excluded: 1
+pages — inspected: 43 skipped: 156 non-200: 0 of 199 urls
+
+=== Template groups (by size) ===
+  G00    95  sampled   /blog/{slug}                      Blog section pages
+  G01    31  sampled   /{page}                           Root-level product & marketing pages
+  G02    21  sampled   /our-products/{section}           Our-products section pages
+  G03    15  sampled   /blog/{section}                   Blog section pages
+  G04     9  sampled   /about-us/{section}               About-us section pages
+  G05     6  sampled   /sample-products/{section}        Sample-products section pages
+  G06     3  excluded  /                                 Homepage & root
+  G07     3  full      /our-products                     Our-products — landing
+  G08     3  full      /about-us                         About-us — landing
+  G09     3  full      /about-us/{slug}                  About-us section pages
+  G10     3  full      /sample-products                  Sample-products — landing
+  G11     3  full      /blog                             Blog — landing
+  G12     3  full      /blog/{section}/{slug}            Blog sub-pages
+  G13     1  full      /blog/{section}/{page}            Blog sub-pages
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 8 | first-party domain: com.au
+Probable backend integrations: 3 | unclassified hosts: 1
+
+=== By category ===
+  1 Advertising
+  1 Analytics
+  1 Maps
+
+=== Services (by page coverage) ===
+  8pg  Advertising                 Google Ads / DoubleClick
+  8pg  Analytics                   Google Analytics (GA4)
+  8pg  Maps                        Google Maps API
+▶ [11/12] compute supplementary data
+compute-data: live pages 199 | structure groups 64 | docs 0 | url groups 17 | layout heatmap rows 1 | block heatmap rows 2 | integrations 7
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/babylovenappies-com-au-site-analysis-dashboard.html 1.54 MB
+templates: 1 galleries: Accordion:2, Form:1
+IMAGES: 3 TEMPLATE_SHOTS: 1
+✅ done.

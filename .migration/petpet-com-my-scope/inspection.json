@@ -1,0 +1,46 @@
+{
+ "captured": "2026-09-24T06:32:13.227Z",
+ "locales": [],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 2,
+  "totalLive": 18,
+  "totalUrls": 18,
+  "selectedTotal": 0,
+  "skippedTotal": 18,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 18,
+  "exclGroups": 2,
+  "nonEnExcluded": 18
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 17,
+   "selected": 0,
+   "skipped": 17,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blogs"
+  },
+  {
+   "groupId": "G01",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

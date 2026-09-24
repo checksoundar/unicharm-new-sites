@@ -1,0 +1,16 @@
+{
+ "captured": "2026-09-24T07:06:21.833Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "form-page",
+   "family": "form",
+   "signature": "form>text",
+   "estPop": 46,
+   "url": "https://babylovenappies.com.au/about-us",
+   "file": "t00_form-page.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

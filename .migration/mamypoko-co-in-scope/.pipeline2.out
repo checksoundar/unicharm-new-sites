@@ -1,0 +1,148 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/mamypoko-co-in-scope
+▶ site: https://www.mamypoko.co.in/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 64
+Distinct layout signatures: 21
+
+=== Layout templates (est. full-population pages) ===
+   32 pp  rendered= 32   form-page        breadcrumbs>text>columns>text>form             |  toddlers(8) newborn(7) pregnancy(7)
+    5 pp  rendered=  5   form-page        media>nav>list>media>form>list>text            |  blogs(5)
+    5 pp  rendered=  5   carousel-page    text>carousel>media>columns>text>iframe-embed> |  products(5)
+    2 pp  rendered=  2   media-article    text>text>text>media                           |  infant(1) pregnancy(1)
+    2 pp  rendered=  2   article-text     text>text>text                                 |  products(2)
+    2 pp  rendered=  2   carousel-page    text>carousel>text>text>iframe-embed>text>caro |  products(2)
+    2 pp  rendered=  2   carousel-page    text>carousel>media>text>carousel>text         |  products(2)
+    1 pp  rendered=  1   form-page        media>text>list>list>media>text>text>text>form |  (home)(1)
+    1 pp  rendered=  1   media-article    media>nav>media>text>text>text>text>list>text  |  about-unicharm(1)
+    1 pp  rendered=  1   form-page        media>nav>form>text                            |  community(1)
+    1 pp  rendered=  1   media-article    media>nav>media>text>list>text                 |  disclaimer(1)
+    1 pp  rendered=  1   minimal-page     (empty)                                        |  mamypoko-in-news(1)
+    1 pp  rendered=  1   form-page        breadcrumbs>text>iframe-embed>text>form        |  newborn(1)
+    1 pp  rendered=  1   accordion-page   media>nav>text>text>text>text>text>accordion>l |  pokochan(1)
+    1 pp  rendered=  1   form-page        breadcrumbs>text>table>text>form               |  pregnancy(1)
+    1 pp  rendered=  1   section-nav-list list>list                                      |  products(1)
+    1 pp  rendered=  1   carousel-page    text>carousel>media>columns>text>iframe-embed> |  products(1)
+    1 pp  rendered=  1   carousel-page    text>carousel>media>columns>text>carousel      |  products(1)
+    1 pp  rendered=  1   media-article    media>nav>text>list>text                       |  products(1)
+    1 pp  rendered=  1   form-page        text>table>form>columns>text>carousel>text     |  products(1)
+    1 pp  rendered=  1   media-article    media>nav>text>text>list>text                  |  website-user-agreement(1)
+
+=== Third-party integrations detected ===
+  116 Other third-party: www.clarity.ms
+  116 Other third-party: dss.hybrid.ai
+  101 Google Tag Manager
+   59 Google Ads/DoubleClick
+   59 Other third-party: unicharm-crm.armworldwide.com
+   58 Other third-party: st.hybrid.ai
+   44 Meta (Facebook) Pixel
+   21 Other third-party: scripts.clarity.ms
+   21 Google Analytics
+   11 YouTube embed
+    3 Other third-party: emd.hybrid.ai
+
+=== Global objects ===
+  64 __NEXT_DATA__
+  59 dataLayer
+  59 gtag
+  59 ga
+  59 google_tag_manager
+  59 fbq
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 247
+Total variants: 39
+
+=== Base type -> variants / instances ===
+  76 inst   10 variants   unknown
+  40 inst    3 variants   columns
+  36 inst    3 variants   form
+  36 inst    3 variants   text
+  23 inst    3 variants   carousel
+  12 inst    8 variants   accordion
+  11 inst    3 variants   media
+  10 inst    3 variants   video
+   2 inst    2 variants   tabs
+   1 inst    1 variants   table
+
+=== Top 20 variants ===
+  34 x   form          pages= 34   div|section1|img,frm,hd,aN,iN
+  34 x   unknown       pages= 34   div|div1|img,hd,aN,iN
+  23 x   columns       pages= 23   div|div2|img,lst,hd,aN,iN
+  23 x   text          pages= 23   h1||aN,iN
+  16 x   unknown       pages= 12   div|div3|img,hd,aN,iN
+  12 x   carousel      pages= 12   section|div1|img,hd,aN,iN
+  12 x   unknown       pages= 12   div|div1.img2|img,lst,hd,aN,iN
+  11 x   text          pages= 11   section|div1|hd,aN,iN
+  10 x   carousel      pages= 10   div|div1|img,frm,hd,aN,iN
+   9 x   columns       pages=  9   div|div2|img,hd,aN,iN
+   9 x   media         pages=  9   div|div1|img,aN,iN
+   8 x   columns       pages=  8   div|div1|img,hd,aN,iN
+   8 x   video         pages=  8   div|div1|img,ifr,hd,aN,iN
+   6 x   unknown       pages=  6   div|div2|img,hd,aN,iN
+   5 x   accordion     pages=  5   div|div7.footer1.link1.nav1.noscript1.sect
+   3 x   unknown       pages=  2   section|div1|img,hd,aN,iN
+   2 x   text          pages=  2   h1|span1|aN,iN
+   1 x   accordion     pages=  1   div|div6.footer1.link1.nav1.noscript1.sect
+   1 x   accordion     pages=  1   div|div3.link1.nav1.noscript1.section1|img
+   1 x   accordion     pages=  1   div|div7.footer1.link1.nav1.noscript1|img,
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Media)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 22 template groups | full: 10 sampled: 11 excluded: 1
+pages — inspected: 63 skipped: 552 non-200: 0 of 615 urls
+
+=== Template groups (by size) ===
+  G00   185  sampled   /pregnancy/{slug}                 Pregnancy section pages
+  G01   127  sampled   /toddlers/{slug}                  Toddlers section pages
+  G02    78  sampled   /products/{section}/{slug}        Products sub-pages
+  G03    76  sampled   /newborn/{slug}                   Newborn section pages
+  G04    71  sampled   /infant/{slug}                    Infant section pages
+  G05    18  sampled   /{page}                           Root-level product & marketing pages
+  G06    15  sampled   /products/{id}/{slug}             Products sub-pages
+  G07     7  sampled   /mamypoko-in-news/{slug}          Mamypoko-in-news section pages
+  G08     7  sampled   /pregnancy/{section}              Pregnancy section pages
+  G09     6  sampled   /products/{section}               Products section pages
+  G10     5  sampled   /newborn/{section}                Newborn section pages
+  G11     4  full      /blogs/{section}                  Blogs section pages
+  G12     4  full      /toddlers/{section}               Toddlers section pages
+  G13     3  full      /products/{slug}                  Products section pages
+  G14     2  full      /infant/{section}                 Infant section pages
+  G15     1  excluded  /                                 Homepage & root
+  G16     1  full      /blogs                            Blogs — landing
+  G17     1  full      /{page}/{section}                 Root-level product & marketing pages
+  G18     1  full      /infant                           Infant — landing
+  G19     1  full      /mamypoko-in-news                 Mamypoko-in-news — landing
+  G20     1  full      /pregnancy                        Pregnancy — landing
+  G21     1  full      /products                         Products — landing
+▶ [10/12] capture backend API calls (sample=20, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 14 | first-party domain: co.in
+Probable backend integrations: 6 | unclassified hosts: 4
+
+=== By category ===
+  1 First-party telemetry
+  1 Analytics
+  1 Session replay / analytics
+  1 Video
+  1 First-party platform
+  1 Advertising
+
+=== Services (by page coverage) ===
+ 14pg  First-party telemetry       Www: Logging API
+ 13pg  Analytics                   Google Analytics (GA4)
+ 13pg  Session replay / analytics  Digital-experience analytics
+  7pg  Video                       Video platform API
+  7pg  First-party platform        Www: Content / App API
+  4pg  Advertising                 Google Ads / DoubleClick
+▶ [11/12] compute supplementary data
+compute-data: live pages 615 | structure groups 7 | docs 0 | url groups 27 | layout heatmap rows 7 | block heatmap rows 10 | integrations 11
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/mamypoko-co-in-site-analysis-dashboard.html 16.77 MB
+templates: 7 galleries: Columns:3, Carousel:3, Accordion:8, Tabs:2, Table:1, Form:3, Media:3, Video:3, Text:3, Unknown / Custom:10
+IMAGES: 39 TEMPLATE_SHOTS: 7
+✅ done.

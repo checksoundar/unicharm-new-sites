@@ -1,0 +1,83 @@
+{
+ "captured": "2026-09-24T06:31:27.630Z",
+ "totalInstances": 5,
+ "totalVariants": 4,
+ "baseSummary": [
+  {
+   "base": "form",
+   "variants": 3,
+   "instances": 4
+  },
+  {
+   "base": "tabs",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "form",
+   "key": "form::div|div1.footer1.header1.section4|img,lst,frm,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "form_e574f130ba57.jpg",
+   "repUrl": "https://petpet.com.my/redeem/",
+   "samples": [
+    {
+     "url": "https://petpet.com.my/day-night-tape/",
+     "file": "form_457e0ce7923c.jpg"
+    },
+    {
+     "url": "https://petpet.com.my/redeem/",
+     "file": "form_e574f130ba57.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div2.footer1.header1.section1|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_992ff875b803.jpg",
+   "repUrl": "https://petpet.com.my/blogs/",
+   "samples": [
+    {
+     "url": "https://petpet.com.my/blogs/",
+     "file": "form_992ff875b803.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1.footer1.header1.section5|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_99d9ac64564b.jpg",
+   "repUrl": "https://petpet.com.my/wipes/",
+   "samples": [
+    {
+     "url": "https://petpet.com.my/wipes/",
+     "file": "form_99d9ac64564b.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div3.footer1.header1.script1.section1|img,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_16a2a788dfbf.jpg",
+   "repUrl": "https://petpet.com.my/",
+   "samples": [
+    {
+     "url": "https://petpet.com.my/",
+     "file": "tabs_16a2a788dfbf.jpg"
+    }
+   ],
+   "topLabel": ""
+  }
+ ]
+}

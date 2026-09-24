@@ -1,0 +1,59 @@
+{
+ "captured": "2026-09-24T06:32:37.626Z",
+ "locales": [
+  "en-au"
+ ],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 3,
+  "totalLive": 8,
+  "totalUrls": 8,
+  "selectedTotal": 0,
+  "skippedTotal": 8,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 8,
+  "exclGroups": 3,
+  "nonEnExcluded": 8
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-au/product/delectables-lickable-cat-treat-bisque-chicken"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}",
+   "label": "Locale homepages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-au"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-au/where-to-buy"
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "captured": "2026-09-24T07:05:05.272Z",
+ "renderedPages": 46,
+ "distinctSignatures": 1,
+ "templates": [
+  {
+   "signature": "form>text",
+   "family": "form",
+   "rendered": 46,
+   "estPop": 46,
+   "urls": [
+    "http://babylovenappies.com.au/about-us",
+    "http://babylovenappies.com.au/about-us/5-a-day-of-play",
+    "http://babylovenappies.com.au/",
+    "http://babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+    "http://babylovenappies.com.au/about-us/contact-us",
+    "http://babylovenappies.com.au/blog",
+    "http://babylovenappies.com.au/blog/5-types-of-play-that-help-boost-your-childs-development",
+    "http://babylovenappies.com.au/blog/childcare-guide"
+   ],
+   "sections": {
+    "about-us": 10,
+    "(home)": 3,
+    "babylove-x-bluey-exclusive-bluey-designs-now-available": 2,
+    "blog": 15,
+    "our-products": 7,
+    "sample-products": 7,
+    "wipes-promo": 2
+   },
+   "locales": {
+    "root": 46
+   },
+   "blockCountMode": {
+    "2": 46
+   },
+   "topSections": [
+    "blog(15)",
+    "about-us(10)",
+    "our-products(7)",
+    "sample-products(7)",
+    "(home)(3)"
+   ],
+   "topLocales": [
+    "root:46"
+   ],
+   "name": "form-page"
+  }
+ ]
+}

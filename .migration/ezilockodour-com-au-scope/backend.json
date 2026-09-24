@@ -1,0 +1,49 @@
+{
+ "captured": "2026-09-24T06:33:01.438Z",
+ "sampledPages": 3,
+ "firstPartyDomain": "com.au",
+ "totalServices": 2,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Maps",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 3,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Maps API",
+   "category": "Maps",
+   "note": "",
+   "hosts": [
+    "maps.googleapis.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET maps.googleapis.com/maps/api/mapsjs/gen_:n"
+   ],
+   "pages": 3,
+   "coverage": "100%"
+  }
+ ],
+ "otherHosts": []
+}

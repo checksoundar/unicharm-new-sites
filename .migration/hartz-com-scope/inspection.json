@@ -1,0 +1,284 @@
+{
+ "captured": "2026-09-24T07:08:08.464Z",
+ "locales": [
+  "en-ca"
+ ],
+ "sections": [
+  "learning-center",
+  "our-brands",
+  "product",
+  "products"
+ ],
+ "selInspect": {
+  "totalGroups": 23,
+  "totalLive": 842,
+  "totalUrls": 842,
+  "selectedTotal": 0,
+  "skippedTotal": 842,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 842,
+  "exclGroups": 23,
+  "nonEnExcluded": 842
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 566,
+   "selected": 0,
+   "skipped": 566,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/11-fall-pet-dangers-to-avoid"
+  },
+  {
+   "groupId": "G01",
+   "template": "/product/{slug}",
+   "label": "Product section pages",
+   "total": 143,
+   "selected": 0,
+   "skipped": 143,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/product/groomers-best-extra-gentle-brightening-shampoo"
+  },
+  {
+   "groupId": "G02",
+   "template": "/learning-center/{section}/{page}/{path…}",
+   "label": "Learning-center deep pages",
+   "total": 27,
+   "selected": 0,
+   "skipped": 27,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/learning-center/animals/cats/getting-started-cats"
+  },
+  {
+   "groupId": "G03",
+   "template": "/products/{section}/{page}/{path…}",
+   "label": "Products deep pages",
+   "total": 26,
+   "selected": 0,
+   "skipped": 26,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/cats/diapers/cat-diapers"
+  },
+  {
+   "groupId": "G04",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 22,
+   "selected": 0,
+   "skipped": 22,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-ca/product/hartz-all-in-1-collar-lead-combo-for-dogs"
+  },
+  {
+   "groupId": "G05",
+   "template": "/our-brands/{section}",
+   "label": "Our-brands section pages",
+   "total": 11,
+   "selected": 0,
+   "skipped": 11,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/our-brands/chewnclean"
+  },
+  {
+   "groupId": "G06",
+   "template": "/{locale}/{slug}",
+   "label": "Locale section / landing pages",
+   "total": 10,
+   "selected": 0,
+   "skipped": 10,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-ca/6-tips-bathing-dog"
+  },
+  {
+   "groupId": "G07",
+   "template": "/products/{section}/{page}",
+   "label": "Products sub-pages",
+   "total": 10,
+   "selected": 0,
+   "skipped": 10,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/cats/diapers"
+  },
+  {
+   "groupId": "G08",
+   "template": "/learning-center/{section}",
+   "label": "Learning-center section pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/learning-center/animals"
+  },
+  {
+   "groupId": "G09",
+   "template": "/products/{section}/{id}/{path…}",
+   "label": "Products deep pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/cats/flea-tick-control-cats/collars-flea-tick-control-cats"
+  },
+  {
+   "groupId": "G10",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-ca/catnip-affect-cat"
+  },
+  {
+   "groupId": "G11",
+   "template": "/{page}/{slug}",
+   "label": "Root-level product & marketing pages",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/hartz-loving-paws/hartz-loving-paws-recent-events"
+  },
+  {
+   "groupId": "G12",
+   "template": "/products/{section}",
+   "label": "Products section pages",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/cats"
+  },
+  {
+   "groupId": "G13",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G14",
+   "template": "/learning-center",
+   "label": "Learning-center — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/learning-center"
+  },
+  {
+   "groupId": "G15",
+   "template": "/learning-center/{section}/{slug}",
+   "label": "Learning-center sub-pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/learning-center/featured-home/about-hartz-featured-home"
+  },
+  {
+   "groupId": "G16",
+   "template": "/learning-center/{section}/{page}",
+   "label": "Learning-center sub-pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/learning-center/more-about-hartz/hartz-vets"
+  },
+  {
+   "groupId": "G17",
+   "template": "/our-brands",
+   "label": "Our-brands — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/our-brands"
+  },
+  {
+   "groupId": "G18",
+   "template": "/our-brands/{slug}",
+   "label": "Our-brands section pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/our-brands/groomers-best-professionals"
+  },
+  {
+   "groupId": "G19",
+   "template": "/product",
+   "label": "Product — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/product"
+  },
+  {
+   "groupId": "G20",
+   "template": "/products",
+   "label": "Products — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products"
+  },
+  {
+   "groupId": "G21",
+   "template": "/products/{section}/{slug}",
+   "label": "Products sub-pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/cats/flea-tick-control-cats"
+  },
+  {
+   "groupId": "G22",
+   "template": "/{page}/{section}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/sustainabilityactions-commitment/our-goals"
+  }
+ ]
+}

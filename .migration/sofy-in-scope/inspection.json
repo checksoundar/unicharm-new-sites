@@ -1,0 +1,172 @@
+{
+ "captured": "2026-09-24T06:44:00.931Z",
+ "locales": [],
+ "sections": [
+  "blog",
+  "period-education",
+  "product",
+  "products"
+ ],
+ "selInspect": {
+  "totalGroups": 13,
+  "totalLive": 478,
+  "totalUrls": 478,
+  "selectedTotal": 0,
+  "skippedTotal": 478,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 478,
+  "exclGroups": 13,
+  "nonEnExcluded": 478
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/blog/{section}/{page}/{path…}",
+   "label": "Blog deep pages",
+   "total": 225,
+   "selected": 0,
+   "skipped": 225,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/body-mind/during-puberty/dealing-with-emotional-ups-and-downs-during-puberty"
+  },
+  {
+   "groupId": "G01",
+   "template": "/blog/{section}/{slug}",
+   "label": "Blog sub-pages",
+   "total": 152,
+   "selected": 0,
+   "skipped": 152,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/body-mind/why-your-energy-mood-and-focus-change-every-month-and-why-thats-okay"
+  },
+  {
+   "groupId": "G02",
+   "template": "/product/{section}/{slug}",
+   "label": "Product sub-pages",
+   "total": 28,
+   "selected": 0,
+   "skipped": 28,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/product/antibacteria-overnight/sofy-antibacteria-overnight-xxl-15-pads"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 22,
+   "selected": 0,
+   "skipped": 22,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/about-sofy"
+  },
+  {
+   "groupId": "G04",
+   "template": "/product/{id}/{slug}",
+   "label": "Product sub-pages",
+   "total": 16,
+   "selected": 0,
+   "skipped": 16,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/product/antibacteria-extra-long-290-mm-straight-type/sofy-antibacteria-extra-long-6-pads"
+  },
+  {
+   "groupId": "G05",
+   "template": "/blog/{section}/{id}/{path…}",
+   "label": "Blog deep pages",
+   "total": 10,
+   "selected": 0,
+   "skipped": 10,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/body-mind/pcos-polycystic-ovarian-syndrome/5-natural-treatments-for-pcos"
+  },
+  {
+   "groupId": "G06",
+   "template": "/blog/{section}/{page}",
+   "label": "Blog sub-pages",
+   "total": 10,
+   "selected": 0,
+   "skipped": 10,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/category/body-mind"
+  },
+  {
+   "groupId": "G07",
+   "template": "/period-education/{section}",
+   "label": "Period-education section pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/period-education/how-sofy-helps"
+  },
+  {
+   "groupId": "G08",
+   "template": "/products/{section}",
+   "label": "Products section pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/antibacteria"
+  },
+  {
+   "groupId": "G09",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G10",
+   "template": "/blog",
+   "label": "Blog — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog"
+  },
+  {
+   "groupId": "G11",
+   "template": "/period-education",
+   "label": "Period-education — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/period-education"
+  },
+  {
+   "groupId": "G12",
+   "template": "/products",
+   "label": "Products — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products"
+  }
+ ]
+}

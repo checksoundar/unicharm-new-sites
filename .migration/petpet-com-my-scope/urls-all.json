@@ -1,0 +1,95 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T06:30:10.991Z",
+    "totalUrls": 18,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 18,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://petpet.com.my/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/blogs/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/cart/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/checkout/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/contact-us/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/day-and-night-pants/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/day-night-tape/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/faq/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/mascot-story-tape-diaper/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/my-account/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/pants/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/privacy-policy/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/redeem/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/tape-m-xl/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/tape-new-born/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/tape-s/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/terms-and-conditions/",
+        "status": 200
+      },
+      {
+        "url": "https://petpet.com.my/wipes/",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

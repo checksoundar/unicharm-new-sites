@@ -1,0 +1,138 @@
+{
+ "captured": "2026-09-24T06:34:18.374Z",
+ "locales": [],
+ "sections": [
+  "blog",
+  "pages",
+  "products"
+ ],
+ "selInspect": {
+  "totalGroups": 10,
+  "totalLive": 110,
+  "totalUrls": 110,
+  "selectedTotal": 20,
+  "skippedTotal": 90,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 20,
+  "rTotal": 32,
+  "rGroups": 5,
+  "exclTotal": 78,
+  "exclGroups": 5,
+  "nonEnExcluded": 78
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/blog/{section}/{slug}",
+   "label": "Blog sub-pages",
+   "total": 37,
+   "selected": 0,
+   "skipped": 37,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control"
+  },
+  {
+   "groupId": "G01",
+   "template": "/blog/{id}/{slug}",
+   "label": "Blog sub-pages",
+   "total": 29,
+   "selected": 0,
+   "skipped": 29,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/physiological-limitations/addressing-mobility-challenges-for-senior-citizens-with-adult-diapers"
+  },
+  {
+   "groupId": "G02",
+   "template": "/blog/{section}/{page}",
+   "label": "Blog sub-pages",
+   "total": 9,
+   "selected": 0,
+   "skipped": 9,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog/category/adult-diaper"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 8,
+   "selected": 4,
+   "skipped": 4,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/adult-diapers"
+  },
+  {
+   "groupId": "G04",
+   "template": "/pages/{section}/{slug}",
+   "label": "Pages sub-pages",
+   "total": 7,
+   "selected": 4,
+   "skipped": 3,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/pages/about-lifree/history-background-of-lifree"
+  },
+  {
+   "groupId": "G05",
+   "template": "/pages/{section}/{page}",
+   "label": "Pages sub-pages",
+   "total": 7,
+   "selected": 4,
+   "skipped": 3,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/pages/about-lifree/lifrees-philosophy"
+  },
+  {
+   "groupId": "G06",
+   "template": "/pages/{section}",
+   "label": "Pages section pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/pages/about-lifree"
+  },
+  {
+   "groupId": "G07",
+   "template": "/products/{slug}",
+   "label": "Products section pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/products/all-night-absorb-pants"
+  },
+  {
+   "groupId": "G08",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G09",
+   "template": "/blog",
+   "label": "Blog — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/blog"
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "captured": "2026-09-24T06:33:14.355Z",
+ "renderedPages": 36,
+ "distinctSignatures": 3,
+ "templates": [
+  {
+   "signature": "list>list>list>text>list>text>text>text>text",
+   "family": "list",
+   "rendered": 30,
+   "estPop": 30,
+   "urls": [
+    "https://www.delectablescattreats.com/about/",
+    "https://www.delectablescattreats.com/",
+    "https://www.delectablescattreats.com/delectables-sponsored-promotions-official-rules/",
+    "https://www.delectablescattreats.com/our-brands/delectables/",
+    "https://www.delectablescattreats.com/patents/",
+    "https://www.delectablescattreats.com/product/",
+    "https://www.delectablescattreats.com/product/delectables-lickable-spoon-chicken-32-pack/",
+    "https://www.delectablescattreats.com/product/delectables-lickable-treat-gravy-non-seafood-recipe-12-pack-variety/"
+   ],
+   "sections": {
+    "about": 1,
+    "(home)": 1,
+    "delectables-sponsored-promotions-official-rules": 1,
+    "our-brands": 1,
+    "patents": 1,
+    "product": 5,
+    "products": 19,
+    "where-to-buy": 1
+   },
+   "locales": {
+    "root": 30
+   },
+   "blockCountMode": {
+    "9": 30
+   },
+   "topSections": [
+    "products(19)",
+    "product(5)",
+    "about(1)",
+    "(home)(1)",
+    "delectables-sponsored-promotions-official-rules(1)"
+   ],
+   "topLocales": [
+    "root:30"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>list>list>text>text>text>text>text>text",
+   "family": "list",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://www.delectablescattreats.com/en-ca/hartz-pet-partners/",
+    "https://www.delectablescattreats.com/en-ca/product/delectables-lickable-treat-bisque-6ct-variety-pack/",
+    "https://www.delectablescattreats.com/en-ca/product/delectables-lickable-treat-stew-senior-10-variety-12-pack/",
+    "https://www.delectablescattreats.com/en-ca/product/hartz-delectables-lickable-treat-stew-chicken-tuna/"
+   ],
+   "sections": {
+    "en-ca": 4
+   },
+   "locales": {
+    "root": 4
+   },
+   "blockCountMode": {
+    "9": 4
+   },
+   "topSections": [
+    "en-ca(4)"
+   ],
+   "topLocales": [
+    "root:4"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>list>text>text>text>text>text>text",
+   "family": "list",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-chicken/",
+    "https://www.delectablescattreats.com/en-au/where-to-buy/"
+   ],
+   "sections": {
+    "en-au": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "8": 2
+   },
+   "topSections": [
+    "en-au(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "section-nav-list"
+  }
+ ]
+}

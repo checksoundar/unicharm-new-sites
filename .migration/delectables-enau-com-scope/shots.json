@@ -1,0 +1,16 @@
+{
+ "captured": "2026-09-24T06:32:31.129Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list>text>text>text>text>text>text",
+   "estPop": 6,
+   "url": "https://www.delectablescattreats.com/en-au/",
+   "file": "t00_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 394439
+  }
+ ]
+}

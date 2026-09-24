@@ -1,0 +1,1935 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T06:30:11.173Z",
+    "totalUrls": 478,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 478,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.sofy.in/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/about-sofy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/during-puberty/dealing-with-emotional-ups-and-downs-during-puberty/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/during-puberty/how-to-deal-with-acne-breakout-during-puberty/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/during-puberty/puberty-cheatsheet-for-teens-meaning-first-signs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/during-puberty/puberty-meaning-myths-no-one-talks-about/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/during-puberty/stages-of-puberty-in-girls/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/5-best-exercises-streches-to-do-during-your-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/5-yoga-postures-which-are-great-for-teenage-girls/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/exercises-that-you-should-do-when-on-the-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/exercises-you-can-try-to-treat-irregular-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/how-do-periods-affect-athletes-in-competitive-sports/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/how-to-stay-fit-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/is-exercising-during-periods-safe/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/looking-for-best-sanitary-pads-5-features-you-must-absolutely-consider/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/mind-body-connection-using-exercise-and-period-tracking-app-to-manage-irregular-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/pms-symptoms-and-exercises-good-or-bad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/why-does-one-undergo-weight-loss-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/fitness/yoga-poses-to-ease-back-pain-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/5-natural-treatments-for-pcos/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/are-pcos-and-diabetes-connected/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/conceiving-with-pcos/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/covid-19-vaccination-and-pcos-everything-you-need-to-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/how-to-lose-weight-with-pcos-as-a-teenager/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/how-to-regulate-periods-with-pcos-with-natural-home-remedies/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/lets-cover-pcod-pcos/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/pcos-101-everything-you-need-to-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/what-is-menstrual-cycle-irregularity-whats-normal-and-when-to-seek-help/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/what-is-pcod-how-it-affects-your-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/6-things-you-need-to-know-before-using-pantyliners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/all-you-need-to-know-about-a-yeast-infection/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/anti-bacteria-pads-vs-regular-pads-which-one-is-better-for-your-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/can-period-pads-cause-uti/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/can-stress-cause-vaginal-infections-the-shocking-connection/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/chronic-pains-down-there/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/common-causes-symptoms-and-remedies-for-a-yeast-infection/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/common-dos-and-donts-followed-by-every-woman-for-vaginal-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/day-vs-night-why-both-women-pads-are-a-must-have-in-your-hygiene-kit/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/different-discharges-what-do-they-say-about-your-body/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/female-genitalia-things-you-should-know-part-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/female-genitalia-things-you-should-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-deal-with-rashes-around-the-intimate-area/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-guard-against-vaginal-infections-in-monsoons/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-keep-your-vagina-cool-and-healthy-this-summer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-maintain-feminine-hygiene-during-monsoon-season/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-prevent-urinary-tract-infections/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-protect-yourself-from-cervical-cancer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/how-to-steer-clear-of-yeast-infection-this-summer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/intimate-wash-explained-benefits-side-effects-must-know-tips/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/lets-start-a-discussion-around-hymens/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/natural-remedies-for-a-vaginal-yeast-infection/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/red-brown-or-pink-your-pre-period-discharge-says-a-lot-about-your-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/tampons-and-vaginal-health-how-to-maintain-hygiene-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/uncomfortable-itching-down-there-during-before-the-period-heres-why/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/vaginal-itching-heres-what-you-can-do-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/vaginal-itching-heres-what-you-can-do/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/ways-to-prevent-vaginal-infections-and-odor-problems/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/vaginal-health/why-do-i-get-vaginal-infection-after-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/body-mind/why-your-energy-mood-and-focus-change-every-month-and-why-thats-okay/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/body-mind/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/body-mind/during-puberty/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/body-mind/fitness/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/body-mind/pcos-polycystic-ovarian-syndrome/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/body-mind/vaginal-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/food-nutrition/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/period-basics/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/period-guide/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/period-guide/about-first-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/period-guide/pre-menstrual-syndrome/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/period-guide/product-know-how/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/pregnancy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/tips-tricks/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/tips-tricks/generic-concerns/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/tips-tricks/menstrual-problems/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/tips-tricks/period-hacks/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/wellness/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/wellness/emotional-wellness/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/category/wellness/physical-wellness/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/3-foods-to-eat-for-a-healthier-happier-period-edition-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/3-major-period-cravings-and-how-to-deal-with-it/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/4-best-herbal-teas-to-help-with-menstrual-cramps/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/4-effective-ways-to-manage-bloating-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/4-nutritious-breakfast-recipes-to-have-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/5-best-supplements-to-take-on-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/5-foods-you-should-have-to-calm-your-rage-monster/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/5-natural-ways-to-deal-with-stress-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/6-foods-to-eat-for-a-healthier-happier-period-edition-1/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/foods-to-eat-and-avoid-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/foods-to-help-ease-bloating-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/foods-to-help-reduce-pms-cramps/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/how-do-cherries-and-other-random-things-that-you-didnt-think-of-help-with-menstrual-cramps/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/ladies-these-comfort-foods-during-periods-are-a-godsend/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/menthol-the-magical-herb-for-period-relief/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/natural-remedies-to-curtail-heavy-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/period-cravings-3-wholesome-dessert-recipes-to-enjoy-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/period-snacks-101-a-guilt-free-guide-to-healthy-snacking/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/summer-foods-that-are-awesome-for-your-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/sweet-salty-or-spicy-what-your-period-cravings-are-telling-you/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/food-nutrition/why-should-one-avoid-eating-cold-foods-and-drinks-when-on-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/4-reasons-period-tracking-apps-are-tracking-more-than-just-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/5-reasons-for-late-or-skipped-periods-aside-from-pregnancy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/accessibility-of-sanitary-pads-in-india/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/day-pad-vs-night-pad-whats-the-difference/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/day-pads-vs-night-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/five-reasons-why-soft-pads-are-the-best-for-summer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/gen-zs-guide-to-a-stress-free-period-routine-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/how-men-help-their-significant-other-during-their-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/how-to-choose-the-right-pad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/how-to-have-a-comfortable-period-during-summers/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/how-to-have-the-period-talk-with-your-daughter-without-being-awkward/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/menstruation-made-easy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/most-hygienic-sanitary-napkins/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/pads-or-panty-liners-whats-the-difference/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/tampon-shopping-made-easy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/tips-for-having-an-open-conversation-with-your-daughter-about-menstruation/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/why-girls-use-pads-and-its-totally-normal/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/why-is-menstruation-a-taboo-topic/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/why-its-important-to-choose-the-right-womens-pad-size-and-absorbency-level/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/why-night-time-period-care-deserves-its-own-conversation-ab-day-night-integration/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/why-understanding-menstrual-cycle-phases-could-change-your-life/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-basics/your-first-period-heres-how-sofy-club-period-tracking-app-can-help/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/3-benefits-of-using-sofy-overnight-pads-for-women/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/3-best-sanitary-pads-online-according-to-gynecologists/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/3-sample-meals-to-order-while-eating-out-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/3-sofy-sanitary-pads-for-women-travellers/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/4-interesting-hobbies-to-enjoy-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/4-iron-rich-breakfast-recipes-to-enjoy-during-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/4-ways-tampons-can-be-lifesavers/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-best-essential-oils-to-keep-you-calm-during-your-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-bloody-good-books-to-read-about-periods-and-hormones/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-common-causes-of-spotting-between-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-fun-activities-every-single-woman-can-enjoy-during-her-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-menstrual-hygiene-tips-every-woman-should-know-sofy-antibacteria-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-menstrual-practices-to-adopt-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-myths-around-pantyliners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-nutrient-rich-smoothies-to-nourish-your-body-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/5-nutrients-that-every-woman-needs-for-good-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/7-feminine-hygiene-hacks-for-the-summer-months/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/a-first-timers-guide-to-using-a-sanitary-pad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/5-first-period-stories/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/at-what-age-do-girls-get-their-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/dealing-with-first-period-pain/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/first-period-hacks-every-teen-mom-should-be-aware-of/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/first-period-heres-everything-you-need-to-know-about-sanitary-napkins/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/first-period-in-school-dos-and-donts/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/first-period-while-travelling-what-precautions-to-take/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/heres-how-you-know-if-your-periods-are-about-to-start/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/how-long-does-the-first-period-last-how-much-time-does-it-take-for-the-first-period-to-get-stabilised/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/importance-of-emotional-support-for-your-girl-during-her-first-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/symptoms-of-a-girls-first-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/understanding-the-emotional-physical-signs-of-your-first-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/about-first-period/your-daughters-about-to-have-her-first-period-what-do-you-do/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/are-anti-bacterial-pads-truly-effective/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/best-affordable-pads-for-periods-online/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/best-tampons-on-a-budget/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/between-deadlines-and-dishes-why-periods-shouldnt-feel-like-one-more-thing-to-manage/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/choosing-the-best-sanitary-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/choosing-the-right-sanitary-pad-online/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/covid-19-vaccination-and-periods-myth-and-facts/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/decoding-a-womans-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/finding-the-ideal-pad-for-heavy-flow/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-accurate-are-period-and-ovulation-tracker-apps/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-best-to-avoid-period-leakage-during-nighttime/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-does-a-soft-sanitary-napkin-ensure-skin-care/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-frequently-should-i-change-my-sanitary-napkin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-important-is-the-sanitary-napkin-size/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-avoid-urinary-tract-infection-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-choose-the-ideal-sanitary-napkin-as-per-your-period-flow/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-deal-with-period-leakage/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-define-a-good-sanitary-pad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-have-sound-sleep-on-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-manage-work-life-balance-during-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-pick-the-perfect-pad-for-yourself/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-prevent-period-leaking-at-night-sofy-overnight-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-reduce-stomach-pain-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-treat-period-acne-hormonal-breakouts-edition-1/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-treat-period-acne-hormonal-breakouts-edition-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/how-to-use-tampons/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/lets-be-honest-about-periods-and-relationships/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/managing-endometriosis-periods-comfort-routine/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/managing-period-at-your-workplace-a-complete-guide/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/menstrual-myths-and-their-truth/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/must-have-pads-for-a-good-nights-sleep-sofy-overnight-sanitary-pads-and-panty-liners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/overnight-napkins/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/overnight-pads-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pads-that-prevent-smell/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pads-to-use-for-heavy-flow/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/panty-liners-best-mate-for-hassle-free-days/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/period-bloating-not-weight-gain/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/period-kit-essentials-professional-woman-period-preparedness/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/5-things-you-must-avoid-if-youre-pmsing/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/5-tips-to-have-a-pain-free-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/6-yoga-postures-to-ease-pms-symptoms/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/bathroom-habits-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/benefits-of-using-a-hot-water-bottle-to-treat-period-cramps/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/decoding-menstrual-cycle-phases-mood-swings/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/emotional-rollercoaster-periods-are-on-their-way/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/exercises-to-keep-period-cramps-at-bay/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/from-spotting-to-stopping-how-many-days-does-a-period-last/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/heat-or-ice-the-best-way-to-soothe-stomach-pain-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/hormone-changes-during-the-cycle-whats-normal-and-whats-not/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/how-are-breast-pain-and-the-menstrual-cycle-linked/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/mood-swings-reasons-and-causes/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/periods-cramps-dont-just-happen-in-your-abdomen/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/pms-and-vaginal-discharge/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/sore-breast-before-periods-heres-all-you-need-to-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/symptoms-of-pms/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/what-causes-headaches-during-the-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/what-is-pmdd-premenstrual-dysphoric-disorder/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/whats-adenomyosis-and-why-you-need-to-know-about-it/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/why-do-girls-get-mouth-ulcers-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/why-do-i-feel-super-hungry-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/why-do-we-crave-unhealthy-food-during-our-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/why-does-one-crave-sugar-during-before-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/prevent-rashes-during-and-after-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how-cotton-pads-vs-synthetic-sensitive-skin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/5-features-to-look-for-before-buying-period-panties/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/are-you-getting-the-most-out-of-your-panty-liners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/confused-about-the-type-of-tampons-heres-what-you-need-to-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/curious-about-what-sanitary-pads-are-made-of-we-clear-the-doubts/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/dispelling-myths-about-menstrual-tampons-common-misconceptions-debunked/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/disposing-of-your-hygiene-products-safely/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/ever-used-a-tampons-its-time-you-did/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/first-time-tampon-users-a-comprehensive-guide-to-starting-out/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/how-anti-bacterial-period-panties-protect-your-skin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/how-to-dispose-of-sanitary-pads-the-right-way/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/how-to-select-the-perfect-pad-for-yourself/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/how-to-track-your-period-accurately-with-the-sofy-club-app/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/menstrual-products-101-how-to-choose-based-on-flow-comfort-and-routine/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/out-of-sanitary-pads-try-these-alternatives-in-the-meanwhile/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/pads-pantyliners-how-they-are-different/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/pantyliners-are-important-in-more-ways-than-you-knows/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/product-know-how-how-rash-free-period-panties-prevent-leaks-during-heavy-flow/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/product-know-how-menstrual-panties-how-to-choose/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/sanitary-pad-sizes-body-shape-fit/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/things-to-carry-when-you-are-on-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/think-tampons-are-hard-to-wear-lets-make-them-easy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/top-5-features-of-the-sofy-club-app-every-girl-will-love/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/traveling-with-tampons-sanitary-pads-tips-for-heightened-comfort-and-convenience/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/understanding-pad-absorbency-levels-light-medium-heavy-and-overnight/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/what-are-the-different-types-of-period-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/which-pad-is-best-for-periods-at-night/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/why-odour-free-disposable-period-panties-are-a-better-choice-for-heavy-flow-days/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/why-soft-sanitary-napkins-are-a-game-changer-for-comfort-and-protection/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/product-know-how/youll-have-a-giggle-with-these-myths-about-tampons-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/size-does-matter-why-go-for-an-xl-sanitary-pad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/sleep-all-night-with-these-comfortable-sleeping-positions-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/soft-period-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/sofy-club-app-track-endometriosis-signs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/sofy-feminine-hygiene-products-for-your-teenagers/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/sofy-night-pads-price/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/staying-fit-on-your-flow/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/the-days-you-double-check-everything-understanding-heavy-flow-days/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/the-importance-of-menstrual-hygiene-education/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/the-revolution-of-sanitary-napkins/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/things-no-one-tells-you-about-dating-someone-on-their-period-valentines-day/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/things-to-know-about-anemia-and-your-period-edition-1/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/things-to-know-about-anemia-and-your-period-edition-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/tips-for-buying-sanitary-pads-for-the-first-time/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/to-wear-or-not-to-wear-pantiliners-sofy-pantyliners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/top-5-things-to-look-for-in-a-sanitary-pad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/ways-to-have-easy-breezy-periods-in-summer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/ways-to-prevent-period-leakage/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/what-makes-a-good-panty-liner/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/what-should-a-first-timer-know-about-period-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/when-period-pain-isnt-normal-warning-signs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/which-are-the-best-pads-for-periods-and-why/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/which-are-the-best-tampons-for-periods-and-why/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/which-is-the-right-pad-for-sensitive-skin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/why-and-when-to-go-for-an-ultra-thin-sanitary-napkin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/why-extra-large-pads-are-ideal/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/why-panty-liners-are-a-small-thing-that-makes-a-big-difference/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/why-wear-panty-liners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/why-you-should-use-overnight-sanitary-pads-for-a-good-nights-sleep/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/period-guide/why-you-should-use-sofy-antibacterial-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/can-you-get-pregnant-on-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/changes-in-periods-post-delivery/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/different-kinds-of-postpartum-pains-and-how-to-deal-with-them/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/first-period-after-pregnancy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/how-are-menstrual-cycle-and-pregnancy-related/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/lets-talk-vaginal-discharge-post-pregnancy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/vaginal-spotting-and-pregnancy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/pregnancy/what-is-postpartum-bleeding/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/6-proven-home-remedies-to-relieve-period-pain/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/6-things-to-pack-while-travelling-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/6-ways-to-pamper-yourself-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/5-tips-to-avoid-rashes-and-irritation-from-sanitary-napkins/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/antibacterial-pads-for-active-lifestyles-staying-fresh-and-protected-on-the-go/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/are-your-periods-different-during-different-seasons/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/breast-cancer-things-you-should-know-stages-and-symptoms/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/breast-pain-and-the-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/choosing-the-best-sanitary-pads-tips-for-dry-hygienic-skin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/do-periods-cause-weight-gain/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/ever-wondered-about-your-sleeping-patterns-during-your-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/five-things-that-could-be-messing-with-your-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/how-do-periods-affect-your-mental-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/how-well-do-you-know-your-hormones/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/period-guide-how-to-avoid-infections-allergies-while-using-menstrual-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/promoting-menstrual-hygiene-in-india/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/skincare-routine-for-glowing-skin-during-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/summer-clothing-comfort-clothes-you-should-wear-during-your-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/t-reasons-behind-pre-and-postmenstrual-spotting/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/tampons-vs-pantyliners-the-difference/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/the-essential-role-of-panty-liner-pads-in-your-daily-routine-what-you-need-to-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/the-types-of-breast-cancer-you-should-know-about/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/top-5-tips-to-maintain-hygiene-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/weight-and-menstrual-cycle-how-are-they-related/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/what-to-expect-with-breast-growth/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/generic-concerns/your-essential-guide-how-to-use-sanitary-pads-for-dry-hygienic-skin/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/how-traveling-can-trigger-the-use-of-a-period-tracking-app/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/4-stages-of-menstrual-cycle-that-every-woman-should-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/6-reasons-why-your-period-might-decide-to-come-a-little-later-than-you-anticipated/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/are-flow-variations-during-periods-a-unique-quirk/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/avoiding-yeast-infection-during-periods-with-sofy-cool/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/bid-goodbye-to-period-rashes-with-sofy-cool/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/causes-for-a-skipped-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/choosing-the-right-menstrual-product-for-long-office-or-college-hours/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/effects-of-drinking-alcohol-on-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/first-period-101-a-teenagers-guide-to-navigating-menstruation/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/from-regular-to-irregular-cycles-how-menstrual-trackers-help-you-stay-informed/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/hacks-to-treat-dizziness-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/having-periods-twice-in-a-month-causes-and-treatment/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/home-remedies-for-endometriosis/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/how-diet-and-lifestyle-can-sometimes-cause-delayed-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/how-do-cysts-affect-the-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/how-often-should-you-change-your-sanitary-pad/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/how-to-care-for-dry-mouth-and-puffy-gums-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/impact-of-thyroid-disease-on-the-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/impact-of-urine-infections-on-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/irregular-periods-heres-how-you-work-around-them/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/irritable-periods-this-winter-try-these-tips-to-feel-better/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/ladies-never-silently-soldier-on-through-your-period-pains/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/lifestyle-changes-for-treating-endocrine-disorders/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/menstrual-cycle-and-your-hormones-understanding-the-connection/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/menstrual-health-awareness-types-of-vaginal-discharge/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/not-so-common-period-concerns/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/pcod-a-silent-threat-to-women/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/periods-and-spotting-whats-the-difference/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/relationship-between-anemia-and-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/relationship-in-between-an-enlarged-uterus-and-pain-during-menstruation/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/signs-to-look-out-for-during-periods-that-could-indicate-a-health-issue/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/the-thing-you-should-know-about-irregular-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/things-to-know-about-premenstrual-dysphoric-disorder/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/understanding-your-flow-what-your-period-says-about-your-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/ways-to-treat-migraines-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/what-is-endometriosis/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/what-is-menorrhagia-heavy-bleeding-and-ways-of-treating-it/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/what-is-menstrual-cycle-innovative-ways-to-teach-menstrual-education-to-your-daughter/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/what-the-colour-of-your-flow-tells-you-about-your-period-health/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/what-to-do-if-your-period-doesnt-show-up-without-stressing-out/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/when-period-cramps-are-not-just-period-cramps-warning-signs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/when-should-you-use-panty-liners/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/why-am-i-getting-period-cramps-but-no-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/why-is-your-period-late/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/your-voice-changes-during-menstruation/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/pcos-and-periods-how-to-manage-heavy-flow-during-those-days/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks-use-these-tips-to-feel-better-during-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/3-comfortable-bottom-wears-that-you-will-love-to-wear-during-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/5-perks-of-sofys-cool-pad-technology/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/5-reasons-why-tracking-your-menstrual-cycle-is-a-good-idea/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/7-tips-to-excel-at-your-work-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/back-to-campus-checklist-period-essentials-every-girl-needs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/breeze-through-your-periods-by-tracking-your-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/measures-to-avoid-night-sweating-before-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/natural-pain-relief-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/period-hacks-for-working-women/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/summer-essentials-for-smooth-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/summer-period-problems-sofy-has-the-perfect-solution/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/the-importance-of-journaling-during-your-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/tips-to-cope-with-period-pain-during-your-exams/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/travel-periods-5-travelling-tips-for-a-smooth-trip/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/why-every-woman-needs-a-period-tracker-benefits-and-features-you-cant-ignore/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/why-should-you-switch-to-a-super-thin-pad-this-summer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/period-hacks/yoga-as-period-cramps-remedies-5-poses-to-relieve-pain-naturally/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/super-affordable-panty-liners-that-work-like-a-charm/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/surprising-uses-of-panty-liners-every-girl-should-know/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/the-best-night-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/tips-to-avoid-rashes-and-irritation-during-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/tips-tricks/ways-you-can-use-a-panty-liner-this-summer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/emotional-wellness/5-ways-to-support-your-partner-during-her-period/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/emotional-wellness/does-stress-affect-your-menstrual-cycle/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/emotional-wellness/gen-zs-guide-to-a-stress-free-period-routine/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/emotional-wellness/the-importance-of-journaling-during-your-period-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/emotional-wellness/the-science-behind-pms-why-your-mood-has-a-mind-of-its-own/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/how-right-menstrual-hygiene-products-can-help-women/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/journey-of-a-sanitary-pad-from-a-humble-cloth-to-antibacterial-period-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/period-anxiety-causes-tips-for-relief/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/balancing-work-well-being-the-power-of-period-tracking/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/breast-cancer-are-there-any-preventive-measures/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/empowering-rural-women-entrepreneurs-sofys-project-jagriti/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/how-sofys-project-jagriti-is-empowering-rural-women/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/managing-cramps-during-class-hours/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/menstrual-health-awareness-debunking-5-weird-period-myths/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/menstrual-health-awareness-the-impact-of-stress-on-your-periods/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/period-education-and-wellness-how-self-care-can-improve-your-period-experience/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/what-are-the-best-period-pads-for-athletes-and-why/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/what-are-the-causes-risk-factors-for-breast-cancer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/physical-wellness/why-panty-liners-should-be-a-part-of-every-womans-menstrual-hygiene-products/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/blog/wellness/the-power-of-protection-why-anti-bacteria-pads-are-worth-the-switch/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/contact-thank-you/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/contact-us/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/cool-offer-thank-you/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/cool-offers/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/disclaimer/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/faqs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/feedback/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/history/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/home-banner/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/my-account/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/newsletter-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/newsletter/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/how-sofy-helps/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/mother-education/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/mothers-self-care/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/period-faqs/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/teacher-education/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/period-education/young-girl-education/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/privacy-policy/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product-overnight/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria-extra-long-290-mm-straight-type/sofy-antibacteria-extra-long-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria-overnight/sofy-antibacteria-overnight-xxl-15-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria-overnight/sofy-antibacteria-overnight-xxl-30-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria-overnight/sofy-antibacteria-overnight-xxl-40-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria-xxl-323mm/sofy-antibacteria-xxl-15-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria-xxl-323mm/sofy-antibacteria-xxl-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria/sofy-antibacteria-extra-long-14-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria/sofy-antibacteria-extra-long-28-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria/sofy-antibacteria-extra-long-48-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteria/sofy-antibacteria-extra-long-7-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/antibacteripdp/disposable-period-panties-with-herbal-shield/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/body-fit-regular/sofy-bodyfit-regular-size-pack-of-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-overnight/sofy-bodyfit-overnight-xxl-15-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-overnight/sofy-bodyfit-overnight-xxl-40-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-overnight/sofy-bodyfit-overnight-xxl-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-pro-xl/sofy-bodyfit-pro-extra-long-pack-of-18-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-pro-xl/sofy-bodyfit-pro-extra-long-pack-of-18x3-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-pro-xl/sofy-bodyfit-pro-extra-long-pack-of-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-xl/sofy-bodyfit-extra-long-pack-of-18-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-xl/sofy-bodyfit-extra-long-pack-of-40-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/bodyfit-xl/sofy-bodyfit-extra-long-pack-of-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-15-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-30-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-7-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-super-xl-323mm/sofy-cool-super-xl-15-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-super-xl-323mm/sofy-cool-super-xl-30-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-super-xl-323mm/sofy-cool-super-xl-44-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/cool-super-xl-323mm/sofy-cool-super-xl-6-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/pantyliner-cool/sofy-pantyliner-cool-18-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/pantyliner-cool/sofy-pantyliner-cool-36-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/pantyliner-daily-fresh/sofy-pantyliner-daily-fresh-20-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/pantyliner-daily-fresh/sofy-pantyliner-daily-fresh-40-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/pantyliner/sofy-pantyliner-antibacteria-18-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/pantyliner/sofy-pantyliner-antibacteria-36-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxl-350mm/sofy-antibacteria-nights-xxl-18-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxl-350mm/sofy-antibacteria-nights-xxl-5-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxl-350mm/sofy-antibacteria-nights-xxl-9-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxxl-420mm/sofy-antibacteria-nights-xxxl-15-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxxl-420mm/sofy-antibacteria-nights-xxxl-4-pads/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/tampons-super/sofy-soft-tampons-super-32-pieces-2/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/tampons-super/sofy-soft-tampons-super-9-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-10-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-34-pieces/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/products/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/products/antibacteria/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/products/bodyfit/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/products/pantyliner/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/products/sofy-cool/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/products/tampons/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/project-jagriti/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/sitemap/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/sofy-club-app/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/terms-conditions/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/thank-you/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/thanks/",
+        "status": 200
+      },
+      {
+        "url": "https://www.sofy.in/videos/",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

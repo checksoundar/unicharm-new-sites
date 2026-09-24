@@ -1,0 +1,55 @@
+{
+ "captured": "2026-09-24T06:33:07.927Z",
+ "sampledPages": 3,
+ "firstPartyDomain": "delectablescattreats.com",
+ "totalServices": 2,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "First-party forms",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 3,
+   "coverage": "100%"
+  },
+  {
+   "name": "Www: Forms / Lead API",
+   "category": "First-party forms",
+   "note": "Form submission / lead capture",
+   "hosts": [
+    "www.delectablescattreats.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST www.delectablescattreats.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/:id/0.:id::id:DzW8"
+   ],
+   "pages": 1,
+   "coverage": "33%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "cmp.osano.com",
+   "pages": 3,
+   "sample": "GET cmp.osano.com/btjV6GSrjU/:id/en.json"
+  }
+ ]
+}

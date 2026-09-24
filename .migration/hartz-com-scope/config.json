@@ -1,0 +1,18 @@
+{
+  "siteUrl": "https://www.hartz.com/",
+  "siteOrigin": "https://www.hartz.com",
+  "site": "hartz.com",
+  "scope": "Entire domain — U.S. (Pet Care)",
+  "eyebrow": "Hartz U.S. · Site Analysis",
+  "heroTitle": "Structural analysis of hartz.com",
+  "heroSub": "",
+  "brandLine": "hartz.com<br>Migration Console",
+  "accountName": "Unicharm/Hartz — United States",
+  "locale": "en-US",
+  "discovery": "sitemap-seeded (WordPress/WooCommerce; WAF-filtered)",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/hartz-com-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": ""
+}

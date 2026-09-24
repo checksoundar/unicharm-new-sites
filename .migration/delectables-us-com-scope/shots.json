@@ -1,0 +1,27 @@
+{
+ "captured": "2026-09-24T06:34:19.174Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list>list>text>list>text>text>text>text",
+   "estPop": 30,
+   "url": "https://www.delectablescattreats.com/about/",
+   "file": "t00_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 244673
+  },
+  {
+   "idx": 1,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list>list>text>text>text>text>text>text",
+   "estPop": 4,
+   "url": "https://www.delectablescattreats.com/en-ca/hartz-pet-partners/",
+   "file": "t01_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 245063
+  }
+ ]
+}

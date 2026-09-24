@@ -1,0 +1,234 @@
+{
+ "captured": "2026-09-24T06:31:07.928Z",
+ "renderedPages": 11,
+ "distinctSignatures": 9,
+ "templates": [
+  {
+   "signature": "list>text>text>text",
+   "family": "list",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.ezilockodour.com.au/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean",
+    "https://www.ezilockodour.com.au/news/exploring-the-full-range-of-ezi-lockodour-dual-layer-cat-litter-systems-find-the-perfect-fit-for-your-feline",
+    "https://www.ezilockodour.com.au/news/the-purr-fect-solution-5-reasons-your-cat-will-love-an-ezi-lockodour-dual-layer-cat-litter-system"
+   ],
+   "sections": {
+    "news": 3
+   },
+   "locales": {
+    "root": 3
+   },
+   "blockCountMode": {
+    "4": 3
+   },
+   "topSections": [
+    "news(3)"
+   ],
+   "topLocales": [
+    "root:3"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>columns>table>text>text>text",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/about"
+   ],
+   "sections": {
+    "about": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "about(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "list>text>columns>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>table>table>text>text",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/about/flexible-content-demo"
+   ],
+   "sections": {
+    "about": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "about(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "list>columns>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/about/our-story"
+   ],
+   "sections": {
+    "about": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "about(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>text>table>text>text",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/faqs"
+   ],
+   "sections": {
+    "faqs": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "faqs(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "list>table>text",
+   "family": "table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/kits"
+   ],
+   "sections": {
+    "kits": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "kits(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "data-table"
+  },
+  {
+   "signature": "list>columns>text>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/news/the-science-behind-the-ezi-lockodour-control-how-it-works"
+   ],
+   "sections": {
+    "news": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "news(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>text>text",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.ezilockodour.com.au/terms-conditions"
+   ],
+   "sections": {
+    "terms-conditions": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "terms-conditions(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  }
+ ]
+}

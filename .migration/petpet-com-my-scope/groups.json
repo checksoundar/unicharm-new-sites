@@ -1,0 +1,47 @@
+{
+ "captured": "2026-09-24T06:30:41.362Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 18,
+ "totalGroups": 2,
+ "patternGroups": 1,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/{page}": {
+   "total": 17,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Homepage & root"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://petpet.com.my/"
+  ],
+  "/{page}": [
+   "https://petpet.com.my/blogs/",
+   "https://petpet.com.my/cart/",
+   "https://petpet.com.my/checkout/",
+   "https://petpet.com.my/contact-us/",
+   "https://petpet.com.my/day-and-night-pants/",
+   "https://petpet.com.my/day-night-tape/",
+   "https://petpet.com.my/faq/",
+   "https://petpet.com.my/mascot-story-tape-diaper/",
+   "https://petpet.com.my/my-account/",
+   "https://petpet.com.my/pants/",
+   "https://petpet.com.my/privacy-policy/",
+   "https://petpet.com.my/redeem/",
+   "https://petpet.com.my/tape-m-xl/",
+   "https://petpet.com.my/tape-new-born/",
+   "https://petpet.com.my/tape-s/",
+   "https://petpet.com.my/terms-and-conditions/",
+   "https://petpet.com.my/wipes/"
+  ]
+ }
+}

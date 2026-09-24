@@ -1,0 +1,132 @@
+{
+ "captured": "2026-09-24T06:30:58.326Z",
+ "renderedPages": 5,
+ "distinctSignatures": 5,
+ "templates": [
+  {
+   "signature": "list>media",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://petpet.com.my/blogs/"
+   ],
+   "sections": {
+    "blogs": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "blogs(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>hero>text>media>media",
+   "family": "hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://petpet.com.my/day-night-tape/"
+   ],
+   "sections": {
+    "day-night-tape": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "day-night-tape(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "hero-page"
+  },
+  {
+   "signature": "list>list>media>media",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://petpet.com.my/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>hero>text>text>media",
+   "family": "hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://petpet.com.my/redeem/"
+   ],
+   "sections": {
+    "redeem": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "redeem(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "hero-page"
+  },
+  {
+   "signature": "list>hero>text>media>media>media",
+   "family": "hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://petpet.com.my/wipes/"
+   ],
+   "sections": {
+    "wipes": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "wipes(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "hero-page"
+  }
+ ]
+}

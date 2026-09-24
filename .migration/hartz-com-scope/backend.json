@@ -1,0 +1,65 @@
+{
+ "captured": "2026-09-24T06:45:07.811Z",
+ "sampledPages": 22,
+ "firstPartyDomain": "hartz.com",
+ "totalServices": 2,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Advertising",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 21,
+   "coverage": "95%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "pagead2.googlesyndication.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST pagead2.googlesyndication.com/ccm/collect"
+   ],
+   "pages": 20,
+   "coverage": "91%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "cmp.osano.com",
+   "pages": 22,
+   "sample": "GET cmp.osano.com/btjV6GSrjU/:id/en.json"
+  },
+  {
+   "host": "apps.bazaarvoice.com",
+   "pages": 11,
+   "sample": "GET apps.bazaarvoice.com/api/data/display/0.2alpha/product/summary"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 1,
+   "sample": "POST www.googletagmanager.com/td"
+  }
+ ]
+}

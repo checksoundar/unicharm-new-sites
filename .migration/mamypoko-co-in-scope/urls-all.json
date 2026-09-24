@@ -1,0 +1,2483 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T06:30:11.277Z",
+    "totalUrls": 615,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 615,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.mamypoko.co.in/",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/about-unicharm",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/about-us",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/about-us-history",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/baby-growth-calculator",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/baby-image-generator",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/blogs",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/blogs/infant",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/blogs/newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/blogs/pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/blogs/toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/community/mamies-world-login",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/contact-us",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/disclaimer",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/faqs",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/hospital-ready",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-fun-games-to-make-your-toddler-more-intelligent",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-key-benefits-of-reading-to-your-little-ones",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-key-points-to-remember-during-your-babys-weaning-phase",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-must-have-clothes-in-your-new-borns-autumn-wardrobe",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-must-haves-for-new-parents",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-tips-to-pick-the-right-kind-of-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/5-yummy-recipes-to-enjoy-with-your-baby-in-the-festive-season",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/7-hygiene-and-daily-care-tips-for-new-parents",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/7-simple-tips-to-keep-your-baby-engaged-at-all-times",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/a-guide-to-massaging-your-little-one",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/accessorizing-your-baby-weather-wise",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/baby-babble-to-big-words-language-development-in-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/baby-cleaning-wipes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/baby-essentials-needed-in-first-3-months",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/baby-fashion-dos-and-donts-a-guide-for-fashion-conscious-parents",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/baby-skin-care-tips-to-manage-the-scorching-summer-heat",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/benefits-of-baby-prams-or-strollers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/buying-your-babys-first-shoes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/caring-for-your-newborns-head",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/common-hurdles-in-first-year-parenthood-how-to-deal-with-them",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/crawling-chaos-and-cuteness",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/diaper-bag-essentials-for-baby-travel",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/diaper-pants-vs-tape-diapers-which-is-best-for-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/dry-skin-on-newborn-and-how-to-care-for-it",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/easy-baby-recipes-for-dads",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/essentials-to-buy-before-bringing-baby-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/everything-a-mamy-must-know-about-newborn-baby-acne",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/food-recipes-for-toddlers-aged-1-2",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/food-your-baby-may-not-want-to-eat",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/he-s-not-just-papa-he-s-mamy-too",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-often-should-you-change-a-babys-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-singing-soothing-songs-benefits-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-avoid-diaper-rashes-dispose-of-diaper-properly",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-handle-baby-tantrums-while-feeding-solid-food",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-help-your-child-develop-motor-skills",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-make-vegetables-appetizing-for-your-little-one",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-make-your-own-diy-baby-tracker",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-prepare-your-newborn-babys-first-wardrobe",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-read-a-baby-growth-chart",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-set-a-sleeping-schedule-for-your-little-one",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-soothe-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-switch-from-bottle-feed-to-glasses",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/how-to-take-care-of-your-babys-skin-during-summers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/infant-infants-and-allergies-causes-and-prevention",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/infant-massage-and-its-many-health-benefits",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/infants-and-tummy-aches-all-you-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/international-day-of-the-family",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/introducing-spices-to-your-babys-diet-safe-and-tasty-ideas",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/is-alkaline-water-safe-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/little-tummies-big-appetites-how-to-introduce-new-flavours-to-your-growing-infant",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/organic-baby-food-is-it-worth-the-hype",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/organic-colors-baby-safe-celebrations-a-moms-guide-to-a-healthy-holi",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/overnight-diapers-for-babies-best-for-leak-protection-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/pant-style-diapers-vs-taped-diapers-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/prevent-diaper-leaks-in-active-babies-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/rotavirus-vaccine",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/sleep-school-for-tiny-humans",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/teething-tips-soothing-your-infants-discomfort",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/the-first-years-of-parenthood-doctors-insights",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/the-importance-of-a-baby-crib-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/the-ultimate-checklist-for-your-babys-first-day-outdoors",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/the-ultimate-diaper-bag-to-carry-along",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/tips-to-help-your-child-bond-with-other-family-members",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/tips-to-keep-your-baby-warm-on-chilling-winter-nights",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/tips-to-remember-before-giving-the-maiden-bath-to-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/toy-rotation-for-infants-why-less-is-more-for-babys-brain",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/uh-oh-whered-my-baby-go",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/understanding-the-sleep-cycle-of-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/ways-to-bond-with-your-little-one-using-indoor-games",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/what-are-the-different-sounds-that-babies-make-and-what-do-they-mean",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/why-should-you-follow-the-vaccination-calendar-for-your-infant",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/infant/woollens-washing-guide-for-infants-clothes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-outpaces-pampers-to-become-indias-top-selling-diaper-brand-in-fy23",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-celebrates-poko-chans-birthday-with-underprivileged-kids-at-samarpan-foundation",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-launches-the-pappy-bum-happy-mamy-campaign",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-onboards-saumya-tandon-as-their-new-face-in-uttar-pradesh",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-unveils-extra-absorb-pants-to-promote-deep-sleep-through-a-comprehensive-campaign",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/unicharm-india-commitment-to-sustainability-leading-the-way-with-recycled-content-in-packaging",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-in-news/unicharm-is-growing-up-fast-in-india-with-mamy-poko-diaper-pants",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/mamypoko-videos",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/new-born",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/5-items-for-parents-to-refill-the-medicine-cabinet-before-winter",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/5-nursery-decorating-ideas-to-make-room-for-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/5-reasons-why-following-a-routine-is-a-good-idea-for-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/5-reasons-why-you-should-use-mamypoko-pants-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/5-ways-dad-can-bond-with-a-new-born-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/5-ways-to-swaddle-your-baby-in-summer",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/6-recipes-of-healthy-salads-for-breastfeeding-moms",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/6-ways-to-turn-your-home-into-a-safe-space",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/a-guide-to-your-babys-skincare",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/a-simple-guide-to-making-your-own-diy-baby-vaccination-calendar",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/ace-your-babys-oral-hygiene-dental-care-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/are-breast-pumps-safe-a-guide-to-new-moms",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/babies-need-special-care-during-the-monsoon",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/baby-poo-a-descriptive-guide-to-whats-normal-and-what-isnt-part-1",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/baby-poo-a-descriptive-guide-to-whats-normal-and-what-isnt-part-2",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/baby-skin-hygiene-requirements-during-winters",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/baby-sleep-101-creating-a-sleep-routine-for-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/baby-sleep-routine-for-the-first-week",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/babys-vaccination-appointment-a-complete-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/best-sleeping-positions-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/bringing-home-the-baby-essentials-to-pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/burp-wiggle-repeat",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/caring-for-your-babys-umbilical-cord-stump",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/common-toddler-skin-ailments-home-remedies",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/day-out-with-newborn-what-you-need",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/dear-mamy-your-doing-better-than-you-think",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/diwali-ready-homes-prepping-your-space-for-baby-friendly-celebrations",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/fathers-day-special-7-ways-to-bond-with-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/five-tips-to-breeze-through-the-first-three-months-with-a-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/guide-to-trendy-and-comfy-toddler-shoes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-much-and-when-to-feed-a-new-born",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-to-change-a-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-to-feed-your-new-born-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-to-plan-a-schedule-when-you-have-twins",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-to-prepare-for-your-babys-first-winter",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-to-recognize-premature-birth-challenges-and-support-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/how-to-swaddle-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/is-your-babys-scalp-dry-and-itchy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/jaundice-in-newborns-things-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/lights-sound-chaos-heres-how-you-can-protect-your-newborn-in-diwali",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/list-of-things-your-new-born-needs",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/look-out-for-these-5-ingredients-in-your-baby-care-products",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/make-your-baby-a-part-of-festive-preparations-with-these-five-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/managing-the-festive-season-with-a-newborn-tips-for-new-moms",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-5-amazing-benefits-of-making-skin-to-skin-contact-with-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-5-must-have-newborn-care-essentials",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-baby-care-tips-complete-guide-for-new-parents",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-care-routine",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-diapers-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-immunization-month-wise-vaccination-breakdown",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/newborn-screening-tests-importance",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/nursing-care-for-new-born-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/parenthood-without-filters-celebrity-parents-like-you",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/parenting-hacks-for-new-moms-baby-care-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/polio-drops",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/safe-baby-wipes-for-newborns-how-to-choose",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/say-hello-to-winters-with-these-7-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/sleeping-feeding-pattern-for-a-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/snug-as-a-mama-s-hug",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/tape-diapers-for-newborn-benefits",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/the-art-of-bonding-building-emotional-connection-with-your-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/the-fourth-trimester-healing-hormones-hugging-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/things-every-young-mother-should-know-from-a-doctors-perspective",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/things-to-know-when-taking-care-of-a-premature-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/this-mothers-day-we-want-to-say-itsokaymamy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/tips-and-tricks-while-traveling-with-a-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/tips-for-new-parents-to-understand-babys-sleeping-cue",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/travel-checklist-for-newborn-babies",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/travelling-with-a-baby-essential-tips-for-a-smooth-journey",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/tummy-time-101-why-it-is-essential-for-every-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/understanding-cluster-feeding-why-your-newborn-is-always-hungry",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/understanding-colic",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/understanding-your-newborns-cry-a-parents-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/welcoming-the-new-born",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/what-are-diapers-with-a-wetness-indicator",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/what-to-know-in-case-of-a-premature-birth",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/when-newborns-catch-a-cold-signs-to-watch-for-and-when-to-act",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/why-are-booster-doses-necessary-for-immunisation",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/why-do-babies-get-fussy-at-night",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/why-should-you-pay-special-attention-to-your-baby-in-summer",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/newborn/winter-is-here-here-are-the-5-winter-baby-care-tips-you-must-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pokochan",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy-calculator",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/10-self-care-essentials-for-postpartum-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/3-healthy-recipes-for-expectant-mothers-during-monsoon",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/4-healthy-savoury-recipes-for-pregnant-moms",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-healthy-indian-snacks-for-pregnant-women",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-joys-of-being-a-first-time-mom",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-myths-about-losing-weight-after-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-places-for-a-stunning-babymoon",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-pregnancy-myths-busted",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-smoothie-recipes-for-new-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-things-to-remember-to-maintain-a-healthy-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-tips-to-figure-out-your-fertile-window",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-types-of-spacious-bags-for-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-types-of-stylish-winter-maternity-jackets-and-coats",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/5-ways-to-treat-constipation-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/7-healthy-drinks-every-expectant-mother-should-have-for-good-health",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/7-things-every-expectant-mother-should-do-to-prepare-for-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/7-ways-to-cope-with-stress-for-pregnant-women-during-covid-19",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/8-superfoods-that-are-good-for-mothers-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/asktheexpert-dr-anjali-kumar",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/asktheexpert-dr-shweta-bajaj-session-1-transcript",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/asktheexpert-ms-neha-makkar",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/asktheexpert-ms-pradipta-sanghvi",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/baby-shower-game-ideas",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/benefits-of-breastfeeding-for-mom-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/benefits-of-eating-summer-fruits-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/best-foods-for-mothers-with-gestational-diabetes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/best-parenting-tips-to-start-this-year-well",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/beverages-to-avoid-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/breastfeeding-accessories",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/breastfeeding-positions",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/breastfeeding-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/breastfeeding-tips-from-one-mom-to-another",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/budget-friendly-fashion-for-new-mamy-making-the-most-of-your-wardrobe",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/building-your-birth-plan-what-to-consider-before-the-big-day",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/common-nutrient-deficiencies-during-pregnancy-and-how-to-avoid-them",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/common-physical-issues-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/common-problems-of-breastfeeding-and-how-to-tackle-them",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/complications-during-pregnancy-you-should-know-about-part-1",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/complications-during-pregnancy-you-should-know-about-part-2",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/cool-ideas-to-announce-pregnancy-to-partner",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/coping-with-pregnancy-hormones-emotional-roller-coaster-and-self-care-strategies",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/couples-yoga-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/couples-yoga-for-parenthood",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/cures-for-pregnancy-nausea",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/dancing-through-the-third-trimester-gentle-workouts-that-keep-you-moving",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/dealing-with-parenting-anxiety-finding-peace-in-the-journey",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/dear-doctor-thank-you-for-holding-mamy-together",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/diet-for-mom-during-breastfeeding",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/diet-for-mother-post-delivery",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/diet-that-complements-pregnancy-yoga",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/early-precautions-after-delivery",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/early-symptoms-of-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/easy-diys-to-make-pregnancy-fun-and-a-joyful-experience",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/eleven-ways-to-celebrate-your-baby-first-diwali",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/embracing-emotional-wellness-navigating-mental-health-during-pregnancy-and-labour",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/essential-post-pregnancy-practices",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/exercise-for-each-trimester",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/fathers-role-in-labor-how-to-provide-support",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/fertility-tests-to-be-conducted-prior-to-conception",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/festive-glow-how-to-keep-yourself-energized-and-radiant-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/fighting-fatigue-how-to-stay-energized-when-its-tough-to-catch-naps",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/first-month-of-pregnancy-a-comprehensive-guide-to-all-you-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/fitness-regime-for-pregnant-women",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/five-pregnancy-friendly-yoga-poses",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/foods-that-provide-iron-to-the-mother-to-be",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/foods-to-avoid-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/foods-to-avoid-while-breastfeeding",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/foods-to-ease-gastric-issues",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/foods-to-eat-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/formal-maternity-wear",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/four-simple-soup-recipes-to-sip-on-during-the-winters",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/fourth-month-of-pregnancy-all-you-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/from-baby-progress-to-self-care-your-guide-for-the-fifth-month-of-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/from-nesting-to-labor-prep-your-eighth-month-of-pregnancy-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/healthy-foods-to-have-during-pregnancy-cravings",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/home-remedies-for-morning-sickness-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/home-remedies-to-get-rid-of-stretch-marks-post-delivery-naturally",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/home-remedies-to-increase-breastmilk",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-art-based-therapy-can-be-used-as-a-parenting-tool",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-breastfeeding-for-6-months-affects-the-growth-of-a-new-born",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-can-mothers-get-me-time",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-does-a-pregnancy-week-calculator-by-due-date-work",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-avoid-stretch-marks-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-avoid-stretch-marks-in-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-bond-with-partner-post-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-break-the-news-of-pregnancy-at-work",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-cope-with-emotions-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-deal-with-lactose-intolerance-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-find-out-that-you-are-ready-for-another-child-or-not",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-get-rid-of-stretch-marks-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-lose-weight-post-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-prevent-stretch-marks-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-self-examine-yourself-for-breast-cancer",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-sleep-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-support-your-wife-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-to-throw-the-perfect-baby-shower",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-yoga-helps-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/how-your-relationship-changes-after-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/immune-system-boosting-foods-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/importance-of-a-healthy-diet-when-planning-a-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/importance-of-breastfeeding-for-newborn-and-the-mother",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/importance-of-hormone-therapy-in-preventing-prenatal-birth",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/is-beetroot-good-for-pregnancy-benefits-and-precautions",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/labour-and-delivery-positioning-the-baby-for-birth-part-1",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/labour-and-delivery-positioning-the-baby-for-birth-part-2",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/life-of-a-parent",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/mastering-work-life-and-parenthood-as-a-new-parent",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/maternity-clothing-for-working-mothers-to-be-summer-edition",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/meals-to-avoid-for-lactating-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/monsoon-mamyhood",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/motherhood-surprises-you-should-watch-out-for",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/must-consume-liquids-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/must-have-maternity-clothing-for-expecting-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/myth-vs-facts-mom-and-baby-during-covid-19",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/natural-remedies-for-dry-skin-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/natural-treatment-for-diarrhoea-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/newborn-vaccinations-what-every-parent-should-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/normal-delivery-vs-c-section-indian-parents-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/oil-massage-during-pregnancy-pros-cons",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/old-wives-tales-or-wise-words",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/ovulation-cycle-and-tests",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/post-miscarriage-dos-donts",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/post-natal-nutritional-deficiencies-mothers-might-suffer-from",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/post-pregnancy-weight-loss-tips",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/postnatal-care-oil-massages-for-new-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/postnatal-diet-chart",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/postnatal-hygiene-dos-donts",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/postpartum-hair-loss-everything-a-mamy-needs-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pre-pregnancy-calcium-rich-foods-to-have",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pre-pregnancy-diet-to-increase-fertility",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/precautions-to-be-taken-in-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/precautions-to-take-post-a-c-section-delivery",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-and-motherhood",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-cravings-and-what-to-do-about-them",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-diet-in-first-trimester",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-morning-sickness-everything-you-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-sleep-struggles-tips-fora-restful-night",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-stages-monthly-changes-in-the-body-and-the-stages-of-fetal-development",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-superfoods-nutrient-packed-foods-for-each-trimester",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-test-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-trimesters-know-what-to-expect",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-understanding-pregnancy-symptoms-whats-normal-and-when-to-worry",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pregnancy-with-pcod-dos-donts",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/prenatal-tests-scans-a-complete-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/pumpkin-seeds-in-pregnancy-benefits-nutrition-safety-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/returning-to-work-after-maternity-leave-transition-and-preparation",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/safe-yoga-postures-during-first-trimester",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/second-month-pregnancy-guide-must-knows-for-a-mom-to-be",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/seventh-month-of-pregnancy-embracing-the-home-stretch",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/short-yoga-sessions-for-moms-to-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/signs-that-youre-ready-to-be-a-parent",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/simple-yoga-postures-for-new-moms",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/sixth-month-of-pregnancy-preparing-for-your-third-trimester",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/slip-resistant-monsoon-footwear-for-new-mothers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/spices-to-avoid-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/start-of-pregnancy-cravings-and-how-to-control-them",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/stay-active-gentle-exercises-for-moms-to-be",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/summer-maternity-wardrobe",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/supplements-that-should-and-should-not-be-consumed-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/supplements-to-be-taken-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/sweet-simple-ways-to-announce-your-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/the-best-maternity-gym-wear",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/the-different-stages-of-labour",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/the-importance-of-folic-acid-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/things-i-learnt-from-motherhood",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/things-to-look-forward-to-when-first-baby-arrives",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/three-fruits-and-vegetables-for-expectant-moms-to-avoid-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/tips-for-mamy-to-update-clothing-choices-after-having-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/tips-for-pregnant-women-to-manage-sweet-cravings-during-diwali",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/tips-on-breastfeeding-twins",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/tips-to-keep-in-mind-for-a-stress-free-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/tips-to-prepare-your-body-for-a-healthy-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/tips-to-prevent-stretch-marks-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/top-5-foods-to-include-in-post-pregnancy-diet",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/top-5-tips-to-lose-baby-weight-post-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-is-postnatal-care-and-what-does-it-include",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-is-sympathetic-pregnancy-understanding-couvade-syndrome",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-mothers-should-eat-during-breastfeeding",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-to-eat-after-giving-birth-and-breastfeeding",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-to-eat-during-gestational-diabetes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-to-expect-in-the-third-month-pregnancy-baby-progress-self-care-more",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/what-to-wear-when-you-are-expecting-lets-help",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/when-to-start-exercising-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/winter-care-tips-for-moms-to-be",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-for-losing-stubborn-fat-after-2-years-of-child-birth",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-for-post-partum-weight-lossmaintenance",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-poses-that-prevent-nausea",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-poses-to-practise-during-breastfeeding",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-poses-to-try-this-new-years-when-you-are-expecting",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-postures-for-being-calm-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-postures-that-cure-constipation-during-pregnancy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/pregnancy/yoga-postures-that-help-ease-digestion",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/privacy-policy",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-40pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-extra-large-34pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-extra-large-52pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-40pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-medium-46pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-medium-70pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-62pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-small-56pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-small-87pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-35pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-40pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-52pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-62pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-74pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-75pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-14pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-18pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-24pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-26pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-34pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-38pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-44pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-54pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-double-extra-large-7pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-16pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-20pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-28pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-30pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-40pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-46pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-52pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-extra-large-64pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-10pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-20pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-24pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-36pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-48pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-54pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-5pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-64pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-78pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-12pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-22pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-28pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-40pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-42pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-56pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-64pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-6pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-74pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-medium-90pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-newborn-16pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-newborn-54pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-newborn-74pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-newborn-8pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-newborn-99pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-105pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-14pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-28pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-46pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-48pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-66pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-74pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-7pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-87pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-triple-extra-large-18pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-triple-extra-large-9pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/komal-care-wipes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/komal-care-wipes/mamypoko-komal-care-wipes-72pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/new-born-mini-tape-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/preemie-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/preemie-diapers/mamypoko-tape-preemie-pre-10pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/preemie-diapers/mamypoko-tape-preemie-pre-26pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/preemie-diapers/mamypoko-tape-preemie-pre-mini-10pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/preemie-diapers/mamypoko-tape-preemie-pre-mini-24pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-extra-large-1pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-extra-large-4pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-large-1pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-large-4pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-medium-1pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-medium-4pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-newborn-1pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-newborn-4pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-small-1pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/standard-diapers/mamypoko-pants-standard-small-4pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/tape-new-baby-diapers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/tape-new-baby-diapers/mamypoko-tape-new-baby-new-born-mini-10pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/tape-new-baby-diapers/mamypoko-tape-new-baby-new-born-mini-28pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/tape-new-baby-diapers/mamypoko-tape-new-baby-new-born-mini-48pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/wipes",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/wipes/mamypoko-extra-clean-wipes-120pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/wipes/mamypoko-extra-clean-wipes-24pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/products/wipes/mamypoko-extra-clean-wipes-72pack",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/sitemap",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/terms-of-use",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddler",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/1st-birthday-themes-for-boys-and-girls",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/4-healthy-recipes-to-prepare-for-your-toddler-during-winter",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/4-recipes-to-include-more-veggies-in-toddlers-diet",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/5-indoor-activities-for-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/5-simple-craft-ideas-to-do-fun-with-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/5-things-that-will-help-your-babys-mental-health",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/5-toilet-training-tips-or-your-toddler",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/5-ways-to-make-learning-fun-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/7-common-mistakes-that-parents-make-while-inculcating-eating-habits-in-their-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/7-immunity-building-foods-for-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/7-storybooks-that-you-can-read-to-your-little-one-at-night",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/7-ways-to-help-your-kids-finish-their-meals",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/a-guide-to-expectant-parents-about-birthing-education",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/ask-the-expert-dr-rajiv-chhabra-paediatrician",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/asktheexpert-ms-neetu-goel-transcript",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/baby-has-red-marks-after-wearing-a-diaper-what-parents-should-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/babys-milestones-that-you-should-be-documenting",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/back-to-routine-blues-easing-toddlers-into-a-post-vacation-schedule",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/best-birthday-gifts-for-babies-over-a-year-old",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/causes-of-bedwetting",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/changing-seasons-impact-on-babys-health",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/chicken-pox-vaccine",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/childproofing-your-home-how-essential-is-it",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/choosing-seasonal-clothing-for-your-kid",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/clothing-for-baby-skin",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/covid-19-and-babies-everything-you-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/dealing-with-picky-toddlers-encouraging-healthy-eating-habits",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/diy-baby-fashion-personalized-and-handmade-outfit-ideas",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/easy-recipes-for-toddlers-birthday-party",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/easy-remedies-to-treat-diaper-rashes-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/emotional-development-of-babies-from-12-18-months",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/emotional-development-of-baby-at-2-years",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/everything-you-should-know-before-buying-the-first-baby-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/exercises-to-help-baby-stand",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/festive-chaos-and-toddlers-how-to-keep-little-ones-safe-and-happy-during-celebrations",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/first-aid-paraphernalia-you-need-to-keep-near-you-always",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/food-recipes-for-fussy-eater-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/food-recipes-to-feed-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/foods-that-your-baby-might-be-allergic-to",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/fruits-to-give-to-a-1-year-old-and-to-avoid-giving",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/fun-summer-prints-to-choose-for-your-newborns-stylish-clothing",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/helping-your-little-one-use-the-potty-seat",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/heres-what-parents-must-know-about-covid-19-and-its-third-wave-for-the-safety-of-their-kids",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/heres-why-you-should-get-your-little-one-vaccinated",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-can-toddlers-bond-with-their-grandparent",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-singing-or-playing-music-helps-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-begin-with-diapering",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-boost-cognitive-development-of-babies-from-12-to-18-months",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-calm-a-fussy-baby-with-colic-and-keep-your-sanity",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-clean-your-babys-delicate-parts",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-develop-good-food-habits-for-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-develop-healthy-eating-habits-in-babies",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-get-rid-of-head-lice-in-your-child",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-improve-toddlers-handwriting",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-inculcate-healthy-eating-habits-in-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-make-diwali-special-for-toddlers-12-fun-simple-crafts",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-prevent-kids-from-picking-up-bad-words",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-say-no-to-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-set-a-bedtime-routine",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-set-a-routine-for-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-set-up-a-play-area-in-the-house-for-kids",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-teach-your-toddler-to-be-self-sufficient",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-transform-the-babys-room-into-a-toddlers-room",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/how-to-wean-off-baby-from-breast-milk",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/ideal-winter-fabrics-for-infants",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/ideas-for-making-fathers-day-a-special-day-with-kids-and-family",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/keep-your-baby-fresh-clean-and-free-of-skin-issues-during-summer",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/let-them-play-and-plot-and-pretend",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/let-these-foodsrecipes-shield-you-and-your-baby-from-impure-air",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/list-of-diseases-that-babies-are-prone-to-part-1",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/list-of-diseases-that-babies-are-prone-to-part-2",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/little-eaters-big-adventures",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/little-learners-how-moms-can-nurture-early-learning-habits",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/messy-genius-sensory-play-ideas-to-engage-your-babys-brain",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/mmr-vaccine",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/monsoon-clothing-for-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/new-born-sleep-patterns-how-to-help-your-new-born-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/nutrients-important-for-the-growing-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/nutritional-requirement-facts-for-mom-and-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/nutritional-requirement-for-12-month-old-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/parenting-how-to-keep-kids-entertained-while-you-work-from-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/pick-up-the-right-kind-of-toys-for-your-toddler",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/potty-training-pros-and-cons",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/potty-training-tips-for-parents-part-1",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/potty-training-tips-for-parents-part-2",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/potty-training-why-is-it-essential-and-what-is-a-good-time-to-start",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/potty-training-your-toddlers-everything-you-need-to-know",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/pros-and-cons-of-having-a-pet-animal-at-home-with-your-toddler",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/raising-an-independent-toddler-tips-for-everyday-confidence",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/return-to-school-in-your-30s-for-career-advancement",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/signs-your-baby-is-ready-to-walk",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/sleeping-positions-for-babies",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/social-and-emotional-development-of-a-toddler",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/solid-foods-to-introduce-to-a-7-month-old-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/some-things-to-keep-ready-before-babys-bath",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/step-by-step-guide-to-master-the-art-of-diaper-change",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/summer-snacks-that-your-toddler-will-love",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/tantrum-tracker-why-when-what-now",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/teething-woes-how-to-detect-and-soothe-the-pain",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/the-best-diapering-guide-for-dads",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/things-to-help-your-baby-walk",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/think-aloud-a-comprehensive-take-on-the-importance-of-diaper-usage",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/thumb-sucking-in-babies",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/tips-for-raising-a-happy-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/tips-remedies-to-make-your-child-sleep-better",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/tips-to-bond-with-the-baby-when-dad-is-away",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/tips-to-clean-baby-properly-when-changing-a-diaper",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/toddler-5-ways-to-improve-your-toddlers-social-skills",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/toddler-skin-care-routine-for-summers",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/toddler-sleep-regression-why-it-happens-how-to-handle-it",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/toddler-teething-101",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/toddler-thumb-sucking-should-you-be-concerned",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/toddlers-how-to-keep-your-baby-active-this-summer",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/top-10-baby-shower-games-everyone-will-love-in-2025",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/top-foods-to-wean-your-baby-with",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/understanding-your-baby-reflexes-what-normal-and-when-to-worry",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/unmissable-exercise-ideas-for-kids",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/ways-to-encourage-your-toddler-to-talk",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/weaning-101-when-and-how-to-introduce-solid-foods-to-your-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-and-what-not-to-speak-in-front-of-your-child-while-developing-their-speech",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-food-your-baby-should-enjoy-at-6-months",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-is-the-right-way-to-diaper-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-milestones-to-expect-when-your-baby-is-6-months-old",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-not-to-do-or-say-in-front-of-a-baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-to-expect-when-your-baby-learns-to-sit-with-support",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-to-feed-your-baby-at-9-months",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/what-to-read-to-a-3-year-old",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/when-is-the-right-time-to-start-brushing-your-babys-teeth-tips-and-tricks",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/why-are-diapers-a-better-option-than-cloth-napkins",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/why-babies-need-to-sleep",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/toddlers/world-hepatitis-day",
+        "status": 200
+      },
+      {
+        "url": "https://www.mamypoko.co.in/website-user-agreement",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

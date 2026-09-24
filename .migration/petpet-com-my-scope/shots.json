@@ -1,0 +1,49 @@
+{
+ "captured": "2026-09-24T06:32:01.234Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>media",
+   "estPop": 1,
+   "url": "https://petpet.com.my/blogs/",
+   "file": "t00_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 47928
+  },
+  {
+   "idx": 1,
+   "name": "hero-page",
+   "family": "hero",
+   "signature": "list>hero>text>media>media",
+   "estPop": 1,
+   "url": "https://petpet.com.my/day-night-tape/",
+   "file": "t01_hero-page.jpg",
+   "captured": true,
+   "bytes": 280504
+  },
+  {
+   "idx": 2,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list>media>media",
+   "estPop": 1,
+   "url": "https://petpet.com.my/",
+   "file": "t02_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 407625
+  },
+  {
+   "idx": 3,
+   "name": "hero-page",
+   "family": "hero",
+   "signature": "list>hero>text>text>media",
+   "estPop": 1,
+   "url": "https://petpet.com.my/redeem/",
+   "file": "t03_hero-page.jpg",
+   "captured": true,
+   "bytes": 219809
+  }
+ ]
+}

@@ -1,0 +1,125 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/mamypoko-co-in-scope
+▶ site: https://www.mamypoko.co.in/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 615
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 22
+Pattern groups (>= 2): 15 - covering 608 pages -> sampled to ~57
+Long-tail unique pages (rendered in full): 7
+=> RENDER SET SIZE: 64
+
+Top 30 pattern groups:
+  185 -> 4 sampled   /pregnancy/{slug}
+  127 -> 4 sampled   /toddlers/{slug}
+   78 -> 4 sampled   /products/{section}/{slug}
+   76 -> 4 sampled   /newborn/{slug}
+   71 -> 4 sampled   /infant/{slug}
+   18 -> 4 sampled   /{page}
+   15 -> 4 sampled   /products/{id}/{slug}
+    7 -> 4 sampled   /mamypoko-in-news/{slug}
+    7 -> 4 sampled   /pregnancy/{section}
+    6 -> 4 sampled   /products/{section}
+    5 -> 4 sampled   /newborn/{section}
+    4 -> 4 sampled   /blogs/{section}
+    4 -> 4 sampled   /toddlers/{section}
+    3 -> 3 sampled   /products/{slug}
+    2 -> 2 sampled   /infant/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 25
+Distinct layout signatures: 8
+
+=== Layout templates (est. full-population pages) ===
+   14 pp  rendered= 14   form-page        breadcrumbs>text>columns>text>form             |  infant(6) mamypoko-in-news(4) newborn(4)
+    5 pp  rendered=  5   form-page        media>nav>list>media>form>list>text            |  blogs(5)
+    1 pp  rendered=  1   media-article    media>nav>media>text>text>text>text>list>text  |  about-unicharm(1)
+    1 pp  rendered=  1   form-page        media>text>list>list>media>text>text>text>form |  (home)(1)
+    1 pp  rendered=  1   form-page        media>nav>form>text                            |  community(1)
+    1 pp  rendered=  1   media-article    media>nav>media>text>list>text                 |  disclaimer(1)
+    1 pp  rendered=  1   media-article    text>text>text>media                           |  infant(1)
+    1 pp  rendered=  1   card-grid        media>nav>cards>cards>media>media>list>text    |  mamypoko-in-news(1)
+
+=== Third-party integrations detected ===
+   32 Google Tag Manager
+   30 Other third-party: www.clarity.ms
+   18 Meta (Facebook) Pixel
+   14 Other third-party: unicharm-crm.armworldwide.com
+   12 Google Ads/DoubleClick
+    6 Other third-party: st.hybrid.ai
+    6 Other third-party: dss.hybrid.ai
+    5 Other third-party: scripts.clarity.ms
+    5 Google Analytics
+
+=== Global objects ===
+  25 __NEXT_DATA__
+  20 dataLayer
+  16 gtag
+  16 ga
+  16 google_tag_manager
+  12 fbq
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 0
+Total variants: 0
+
+=== Base type -> variants / instances ===
+
+=== Top 20 variants ===
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+no block variants available for diagrams — skipping
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 22 template groups | full: 10 sampled: 11 excluded: 1
+pages — inspected: 63 skipped: 552 non-200: 0 of 615 urls
+
+=== Template groups (by size) ===
+  G00   185  sampled   /pregnancy/{slug}                 Pregnancy section pages
+  G01   127  sampled   /toddlers/{slug}                  Toddlers section pages
+  G02    78  sampled   /products/{section}/{slug}        Products sub-pages
+  G03    76  sampled   /newborn/{slug}                   Newborn section pages
+  G04    71  sampled   /infant/{slug}                    Infant section pages
+  G05    18  sampled   /{page}                           Root-level product & marketing pages
+  G06    15  sampled   /products/{id}/{slug}             Products sub-pages
+  G07     7  sampled   /mamypoko-in-news/{slug}          Mamypoko-in-news section pages
+  G08     7  sampled   /pregnancy/{section}              Pregnancy section pages
+  G09     6  sampled   /products/{section}               Products section pages
+  G10     5  sampled   /newborn/{section}                Newborn section pages
+  G11     4  full      /blogs/{section}                  Blogs section pages
+  G12     4  full      /toddlers/{section}               Toddlers section pages
+  G13     3  full      /products/{slug}                  Products section pages
+  G14     2  full      /infant/{section}                 Infant section pages
+  G15     1  excluded  /                                 Homepage & root
+  G16     1  full      /blogs                            Blogs — landing
+  G17     1  full      /{page}/{section}                 Root-level product & marketing pages
+  G18     1  full      /infant                           Infant — landing
+  G19     1  full      /mamypoko-in-news                 Mamypoko-in-news — landing
+  G20     1  full      /pregnancy                        Pregnancy — landing
+  G21     1  full      /products                         Products — landing
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 14 | first-party domain: co.in
+Probable backend integrations: 6 | unclassified hosts: 5
+
+=== By category ===
+  1 First-party telemetry
+  1 Analytics
+  1 Video
+  1 Session replay / analytics
+  1 First-party platform
+  1 Advertising
+
+=== Services (by page coverage) ===
+  8pg  First-party telemetry       Www: Logging API
+  7pg  Analytics                   Google Analytics (GA4)
+  7pg  Video                       Video platform API
+  7pg  Session replay / analytics  Digital-experience analytics
+  6pg  First-party platform        Www: Content / App API
+  4pg  Advertising                 Google Ads / DoubleClick
+▶ [11/12] compute supplementary data
+compute-data: live pages 615 | structure groups 7 | docs 0 | url groups 27 | layout heatmap rows 3 | block heatmap rows 0 | integrations 9
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/mamypoko-co-in-site-analysis-dashboard.html 0.17 MB
+templates: 3 galleries: 
+IMAGES: 0 TEMPLATE_SHOTS: 0
+✅ done.

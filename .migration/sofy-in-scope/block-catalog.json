@@ -1,0 +1,834 @@
+{
+ "captured": "2026-09-24T06:43:09.374Z",
+ "totalInstances": 87,
+ "totalVariants": 41,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 18,
+   "instances": 38
+  },
+  {
+   "base": "text",
+   "variants": 6,
+   "instances": 15
+  },
+  {
+   "base": "accordion",
+   "variants": 2,
+   "instances": 9
+  },
+  {
+   "base": "columns",
+   "variants": 3,
+   "instances": 8
+  },
+  {
+   "base": "media",
+   "variants": 4,
+   "instances": 6
+  },
+  {
+   "base": "carousel",
+   "variants": 3,
+   "instances": 5
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "tabs",
+   "variants": 2,
+   "instances": 2
+  },
+  {
+   "base": "form",
+   "variants": 1,
+   "instances": 1
+  },
+  {
+   "base": "video",
+   "variants": 1,
+   "instances": 1
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|article1.div4.h11|img,lst,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "accordion_5ff634ed59d4.jpg",
+   "repUrl": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/covid-19-vaccination-and-pcos-everything-you-need-to-know/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/covid-19-vaccination-and-pcos-everything-you-need-to-know/",
+     "file": "accordion_5ff634ed59d4.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/lets-cover-pcod-pcos/",
+     "file": "accordion_d63654462920.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/body-mind/why-your-energy-mood-and-focus-change-every-month-and-why-thats-okay/",
+     "file": "accordion_bfb7e95196fa.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/period-guide/5-best-essential-oils-to-keep-you-calm-during-your-periods/",
+     "file": "accordion_05e1a884bc29.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/period-guide/sleep-all-night-with-these-comfortable-sleeping-positions-during-periods/",
+     "file": "accordion_1d25c656c497.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/period-guide/soft-period-pads/",
+     "file": "accordion_f247b9b1f46c.jpg"
+    }
+   ],
+   "topLabel": "Covid-19 Vaccination And PCOS: Everything You Need To Know"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|article1.div4.h11|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_e0078674334c.jpg",
+   "repUrl": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/benefits-of-using-a-hot-water-bottle-to-treat-period-cramps/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/benefits-of-using-a-hot-water-bottle-to-treat-period-cramps/",
+     "file": "accordion_e0078674334c.jpg"
+    }
+   ],
+   "topLabel": "Benefits of using a hot water bottle to treat period cramps"
+  },
+  {
+   "base": "cards",
+   "key": "cards::div|div1.ul1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "cards_283eb36b1041.jpg",
+   "repUrl": "https://www.sofy.in/products/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/product-overnight/",
+     "file": "cards_314953356fad.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/",
+     "file": "cards_283eb36b1041.jpg"
+    }
+   ],
+   "topLabel": "SOFY ANTIBACTERIA PERIOD PANTY: DISPOSABLE PERIOD PANTIES FO"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div2.span1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "carousel_f007483e11a9.jpg",
+   "repUrl": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+     "file": "carousel_f007483e11a9.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxxl-420mm/sofy-antibacteria-nights-xxxl-4-pads/",
+     "file": "carousel_8c48b61d8170.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-34-pieces/",
+     "file": "carousel_4dad3f0f4149.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::section|aN.div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_919641497006.jpg",
+   "repUrl": "https://www.sofy.in/blog/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/",
+     "file": "carousel_919641497006.jpg"
+    }
+   ],
+   "topLabel": "Cotton Pads vs. Synthetic: Why Switching Material Matters fo"
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::div|div7|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "carousel_d2aa91d5b2b2.jpg",
+   "repUrl": "https://www.sofy.in/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/",
+     "file": "carousel_d2aa91d5b2b2.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|div1|img,hd,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "columns_9af155f029ec.jpg",
+   "repUrl": "https://www.sofy.in/blog/period-guide/sleep-all-night-with-these-comfortable-sleeping-positions-during-periods/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/period-guide/sleep-all-night-with-these-comfortable-sleeping-positions-during-periods/",
+     "file": "columns_9af155f029ec.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/period-guide/soft-period-pads/",
+     "file": "columns_412d25584285.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/are-flow-variations-during-periods-a-unique-quirk/",
+     "file": "columns_1b81da8ee76c.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/wellness/physical-wellness/why-panty-liners-should-be-a-part-of-every-womans-menstrual-hygiene-products/",
+     "file": "columns_ade9fd2f6857.jpg"
+    }
+   ],
+   "topLabel": "About Author"
+  },
+  {
+   "base": "columns",
+   "key": "columns::div|aside1.div1|img,lst,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "columns_ff0fe4f0055c.jpg",
+   "repUrl": "https://www.sofy.in/blog/category/period-guide/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/category/body-mind/",
+     "file": "columns_43726f38f347.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/category/period-guide/",
+     "file": "columns_ff0fe4f0055c.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/category/wellness/",
+     "file": "columns_1021773ceec0.jpg"
+    }
+   ],
+   "topLabel": "Why Your Energy, Mood, and Focus Change Every Month (And Why"
+  },
+  {
+   "base": "columns",
+   "key": "columns::section|div1.h21|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "columns_7b1025d8bb8a.jpg",
+   "repUrl": "https://www.sofy.in/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/",
+     "file": "columns_7b1025d8bb8a.jpg"
+    }
+   ],
+   "topLabel": "EXPERIENCE THE SOFY DIFFERENCE"
+  },
+  {
+   "base": "form",
+   "key": "form::form|div1|img,frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_c0b78a750405.jpg",
+   "repUrl": "https://www.sofy.in/feedback/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/feedback/",
+     "file": "form_c0b78a750405.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|img1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "media_b6d3bb3e9cef.jpg",
+   "repUrl": "https://www.sofy.in/period-education/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/",
+     "file": "media_b6d3bb3e9cef.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/period-education/mothers-self-care/",
+     "file": "media_bf30dd5b137b.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/period-education/young-girl-education/",
+     "file": "media_81eda6794491.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_91313876db27.jpg",
+   "repUrl": "https://www.sofy.in/period-education/how-sofy-helps/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/how-sofy-helps/",
+     "file": "media_91313876db27.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|ul1|img,lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_ee2d07617a4d.jpg",
+   "repUrl": "https://www.sofy.in/period-education/period-faqs/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/period-faqs/",
+     "file": "media_ee2d07617a4d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|aN.div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_4d197f8e53a4.jpg",
+   "repUrl": "https://www.sofy.in/videos/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/videos/",
+     "file": "media_4d197f8e53a4.jpg"
+    }
+   ],
+   "topLabel": "WE ARE\nEXUBERANT"
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|aN.div1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_3ebeb004a7a6.jpg",
+   "repUrl": "https://www.sofy.in/period-education/how-sofy-helps/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/how-sofy-helps/",
+     "file": "tabs_3ebeb004a7a6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "tabs",
+   "key": "tabs::div|div4|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "tabs_a579d3b8cfd3.jpg",
+   "repUrl": "https://www.sofy.in/period-education/period-faqs/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/period-faqs/",
+     "file": "tabs_a579d3b8cfd3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|hd,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "text_9e5f856d43a5.jpg",
+   "repUrl": "https://www.sofy.in/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/",
+     "file": "text_9e5f856d43a5.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/period-education/",
+     "file": "text_9de274804abe.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/period-education/mothers-self-care/",
+     "file": "text_5000fc293b79.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/period-education/young-girl-education/",
+     "file": "text_50b3f68a45f5.jpg"
+    }
+   ],
+   "topLabel": "SANITARY PADS WITH 99.9%* ANTIBACTERIAL PROTECTION FOR LONG-"
+  },
+  {
+   "base": "text",
+   "key": "text::header|h11.p1|hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_31d3d12096f0.jpg",
+   "repUrl": "https://www.sofy.in/product-overnight/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/period-faqs/",
+     "file": "text_e09d47c4cef0.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product-overnight/",
+     "file": "text_31d3d12096f0.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/",
+     "file": "text_d867f39973e0.jpg"
+    }
+   ],
+   "topLabel": "WIDE RANGE OF PRODUCTS FOR YOUR EVERYDAY HYGIENE"
+  },
+  {
+   "base": "text",
+   "key": "text::div|h21|hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_34a5199c0098.jpg",
+   "repUrl": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+     "file": "text_34a5199c0098.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxxl-420mm/sofy-antibacteria-nights-xxxl-4-pads/",
+     "file": "text_d9fbd8db48c7.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-34-pieces/",
+     "file": "text_68b7f63d342e.jpg"
+    }
+   ],
+   "topLabel": "SOFY PAD\nUSAGE GUIDE"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|img,lst,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "text_714f835a515e.jpg",
+   "repUrl": "https://www.sofy.in/products/antibacteria/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/products/antibacteria/",
+     "file": "text_714f835a515e.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/bodyfit/",
+     "file": "text_8e20ec3a83ad.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/tampons/",
+     "file": "text_ff5cfeaf5fdc.jpg"
+    }
+   ],
+   "topLabel": "ANTIBACTERIA EXTRA LONG 290 MM – STRAIGHT TYPE"
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1.span15|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_728971bfa071.jpg",
+   "repUrl": "https://www.sofy.in/about-sofy/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/about-sofy/",
+     "file": "text_728971bfa071.jpg"
+    }
+   ],
+   "topLabel": "WHO\nWE ARE"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_aaf062a9510c.jpg",
+   "repUrl": "https://www.sofy.in/period-education/how-sofy-helps/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/how-sofy-helps/",
+     "file": "text_aaf062a9510c.jpg"
+    }
+   ],
+   "topLabel": "SOFY HUM AAGE AAGE, DUNIYA PEECHE PEECHE"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div2.span14|img,lst,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "unknown_93460e92df35.jpg",
+   "repUrl": "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-34-pieces/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/product/antibacteria-extra-long-290-mm-straight-type/sofy-antibacteria-extra-long-6-pads/",
+     "file": "unknown_36c46364b6ba.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/antibacteria-overnight/sofy-antibacteria-overnight-xxl-15-pads/",
+     "file": "unknown_6b64854f5ac9.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/bodyfit-overnight/sofy-bodyfit-overnight-xxl-15-pads/",
+     "file": "unknown_a99a75ba93c8.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+     "file": "unknown_b954999ef145.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/cool-super-xl-323mm/sofy-cool-super-xl-6-pads/",
+     "file": "unknown_00e1985cd758.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/pantyliner-cool/sofy-pantyliner-cool-18-pieces/",
+     "file": "unknown_e8c21bdb99f9.jpg"
+    }
+   ],
+   "topLabel": "SOFY ANTIBACTERIA NIGHTS"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|span10|aN,iN",
+   "instances": 8,
+   "pagesFound": 4,
+   "repFile": "unknown_de7b777f4911.jpg",
+   "repUrl": "https://www.sofy.in/products/antibacteria/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/products/antibacteria/",
+     "file": "unknown_de7b777f4911.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/antibacteria/",
+     "file": "unknown_4f5fbeb188f3.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/bodyfit/",
+     "file": "unknown_02735e723937.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/bodyfit/",
+     "file": "unknown_230a35458eca.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/sofy-cool/",
+     "file": "unknown_fdd87a23dd68.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/products/sofy-cool/",
+     "file": "unknown_1d6258598c5f.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div2|img,hd,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "unknown_9d3d35a238ec.jpg",
+   "repUrl": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+     "file": "unknown_9d3d35a238ec.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/sofy-antibacteria-nights-xxxl-420mm/sofy-antibacteria-nights-xxxl-4-pads/",
+     "file": "unknown_9693513b9b81.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-34-pieces/",
+     "file": "unknown_21fb7d0bcf50.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/videos/",
+     "file": "unknown_81d03c1dc271.jpg"
+    }
+   ],
+   "topLabel": "OTHER\nPRODUCTS"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|article1.div4.h11|img,lst,hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "unknown_f39e2063c931.jpg",
+   "repUrl": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/what-is-pcod-how-it-affects-your-menstrual-cycle/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/body-mind/during-puberty/dealing-with-emotional-ups-and-downs-during-puberty/",
+     "file": "unknown_b1dac2ab1866.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/5-natural-treatments-for-pcos/",
+     "file": "unknown_9349d1ade07d.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/what-is-pcod-how-it-affects-your-menstrual-cycle/",
+     "file": "unknown_f39e2063c931.jpg"
+    }
+   ],
+   "topLabel": "Dealing with emotional ups and downs during puberty"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.section1|img,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_9ab07004bd15.jpg",
+   "repUrl": "https://www.sofy.in/period-education/mothers-self-care/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/mothers-self-care/",
+     "file": "unknown_9ab07004bd15.jpg"
+    },
+    {
+     "url": "https://www.sofy.in/period-education/young-girl-education/",
+     "file": "unknown_3a6534b4bdd3.jpg"
+    }
+   ],
+   "topLabel": "MENSTRUATION & HYGIENE OF MOTHERS\nCHANGES, CHALLENGES, CARE"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|aN.div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_aa9bebb5e211.jpg",
+   "repUrl": "https://www.sofy.in/about-sofy/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/about-sofy/",
+     "file": "unknown_aa9bebb5e211.jpg"
+    }
+   ],
+   "topLabel": "WE ARE\n TRENDSETTERS\n\nHum aage aage...\nDuniya peeche peeche."
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.header1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_037ef33cd792.jpg",
+   "repUrl": "https://www.sofy.in/blog/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/",
+     "file": "unknown_037ef33cd792.jpg"
+    }
+   ],
+   "topLabel": "PERIOD GUIDE"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1.span10|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_319088dec238.jpg",
+   "repUrl": "https://www.sofy.in/blog/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/",
+     "file": "unknown_319088dec238.jpg"
+    }
+   ],
+   "topLabel": "TIPS AND TRICKS"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div3|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_6a187b57437a.jpg",
+   "repUrl": "https://www.sofy.in/about-sofy/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/about-sofy/",
+     "file": "unknown_6a187b57437a.jpg"
+    }
+   ],
+   "topLabel": "SOFY\nHISTORY"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_43ec37747f79.jpg",
+   "repUrl": "https://www.sofy.in/blog/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/",
+     "file": "unknown_43ec37747f79.jpg"
+    }
+   ],
+   "topLabel": "BODY & MIND"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_4139eeb07a58.jpg",
+   "repUrl": "https://www.sofy.in/blog/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/",
+     "file": "unknown_4139eeb07a58.jpg"
+    }
+   ],
+   "topLabel": "FOOD & NUTRITION"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div3.span7|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_386dac6e25ee.jpg",
+   "repUrl": "https://www.sofy.in/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/",
+     "file": "unknown_386dac6e25ee.jpg"
+    }
+   ],
+   "topLabel": "PROJECT\nJAGRITI"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|article1.div4.h11|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_c01d0512618d.jpg",
+   "repUrl": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/are-flow-variations-during-periods-a-unique-quirk/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/blog/tips-tricks/menstrual-problems/are-flow-variations-during-periods-a-unique-quirk/",
+     "file": "unknown_c01d0512618d.jpg"
+    }
+   ],
+   "topLabel": "Are Flow Variations During Periods A Unique Quirk?"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div2|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_25eff5ec6ba2.jpg",
+   "repUrl": "https://www.sofy.in/period-education/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/",
+     "file": "unknown_25eff5ec6ba2.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|section1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_5396197d403b.jpg",
+   "repUrl": "https://www.sofy.in/period-education/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/",
+     "file": "unknown_5396197d403b.jpg"
+    }
+   ],
+   "topLabel": "PERIODS\nEVERYTHING YOU NEED TO KNOW!"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div2.span15|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_918d76fbc916.jpg",
+   "repUrl": "https://www.sofy.in/period-education/how-sofy-helps/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/period-education/how-sofy-helps/",
+     "file": "unknown_918d76fbc916.jpg"
+    }
+   ],
+   "topLabel": "HOW\nDOES SOFY HELP?"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_64b1bc07f6bc.jpg",
+   "repUrl": "https://www.sofy.in/products/sofy-cool/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/products/sofy-cool/",
+     "file": "unknown_64b1bc07f6bc.jpg"
+    }
+   ],
+   "topLabel": "COOL EXTRA LONG - 290MM"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div2|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_5d531269e07c.jpg",
+   "repUrl": "https://www.sofy.in/videos/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/videos/",
+     "file": "unknown_5d531269e07c.jpg"
+    }
+   ],
+   "topLabel": "SNEAK PEEK INTO SOFY’S WORLD"
+  },
+  {
+   "base": "video",
+   "key": "video::section|div1.span12|lst,ifr,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video_66d199ab91ed.jpg",
+   "repUrl": "https://www.sofy.in/",
+   "samples": [
+    {
+     "url": "https://www.sofy.in/",
+     "file": "video_66d199ab91ed.jpg"
+    }
+   ],
+   "topLabel": "SOFY ANTIBACTERIA"
+  }
+ ]
+}

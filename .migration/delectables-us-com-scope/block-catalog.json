@@ -1,0 +1,33 @@
+{
+ "captured": "2026-09-24T06:34:12.903Z",
+ "totalInstances": 2,
+ "totalVariants": 1,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 1,
+   "instances": 2
+  }
+ ],
+ "variants": [
+  {
+   "base": "unknown",
+   "key": "unknown::li|aN.div4|lst,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_8eda5cf2166b.jpg",
+   "repUrl": "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-chicken/",
+   "samples": [
+    {
+     "url": "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-chicken/",
+     "file": "unknown_8eda5cf2166b.jpg"
+    },
+    {
+     "url": "https://www.delectablescattreats.com/en-au/where-to-buy/",
+     "file": "unknown_12f2b8bc7e5d.jpg"
+    }
+   ],
+   "topLabel": ""
+  }
+ ]
+}

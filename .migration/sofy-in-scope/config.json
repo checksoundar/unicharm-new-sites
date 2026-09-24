@@ -1,0 +1,18 @@
+{
+  "siteUrl": "https://www.sofy.in/",
+  "siteOrigin": "https://www.sofy.in",
+  "site": "sofy.in",
+  "scope": "Entire domain — India (Feminine Care)",
+  "eyebrow": "Sofy India · Site Analysis",
+  "heroTitle": "Structural analysis of sofy.in",
+  "heroSub": "",
+  "brandLine": "sofy.in<br>Migration Console",
+  "accountName": "Unicharm — Sofy India",
+  "locale": "en-IN",
+  "discovery": "sitemap-seeded",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/sofy-in-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": ""
+}

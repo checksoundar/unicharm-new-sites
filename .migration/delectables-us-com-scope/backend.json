@@ -1,0 +1,108 @@
+{
+ "captured": "2026-09-24T06:36:14.943Z",
+ "sampledPages": 19,
+ "firstPartyDomain": "delectablescattreats.com",
+ "totalServices": 3,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Advertising",
+   "count": 1
+  },
+  {
+   "category": "First-party forms",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 19,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "pagead2.googlesyndication.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST pagead2.googlesyndication.com/ccm/collect"
+   ],
+   "pages": 15,
+   "coverage": "79%"
+  },
+  {
+   "name": "Www: Forms / Lead API",
+   "category": "First-party forms",
+   "note": "Form submission / lead capture",
+   "hosts": [
+    "www.delectablescattreats.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST www.delectablescattreats.com/cdn-cgi/challenge-platform/h/b/jsd/oneshot/:id/0.:id::id:DzW8"
+   ],
+   "pages": 1,
+   "coverage": "5%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "cmp.osano.com",
+   "pages": 19,
+   "sample": "GET cmp.osano.com/btjV6GSrjU/:id/en.json"
+  },
+  {
+   "host": "api.bazaarvoice.com",
+   "pages": 10,
+   "sample": "GET api.bazaarvoice.com/data/display/0.2alpha/product/summary"
+  },
+  {
+   "host": "api.storytap.com",
+   "pages": 3,
+   "sample": "POST api.storytap.com/w/get-embed"
+  },
+  {
+   "host": "challenges.cloudflare.com",
+   "pages": 2,
+   "sample": "POST challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/fo/:id::id:9aKaNTcbAJ2HUMRE82RpMl"
+  },
+  {
+   "host": "brunhild.challenges.cloudflare.com",
+   "pages": 2,
+   "sample": "GET brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/b/i/:id/nF_RkcuUUMwCbJhTqZ"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 2,
+   "sample": "POST www.googletagmanager.com/td"
+  },
+  {
+   "host": "api.mapbox.com",
+   "pages": 1,
+   "sample": "GET api.mapbox.com/styles/v1/mapbox/streets-v9"
+  },
+  {
+   "host": "events.mapbox.com",
+   "pages": 1,
+   "sample": "POST events.mapbox.com/events/v2"
+  }
+ ]
+}

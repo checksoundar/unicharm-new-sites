@@ -1,0 +1,104 @@
+{
+ "captured": "2026-09-24T07:06:20.966Z",
+ "totalInstances": 46,
+ "totalVariants": 3,
+ "baseSummary": [
+  {
+   "base": "form",
+   "variants": 1,
+   "instances": 39
+  },
+  {
+   "base": "accordion",
+   "variants": 2,
+   "instances": 7
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::div|aside1.div1.noscript1|img,lst,frm,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "accordion_0782a4b3b946.jpg",
+   "repUrl": "http://babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+   "samples": [
+    {
+     "url": "http://babylovenappies.com.au/about-us/contact-us",
+     "file": "accordion_1415b46bb54d.jpg"
+    },
+    {
+     "url": "http://babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+     "file": "accordion_0782a4b3b946.jpg"
+    },
+    {
+     "url": "https://babylovenappies.com.au/about-us/contact-us",
+     "file": "accordion_139a5da1c638.jpg"
+    },
+    {
+     "url": "https://babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+     "file": "accordion_14ca3c97471c.jpg"
+    },
+    {
+     "url": "https://babylovenappies.com.au/our-products/swim-pants",
+     "file": "accordion_ebd820e39fa4.jpg"
+    },
+    {
+     "url": "https://www.babylovenappies.com.au/our-products/swim-pants",
+     "file": "accordion_4edb27002e8f.jpg"
+    }
+   ],
+   "topLabel": "Contact Us"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::div|aside1.div1.noscript1|img,tbl,lst,frm,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_6d4f509122fc.jpg",
+   "repUrl": "https://babylovenappies.com.au/blog/why-and-when-to-move-from-tab-nappies-to-nappy-pants",
+   "samples": [
+    {
+     "url": "https://babylovenappies.com.au/blog/why-and-when-to-move-from-tab-nappies-to-nappy-pants",
+     "file": "accordion_6d4f509122fc.jpg"
+    }
+   ],
+   "topLabel": "When to Switch to Nappy Pants Tab vs Nappy Pants Guide"
+  },
+  {
+   "base": "form",
+   "key": "form::div|aside1.div1.noscript1|img,lst,frm,hd,aN,iN",
+   "instances": 39,
+   "pagesFound": 39,
+   "repFile": "form_aa605e59ae66.jpg",
+   "repUrl": "https://babylovenappies.com.au/blog/toddler/sleepy-nights-night-terrors-in-toddlers",
+   "samples": [
+    {
+     "url": "http://babylovenappies.com.au/about-us",
+     "file": "form_93c4935f9920.jpg"
+    },
+    {
+     "url": "http://babylovenappies.com.au/",
+     "file": "form_3462dc480626.jpg"
+    },
+    {
+     "url": "http://babylovenappies.com.au/about-us/5-a-day-of-play",
+     "file": "form_802649857371.jpg"
+    },
+    {
+     "url": "http://babylovenappies.com.au/blog",
+     "file": "form_f84273bde780.jpg"
+    },
+    {
+     "url": "http://babylovenappies.com.au/blog/5-types-of-play-that-help-boost-your-childs-development",
+     "file": "form_a33432b76c8f.jpg"
+    },
+    {
+     "url": "http://babylovenappies.com.au/blog/childcare-guide",
+     "file": "form_6f42f7397cf7.jpg"
+    }
+   ],
+   "topLabel": "Blog"
+  }
+ ]
+}

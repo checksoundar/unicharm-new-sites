@@ -1,0 +1,173 @@
+{
+ "captured": "2026-09-24T06:34:20.505Z",
+ "locales": [
+  "en-au",
+  "en-ca"
+ ],
+ "sections": [
+  "product",
+  "products"
+ ],
+ "selInspect": {
+  "totalGroups": 13,
+  "totalLive": 188,
+  "totalUrls": 188,
+  "selectedTotal": 0,
+  "skippedTotal": 188,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 188,
+  "exclGroups": 13,
+  "nonEnExcluded": 188
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/product/{slug}",
+   "label": "Product section pages",
+   "total": 79,
+   "selected": 0,
+   "skipped": 79,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/product/delectables-lickable-spoon-chicken-32-pack"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 29,
+   "selected": 0,
+   "skipped": 29,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-au/product/delectables-lickable-cat-treat-bisque-chicken"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 26,
+   "selected": 0,
+   "skipped": 26,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/about"
+  },
+  {
+   "groupId": "G03",
+   "template": "/products/{section}/{page}/{path…}",
+   "label": "Products deep pages",
+   "total": 24,
+   "selected": 0,
+   "skipped": 24,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/lickable-spoon/ls-life-stage/ls-adult"
+  },
+  {
+   "groupId": "G04",
+   "template": "/products/{section}/{id}/{path…}",
+   "label": "Products deep pages",
+   "total": 12,
+   "selected": 0,
+   "skipped": 12,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/lickable-treats/lickable-treat-life-stage/lt-adult"
+  },
+  {
+   "groupId": "G05",
+   "template": "/products/{section}/{page}",
+   "label": "Products sub-pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/lickable-spoon/ls-life-stage"
+  },
+  {
+   "groupId": "G06",
+   "template": "/products/{section}",
+   "label": "Products section pages",
+   "total": 3,
+   "selected": 0,
+   "skipped": 3,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/lickable-spoon"
+  },
+  {
+   "groupId": "G07",
+   "template": "/products/{section}/{slug}",
+   "label": "Products sub-pages",
+   "total": 3,
+   "selected": 0,
+   "skipped": 3,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products/lickable-treats/lickable-treat-life-stage"
+  },
+  {
+   "groupId": "G08",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/en-au/where-to-buy"
+  },
+  {
+   "groupId": "G09",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G10",
+   "template": "/{page}/{section}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/our-brands/delectables"
+  },
+  {
+   "groupId": "G11",
+   "template": "/product",
+   "label": "Product — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/product"
+  },
+  {
+   "groupId": "G12",
+   "template": "/products",
+   "label": "Products — landing",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": "/products"
+  }
+ ]
+}

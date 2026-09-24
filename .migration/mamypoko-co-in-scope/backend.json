@@ -1,0 +1,156 @@
+{
+ "captured": "2026-09-24T07:13:44.046Z",
+ "sampledPages": 14,
+ "firstPartyDomain": "co.in",
+ "totalServices": 6,
+ "categories": [
+  {
+   "category": "First-party telemetry",
+   "count": 1
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Session replay / analytics",
+   "count": 1
+  },
+  {
+   "category": "Video",
+   "count": 1
+  },
+  {
+   "category": "First-party platform",
+   "count": 1
+  },
+  {
+   "category": "Advertising",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Www: Logging API",
+   "category": "First-party telemetry",
+   "note": "Client log / error ingestion",
+   "hosts": [
+    "www.mamypoko.co.in"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.mamypoko.co.in/api/frontend/nav/blog/en",
+    "GET www.mamypoko.co.in/api/frontend/blogs/detail/blog/4-ways-to-use-white-noise-to-help-your-b",
+    "POST www.mamypoko.co.in/api/frontend/blogs/count",
+    "POST www.mamypoko.co.in/api/frontend/blogs/detail/general/blog/4-ways-to-use-white-noise-to-hel",
+    "GET www.mamypoko.co.in/api/frontend/blogs/detail/blog/mamypoko-outpaces-pampers-to-become-indi",
+    "POST www.mamypoko.co.in/api/frontend/blogs/detail/general/blog/mamypoko-outpaces-pampers-to-bec",
+    "GET www.mamypoko.co.in/api/frontend/blogs/detail/blog/5-items-for-parents-to-refill-the-medici",
+    "POST www.mamypoko.co.in/api/frontend/blogs/detail/general/blog/5-items-for-parents-to-refill-th"
+   ],
+   "pages": 14,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 3,
+   "endpoints": [
+    "POST www.google-analytics.com/j/collect",
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 13,
+   "coverage": "93%"
+  },
+  {
+   "name": "Digital-experience analytics",
+   "category": "Session replay / analytics",
+   "note": "",
+   "hosts": [
+    "l.clarity.ms"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST l.clarity.ms/collect"
+   ],
+   "pages": 13,
+   "coverage": "93%"
+  },
+  {
+   "name": "Video platform API",
+   "category": "Video",
+   "note": "",
+   "hosts": [
+    "www.gstatic.com",
+    "www.youtube.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "GET www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+    "POST www.youtube.com/youtubei/v1/log_event",
+    "POST www.youtube.com/api/stats/atr"
+   ],
+   "pages": 7,
+   "coverage": "50%"
+  },
+  {
+   "name": "Www: Content / App API",
+   "category": "First-party platform",
+   "note": "App / content back-end",
+   "hosts": [
+    "www.mamypoko.co.in"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.mamypoko.co.in/api/frontend/product/get_home_prod",
+    "GET www.mamypoko.co.in/api/frontend/homepage/general",
+    "GET www.mamypoko.co.in/api/frontend/homepage/get_general_review"
+   ],
+   "pages": 7,
+   "coverage": "50%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "googleads.g.doubleclick.net"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET googleads.g.doubleclick.net/pagead/id"
+   ],
+   "pages": 4,
+   "coverage": "29%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.google.com",
+   "pages": 13,
+   "sample": "POST www.google.com/rmkt/collect/:id"
+  },
+  {
+   "host": "mpc-prod-23-s6uit34pua-ue.a.run.app",
+   "pages": 13,
+   "sample": "POST mpc-prod-23-s6uit34pua-ue.a.run.app/events"
+  },
+  {
+   "host": "api.ipify.org",
+   "pages": 5,
+   "sample": "GET api.ipify.org/"
+  },
+  {
+   "host": "jnn-pa.googleapis.com",
+   "pages": 4,
+   "sample": "POST jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+  }
+ ]
+}

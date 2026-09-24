@@ -1,0 +1,142 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/sofy-in-scope
+▶ site: https://www.sofy.in/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 478
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 13
+Pattern groups (>= 2): 9 - covering 474 pages -> sampled to ~36
+Long-tail unique pages (rendered in full): 4
+=> RENDER SET SIZE: 40
+
+Top 30 pattern groups:
+  225 -> 4 sampled   /blog/{section}/{page}/{path…}
+  152 -> 4 sampled   /blog/{section}/{slug}
+   28 -> 4 sampled   /product/{section}/{slug}
+   22 -> 4 sampled   /{page}
+   16 -> 4 sampled   /product/{id}/{slug}
+   10 -> 4 sampled   /blog/{section}/{id}/{path…}
+   10 -> 4 sampled   /blog/{section}/{page}
+    6 -> 4 sampled   /period-education/{section}
+    5 -> 4 sampled   /products/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 40
+Distinct layout signatures: 16
+
+=== Layout templates (est. full-population pages) ===
+   11 pp  rendered= 11   section-nav-list list>columns>nav                               |  blog(11)
+    8 pp  rendered=  8   carousel-page    list>text>carousel>text                        |  product(8)
+    3 pp  rendered=  3   breadcrumb-page  text>breadcrumbs>columns                       |  blog(3)
+    3 pp  rendered=  3   article-text     text                                           |  products(3)
+    2 pp  rendered=  2   article-text     text>columns>nav                               |  blog(2)
+    2 pp  rendered=  2   media-article    text>list>media                                |  period-education(2)
+    2 pp  rendered=  2   card-grid        text>cards                                     |  product-overnight(1) products(1)
+    1 pp  rendered=  1   article-text     text>text>text                                 |  about-sofy(1)
+    1 pp  rendered=  1   carousel-page    carousel>text>text>text>list>text>text         |  blog(1)
+    1 pp  rendered=  1   carousel-page    carousel>carousel>carousel>text>columns>iframe |  (home)(1)
+    1 pp  rendered=  1   form-page        form                                           |  feedback(1)
+    1 pp  rendered=  1   media-article    text>text>list>media                           |  period-education(1)
+    1 pp  rendered=  1   tabbed-page      text>tabs>media>text>media                     |  period-education(1)
+    1 pp  rendered=  1   tabbed-page      text>list>tabs                                 |  period-education(1)
+    1 pp  rendered=  1   section-nav-list list                                           |  products(1)
+    1 pp  rendered=  1   media-article    media>list>text                                |  videos(1)
+
+=== Third-party integrations detected ===
+   80 Meta (Facebook) Pixel
+   80 Google Tag Manager
+   40 Google Analytics
+    6 Other third-party: ajax.googleapis.com
+    4 YouTube embed
+    1 Other third-party: www.google.com
+
+=== Global objects ===
+  40 dataLayer
+  40 ga
+  40 google_tag_manager
+  40 fbq
+  40 wp
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 87
+Total variants: 41
+
+=== Base type -> variants / instances ===
+  38 inst   18 variants   unknown
+  15 inst    6 variants   text
+   9 inst    2 variants   accordion
+   8 inst    3 variants   columns
+   6 inst    4 variants   media
+   5 inst    3 variants   carousel
+   2 inst    1 variants   cards
+   2 inst    2 variants   tabs
+   1 inst    1 variants   form
+   1 inst    1 variants   video
+
+=== Top 20 variants ===
+   8 x   accordion     pages=  8   div|article1.div4.h11|img,lst,hd,aN,iN
+   8 x   unknown       pages=  8   section|div2.span14|img,lst,hd,aN,iN
+   8 x   unknown       pages=  4   div|span10|aN,iN
+   4 x   columns       pages=  4   div|div1|img,hd,aN,iN
+   4 x   text          pages=  4   section|div1|hd,aN,iN
+   4 x   unknown       pages=  4   section|div2|img,hd,aN,iN
+   3 x   carousel      pages=  3   div|div2.span1|img,aN,iN
+   3 x   columns       pages=  3   div|aside1.div1|img,lst,hd,aN,iN
+   3 x   media         pages=  3   div|img1|img,aN,iN
+   3 x   text          pages=  3   header|h11.p1|hd,aN,iN
+   3 x   text          pages=  3   div|h21|hd,aN,iN
+   3 x   text          pages=  3   div|div1|img,lst,hd,aN,iN
+   3 x   unknown       pages=  3   div|article1.div4.h11|img,lst,hd,aN,iN
+   2 x   cards         pages=  2   div|div1.ul1|img,lst,hd,aN,iN
+   2 x   unknown       pages=  2   div|div1.section1|img,lst,hd,aN,iN
+   1 x   accordion     pages=  1   div|article1.div4.h11|img,hd,aN,iN
+   1 x   carousel      pages=  1   section|aN.div1|img,hd,aN,iN
+   1 x   carousel      pages=  1   div|div7|hd,aN,iN
+   1 x   columns       pages=  1   section|div1.h21|img,hd,aN,iN
+   1 x   form          pages=  1   form|div1|img,frm,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 13 template groups | full: 0 sampled: 0 excluded: 13
+pages — inspected: 0 skipped: 478 non-200: 0 of 478 urls
+
+=== Template groups (by size) ===
+  G00   225  excluded  /blog/{section}/{page}/{path…}    Blog deep pages
+  G01   152  excluded  /blog/{section}/{slug}            Blog sub-pages
+  G02    28  excluded  /product/{section}/{slug}         Product sub-pages
+  G03    22  excluded  /{page}                           Root-level product & marketing pages
+  G04    16  excluded  /product/{id}/{slug}              Product sub-pages
+  G05    10  excluded  /blog/{section}/{id}/{path…}      Blog deep pages
+  G06    10  excluded  /blog/{section}/{page}            Blog sub-pages
+  G07     6  excluded  /period-education/{section}       Period-education section pages
+  G08     5  excluded  /products/{section}               Products section pages
+  G09     1  excluded  /                                 Homepage & root
+  G10     1  excluded  /blog                             Blog — landing
+  G11     1  excluded  /period-education                 Period-education — landing
+  G12     1  excluded  /products                         Products — landing
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 20 | first-party domain: sofy.in
+Probable backend integrations: 4 | unclassified hosts: 1
+
+=== By category ===
+  1 Analytics
+  1 Video
+  1 Advertising
+  1 First-party forms
+
+=== Services (by page coverage) ===
+ 20pg  Analytics                   Google Analytics (GA4)
+  2pg  Video                       Video platform API
+  1pg  Advertising                 Google Ads / DoubleClick
+  1pg  First-party forms           Www: Forms / Lead API
+▶ [11/12] compute supplementary data
+compute-data: live pages 478 | structure groups 16 | docs 0 | url groups 27 | layout heatmap rows 8 | block heatmap rows 10 | integrations 6
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/sofy-in-site-analysis-dashboard.html 12.07 MB
+templates: 8 galleries: Cards:1, Columns:3, Carousel:3, Accordion:2, Tabs:2, Form:1, Media:4, Video:1, Text:6, Unknown / Custom:18
+IMAGES: 41 TEMPLATE_SHOTS: 8
+✅ done.

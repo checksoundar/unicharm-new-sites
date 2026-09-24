@@ -1,0 +1,110 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/hartz-com-scope
+▶ site: https://www.hartz.com/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 56
+Distinct layout signatures: 1
+
+=== Layout templates (est. full-population pages) ===
+   56 pp  rendered= 56   form-page        media>form                                     |  products(16) learning-center(11) en-ca(10)
+
+=== Third-party integrations detected ===
+  194 Google Tag Manager
+  139 Other third-party: cdn.pricespider.com
+  112 CDN/JS libs
+   56 Other third-party: cmp.osano.com
+   56 Other third-party: apps.bazaarvoice.com
+   46 The Trade Desk
+   46 Other third-party: embed-club.club.co
+    6 Other third-party: wtbevents.pricespider.com
+    4 Other third-party: embedsocial.com
+    4 Vimeo
+    3 Other third-party: omni.pricespider.com
+
+=== Global objects ===
+  56 dataLayer
+  56 gtag
+  46 google_tag_manager
+  46 fbq
+   2 Vimeo
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 135
+Total variants: 45
+
+=== Base type -> variants / instances ===
+  36 inst   13 variants   text
+  35 inst    9 variants   unknown
+  21 inst    4 variants   accordion
+  19 inst    3 variants   columns
+   9 inst    4 variants   hero
+   6 inst    4 variants   media
+   3 inst    3 variants   tabs
+   3 inst    2 variants   video
+   1 inst    1 variants   carousel
+   1 inst    1 variants   form
+   1 inst    1 variants   iframe-embed
+
+=== Top 20 variants ===
+  15 x   accordion     pages= 15   section|div1|img,lst,frm,hd,aN,iN
+  13 x   unknown       pages= 13   section|div2|img,lst,hd,aN,iN
+  12 x   columns       pages=  5   section|div2|img,hd,aN,iN
+  10 x   text          pages= 10   div|div1|aN,iN
+   8 x   unknown       pages=  8   div|aN|aN,iN
+   8 x   unknown       pages=  8   section|div1.ul1|img,lst,hd,aN,iN
+   6 x   text          pages=  4   section|div1|img,hd,aN,iN
+   5 x   columns       pages=  5   section|div1|img,lst,hd,aN,iN
+   4 x   text          pages=  4   blockquote|p1|aN,iN
+   4 x   text          pages=  4   h1||aN,iN
+   4 x   text          pages=  2   section|div1|img,lst,hd,aN,iN
+   3 x   accordion     pages=  3   article|div4|img,tbl,lst,hd,aN,iN
+   3 x   hero          pages=  3   section|div1|hd,aN,iN
+   3 x   hero          pages=  3   section|div1|img,aN,iN
+   2 x   accordion     pages=  2   article|div3|img,tbl,lst,hd,aN,iN
+   2 x   columns       pages=  1   section|div1|img,hd,aN,iN
+   2 x   hero          pages=  2   section|div1|img,hd,aN,iN
+   2 x   media         pages=  2   section|div1|img,lst,hd,aN,iN
+   2 x   media         pages=  2   div|img1|img,aN,iN
+   2 x   video         pages=  2   article|div3|img,tbl,lst,ifr,hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Media)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 23 template groups | full: 0 sampled: 0 excluded: 23
+pages — inspected: 0 skipped: 842 non-200: 0 of 842 urls
+
+=== Template groups (by size) ===
+  G00   566  excluded  /{page}                           Root-level product & marketing pages
+  G01   143  excluded  /product/{slug}                   Product section pages
+  G02    27  excluded  /learning-center/{section}/{page}/{path…}  Learning-center deep pages
+  G03    26  excluded  /products/{section}/{page}/{path…}  Products deep pages
+  G04    22  excluded  /{locale}/{section}/{slug}        Locale sub-pages
+  G05    11  excluded  /our-brands/{section}             Our-brands section pages
+  G06    10  excluded  /{locale}/{slug}                  Locale section / landing pages
+  G07    10  excluded  /products/{section}/{page}        Products sub-pages
+  G08     6  excluded  /learning-center/{section}        Learning-center section pages
+  G09     5  excluded  /products/{section}/{id}/{path…}  Products deep pages
+  G10     2  excluded  /{locale}/{section}               Locale section / landing pages
+  G11     2  excluded  /{page}/{slug}                    Root-level product & marketing pages
+  G12     2  excluded  /products/{section}               Products section pages
+  G13     1  excluded  /                                 Homepage & root
+  G14     1  excluded  /learning-center                  Learning-center — landing
+  G15     1  excluded  /learning-center/{section}/{slug}  Learning-center sub-pages
+  G16     1  excluded  /learning-center/{section}/{page}  Learning-center sub-pages
+  G17     1  excluded  /our-brands                       Our-brands — landing
+  G18     1  excluded  /our-brands/{slug}                Our-brands section pages
+  G19     1  excluded  /product                          Product — landing
+  G20     1  excluded  /products                         Products — landing
+  G21     1  excluded  /products/{section}/{slug}        Products sub-pages
+  G22     1  excluded  /{page}/{section}                 Root-level product & marketing pages
+▶ [10/12] backend capture skipped (BACKEND_SAMPLE=0)
+▶ [11/12] compute supplementary data
+compute-data: live pages 842 | structure groups 4 | docs 0 | url groups 572 | layout heatmap rows 1 | block heatmap rows 11 | integrations 11
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/hartz-com-site-analysis-dashboard.html 8.08 MB
+templates: 1 galleries: Hero:4, Columns:3, Carousel:1, Accordion:4, Tabs:3, Form:1, Media:4, Video:2, Embed:1, Text:13, Unknown / Custom:9
+IMAGES: 45 TEMPLATE_SHOTS: 1
+✅ done.

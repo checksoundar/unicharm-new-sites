@@ -1,0 +1,561 @@
+{
+ "captured": "2026-09-24T07:08:45.865Z",
+ "renderedPages": 64,
+ "distinctSignatures": 21,
+ "templates": [
+  {
+   "signature": "breadcrumbs>text>columns>text>form",
+   "family": "form",
+   "rendered": 32,
+   "estPop": 32,
+   "urls": [
+    "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+    "https://www.mamypoko.co.in/infant/baby-cleaning-wipes",
+    "https://www.mamypoko.co.in/infant/dry-skin-on-newborn-and-how-to-care-for-it",
+    "https://www.mamypoko.co.in/infant/introducing-spices-to-your-babys-diet-safe-and-tasty-ideas",
+    "https://www.mamypoko.co.in/infant/rotavirus-vaccine",
+    "https://www.mamypoko.co.in/infant/woollens-washing-guide-for-infants-clothes",
+    "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-outpaces-pampers-to-become-indias-top-selling-diaper-brand-in-fy23",
+    "https://www.mamypoko.co.in/mamypoko-in-news/mamypoko-pants-launches-the-pappy-bum-happy-mamy-campaign"
+   ],
+   "sections": {
+    "infant": 6,
+    "mamypoko-in-news": 4,
+    "newborn": 7,
+    "pregnancy": 7,
+    "toddlers": 8
+   },
+   "locales": {
+    "root": 32
+   },
+   "blockCountMode": {
+    "5": 32
+   },
+   "topSections": [
+    "toddlers(8)",
+    "newborn(7)",
+    "pregnancy(7)",
+    "infant(6)",
+    "mamypoko-in-news(4)"
+   ],
+   "topLocales": [
+    "root:32"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "media>nav>list>media>form>list>text",
+   "family": "form",
+   "rendered": 5,
+   "estPop": 5,
+   "urls": [
+    "https://www.mamypoko.co.in/blogs",
+    "https://www.mamypoko.co.in/blogs/infant",
+    "https://www.mamypoko.co.in/blogs/newborn",
+    "https://www.mamypoko.co.in/blogs/pregnancy",
+    "https://www.mamypoko.co.in/blogs/toddlers"
+   ],
+   "sections": {
+    "blogs": 5
+   },
+   "locales": {
+    "root": 5
+   },
+   "blockCountMode": {
+    "7": 5
+   },
+   "topSections": [
+    "blogs(5)"
+   ],
+   "topLocales": [
+    "root:5"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "text>carousel>media>columns>text>iframe-embed>text>carousel>text",
+   "family": "carousel",
+   "rendered": 5,
+   "estPop": 5,
+   "urls": [
+    "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+    "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-large-62pack",
+    "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-newborn-93pack",
+    "https://www.mamypoko.co.in/products/wipes",
+    "https://www.mamypoko.co.in/products/wipes/mamypoko-extra-clean-wipes-72pack"
+   ],
+   "sections": {
+    "products": 5
+   },
+   "locales": {
+    "root": 5
+   },
+   "blockCountMode": {
+    "9": 5
+   },
+   "topSections": [
+    "products(5)"
+   ],
+   "topLocales": [
+    "root:5"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "text>text>text>media",
+   "family": "media+text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mamypoko.co.in/infant",
+    "https://www.mamypoko.co.in/pregnancy"
+   ],
+   "sections": {
+    "infant": 1,
+    "pregnancy": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "4": 2
+   },
+   "topSections": [
+    "infant(1)",
+    "pregnancy(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>text>text",
+   "family": "text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mamypoko.co.in/products/breathable-baby-diaper",
+    "https://www.mamypoko.co.in/products/breathable-baby-diaper/skin-breathe-35pack"
+   ],
+   "sections": {
+    "products": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "3": 2
+   },
+   "topSections": [
+    "products(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>carousel>text>text>iframe-embed>text>carousel>text",
+   "family": "carousel",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+    "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-small-34pack"
+   ],
+   "sections": {
+    "products": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "8": 2
+   },
+   "topSections": [
+    "products(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "text>carousel>media>text>carousel>text",
+   "family": "carousel",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mamypoko.co.in/products/tape-new-baby-diapers",
+    "https://www.mamypoko.co.in/products/tape-new-baby-diapers/mamypoko-tape-new-baby-new-born-mini-48pack"
+   ],
+   "sections": {
+    "products": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "6": 2
+   },
+   "topSections": [
+    "products(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "media>text>list>list>media>text>text>text>form>text",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "10": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "media>nav>media>text>text>text>text>list>text",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/about-unicharm"
+   ],
+   "sections": {
+    "about-unicharm": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "9": 1
+   },
+   "topSections": [
+    "about-unicharm(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "media>nav>form>text",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/community/mamies-world-login"
+   ],
+   "sections": {
+    "community": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "community(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "media>nav>media>text>list>text",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/disclaimer"
+   ],
+   "sections": {
+    "disclaimer": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "disclaimer(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "(empty)",
+   "family": "empty",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/mamypoko-in-news"
+   ],
+   "sections": {
+    "mamypoko-in-news": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "0": 1
+   },
+   "topSections": [
+    "mamypoko-in-news(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "minimal-page"
+  },
+  {
+   "signature": "breadcrumbs>text>iframe-embed>text>form",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/newborn/parenting-hacks-for-new-moms-baby-care-tips"
+   ],
+   "sections": {
+    "newborn": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "newborn(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "media>nav>text>text>text>text>text>accordion>list>text",
+   "family": "accordion",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/pokochan"
+   ],
+   "sections": {
+    "pokochan": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "10": 1
+   },
+   "topSections": [
+    "pokochan(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "accordion-page"
+  },
+  {
+   "signature": "breadcrumbs>text>table>text>form",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/pregnancy/postnatal-diet-chart"
+   ],
+   "sections": {
+    "pregnancy": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "pregnancy(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "list>list",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/products"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "2": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "text>carousel>media>columns>text>iframe-embed>carousel>text",
+   "family": "carousel",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/products/all-night-absorb-diapers"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "8": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "text>carousel>media>columns>text>carousel",
+   "family": "carousel",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/products/komal-care-wipes"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "media>nav>text>list>text",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/products/new-born-mini-tape-diapers"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>table>form>columns>text>carousel>text",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/products/preemie-diapers"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "7": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "media>nav>text>text>list>text",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mamypoko.co.in/website-user-agreement"
+   ],
+   "sections": {
+    "website-user-agreement": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "6": 1
+   },
+   "topSections": [
+    "website-user-agreement(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  }
+ ]
+}

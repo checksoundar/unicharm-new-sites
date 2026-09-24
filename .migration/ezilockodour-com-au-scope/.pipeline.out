@@ -1,0 +1,91 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/ezilockodour-com-au-scope
+▶ site: https://www.ezilockodour.com.au/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 18
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 4
+Pattern groups (>= 2): 3 - covering 17 pages -> sampled to ~10
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 11
+
+Top 30 pattern groups:
+   10 -> 4 sampled   /{page}
+    5 -> 4 sampled   /news/{slug}
+    2 -> 2 sampled   /{page}/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 11
+Distinct layout signatures: 9
+
+=== Layout templates (est. full-population pages) ===
+    3 pp  rendered=  3   section-nav-list list>text>text>text                            |  news(3)
+    1 pp  rendered=  1   data-table       list>columns>table>text>text>text              |  about(1)
+    1 pp  rendered=  1   section-nav-list list>text>columns>text                         |  (home)(1)
+    1 pp  rendered=  1   data-table       list>table>table>text>text                     |  about(1)
+    1 pp  rendered=  1   section-nav-list list>columns>text                              |  about(1)
+    1 pp  rendered=  1   data-table       list>text>table>text>text                      |  faqs(1)
+    1 pp  rendered=  1   data-table       list>table>text                                |  kits(1)
+    1 pp  rendered=  1   section-nav-list list>columns>text>text                         |  news(1)
+    1 pp  rendered=  1   section-nav-list list>text>text                                 |  terms-conditions(1)
+
+=== Third-party integrations detected ===
+   11 Google Maps
+   11 Google Tag Manager
+   11 Other third-party: www.instagram.com
+    1 Other third-party: www.google.com
+
+=== Global objects ===
+  11 dataLayer
+  11 gtag
+  11 google_tag_manager
+  11 __NEXT_DATA__
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 10
+Total variants: 4
+
+=== Base type -> variants / instances ===
+   7 inst    1 variants   unknown
+   1 inst    1 variants   accordion
+   1 inst    1 variants   table
+   1 inst    1 variants   video
+
+=== Top 20 variants ===
+   7 x   unknown       pages=  7   div|div1|img,lst,hd,aN,iN
+   1 x   accordion     pages=  1   div|div1|img,lst,hd,aN,iN
+   1 x   table         pages=  1   div|div1|img,tbl,lst,hd,aN,iN
+   1 x   video         pages=  1   div|div1|img,lst,hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Table)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 4 template groups | full: 1 sampled: 2 excluded: 1
+pages — inspected: 10 skipped: 8 non-200: 0 of 18 urls
+
+=== Template groups (by size) ===
+  G00    10  sampled   /{page}                           Root-level product & marketing pages
+  G01     5  sampled   /news/{slug}                      News section pages
+  G02     2  full      /{page}/{section}                 Root-level product & marketing pages
+  G03     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 3 | first-party domain: com.au
+Probable backend integrations: 2 | unclassified hosts: 0
+
+=== By category ===
+  1 Analytics
+  1 Maps
+
+=== Services (by page coverage) ===
+  3pg  Analytics                   Google Analytics (GA4)
+  3pg  Maps                        Google Maps API
+▶ [11/12] compute supplementary data
+compute-data: live pages 18 | structure groups 0 | docs 0 | url groups 12 | layout heatmap rows 2 | block heatmap rows 4 | integrations 4
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/ezilockodour-com-au-site-analysis-dashboard.html 4.10 MB
+templates: 2 galleries: Accordion:1, Table:1, Video:1, Unknown / Custom:1
+IMAGES: 4 TEMPLATE_SHOTS: 2
+✅ done.

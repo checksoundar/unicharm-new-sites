@@ -1,0 +1,16 @@
+{
+ "captured": "2026-09-24T07:08:06.329Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "form-page",
+   "family": "form",
+   "signature": "media>form",
+   "estPop": 56,
+   "url": "https://www.hartz.com/11-fall-pet-dangers-to-avoid/",
+   "file": "t00_form-page.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

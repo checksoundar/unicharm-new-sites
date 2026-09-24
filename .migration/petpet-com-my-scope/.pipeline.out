@@ -1,0 +1,69 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/petpet-com-my-scope
+▶ site: https://petpet.com.my/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 18
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 2
+Pattern groups (>= 2): 1 - covering 17 pages -> sampled to ~4
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 5
+
+Top 30 pattern groups:
+   17 -> 4 sampled   /{page}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 5
+Distinct layout signatures: 5
+
+=== Layout templates (est. full-population pages) ===
+    1 pp  rendered=  1   section-nav-list list>media                                     |  blogs(1)
+    1 pp  rendered=  1   hero-page        list>hero>text>media>media                     |  day-night-tape(1)
+    1 pp  rendered=  1   section-nav-list list>list>media>media                          |  (home)(1)
+    1 pp  rendered=  1   hero-page        list>hero>text>text>media                      |  redeem(1)
+    1 pp  rendered=  1   hero-page        list>hero>text>media>media>media               |  wipes(1)
+
+=== Third-party integrations detected ===
+
+=== Global objects ===
+   5 wp
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 5
+Total variants: 4
+
+=== Base type -> variants / instances ===
+   4 inst    3 variants   form
+   1 inst    1 variants   tabs
+
+=== Top 20 variants ===
+   2 x   form          pages=  2   div|div1.footer1.header1.section4|img,lst,
+   1 x   form          pages=  1   div|div2.footer1.header1.section1|img,lst,
+   1 x   form          pages=  1   div|div1.footer1.header1.section5|img,lst,
+   1 x   tabs          pages=  1   div|div3.footer1.header1.script1.section1|
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Form)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 2 template groups | full: 0 sampled: 0 excluded: 2
+pages — inspected: 0 skipped: 18 non-200: 0 of 18 urls
+
+=== Template groups (by size) ===
+  G00    17  excluded  /{page}                           Root-level product & marketing pages
+  G01     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 1 | first-party domain: com.my
+Probable backend integrations: 0 | unclassified hosts: 0
+
+=== By category ===
+
+=== Services (by page coverage) ===
+▶ [11/12] compute supplementary data
+compute-data: live pages 18 | structure groups 0 | docs 0 | url groups 18 | layout heatmap rows 2 | block heatmap rows 2 | integrations 0
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/petpet-com-my-site-analysis-dashboard.html 1.86 MB
+templates: 2 galleries: Tabs:1, Form:3
+IMAGES: 4 TEMPLATE_SHOTS: 2
+✅ done.

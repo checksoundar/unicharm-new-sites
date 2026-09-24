@@ -1,0 +1,95 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T06:30:11.395Z",
+    "totalUrls": 18,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 18,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.ezilockodour.com.au/",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/about",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/about/flexible-content-demo",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/about/our-story",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/blog",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/contact",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/faqs",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/find-a-retailer",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/how-it-works",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/kits",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/news/5-simple-tips-to-keep-your-ezi-lockodour-cat-litter-system-fresh-and-clean",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/news/exploring-the-full-range-of-ezi-lockodour-dual-layer-cat-litter-systems-find-the-perfect-fit-for-your-feline",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/news/how-to-train-your-cat-to-use-the-ezi-lockodour-dual-layer-litter-system-like-a-pro",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/news/the-purr-fect-solution-5-reasons-your-cat-will-love-an-ezi-lockodour-dual-layer-cat-litter-system",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/news/the-science-behind-the-ezi-lockodour-control-how-it-works",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/privacy-policy",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/refills",
+        "status": 200
+      },
+      {
+        "url": "https://www.ezilockodour.com.au/terms-conditions",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

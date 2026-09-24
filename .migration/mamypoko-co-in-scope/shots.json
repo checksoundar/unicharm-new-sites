@@ -1,0 +1,115 @@
+{
+ "captured": "2026-09-24T07:12:36.943Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "form-page",
+   "family": "form",
+   "signature": "breadcrumbs>text>columns>text>form",
+   "estPop": 32,
+   "url": "https://www.mamypoko.co.in/infant/4-ways-to-use-white-noise-to-help-your-baby-sleep",
+   "file": "t00_form-page.jpg",
+   "captured": true,
+   "bytes": 928434
+  },
+  {
+   "idx": 1,
+   "name": "form-page",
+   "family": "form",
+   "signature": "media>nav>list>media>form>list>text",
+   "estPop": 5,
+   "url": "https://www.mamypoko.co.in/blogs",
+   "file": "t01_form-page.jpg",
+   "captured": true,
+   "bytes": 485041
+  },
+  {
+   "idx": 2,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "text>carousel>media>columns>text>iframe-embed>text>carousel>text",
+   "estPop": 5,
+   "url": "https://www.mamypoko.co.in/products/all-night-absorb-diapers/mamypoko-pants-all-night-absorb-double-extra-large-26pack",
+   "file": "t02_carousel-page.jpg",
+   "captured": true,
+   "bytes": 621537
+  },
+  {
+   "idx": 3,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>text>text>media",
+   "estPop": 2,
+   "url": "https://www.mamypoko.co.in/infant",
+   "file": "t03_media-article.jpg",
+   "captured": true,
+   "bytes": 499925
+  },
+  {
+   "idx": 4,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>text>text",
+   "estPop": 2,
+   "url": "https://www.mamypoko.co.in/products/breathable-baby-diaper",
+   "file": "t04_article-text.jpg",
+   "captured": true,
+   "bytes": 583713
+  },
+  {
+   "idx": 5,
+   "name": "carousel-page",
+   "family": "carousel",
+   "signature": "text>carousel>text>text>iframe-embed>text>carousel>text",
+   "estPop": 2,
+   "url": "https://www.mamypoko.co.in/products/extra-absorb-diapers/mamypoko-pants-extra-absorb-large-34pack",
+   "file": "t05_carousel-page.jpg",
+   "captured": true,
+   "bytes": 621466
+  },
+  {
+   "idx": 8,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "media>nav>media>text>text>text>text>list>text",
+   "estPop": 1,
+   "url": "https://www.mamypoko.co.in/about-unicharm",
+   "file": "t08_media-article.jpg",
+   "captured": true,
+   "bytes": 466817
+  },
+  {
+   "idx": 11,
+   "name": "minimal-page",
+   "family": "empty",
+   "signature": "(empty)",
+   "estPop": 1,
+   "url": "https://www.mamypoko.co.in/mamypoko-in-news",
+   "file": "t11_minimal-page.jpg",
+   "captured": true,
+   "bytes": 776331
+  },
+  {
+   "idx": 13,
+   "name": "accordion-page",
+   "family": "accordion",
+   "signature": "media>nav>text>text>text>text>text>accordion>list>text",
+   "estPop": 1,
+   "url": "https://www.mamypoko.co.in/pokochan",
+   "file": "t13_accordion-page.jpg",
+   "captured": true,
+   "bytes": 389494
+  },
+  {
+   "idx": 15,
+   "name": "section-nav-list",
+   "family": "list",
+   "signature": "list>list",
+   "estPop": 1,
+   "url": "https://www.mamypoko.co.in/products",
+   "file": "t15_section-nav-list.jpg",
+   "captured": true,
+   "bytes": 608379
+  }
+ ]
+}

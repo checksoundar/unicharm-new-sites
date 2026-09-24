@@ -1,0 +1,71 @@
+{
+ "captured": "2026-09-24T06:34:16.204Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>media>list>media>text>text>text>text>list",
+   "estPop": 10,
+   "url": "https://lifree.co.in/pages/about-lifree",
+   "file": "t00_media-article.jpg",
+   "captured": true,
+   "bytes": 664834
+  },
+  {
+   "idx": 1,
+   "name": "article-text",
+   "family": "text",
+   "signature": "text>list>text>text>list",
+   "estPop": 6,
+   "url": "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+   "file": "t01_article-text.jpg",
+   "captured": true,
+   "bytes": 21927
+  },
+  {
+   "idx": 2,
+   "name": "form-page",
+   "family": "form",
+   "signature": "text>media>text>form",
+   "estPop": 4,
+   "url": "https://lifree.co.in/blog/category/adult-diaper/",
+   "file": "t02_form-page.jpg",
+   "captured": true,
+   "bytes": 21915
+  },
+  {
+   "idx": 3,
+   "name": "form-page",
+   "family": "form",
+   "signature": "text>media>list>carousel>text>text>text>text>text>form>text>list",
+   "estPop": 2,
+   "url": "https://lifree.co.in/",
+   "file": "t03_form-page.jpg",
+   "captured": true,
+   "bytes": 745180
+  },
+  {
+   "idx": 4,
+   "name": "data-table",
+   "family": "table",
+   "signature": "text>table>text>text>list",
+   "estPop": 2,
+   "url": "https://lifree.co.in/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control/",
+   "file": "t04_data-table.jpg",
+   "captured": true,
+   "bytes": 21915
+  },
+  {
+   "idx": 5,
+   "name": "media-article",
+   "family": "media+text",
+   "signature": "text>media>list>media>text>media>text>text>list",
+   "estPop": 2,
+   "url": "https://lifree.co.in/pages/what-is-incontinence",
+   "file": "t05_media-article.jpg",
+   "captured": true,
+   "bytes": 383762
+  }
+ ]
+}

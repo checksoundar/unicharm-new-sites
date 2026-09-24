@@ -1,0 +1,136 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/lifree-co-in-scope
+▶ site: https://www.lifree.co.in/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 110
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 10
+Pattern groups (>= 2): 9 - covering 109 pages -> sampled to ~34
+Long-tail unique pages (rendered in full): 1
+=> RENDER SET SIZE: 35
+
+Top 30 pattern groups:
+   37 -> 4 sampled   /blog/{section}/{slug}
+   29 -> 4 sampled   /blog/{id}/{slug}
+    9 -> 4 sampled   /blog/{section}/{page}
+    8 -> 4 sampled   /{page}
+    7 -> 4 sampled   /pages/{section}/{slug}
+    7 -> 4 sampled   /pages/{section}/{page}
+    5 -> 4 sampled   /pages/{section}
+    5 -> 4 sampled   /products/{slug}
+    2 -> 2 sampled   /
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 35
+Distinct layout signatures: 14
+
+=== Layout templates (est. full-population pages) ===
+   10 pp  rendered= 10   media-article    text>media>list>media>text>text>text>text>list |  pages(10)
+    6 pp  rendered=  6   article-text     text>list>text>text>list                       |  blog(6)
+    4 pp  rendered=  4   form-page        text>media>text>form                           |  blog(4)
+    2 pp  rendered=  2   form-page        text>media>list>carousel>text>text>text>text>t |  (home)(2)
+    2 pp  rendered=  2   data-table       text>table>text>text>list                      |  blog(2)
+    2 pp  rendered=  2   media-article    text>media>list>media>text>media>text>text>lis |  pages(2)
+    2 pp  rendered=  2   form-page        text>media>list>form>columns>text>text>cards>l |  products(2)
+    1 pp  rendered=  1   media-article    text>media>list>media>text>text>text>text>text |  adult-diapers(1)
+    1 pp  rendered=  1   form-page        media>list>carousel>media>list>form>text>text> |  blog(1)
+    1 pp  rendered=  1   media-article    text>media>list>media>text>text>list           |  disclaimer(1)
+    1 pp  rendered=  1   form-page        text>media>list>form>table>text>text>cards>lis |  products(1)
+    1 pp  rendered=  1   media-article    text>media>list>text>list>list                 |  sitemap(1)
+    1 pp  rendered=  1   form-page        text>media>list>form>table>text>text>cards>tex |  products(1)
+    1 pp  rendered=  1   media-article    text>media>list>media>text>text>media>text>lis |  videos(1)
+
+=== Third-party integrations detected ===
+  174 Google Tag Manager
+   60 Google Ads/DoubleClick
+   42 Meta (Facebook) Pixel
+   35 Other third-party: unicharm-crm.armworldwide.com
+   34 Google Analytics
+    2 Other third-party: www.instagram.com
+    1 YouTube embed
+
+=== Global objects ===
+  35 dataLayer
+  35 google_tag_manager
+  34 ga
+  22 gtag
+  22 fbq
+  13 wp
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 220
+Total variants: 34
+
+=== Base type -> variants / instances ===
+  97 inst    9 variants   unknown
+  70 inst    9 variants   text
+  23 inst    5 variants   media
+  11 inst    5 variants   form
+   8 inst    2 variants   accordion
+   4 inst    1 variants   cards
+   3 inst    1 variants   carousel
+   2 inst    1 variants   columns
+   2 inst    1 variants   table
+
+=== Top 20 variants ===
+  32 x   unknown       pages= 15   section|div1|img,hd,aN,iN
+  25 x   text          pages= 23   div|div1|aN,iN
+  23 x   unknown       pages= 23   footer|div2|img,lst,aN,iN
+  13 x   media         pages= 13   div|img1|img,aN,iN
+  12 x   unknown       pages= 12   section|div1|img,aN,iN
+  11 x   text          pages= 11   section|div1|lst,hd,aN,iN
+  10 x   unknown       pages= 10   div|div1|img,aN,iN
+   9 x   text          pages=  9   section|div1|frm,aN,iN
+   8 x   text          pages=  6   section|div1|img,hd,aN,iN
+   8 x   text          pages=  8   div|div1|lst,aN,iN
+   8 x   unknown       pages=  8   div|div1|img,lst,aN,iN
+   6 x   accordion     pages=  6   section|div1|img,lst,hd,aN,iN
+   6 x   text          pages=  5   section|div1|hd,aN,iN
+   5 x   media         pages=  5   div|div1|img,lst,aN,iN
+   5 x   unknown       pages=  5   div|div1|img,hd,aN,iN
+   4 x   cards         pages=  4   section|div1|img,aN,iN
+   4 x   form          pages=  4   section|div1|frm,aN,iN
+   4 x   unknown       pages=  4   div|div1|img,lst,hd,aN,iN
+   3 x   carousel      pages=  3   section|div1|img,aN,iN
+   3 x   form          pages=  3   section|div1|hd,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 10 template groups | full: 0 sampled: 5 excluded: 5
+pages — inspected: 20 skipped: 90 non-200: 0 of 110 urls
+
+=== Template groups (by size) ===
+  G00    37  excluded  /blog/{section}/{slug}            Blog sub-pages
+  G01    29  excluded  /blog/{id}/{slug}                 Blog sub-pages
+  G02     9  excluded  /blog/{section}/{page}            Blog sub-pages
+  G03     8  sampled   /{page}                           Root-level product & marketing pages
+  G04     7  sampled   /pages/{section}/{slug}           Pages sub-pages
+  G05     7  sampled   /pages/{section}/{page}           Pages sub-pages
+  G06     5  sampled   /pages/{section}                  Pages section pages
+  G07     5  sampled   /products/{slug}                  Products section pages
+  G08     2  excluded  /                                 Homepage & root
+  G09     1  excluded  /blog                             Blog — landing
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 13 | first-party domain: co.in
+Probable backend integrations: 3 | unclassified hosts: 2
+
+=== By category ===
+  1 Analytics
+  1 Advertising
+  1 First-party platform
+
+=== Services (by page coverage) ===
+ 13pg  Analytics                   Google Analytics (GA4)
+  2pg  Advertising                 Google Ads / DoubleClick
+  1pg  First-party platform        Www: Other first-party API
+▶ [11/12] compute supplementary data
+compute-data: live pages 110 | structure groups 9 | docs 0 | url groups 12 | layout heatmap rows 4 | block heatmap rows 9 | integrations 7
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/lifree-co-in-site-analysis-dashboard.html 8.48 MB
+templates: 4 galleries: Cards:1, Columns:1, Carousel:1, Accordion:2, Table:1, Form:5, Media:5, Text:9, Unknown / Custom:9
+IMAGES: 34 TEMPLATE_SHOTS: 4
+✅ done.

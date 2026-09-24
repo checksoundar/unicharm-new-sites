@@ -1,0 +1,45 @@
+{
+ "captured": "2026-09-24T06:30:41.453Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 8,
+ "totalGroups": 3,
+ "patternGroups": 1,
+ "longTailPages": 2,
+ "groupMeta": {
+  "/{locale}/{section}/{slug}": {
+   "total": 6,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Locale sub-pages"
+  },
+  "/{locale}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Locale homepages"
+  },
+  "/{locale}/{section}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Locale section / landing pages"
+  }
+ },
+ "groups": {
+  "/{locale}": [
+   "https://www.delectablescattreats.com/en-au/"
+  ],
+  "/{locale}/{section}/{slug}": [
+   "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-chicken/",
+   "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-tuna-prawn-senior/",
+   "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-gravy-tuna-prawn/",
+   "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-squeeze-variety-pack-20ct/",
+   "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-stew-chicken-veggies/",
+   "https://www.delectablescattreats.com/en-au/product/hartz-delectables-squeeze-up-with-chicken/"
+  ],
+  "/{locale}/{section}": [
+   "https://www.delectablescattreats.com/en-au/where-to-buy/"
+  ]
+ }
+}

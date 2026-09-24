@@ -1,0 +1,113 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/hartz-com-scope
+▶ site: https://www.hartz.com/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 842
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 23
+Pattern groups (>= 2): 13 - covering 832 pages -> sampled to ~46
+Long-tail unique pages (rendered in full): 10
+=> RENDER SET SIZE: 56
+
+Top 30 pattern groups:
+  566 -> 4 sampled   /{page}
+  143 -> 4 sampled   /product/{slug}
+   27 -> 4 sampled   /learning-center/{section}/{page}/{path…}
+   26 -> 4 sampled   /products/{section}/{page}/{path…}
+   22 -> 4 sampled   /{locale}/{section}/{slug}
+   11 -> 4 sampled   /our-brands/{section}
+   10 -> 4 sampled   /{locale}/{slug}
+   10 -> 4 sampled   /products/{section}/{page}
+    6 -> 4 sampled   /learning-center/{section}
+    5 -> 4 sampled   /products/{section}/{id}/{path…}
+    2 -> 2 sampled   /{locale}/{section}
+    2 -> 2 sampled   /{page}/{slug}
+    2 -> 2 sampled   /products/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 56
+Distinct layout signatures: 1
+
+=== Layout templates (est. full-population pages) ===
+   56 pp  rendered= 56   form-page        media>form                                     |  products(16) learning-center(11) en-ca(10)
+
+=== Third-party integrations detected ===
+  194 Google Tag Manager
+  139 Other third-party: cdn.pricespider.com
+  112 CDN/JS libs
+   56 Other third-party: cmp.osano.com
+   56 Other third-party: apps.bazaarvoice.com
+   46 The Trade Desk
+   46 Other third-party: embed-club.club.co
+    6 Other third-party: wtbevents.pricespider.com
+    4 Other third-party: embedsocial.com
+    4 Vimeo
+    3 Other third-party: omni.pricespider.com
+
+=== Global objects ===
+  56 dataLayer
+  56 gtag
+  46 google_tag_manager
+  46 fbq
+   2 Vimeo
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 56
+Total variants: 1
+
+=== Base type -> variants / instances ===
+  56 inst    1 variants   form
+
+=== Top 20 variants ===
+  56 x   form          pages= 56   div|div1.nav1|lst,frm,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Form)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 23 template groups | full: 0 sampled: 0 excluded: 23
+pages — inspected: 0 skipped: 842 non-200: 0 of 842 urls
+
+=== Template groups (by size) ===
+  G00   566  excluded  /{page}                           Root-level product & marketing pages
+  G01   143  excluded  /product/{slug}                   Product section pages
+  G02    27  excluded  /learning-center/{section}/{page}/{path…}  Learning-center deep pages
+  G03    26  excluded  /products/{section}/{page}/{path…}  Products deep pages
+  G04    22  excluded  /{locale}/{section}/{slug}        Locale sub-pages
+  G05    11  excluded  /our-brands/{section}             Our-brands section pages
+  G06    10  excluded  /{locale}/{slug}                  Locale section / landing pages
+  G07    10  excluded  /products/{section}/{page}        Products sub-pages
+  G08     6  excluded  /learning-center/{section}        Learning-center section pages
+  G09     5  excluded  /products/{section}/{id}/{path…}  Products deep pages
+  G10     2  excluded  /{locale}/{section}               Locale section / landing pages
+  G11     2  excluded  /{page}/{slug}                    Root-level product & marketing pages
+  G12     2  excluded  /products/{section}               Products section pages
+  G13     1  excluded  /                                 Homepage & root
+  G14     1  excluded  /learning-center                  Learning-center — landing
+  G15     1  excluded  /learning-center/{section}/{slug}  Learning-center sub-pages
+  G16     1  excluded  /learning-center/{section}/{page}  Learning-center sub-pages
+  G17     1  excluded  /our-brands                       Our-brands — landing
+  G18     1  excluded  /our-brands/{slug}                Our-brands section pages
+  G19     1  excluded  /product                          Product — landing
+  G20     1  excluded  /products                         Products — landing
+  G21     1  excluded  /products/{section}/{slug}        Products sub-pages
+  G22     1  excluded  /{page}/{section}                 Root-level product & marketing pages
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 22 | first-party domain: hartz.com
+Probable backend integrations: 2 | unclassified hosts: 3
+
+=== By category ===
+  1 Analytics
+  1 Advertising
+
+=== Services (by page coverage) ===
+ 21pg  Analytics                   Google Analytics (GA4)
+ 20pg  Advertising                 Google Ads / DoubleClick
+▶ [11/12] compute supplementary data
+compute-data: live pages 842 | structure groups 4 | docs 0 | url groups 572 | layout heatmap rows 1 | block heatmap rows 1 | integrations 11
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/hartz-com-site-analysis-dashboard.html 1.07 MB
+templates: 1 galleries: Form:1
+IMAGES: 1 TEMPLATE_SHOTS: 1
+✅ done.

@@ -1,0 +1,37 @@
+{
+ "captured": "2026-09-24T06:31:34.828Z",
+ "renderedPages": 6,
+ "distinctSignatures": 1,
+ "templates": [
+  {
+   "signature": "list>list>text>text>text>text>text>text",
+   "family": "list",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://www.delectablescattreats.com/en-au/",
+    "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-bisque-chicken/",
+    "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-gravy-tuna-prawn/",
+    "https://www.delectablescattreats.com/en-au/product/delectables-lickable-cat-treat-squeeze-variety-pack-20ct/",
+    "https://www.delectablescattreats.com/en-au/where-to-buy/",
+    "https://www.delectablescattreats.com/en-au/product/hartz-delectables-squeeze-up-with-chicken/"
+   ],
+   "sections": {
+    "en-au": 6
+   },
+   "locales": {
+    "root": 6
+   },
+   "blockCountMode": {
+    "8": 6
+   },
+   "topSections": [
+    "en-au(6)"
+   ],
+   "topLocales": [
+    "root:6"
+   ],
+   "name": "section-nav-list"
+  }
+ ]
+}

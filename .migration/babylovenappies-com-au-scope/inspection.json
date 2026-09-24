@@ -1,0 +1,183 @@
+{
+ "captured": "2026-09-24T07:06:25.130Z",
+ "locales": [],
+ "sections": [
+  "our-products",
+  "about-us",
+  "sample-products",
+  "blog"
+ ],
+ "selInspect": {
+  "totalGroups": 14,
+  "totalLive": 199,
+  "totalUrls": 199,
+  "selectedTotal": 43,
+  "skippedTotal": 156,
+  "non200Total": 0,
+  "nonRrendered": 19,
+  "nonRtotal": 19,
+  "fullGroups": 7,
+  "rRendered": 24,
+  "rTotal": 177,
+  "rGroups": 6,
+  "exclTotal": 3,
+  "exclGroups": 1,
+  "nonEnExcluded": 3
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/blog/{slug}",
+   "label": "Blog section pages",
+   "total": 95,
+   "selected": 4,
+   "skipped": 91,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/blog/get-to-know-all-the-characters-on-bluey"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 31,
+   "selected": 4,
+   "skipped": 27,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/news"
+  },
+  {
+   "groupId": "G02",
+   "template": "/our-products/{section}",
+   "label": "Our-products section pages",
+   "total": 21,
+   "selected": 4,
+   "skipped": 17,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/our-products/cosifit-nappies"
+  },
+  {
+   "groupId": "G03",
+   "template": "/blog/{section}",
+   "label": "Blog section pages",
+   "total": 15,
+   "selected": 4,
+   "skipped": 11,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/blog/toilet-training"
+  },
+  {
+   "groupId": "G04",
+   "template": "/about-us/{section}",
+   "label": "About-us section pages",
+   "total": 9,
+   "selected": 4,
+   "skipped": 5,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/about-us/our-story"
+  },
+  {
+   "groupId": "G05",
+   "template": "/sample-products/{section}",
+   "label": "Sample-products section pages",
+   "total": 6,
+   "selected": 4,
+   "skipped": 2,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/sample-products/cosifit-newborn"
+  },
+  {
+   "groupId": "G06",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 3,
+   "selected": 0,
+   "skipped": 3,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G07",
+   "template": "/our-products",
+   "label": "Our-products — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/our-products"
+  },
+  {
+   "groupId": "G08",
+   "template": "/about-us",
+   "label": "About-us — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/about-us"
+  },
+  {
+   "groupId": "G09",
+   "template": "/about-us/{slug}",
+   "label": "About-us section pages",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/about-us/5-a-day-of-play"
+  },
+  {
+   "groupId": "G10",
+   "template": "/sample-products",
+   "label": "Sample-products — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/sample-products"
+  },
+  {
+   "groupId": "G11",
+   "template": "/blog",
+   "label": "Blog — landing",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/blog"
+  },
+  {
+   "groupId": "G12",
+   "template": "/blog/{section}/{slug}",
+   "label": "Blog sub-pages",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/blog/toddler/understanding-germs-for-kids-20-fun-ways-to-teach-your-kids-about-germs"
+  },
+  {
+   "groupId": "G13",
+   "template": "/blog/{section}/{page}",
+   "label": "Blog sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/blog/toddler/bedtime-stories-kids"
+  }
+ ]
+}

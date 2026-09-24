@@ -1,0 +1,107 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/delectables-us-com-scope
+▶ site: https://www.delectablescattreats.com/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [2/12] build render set
+Live HTML pages (200, deduped): 188
+Attachments/images excluded from render (docs): 0
+Total path-pattern groups: 13
+Pattern groups (>= 2): 9 - covering 184 pages -> sampled to ~32
+Long-tail unique pages (rendered in full): 4
+=> RENDER SET SIZE: 36
+
+Top 30 pattern groups:
+   79 -> 4 sampled   /product/{slug}
+   29 -> 4 sampled   /{locale}/{section}/{slug}
+   26 -> 4 sampled   /{page}
+   24 -> 4 sampled   /products/{section}/{page}/{path…}
+   12 -> 4 sampled   /products/{section}/{id}/{path…}
+    6 -> 4 sampled   /products/{section}/{page}
+    3 -> 3 sampled   /products/{section}
+    3 -> 3 sampled   /products/{section}/{slug}
+    2 -> 2 sampled   /{locale}/{section}
+▶ [3/12] render + fingerprint (resumable)
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 36
+Distinct layout signatures: 3
+
+=== Layout templates (est. full-population pages) ===
+   30 pp  rendered= 30   section-nav-list list>list>list>text>list>text>text>text>text   |  products(19) product(5) about(1)
+    4 pp  rendered=  4   section-nav-list list>list>list>text>text>text>text>text>text   |  en-ca(4)
+    2 pp  rendered=  2   section-nav-list list>list>text>text>text>text>text>text        |  en-au(2)
+
+=== Third-party integrations detected ===
+  136 Google Tag Manager
+   77 Other third-party: cdn.pricespider.com
+   36 Other third-party: cmp.osano.com
+   36 Other third-party: apps.bazaarvoice.com
+   30 Other third-party: edge.curalate.com
+   30 The Trade Desk
+   30 Other third-party: embed-club.club.co
+   14 Vimeo
+   13 Other third-party: omni.pricespider.com
+    8 Other third-party: embedsocial.com
+    7 Other third-party: wtbevents.pricespider.com
+    7 Other third-party: cdn1aws.storytap.com
+    2 CDN/JS libs
+    1 Other third-party: locate.pricespider.com
+    1 Twitter/X Pixel
+
+=== Global objects ===
+  36 dataLayer
+  36 gtag
+  36 google_tag_manager
+  32 fbq
+   7 Vimeo
+▶ [5/12] capture block instances (resumable)
+▶ [6/12] consolidate block variants
+Total block instances: 2
+Total variants: 1
+
+=== Base type -> variants / instances ===
+   2 inst    1 variants   unknown
+
+=== Top 20 variants ===
+   2 x   unknown       pages=  2   li|aN.div4|lst,aN,iN
+▶ [7/12] capture template screenshots
+▶ [8/12] build methodology diagrams
+diagram: unknown-diagram.jpg ← A block that is NOT a standard type (Unknown)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 13 template groups | full: 0 sampled: 0 excluded: 13
+pages — inspected: 0 skipped: 188 non-200: 0 of 188 urls
+
+=== Template groups (by size) ===
+  G00    79  excluded  /product/{slug}                   Product section pages
+  G01    29  excluded  /{locale}/{section}/{slug}        Locale sub-pages
+  G02    26  excluded  /{page}                           Root-level product & marketing pages
+  G03    24  excluded  /products/{section}/{page}/{path…}  Products deep pages
+  G04    12  excluded  /products/{section}/{id}/{path…}  Products deep pages
+  G05     6  excluded  /products/{section}/{page}        Products sub-pages
+  G06     3  excluded  /products/{section}               Products section pages
+  G07     3  excluded  /products/{section}/{slug}        Products sub-pages
+  G08     2  excluded  /{locale}/{section}               Locale section / landing pages
+  G09     1  excluded  /                                 Homepage & root
+  G10     1  excluded  /{page}/{section}                 Root-level product & marketing pages
+  G11     1  excluded  /product                          Product — landing
+  G12     1  excluded  /products                         Products — landing
+▶ [10/12] capture backend API calls (sample=30, resumable)
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 19 | first-party domain: delectablescattreats.com
+Probable backend integrations: 3 | unclassified hosts: 8
+
+=== By category ===
+  1 Analytics
+  1 Advertising
+  1 First-party forms
+
+=== Services (by page coverage) ===
+ 19pg  Analytics                   Google Analytics (GA4)
+ 15pg  Advertising                 Google Ads / DoubleClick
+  1pg  First-party forms           Www: Forms / Lead API
+▶ [11/12] compute supplementary data
+compute-data: live pages 188 | structure groups 5 | docs 0 | url groups 31 | layout heatmap rows 1 | block heatmap rows 1 | integrations 15
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/delectablescattreats-com-site-analysis-dashboard.html 0.68 MB
+templates: 1 galleries: Unknown / Custom:1
+IMAGES: 1 TEMPLATE_SHOTS: 1
+✅ done.

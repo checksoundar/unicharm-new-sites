@@ -1,0 +1,430 @@
+{
+ "captured": "2026-09-24T06:39:08.933Z",
+ "renderedPages": 40,
+ "distinctSignatures": 16,
+ "templates": [
+  {
+   "signature": "list>columns>nav",
+   "family": "list",
+   "rendered": 11,
+   "estPop": 11,
+   "urls": [
+    "https://www.sofy.in/blog/body-mind/during-puberty/dealing-with-emotional-ups-and-downs-during-puberty/",
+    "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/5-natural-treatments-for-pcos/",
+    "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/covid-19-vaccination-and-pcos-everything-you-need-to-know/",
+    "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/lets-cover-pcod-pcos/",
+    "https://www.sofy.in/blog/body-mind/pcos-polycystic-ovarian-syndrome/what-is-pcod-how-it-affects-your-menstrual-cycle/",
+    "https://www.sofy.in/blog/body-mind/why-your-energy-mood-and-focus-change-every-month-and-why-thats-okay/",
+    "https://www.sofy.in/blog/period-guide/soft-period-pads/",
+    "https://www.sofy.in/blog/period-guide/5-best-essential-oils-to-keep-you-calm-during-your-periods/"
+   ],
+   "sections": {
+    "blog": 11
+   },
+   "locales": {
+    "root": 11
+   },
+   "blockCountMode": {
+    "3": 11
+   },
+   "topSections": [
+    "blog(11)"
+   ],
+   "topLocales": [
+    "root:11"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "list>text>carousel>text",
+   "family": "carousel",
+   "rendered": 8,
+   "estPop": 8,
+   "urls": [
+    "https://www.sofy.in/product/antibacteria-extra-long-290-mm-straight-type/sofy-antibacteria-extra-long-6-pads/",
+    "https://www.sofy.in/product/antibacteria-overnight/sofy-antibacteria-overnight-xxl-15-pads/",
+    "https://www.sofy.in/product/cool-extra-long-290mm/sofy-cool-extra-long-54-pads/",
+    "https://www.sofy.in/product/bodyfit-overnight/sofy-bodyfit-overnight-xxl-15-pads/",
+    "https://www.sofy.in/product/cool-super-xl-323mm/sofy-cool-super-xl-6-pads/",
+    "https://www.sofy.in/product/pantyliner-cool/sofy-pantyliner-cool-18-pieces/",
+    "https://www.sofy.in/product/tampons/sofy-soft-tampons-regular-34-pieces/",
+    "https://www.sofy.in/product/sofy-antibacteria-nights-xxxl-420mm/sofy-antibacteria-nights-xxxl-4-pads/"
+   ],
+   "sections": {
+    "product": 8
+   },
+   "locales": {
+    "root": 8
+   },
+   "blockCountMode": {
+    "4": 8
+   },
+   "topSections": [
+    "product(8)"
+   ],
+   "topLocales": [
+    "root:8"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "text>breadcrumbs>columns",
+   "family": "breadcrumbed",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.sofy.in/blog/category/body-mind/",
+    "https://www.sofy.in/blog/category/period-guide/",
+    "https://www.sofy.in/blog/category/wellness/"
+   ],
+   "sections": {
+    "blog": 3
+   },
+   "locales": {
+    "root": 3
+   },
+   "blockCountMode": {
+    "3": 3
+   },
+   "topSections": [
+    "blog(3)"
+   ],
+   "topLocales": [
+    "root:3"
+   ],
+   "name": "breadcrumb-page"
+  },
+  {
+   "signature": "text",
+   "family": "text",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.sofy.in/products/bodyfit/",
+    "https://www.sofy.in/products/antibacteria/",
+    "https://www.sofy.in/products/tampons/"
+   ],
+   "sections": {
+    "products": 3
+   },
+   "locales": {
+    "root": 3
+   },
+   "blockCountMode": {
+    "1": 3
+   },
+   "topSections": [
+    "products(3)"
+   ],
+   "topLocales": [
+    "root:3"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>columns>nav",
+   "family": "text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.sofy.in/blog/period-guide/pre-menstrual-syndrome/benefits-of-using-a-hot-water-bottle-to-treat-period-cramps/",
+    "https://www.sofy.in/blog/tips-tricks/menstrual-problems/are-flow-variations-during-periods-a-unique-quirk/"
+   ],
+   "sections": {
+    "blog": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "3": 2
+   },
+   "topSections": [
+    "blog(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "text>list>media",
+   "family": "media+text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.sofy.in/period-education/mothers-self-care/",
+    "https://www.sofy.in/period-education/young-girl-education/"
+   ],
+   "sections": {
+    "period-education": 2
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "3": 2
+   },
+   "topSections": [
+    "period-education(2)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>cards",
+   "family": "cards",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.sofy.in/product-overnight/",
+    "https://www.sofy.in/products/"
+   ],
+   "sections": {
+    "product-overnight": 1,
+    "products": 1
+   },
+   "locales": {
+    "root": 2
+   },
+   "blockCountMode": {
+    "2": 2
+   },
+   "topSections": [
+    "product-overnight(1)",
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:2"
+   ],
+   "name": "card-grid"
+  },
+  {
+   "signature": "text>text>text",
+   "family": "text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/about-sofy/"
+   ],
+   "sections": {
+    "about-sofy": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "about-sofy(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "article-text"
+  },
+  {
+   "signature": "carousel>text>text>text>list>text>text",
+   "family": "carousel",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/blog/"
+   ],
+   "sections": {
+    "blog": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "7": 1
+   },
+   "topSections": [
+    "blog(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "carousel>carousel>carousel>text>columns>iframe-embed>text>text>text",
+   "family": "carousel",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/"
+   ],
+   "sections": {
+    "(home)": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "9": 1
+   },
+   "topSections": [
+    "(home)(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "carousel-page"
+  },
+  {
+   "signature": "form",
+   "family": "form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/feedback/"
+   ],
+   "sections": {
+    "feedback": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "feedback(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "form-page"
+  },
+  {
+   "signature": "text>text>list>media",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/period-education/"
+   ],
+   "sections": {
+    "period-education": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "4": 1
+   },
+   "topSections": [
+    "period-education(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  },
+  {
+   "signature": "text>tabs>media>text>media",
+   "family": "tabs",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/period-education/how-sofy-helps/"
+   ],
+   "sections": {
+    "period-education": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "5": 1
+   },
+   "topSections": [
+    "period-education(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "tabbed-page"
+  },
+  {
+   "signature": "text>list>tabs",
+   "family": "tabs",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/period-education/period-faqs/"
+   ],
+   "sections": {
+    "period-education": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "period-education(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "tabbed-page"
+  },
+  {
+   "signature": "list",
+   "family": "list",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/products/sofy-cool/"
+   ],
+   "sections": {
+    "products": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "1": 1
+   },
+   "topSections": [
+    "products(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "section-nav-list"
+  },
+  {
+   "signature": "media>list>text",
+   "family": "media+text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.sofy.in/videos/"
+   ],
+   "sections": {
+    "videos": 1
+   },
+   "locales": {
+    "root": 1
+   },
+   "blockCountMode": {
+    "3": 1
+   },
+   "topSections": [
+    "videos(1)"
+   ],
+   "topLocales": [
+    "root:1"
+   ],
+   "name": "media-article"
+  }
+ ]
+}

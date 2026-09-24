@@ -1,0 +1,951 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-09-24T06:36:43.759Z",
+    "totalUrls": 232,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 232,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://babylovenappies.com.au/",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/cosifit-nappies",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/beyond-by-babylove",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/premmie-nappies",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/sleepynights-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/swim-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/our-products/baby-wipes",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/about-us",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/about-us/our-story",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/about-us/sustainability",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/about-us/5-a-day-of-play",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/about-us/contact-us",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/news",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/sample-products",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/sample-products/cosifit-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/where-to-buy",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/sleepynights-guarantee",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/get-to-know-all-the-characters-on-bluey",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=baby",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=general",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=parenting",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/new-to-bluey-watch-baby-race-and-sleepytime-spoiler-you-may-cry",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/prints-on-nappies-can-be-useful",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=nappy-fits",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/modern-slavery-act",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/privacy",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/terms-of-use",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/sample-products/cosifit-infant",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/baby-essentials-for-0-18-months-what-youll-actually-use",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/quality-time-nurtures-confident-kids",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=5-a-day-of-play",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=curious-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/rediscover-youth-and-embrace-silly-play",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/its-official-were-pefc-certified",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=sustainability",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/toilet-training",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/halfway-to-one-life-with-a-6-month-old",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/qa-with-miracle-babies-foundation-founder-melinda-cruz",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=first-steps",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/taking-your-prematurebaby-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/helpful-dos-and-donts-for-supporting-premmies-and-their-families",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/top-three-toilet-training-techniques-in-2025",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/embrace-the-chaos-embrace-the-mess",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/activities-with-your-toddler",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/the-best-toys-to-help-your-toddlers-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/5-types-of-play-that-help-boost-your-childs-development",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/good-germs-vs-bad-germs-whats-the-difference",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=safety",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/travelling-with-children",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/understanding-germs-for-kids-20-fun-ways-to-teach-your-kids-about-germs",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/toddler-tumbles",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/embracing-competition-for-growth",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/wipes-promo",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/where-to-buy-nz",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/babylove-joins-mum-walk",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog?filters=news",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/how-many-nappies-does-a-baby-use-by-age",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/holiday-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/childcare-guide",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/back-to-work-heres-how-to-support-your-partner-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/want-to-know-more-about-caring-for-your-babys-delicate-skin",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/sleepynights-guarantee-legals",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/sleepynights-guarantee-legals",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/perfect-fit-for-bigger-babies",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/setting-up-a-good-bedtime-ritual",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/where-to-find-us",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/effective-strategies-for-night-time-toilet-training",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/causes-of-nocturnal-enuresis",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/toddler/understanding-germs-for-kids-20-fun-ways-to-teach-your-kids-about-germs",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/wipes-promo-legals",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/why-and-when-to-move-from-tab-nappies-to-nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/decoding-the-nappy-a-comprehensive-guide-for-new-parents",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/choosing-the-right-nappy",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/cosifit-nappies",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/beyond-by-babylove",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/premmie-nappies",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/sleepynights-pants",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/swim-pants",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/our-products/baby-wipes",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/about-us",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/about-us/our-story",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/about-us/sustainability",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/about-us/5-a-day-of-play",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/about-us/contact-us",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/news",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/sample-products",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/sample-products/cosifit-newborn",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/where-to-buy",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/modern-slavery-act",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/privacy",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/terms-of-use",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/simple-tips-to-prevent-nappy-leaks",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/cosifit-nappies",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/beyond-by-babylove",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/premmie-nappies",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/sleepynights-pants",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/swim-pants",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/our-products/baby-wipes",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/about-us",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/about-us/our-story",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/about-us/sustainability",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/about-us/5-a-day-of-play",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/about-us/contact-us",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/news",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/sample-products",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/sample-products/cosifit-newborn",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/where-to-buy",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/sleepynights-guarantee",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/get-to-know-all-the-characters-on-bluey",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=baby",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=general",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=parenting",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/new-to-bluey-watch-baby-race-and-sleepytime-spoiler-you-may-cry",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/prints-on-nappies-can-be-useful",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=nappy-fits",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/modern-slavery-act",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/privacy",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/terms-of-use",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/setting-up-a-good-bedtime-ritual-copy",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/sleepy-nights-night-terrors-in-toddlers",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/sleepynights-guarantee",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/babylove-x-bluey-exclusive-bluey-designs-now-available",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/get-to-know-all-the-characters-on-bluey",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=baby",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=general",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=parenting",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/new-to-bluey-watch-baby-race-and-sleepytime-spoiler-you-may-cry",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/prints-on-nappies-can-be-useful",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=nappy-fits",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/sample-products/cosifit-infant",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/baby-essentials-for-0-18-months-what-youll-actually-use",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/quality-time-nurtures-confident-kids",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=5-a-day-of-play",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=curious-toddlers",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/rediscover-youth-and-embrace-silly-play",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/its-official-were-pefc-certified",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=sustainability",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/toilet-training",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/halfway-to-one-life-with-a-6-month-old",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/qa-with-miracle-babies-foundation-founder-melinda-cruz",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=first-steps",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/taking-your-prematurebaby-home",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/helpful-dos-and-donts-for-supporting-premmies-and-their-families",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/top-three-toilet-training-techniques-in-2025",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/embrace-the-chaos-embrace-the-mess",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/activities-with-your-toddler",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/the-best-toys-to-help-your-toddlers-development",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/5-types-of-play-that-help-boost-your-childs-development",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/good-germs-vs-bad-germs-whats-the-difference",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=safety",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/travelling-with-children",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/understanding-germs-for-kids-20-fun-ways-to-teach-your-kids-about-germs",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/toddler-tumbles",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/embracing-competition-for-growth",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/wipes-promo",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/where-to-buy-nz",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/babylove-joins-mum-walk",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog?filters=news",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/how-many-nappies-does-a-baby-use-by-age",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/holiday-at-home",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/childcare-guide",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/back-to-work-heres-how-to-support-your-partner-at-home",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/want-to-know-more-about-caring-for-your-babys-delicate-skin",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/sample-products/cosifit-infant",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/baby-essentials-for-0-18-months-what-youll-actually-use",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/quality-time-nurtures-confident-kids",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=5-a-day-of-play",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=curious-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/rediscover-youth-and-embrace-silly-play",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/its-official-were-pefc-certified",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=sustainability",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/toilet-training",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/halfway-to-one-life-with-a-6-month-old",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/qa-with-miracle-babies-foundation-founder-melinda-cruz",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=first-steps",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/taking-your-prematurebaby-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/helpful-dos-and-donts-for-supporting-premmies-and-their-families",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/top-three-toilet-training-techniques-in-2025",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=nappy-pants",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/embrace-the-chaos-embrace-the-mess",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/activities-with-your-toddler",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/the-best-toys-to-help-your-toddlers-development",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/5-types-of-play-that-help-boost-your-childs-development",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/good-germs-vs-bad-germs-whats-the-difference",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=safety",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/travelling-with-children",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/understanding-germs-for-kids-20-fun-ways-to-teach-your-kids-about-germs",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/toddler-tumbles",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/embracing-competition-for-growth",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/wipes-promo",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/where-to-buy-nz",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/babylove-joins-mum-walk",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog?filters=news",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/how-many-nappies-does-a-baby-use-by-age",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/holiday-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/childcare-guide",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/back-to-work-heres-how-to-support-your-partner-at-home",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/want-to-know-more-about-caring-for-your-babys-delicate-skin",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/perfect-fit-for-bigger-babies",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/setting-up-a-good-bedtime-ritual",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/toddler/bedtime-stories-kids",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/toddler/sleepy-nights-night-terrors-in-toddlers",
+        "status": 200
+      },
+      {
+        "url": "https://babylovenappies.com.au/blog/toddler/games-to-play-to-help-ease-bedtime-struggles",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/perfect-fit-for-bigger-babies",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/setting-up-a-good-bedtime-ritual",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/effective-strategies-for-night-time-toilet-training",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/causes-of-nocturnal-enuresis",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/decoding-the-nappy-a-comprehensive-guide-for-new-parents",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/choosing-the-right-nappy",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/effective-strategies-for-night-time-toilet-training",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/causes-of-nocturnal-enuresis",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/decoding-the-nappy-a-comprehensive-guide-for-new-parents",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/choosing-the-right-nappy",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/simple-tips-to-prevent-nappy-leaks",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/simple-tips-to-prevent-nappy-leaks",
+        "status": 200
+      },
+      {
+        "url": "http://babylovenappies.com.au/blog/setting-up-a-good-bedtime-ritual-copy",
+        "status": 200
+      },
+      {
+        "url": "https://www.babylovenappies.com.au/blog/setting-up-a-good-bedtime-ritual-copy",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

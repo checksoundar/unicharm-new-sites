@@ -1,0 +1,936 @@
+{
+ "captured": "2026-09-24T06:33:53.357Z",
+ "totalInstances": 220,
+ "totalVariants": 34,
+ "baseSummary": [
+  {
+   "base": "unknown",
+   "variants": 9,
+   "instances": 97
+  },
+  {
+   "base": "text",
+   "variants": 9,
+   "instances": 70
+  },
+  {
+   "base": "media",
+   "variants": 5,
+   "instances": 23
+  },
+  {
+   "base": "form",
+   "variants": 5,
+   "instances": 11
+  },
+  {
+   "base": "accordion",
+   "variants": 2,
+   "instances": 8
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 4
+  },
+  {
+   "base": "carousel",
+   "variants": 1,
+   "instances": 3
+  },
+  {
+   "base": "columns",
+   "variants": 1,
+   "instances": 2
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 2
+  }
+ ],
+ "variants": [
+  {
+   "base": "accordion",
+   "key": "accordion::section|div1|img,lst,hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "accordion_82900837f80a.jpg",
+   "repUrl": "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+     "file": "accordion_82900837f80a.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/addressing-mobility-challenges-for-senior-citizens-with-adult-diapers/",
+     "file": "accordion_1ad7cf0e82c2.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/lifestyle/5-ways-to-choose-adult-diapers-to-spend-the-winter-comfortably/",
+     "file": "accordion_53f17d0259c2.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/family-training-incontinence-care-empathy/",
+     "file": "accordion_7f76e1c68366.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/why-youre-urinating-frequently-at-night-high-blood-sugar-nocturia/",
+     "file": "accordion_2dd6e5268eb2.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/monsoon-care-seniors-adult-diapers/",
+     "file": "accordion_ef45331afc70.jpg"
+    }
+   ],
+   "topLabel": "Common Challenges Faced by Seniors with Incontinence—And How"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::section|div1|img,tbl,lst,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_c88e65bab217.jpg",
+   "repUrl": "https://lifree.co.in/blog/urinary-incontinence/urinary-incontinence-in-elderly-female-causes-symptoms-treatment-options-daily-management-guide/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control/",
+     "file": "accordion_dee7eb460ff9.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/urinary-incontinence/urinary-incontinence-in-elderly-female-causes-symptoms-treatment-options-daily-management-guide/",
+     "file": "accordion_c88e65bab217.jpg"
+    }
+   ],
+   "topLabel": "Adult Diaper Pants: Complete Buying Guide for Comfort, Prote"
+  },
+  {
+   "base": "cards",
+   "key": "cards::section|div1|img,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "cards_0beb6b608a4b.jpg",
+   "repUrl": "https://lifree.co.in/products/all-night-absorb-pants",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/products/all-night-absorb-pants",
+     "file": "cards_0beb6b608a4b.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/durable-absorb-adult-diaper",
+     "file": "cards_0a0989a258ca.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/lifree-durable-absorb-12-hrs-pants",
+     "file": "cards_9bf990dc27fb.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/lifree-extra-absorb-pants",
+     "file": "cards_9f3c81bf941d.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "carousel",
+   "key": "carousel::section|div1|img,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "carousel_d68bd17dfed0.jpg",
+   "repUrl": "https://lifree.co.in/blog/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "carousel_d68bd17dfed0.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/",
+     "file": "carousel_626cc6866b28.jpg"
+    },
+    {
+     "url": "https://www.lifree.co.in/",
+     "file": "carousel_82dc21d70ed3.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "columns",
+   "key": "columns::section|div1|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "columns_9299f323c65a.jpg",
+   "repUrl": "https://lifree.co.in/products/all-night-absorb-pants",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/products/all-night-absorb-pants",
+     "file": "columns_9299f323c65a.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/durable-absorb-adult-diaper",
+     "file": "columns_006ea3106d9d.jpg"
+    }
+   ],
+   "topLabel": "FEATURES"
+  },
+  {
+   "base": "form",
+   "key": "form::section|div1|frm,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "form_853a43d7d9ff.jpg",
+   "repUrl": "https://lifree.co.in/blog/category/adult-diaper/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/category/adult-diaper/",
+     "file": "form_853a43d7d9ff.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/emotional-mental-health/",
+     "file": "form_f8c30f427bfd.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/incontinence-treatment/",
+     "file": "form_9d36f097cdb5.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/urinary-incontinence/",
+     "file": "form_7309c2911833.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::section|div1|hd,aN,iN",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "form_bff3525d203f.jpg",
+   "repUrl": "https://lifree.co.in/products/lifree-durable-absorb-12-hrs-pants",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/products/all-night-absorb-pants",
+     "file": "form_adb6334f7189.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/durable-absorb-adult-diaper",
+     "file": "form_bd86d932977e.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/lifree-durable-absorb-12-hrs-pants",
+     "file": "form_bff3525d203f.jpg"
+    }
+   ],
+   "topLabel": "All Night Absorb Pants"
+  },
+  {
+   "base": "form",
+   "key": "form::section|div1|img,lst,frm,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "form_67964785696d.jpg",
+   "repUrl": "https://lifree.co.in/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/",
+     "file": "form_67964785696d.jpg"
+    },
+    {
+     "url": "https://www.lifree.co.in/",
+     "file": "form_803f36b26606.jpg"
+    }
+   ],
+   "topLabel": "Join Lifree"
+  },
+  {
+   "base": "form",
+   "key": "form::div|div1|img,frm,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_85651629afb8.jpg",
+   "repUrl": "https://lifree.co.in/blog/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "form_85651629afb8.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "form",
+   "key": "form::section|div1|lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "form_c7cf36672351.jpg",
+   "repUrl": "https://lifree.co.in/products/lifree-extra-absorb-pants",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/products/lifree-extra-absorb-pants",
+     "file": "form_c7cf36672351.jpg"
+    }
+   ],
+   "topLabel": "Lifree Extra Absorb Pants – 10 Hrs | Extra Large Diapers for"
+  },
+  {
+   "base": "media",
+   "key": "media::div|img1|img,aN,iN",
+   "instances": 13,
+   "pagesFound": 13,
+   "repFile": "media_737bb8ffac4d.jpg",
+   "repUrl": "https://lifree.co.in/pages/about-lifree",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/about-lifree",
+     "file": "media_737bb8ffac4d.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+     "file": "media_d0802e3daf4f.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+     "file": "media_79f00391fbec.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence",
+     "file": "media_d13ce69d81aa.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/managing-incontinence",
+     "file": "media_2be70b555a46.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/reasons--causes-of-incontinence",
+     "file": "media_64829aee9be6.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1|img,lst,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "media_b63e6f8f84eb.jpg",
+   "repUrl": "https://lifree.co.in/blog/category/emotional-mental-health/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "media_f4449f408765.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/adult-diaper/",
+     "file": "media_5215d6648ee5.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/emotional-mental-health/",
+     "file": "media_b63e6f8f84eb.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/incontinence-treatment/",
+     "file": "media_74240d2cf8e9.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/urinary-incontinence/",
+     "file": "media_0f9a6fd6ae4e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|img1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_ad4aa2e5c301.jpg",
+   "repUrl": "https://lifree.co.in/adult-diapers",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "media_ad4aa2e5c301.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/disclaimer",
+     "file": "media_3f7af3ef337c.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::div|div1|img,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "media_2d54edc2b8ba.jpg",
+   "repUrl": "https://lifree.co.in/pages/what-is-incontinence",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/what-is-incontinence",
+     "file": "media_2d54edc2b8ba.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/what-is-incontinence/mobility-conditions1",
+     "file": "media_d416e6101ca7.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "media",
+   "key": "media::section|div1|img,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "media_c99401b40dac.jpg",
+   "repUrl": "https://lifree.co.in/videos",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/videos",
+     "file": "media_c99401b40dac.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "table",
+   "key": "table::section|div1|img,tbl,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "table_84145d45bfc1.jpg",
+   "repUrl": "https://lifree.co.in/products/lifree-extra-absorb-pants",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/products/lifree-durable-absorb-12-hrs-pants",
+     "file": "table_995b176f62dc.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/products/lifree-extra-absorb-pants",
+     "file": "table_84145d45bfc1.jpg"
+    }
+   ],
+   "topLabel": "FEATURES"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|aN,iN",
+   "instances": 25,
+   "pagesFound": 23,
+   "repFile": "text_323092b6f111.jpg",
+   "repUrl": "https://lifree.co.in/adult-diapers",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "text_323092b6f111.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/",
+     "file": "text_ca4b0a77fd40.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/",
+     "file": "text_75a527d3ac89.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "text_525663829bc9.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree",
+     "file": "text_7ed6ce6ad87b.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/disclaimer",
+     "file": "text_b7869b3838be.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|lst,hd,aN,iN",
+   "instances": 11,
+   "pagesFound": 11,
+   "repFile": "text_383e455a21a3.jpg",
+   "repUrl": "https://lifree.co.in/products/lifree-extra-absorb-pants",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "text_783d6c43389d.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control/",
+     "file": "text_f7e2519504cb.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+     "file": "text_c889772baf78.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/lifestyle/5-ways-to-choose-adult-diapers-to-spend-the-winter-comfortably/",
+     "file": "text_8eb17a666180.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/addressing-mobility-challenges-for-senior-citizens-with-adult-diapers/",
+     "file": "text_169d1e619a00.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/family-training-incontinence-care-empathy/",
+     "file": "text_e79af8c5606c.jpg"
+    }
+   ],
+   "topLabel": "Categories"
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|frm,aN,iN",
+   "instances": 9,
+   "pagesFound": 9,
+   "repFile": "text_aecc078c9f44.jpg",
+   "repUrl": "https://lifree.co.in/blog/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "text_aecc078c9f44.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control/",
+     "file": "text_09042f35f7c1.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+     "file": "text_2047a7406712.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/addressing-mobility-challenges-for-senior-citizens-with-adult-diapers/",
+     "file": "text_ccab34227595.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/lifestyle/5-ways-to-choose-adult-diapers-to-spend-the-winter-comfortably/",
+     "file": "text_d1742863aa2d.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/family-training-incontinence-care-empathy/",
+     "file": "text_3d986ae3157e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|img,hd,aN,iN",
+   "instances": 8,
+   "pagesFound": 6,
+   "repFile": "text_ac233424bd4a.jpg",
+   "repUrl": "https://lifree.co.in/adult-diapers",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "text_ac233424bd4a.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "text_40114ee4d1bf.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "text_a19ed8036778.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/",
+     "file": "text_5371b871627f.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "text_e9c93921bfe7.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/category/adult-diaper/",
+     "file": "text_bfa6a83ab7d4.jpg"
+    }
+   ],
+   "topLabel": "What Jiyo Khulkar looks like"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|lst,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "text_3f74855f8a88.jpg",
+   "repUrl": "https://lifree.co.in/pages/rehabilitation-exercise/can-sit-and-stand-with-assistance",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+     "file": "text_49608b5a135b.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+     "file": "text_237d3642ce9d.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/managing-incontinence",
+     "file": "text_c678236f29c5.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/reasons--causes-of-incontinence",
+     "file": "text_45948c891cc4.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/what-is-incontinence",
+     "file": "text_6ec42458aa75.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/rehabilitation-exercise/bedridden",
+     "file": "text_47f704569fc5.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|hd,aN,iN",
+   "instances": 6,
+   "pagesFound": 5,
+   "repFile": "text_c3a1e39f33f5.jpg",
+   "repUrl": "https://lifree.co.in/disclaimer",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "text_0db20981e65c.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "text_860796316bbb.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/",
+     "file": "text_8f2864d3d8ed.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/disclaimer",
+     "file": "text_c3a1e39f33f5.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/videos",
+     "file": "text_f1238d3d2abf.jpg"
+    },
+    {
+     "url": "https://www.lifree.co.in/",
+     "file": "text_96d9162252a5.jpg"
+    }
+   ],
+   "topLabel": "Frequently Asked Questions"
+  },
+  {
+   "base": "text",
+   "key": "text::section|div1|lst,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_ac4386e8ff08.jpg",
+   "repUrl": "https://lifree.co.in/blog/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "text_ac4386e8ff08.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|img,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_c81e24228b2a.jpg",
+   "repUrl": "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+     "file": "text_c81e24228b2a.jpg"
+    }
+   ],
+   "topLabel": "PHILOSOPHY"
+  },
+  {
+   "base": "text",
+   "key": "text::div|div1|hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_c76820225bf2.jpg",
+   "repUrl": "https://lifree.co.in/videos",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/videos",
+     "file": "text_c76820225bf2.jpg"
+    }
+   ],
+   "topLabel": "VIDEOS"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,hd,aN,iN",
+   "instances": 32,
+   "pagesFound": 15,
+   "repFile": "unknown_847ee02fa020.jpg",
+   "repUrl": "https://lifree.co.in/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "unknown_fc386c28dfd4.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "unknown_2faf0cd71ac3.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "unknown_854576275b26.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "unknown_29fc8e00d186.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "unknown_ea0fd306aad3.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "unknown_0fbeb4759389.jpg"
+    }
+   ],
+   "topLabel": "Related Posts"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::footer|div2|img,lst,aN,iN",
+   "instances": 23,
+   "pagesFound": 23,
+   "repFile": "unknown_544e91f1a1ac.jpg",
+   "repUrl": "https://lifree.co.in/blog/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/adult-diapers",
+     "file": "unknown_eed0d06208dc.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/",
+     "file": "unknown_544e91f1a1ac.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/",
+     "file": "unknown_02036e2e0ce5.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/disclaimer",
+     "file": "unknown_dd4b6ff19356.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree",
+     "file": "unknown_09d34dbcc386.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+     "file": "unknown_d805c5a60ca4.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,aN,iN",
+   "instances": 12,
+   "pagesFound": 12,
+   "repFile": "unknown_b776b8ed60ba.jpg",
+   "repUrl": "https://lifree.co.in/pages/about-lifree",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/about-lifree",
+     "file": "unknown_b776b8ed60ba.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+     "file": "unknown_d3200e694958.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+     "file": "unknown_74cd37399f0d.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence",
+     "file": "unknown_1329831cf6e3.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/managing-incontinence",
+     "file": "unknown_97de54a17eb4.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/reasons--causes-of-incontinence",
+     "file": "unknown_f4e9b6dcd646.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,aN,iN",
+   "instances": 10,
+   "pagesFound": 10,
+   "repFile": "unknown_932de1f925ae.jpg",
+   "repUrl": "https://lifree.co.in/pages/adult-incontinence",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/about-lifree",
+     "file": "unknown_84dbbed40450.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+     "file": "unknown_abd27670c162.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+     "file": "unknown_b6ca703bc0fb.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence",
+     "file": "unknown_932de1f925ae.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/managing-incontinence",
+     "file": "unknown_3e3de20212da.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/reasons--causes-of-incontinence",
+     "file": "unknown_530be6b7ad33.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,aN,iN",
+   "instances": 8,
+   "pagesFound": 8,
+   "repFile": "unknown_c18c2ad57d9e.jpg",
+   "repUrl": "https://lifree.co.in/blog/physiological-limitations/why-youre-urinating-frequently-at-night-high-blood-sugar-nocturia/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control/",
+     "file": "unknown_a1df9c37d2c2.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+     "file": "unknown_de4d1bd2f700.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/lifestyle/5-ways-to-choose-adult-diapers-to-spend-the-winter-comfortably/",
+     "file": "unknown_e8193b67cf22.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/addressing-mobility-challenges-for-senior-citizens-with-adult-diapers/",
+     "file": "unknown_30004c97a003.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/family-training-incontinence-care-empathy/",
+     "file": "unknown_e3a81509ed2b.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/blog/physiological-limitations/why-youre-urinating-frequently-at-night-high-blood-sugar-nocturia/",
+     "file": "unknown_c18c2ad57d9e.jpg"
+    }
+   ],
+   "topLabel": ""
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,hd,aN,iN",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "unknown_9f7fac2686de.jpg",
+   "repUrl": "https://lifree.co.in/pages/about-lifree",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/about-lifree",
+     "file": "unknown_9f7fac2686de.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+     "file": "unknown_7e9681b3faad.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence",
+     "file": "unknown_804df3ade7ed.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/managing-incontinence",
+     "file": "unknown_3798951de840.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/what-is-incontinence",
+     "file": "unknown_a66925feddc8.jpg"
+    }
+   ],
+   "topLabel": "THE ORIGIN OF LIFREE"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1|img,lst,hd,aN,iN",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "unknown_5e5b8248afb0.jpg",
+   "repUrl": "https://lifree.co.in/pages/rehabilitation-exercise/can-sit-and-stand-with-assistance",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/adult-incontinence/reasons--causes-of-incontinence",
+     "file": "unknown_38c49906d5ca.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/rehabilitation-exercise",
+     "file": "unknown_682c9b775d36.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/rehabilitation-exercise/bedridden",
+     "file": "unknown_894bf268c016.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/rehabilitation-exercise/can-sit-and-stand-with-assistance",
+     "file": "unknown_5e5b8248afb0.jpg"
+    }
+   ],
+   "topLabel": "REHABILITATION EXERCISES"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::div|div1.section1|img,hd,aN,iN",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "unknown_a85dc0da96c0.jpg",
+   "repUrl": "https://lifree.co.in/pages/what-is-incontinence",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/pages/what-is-incontinence",
+     "file": "unknown_a85dc0da96c0.jpg"
+    },
+    {
+     "url": "https://lifree.co.in/pages/what-is-incontinence/mobility-conditions1",
+     "file": "unknown_96da20f75105.jpg"
+    }
+   ],
+   "topLabel": "BENEFITS OF A PANT STYLE DIAPER"
+  },
+  {
+   "base": "unknown",
+   "key": "unknown::section|div1|img,lst,hd,aN,iN",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "unknown_a4296b1ac1f6.jpg",
+   "repUrl": "https://lifree.co.in/blog/category/incontinence-treatment/",
+   "samples": [
+    {
+     "url": "https://lifree.co.in/blog/category/incontinence-treatment/",
+     "file": "unknown_a4296b1ac1f6.jpg"
+    }
+   ],
+   "topLabel": "Nighttime Routines for Caregivers Managing Incontinence"
+  }
+ ]
+}

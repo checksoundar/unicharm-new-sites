@@ -1,0 +1,203 @@
+{
+ "captured": "2026-09-24T06:30:41.365Z",
+ "minGroup": 2,
+ "sampleN": 4,
+ "totalLivePages": 110,
+ "totalGroups": 10,
+ "patternGroups": 9,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/blog/{section}/{slug}": {
+   "total": 37,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Blog sub-pages"
+  },
+  "/blog/{id}/{slug}": {
+   "total": 29,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Blog sub-pages"
+  },
+  "/blog/{section}/{page}": {
+   "total": 9,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Blog sub-pages"
+  },
+  "/{page}": {
+   "total": 8,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Root-level product & marketing pages"
+  },
+  "/pages/{section}/{slug}": {
+   "total": 7,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Pages sub-pages"
+  },
+  "/pages/{section}/{page}": {
+   "total": 7,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Pages sub-pages"
+  },
+  "/pages/{section}": {
+   "total": 5,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Pages section pages"
+  },
+  "/products/{slug}": {
+   "total": 5,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Products section pages"
+  },
+  "/": {
+   "total": 2,
+   "rendered": 2,
+   "type": "pattern",
+   "label": "Homepage & root"
+  },
+  "/blog": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Blog — landing"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://lifree.co.in/",
+   "https://www.lifree.co.in/"
+  ],
+  "/{page}": [
+   "https://lifree.co.in/adult-diapers",
+   "https://lifree.co.in/contact-us",
+   "https://lifree.co.in/disclaimer",
+   "https://lifree.co.in/our-products",
+   "https://lifree.co.in/privacy-policy",
+   "https://lifree.co.in/sitemap",
+   "https://lifree.co.in/terms-and-conditions",
+   "https://lifree.co.in/videos"
+  ],
+  "/blog": [
+   "https://lifree.co.in/blog/"
+  ],
+  "/blog/{section}/{slug}": [
+   "https://lifree.co.in/blog/adult-diaper/adult-diaper-pants-complete-buying-guide-for-comfort-protection-leak-control/",
+   "https://lifree.co.in/blog/bladder-issues/diaper-changing-101-best-practices-for-caregivers-and-seniors/",
+   "https://lifree.co.in/blog/bladder-issues/how-often-do-you-need-to-pee-and-everything-else-you-need-to-know-about-urinary-frequency/",
+   "https://lifree.co.in/blog/category/physiological-limitations/",
+   "https://lifree.co.in/blog/diabetes-high-sugar/elevated-blood-sugar-symptoms-early-warning-signs-causes-when-to-take-action/",
+   "https://lifree.co.in/blog/diabetes-high-sugar/hyperglycaemia-nursing-care-plan-assessment-interventions-goals-patient-education/",
+   "https://lifree.co.in/blog/emotional-mental-health/choosing-adult-diapers-for-travel-and-outdoor-activities/",
+   "https://lifree.co.in/blog/emotional-mental-health/emotional-health-of-older-adults-managing-incontinence-alone-a-helpful-guide/",
+   "https://lifree.co.in/blog/emotional-mental-health/summer-comfort-tips-for-adult-diaper-users/",
+   "https://lifree.co.in/blog/frequent-urination/frequent-urination-causes-symptoms-treatment-when-to-see-a-doctor/",
+   "https://lifree.co.in/blog/frequent-urination/frequent-urination-in-female-causes-symptoms-diagnosis-treatment-options/",
+   "https://lifree.co.in/blog/incontinence-treatment/adult-diapers-a-solution-for-a-range-of-health-and-lifestyle-needs/",
+   "https://lifree.co.in/blog/incontinence-treatment/common-incontinence-challenges-for-seniors-and-solutions/",
+   "https://lifree.co.in/blog/incontinence-treatment/difference-between-tape-style-adult-diapers-and-pant-style-adult-diapers/",
+   "https://lifree.co.in/blog/incontinence-treatment/emotional-impact-of-incontinence-on-seniors-well-being/",
+   "https://lifree.co.in/blog/incontinence-treatment/heres-what-you-can-do-to-handle-an-unexpected-leak/",
+   "https://lifree.co.in/blog/incontinence-treatment/how-to-choose-the-best-diaper-for-yourself/",
+   "https://lifree.co.in/blog/incontinence-treatment/inclusive-care-the-impact-of-adult-diapers-on-individuals-with-special-needs/",
+   "https://lifree.co.in/blog/incontinence-treatment/nighttime-incontinence-routines-for-caregivers/",
+   "https://lifree.co.in/blog/incontinence-treatment/selecting-the-right-diaper-size-do-extra-large-adult-diapers-absorb-more-than-other-sizes/",
+   "https://lifree.co.in/blog/incontinence-treatment/the-best-adult-diapers-for-sensitive-skin-gentle-solutions-for-comfort-and-care/",
+   "https://lifree.co.in/blog/incontinence-treatment/the-importance-of-proper-hygiene-and-skin-care-for-seniors-citizens-using-diapers/",
+   "https://lifree.co.in/blog/incontinence-treatment/why-adult-diapers-their-purpose-benefits-and-importance/",
+   "https://lifree.co.in/blog/lifestyle/4-myths-about-adult-diapers/",
+   "https://lifree.co.in/blog/lifestyle/5-ways-to-choose-adult-diapers-to-spend-the-winter-comfortably/",
+   "https://lifree.co.in/blog/lifestyle/5-ways-to-minimize-adult-diaper-leak/",
+   "https://lifree.co.in/blog/lifestyle/adult-diaper-pants-shy-no-more/",
+   "https://lifree.co.in/blog/lifestyle/all-you-need-to-know-about-pant-style-diapers/",
+   "https://lifree.co.in/blog/lifestyle/blood-sugar-spikes-sudden-bathroom-urges-adult-diapers/",
+   "https://lifree.co.in/blog/lifestyle/do-you-need-to-switch-to-better-adult-diapers/",
+   "https://lifree.co.in/blog/lifestyle/how-to-choose-the-best-adult-diapers-for-your-needs/",
+   "https://lifree.co.in/blog/lifestyle/how-to-find-the-right-adult-diapers-for-you/",
+   "https://lifree.co.in/blog/lifestyle/pant-style-adult-diapers-for-active-lifestyle/",
+   "https://lifree.co.in/blog/lifestyle/stay-active-stay-dry-how-adult-diapers-support-an-active-lifestyle/",
+   "https://lifree.co.in/blog/lifestyle/top-foods-to-replace-from-your-diet-with-healthy-ones/",
+   "https://lifree.co.in/blog/mobility-conditions/diabetes-nerve-damage-and-bladder-controls/",
+   "https://lifree.co.in/blog/urinary-incontinence/urinary-incontinence-in-elderly-female-causes-symptoms-treatment-options-daily-management-guide/"
+  ],
+  "/blog/{section}/{page}": [
+   "https://lifree.co.in/blog/category/adult-diaper/",
+   "https://lifree.co.in/blog/category/bladder-issues/",
+   "https://lifree.co.in/blog/category/diabetes-high-sugar/",
+   "https://lifree.co.in/blog/category/emotional-mental-health/",
+   "https://lifree.co.in/blog/category/frequent-urination/",
+   "https://lifree.co.in/blog/category/incontinence-treatment/",
+   "https://lifree.co.in/blog/category/lifestyle/",
+   "https://lifree.co.in/blog/category/mobility-conditions/",
+   "https://lifree.co.in/blog/category/urinary-incontinence/"
+  ],
+  "/blog/{id}/{slug}": [
+   "https://lifree.co.in/blog/physiological-limitations/addressing-mobility-challenges-for-senior-citizens-with-adult-diapers/",
+   "https://lifree.co.in/blog/physiological-limitations/caregivers-guide-diabetic-adults-with-incontinence/",
+   "https://lifree.co.in/blog/physiological-limitations/choosing-adult-diapers-for-elderly-people-with-dementia/",
+   "https://lifree.co.in/blog/physiological-limitations/choosing-right-adult-diaper-active-diabetic-adults/",
+   "https://lifree.co.in/blog/physiological-limitations/diabetes-in-women-signs-before-bladder-issues/",
+   "https://lifree.co.in/blog/physiological-limitations/diabetes-tests-and-incontinence-management/",
+   "https://lifree.co.in/blog/physiological-limitations/diaper-friendly-closet-lifree-adult-diapers/",
+   "https://lifree.co.in/blog/physiological-limitations/evolution-of-adult-diapers-taped-to-pull-up-styles/",
+   "https://lifree.co.in/blog/physiological-limitations/exercise-blood-sugar-control-bladder-function/",
+   "https://lifree.co.in/blog/physiological-limitations/family-training-incontinence-care-empathy/",
+   "https://lifree.co.in/blog/physiological-limitations/high-blood-sugar-and-bladder-control/",
+   "https://lifree.co.in/blog/physiological-limitations/how-diabetes-can-lead-to-urinary-incontinence/",
+   "https://lifree.co.in/blog/physiological-limitations/how-to-choose-the-right-adult-diaper-for-outdoor-activities-or-travel/",
+   "https://lifree.co.in/blog/physiological-limitations/how-to-prevent-skin-irritation-and-rashes-while-using-adult-diapers/",
+   "https://lifree.co.in/blog/physiological-limitations/hygiene-tips-clothes-bedding-adult-diaper-users/",
+   "https://lifree.co.in/blog/physiological-limitations/incontinence-and-medications-what-you-should-know/",
+   "https://lifree.co.in/blog/physiological-limitations/incontinence-symptoms-in-diabetes/",
+   "https://lifree.co.in/blog/physiological-limitations/laundry-tips-clothes-bedding-incontinence-adult-diapers/",
+   "https://lifree.co.in/blog/physiological-limitations/managing-high-blood-sugar-and-incontinence-caregiver-tips/",
+   "https://lifree.co.in/blog/physiological-limitations/monsoon-care-seniors-adult-diapers/",
+   "https://lifree.co.in/blog/physiological-limitations/mother-your-children-are-like-birds/",
+   "https://lifree.co.in/blog/physiological-limitations/normal-blood-sugar-range-and-incontinence/",
+   "https://lifree.co.in/blog/physiological-limitations/raising-awareness-adult-incontinence-community/",
+   "https://lifree.co.in/blog/physiological-limitations/type-2-diabetes-bladder-issues-early-signs/",
+   "https://lifree.co.in/blog/physiological-limitations/type-2-diabetes-symptoms-and-incontinence/",
+   "https://lifree.co.in/blog/physiological-limitations/type-2-diabetes-treatment-incontinence-management/",
+   "https://lifree.co.in/blog/physiological-limitations/understanding-prediabetes-early-signs-bladder-health/",
+   "https://lifree.co.in/blog/physiological-limitations/urinary-incontinence-monsoon-season/",
+   "https://lifree.co.in/blog/physiological-limitations/why-youre-urinating-frequently-at-night-high-blood-sugar-nocturia/"
+  ],
+  "/pages/{section}": [
+   "https://lifree.co.in/pages/about-lifree",
+   "https://lifree.co.in/pages/adult-incontinence",
+   "https://lifree.co.in/pages/mobility-conditions",
+   "https://lifree.co.in/pages/rehabilitation-exercise",
+   "https://lifree.co.in/pages/what-is-incontinence"
+  ],
+  "/pages/{section}/{slug}": [
+   "https://lifree.co.in/pages/about-lifree/history-background-of-lifree",
+   "https://lifree.co.in/pages/adult-incontinence/common-incontinence-problems",
+   "https://lifree.co.in/pages/adult-incontinence/reasons--causes-of-incontinence",
+   "https://lifree.co.in/pages/mobility-conditions/benefits-of-a-pant-style-diaper",
+   "https://lifree.co.in/pages/rehabilitation-exercise/can-sit-and-stand-with-assistance",
+   "https://lifree.co.in/pages/rehabilitation-exercise/can-walk--can-walk-with-assistance",
+   "https://lifree.co.in/pages/what-is-incontinence/mobility-conditions1"
+  ],
+  "/pages/{section}/{page}": [
+   "https://lifree.co.in/pages/about-lifree/lifrees-philosophy",
+   "https://lifree.co.in/pages/about-lifree/testimonials",
+   "https://lifree.co.in/pages/adult-incontinence/managing-incontinence",
+   "https://lifree.co.in/pages/adult-incontinence/types-of-incontinence",
+   "https://lifree.co.in/pages/adult-incontinence/what-is-incontinence",
+   "https://lifree.co.in/pages/mobility-conditions/mobility-condition",
+   "https://lifree.co.in/pages/rehabilitation-exercise/bedridden"
+  ],
+  "/products/{slug}": [
+   "https://lifree.co.in/products/all-night-absorb-pants",
+   "https://lifree.co.in/products/durable-absorb-adult-diaper",
+   "https://lifree.co.in/products/lifree-durable-absorb-10-hrs-pants",
+   "https://lifree.co.in/products/lifree-durable-absorb-12-hrs-pants",
+   "https://lifree.co.in/products/lifree-extra-absorb-pants"
+  ]
+ }
+}
