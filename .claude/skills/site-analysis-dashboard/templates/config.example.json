@@ -1,0 +1,19 @@
+{
+  "siteUrl": "https://www.example.com/",
+  "siteOrigin": "https://www.example.com",
+  "site": "example.com",
+  "scope": "Entire domain — all locales/regions",
+  "eyebrow": "Example Corp · Site Analysis",
+  "heroTitle": "Structural analysis of example.com",
+  "heroSub": "",
+  "brandLine": "example.com<br>Migration Console",
+  "accountName": "Example Corporation",
+  "locale": "en (single)",
+  "discovery": "full breadth-first crawl (sitemaps were stubs)",
+  "cjk": false,
+
+  "catalogFolder": "/backups/anupamb82/eds-site-analysis/repo/.migration/example-scope",
+  "reportsDir": "/backups/anupamb82/eds-site-analysis/repo/reports",
+  "templateHtml": "/backups/anupamb82/eds-site-analysis/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": ""
+}
