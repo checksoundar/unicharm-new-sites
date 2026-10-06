@@ -1,0 +1,30 @@
+pages=522 instances=6159 components=28 exactPatterns=251 variants=182
+custom           relatedcontent           → related-content        inst=  507 pg= 484 patterns= 12 variants=11  {"dominoscolab":67,"global":165,"yumlive":275}
+custom           articleheader            → article-header         inst=  431 pg= 431 patterns=  1 variants=1  {"dominoscolab":67,"global":89,"yumlive":275}
+custom           anchorlinks              → anchor-links           inst=   22 pg=  22 patterns=  1 variants=1  {"global":22}
+custom           productcategory          → product-category       inst=   12 pg=   4 patterns=  3 variants=1  {"global":12}
+custom           bodyrte                  → read-more              inst=    7 pg=   7 patterns=  2 variants=2  {"global":6,"yumlive":1}
+custom           articlelisting           → article-listing        inst=    5 pg=   5 patterns=  3 variants=1  {"dominoscolab":2,"global":1,"yumlive":2}
+custom           contactform              → contact-form           inst=    1 pg=   1 patterns=  1 variants=1  {"global":1}
+boilerplate      accordionItem            → accordion              inst=  125 pg=  48 patterns=  8 variants=8  {"global":108,"yumlive":17}
+boilerplate      leftrightcontent         → columns                inst=  120 pg=  66 patterns= 13 variants=12  {"dominoscolab":35,"global":47,"yumlive":38}
+boilerplate      iconcards                → cards                  inst=   86 pg=  59 patterns= 19 variants=19  {"global":78,"dominoscolab":4,"yumlive":4}
+boilerplate      video                    → video                  inst=   86 pg=  84 patterns=  1 variants=1  {"dominoscolab":15,"global":41,"yumlive":30}
+boilerplate      herobanner               → hero                   inst=   42 pg=  35 patterns=  5 variants=5  {"dominoscolab":5,"global":32,"yumlive":5}
+boilerplate      productbanner            → hero                   inst=   29 pg=  29 patterns=  2 variants=2  {"global":29}
+boilerplate      pagebanner               → hero                   inst=   20 pg=  20 patterns=  6 variants=6  {"dominoscolab":3,"global":17}
+boilerplate      testimonials             → quote                  inst=    8 pg=   8 patterns=  2 variants=2  {"global":8}
+boilerplate      homepageherobanner       → carousel               inst=    5 pg=   5 patterns=  4 variants=3  {"global":3,"dominoscolab":1,"yumlive":1}
+boilerplate      catalogueCalculatorPromo → columns                inst=    2 pg=   2 patterns=  1 variants=1  {"global":2}
+boilerplate      search                   → search                 inst=    1 pg=   1 patterns=  1 variants=1  {"global":1}
+default-content  text                     → default-content        inst= 1496 pg= 500 patterns= 43 variants=26  {"dominoscolab":179,"global":615,"yumlive":702}
+default-content  image                    → default-content        inst=  111 pg=  59 patterns=  3 variants=3  {"dominoscolab":16,"global":95}
+default-content  anchor                   → default-content        inst=   91 pg=  25 patterns=  1 variants=1  {"dominoscolab":2,"global":89}
+default-content  sectionheader            → default-content        inst=   23 pg=  23 patterns=  2 variants=2  {"global":23}
+default-content  title                    → default-content        inst=   14 pg=   8 patterns=  1 variants=1  {"dominoscolab":1,"global":13}
+section          gridlayout               → section                inst= 1346 pg= 516 patterns= 71 variants=42  {"dominoscolab":208,"global":535,"yumlive":603}
+section          container                → section                inst=  524 pg= 522 patterns= 37 variants=24  {"dominoscolab":78,"global":166,"yumlive":280}
+section          responsivegrid           → section                inst=    1 pg=   1 patterns=  1 variants=1  {"global":1}
+chrome           header                   → header                 inst=  522 pg= 522 patterns=  4 variants=2  {"dominoscolab":78,"yumlive":280,"global":164}
+chrome           footer                   → footer                 inst=  522 pg= 522 patterns=  3 variants=2  {"dominoscolab":78,"yumlive":280,"global":164}
+layout families: 14 (73 signatures)

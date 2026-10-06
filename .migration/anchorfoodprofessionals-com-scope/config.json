@@ -1,0 +1,53 @@
+{
+  "siteUrl": "https://www.anchorfoodprofessionals.com/global/en.html",
+  "siteOrigin": "https://www.anchorfoodprofessionals.com",
+  "site": "anchorfoodprofessionals.com",
+  "scope": "Global English site (/global/en) + Domino's Colab (/dominoscolab) + Yum!Live (/yumlive) microsites \u2014 every page",
+  "eyebrow": "Anchor Food Professionals (Fonterra) \u00b7 Site Analysis",
+  "heroTitle": "Structural analysis of anchorfoodprofessionals.com \u2014 Global EN, Domino's Colab & Yum!Live",
+  "heroSub": "",
+  "brandLine": "anchorfoodprofessionals.com<br>Migration Console",
+  "accountName": "Fonterra \u2014 Anchor Food Professionals",
+  "locale": "en (single) \u2014 3 properties",
+  "multiLocale": false,
+  "discovery": "global/en sitemap + scoped link crawl (microsites are robots-disallowed and not in any sitemap)",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/anchorfoodprofessionals-com-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": "",
+  "properties": [
+    {
+      "key": "global",
+      "label": "Global EN",
+      "prefix": "/global/en"
+    },
+    {
+      "key": "dominoscolab",
+      "label": "Domino's Colab",
+      "prefix": "/dominoscolab"
+    },
+    {
+      "key": "yumlive",
+      "label": "Yum!Live",
+      "prefix": "/yumlive"
+    }
+  ],
+  "familyDescriptions": {
+    "yumlive\u00b7article-content-template": "Yum!Live resource articles (trends, pricing & supply-chain updates, concepts of the month): article-header \u203a rich text / video / tables \u203a related-content rail.",
+    "dominoscolab\u00b7article-content-template": "Domino's Colab resource articles \u2014 same article-header \u203a body \u203a related-content structure as Yum!Live, Domino's theme.",
+    "global\u00b7article-content-template": "Global EN inspiration articles & recipes: article-header, body copy, recipe/ingredient tables, related products/articles.",
+    "global\u00b7blank-page-template": "Global EN landing/campaign pages (about-us, solutions, partnerships, chefs, FHA): hero banners, columns, cards, accordions, anchor-links.",
+    "global\u00b7product-detail-template": "Product detail pages: product hero, feature cards, nutrition/spec tables, accordion of specs, related products/recipes.",
+    "global\u00b7standard-content-template": "Utility/legal pages (privacy, terms, contact, search) \u2014 text-led with the contact form and search on dedicated pages.",
+    "global\u00b7secondary-product-category-template": "Product sub-category pages: hero + product-category listing with expandable product details.",
+    "global\u00b7product-category-template": "Top-level product range pages (Our Products, Cream, Cheese, Butter\u2026) \u2014 hero + category tiles + listing.",
+    "dominoscolab\u00b7blank-page-template": "Domino's Colab landing pages (Innovating for You, Toolkit for Growth, Resources with article-listing, Team).",
+    "dominoscolab\u00b7standard-content-template": "Domino's Colab legal/utility pages.",
+    "dominoscolab\u00b7homepage-template": "Domino's Colab home: hero carousel, columns, cards, video.",
+    "global\u00b7homepage-template": "Global EN home: video hero, columns, cards, related-content rail.",
+    "yumlive\u00b7blank-page-template": "Yum!Live landing pages (Test Lab Kitchen, Trends & Insights, Resources listing, Contact the team).",
+    "yumlive\u00b7homepage-template": "Yum!Live home: hero carousel, columns, cards, video."
+  },
+  "blockStrategy": "aem"
+}

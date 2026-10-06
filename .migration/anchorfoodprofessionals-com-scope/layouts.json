@@ -1,0 +1,1408 @@
+{
+ "captured": "2026-10-06T15:35:07.249Z",
+ "renderedPages": 522,
+ "distinctSignatures": 73,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>related-content",
+   "rendered": 225,
+   "estPop": 225,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-food-drink-trends-sea.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-global-consumer-trends-sea.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-global-consumer-trends-anz.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/Consumer-Ethics-Insights.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/Consumer-Behaviour-towards-Dairy.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/Cheese-and-Vegetables-are-The-New-Perfect-Pairing.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/Consumers-Desire-to-Sense-the-Intense-Brings-Pizza-Innovation.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/Fonterra-reduces-CO2e.html"
+   ],
+   "sections": {
+    "article-header": 225,
+    "text": 225,
+    "related-content": 225
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·article-content-template",
+   "family": "dominoscolab · article-content-template",
+   "signature": "[article-content-template] article-header>text>related-content",
+   "rendered": 55,
+   "estPop": 55,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Cheese-and-Vegetables-are-The-New-Perfect-Pairing.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Consumers-Desire-to-Sense-the-Intense-Brings-Pizza-Innovation.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/2023-food-and-drink-trends-sea.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Girl-Dinner-Trend-Indicates-Unmet-Snacking-Needs.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Holiday-Favourites-Fuse-with-Pizza.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Plant-based-Pizza-Picks-Up-in-Popularity.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Salty-Snacks-Boost-Millennials-Moods.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/The-Experience-Economy.html"
+   ],
+   "sections": {
+    "article-header": 55,
+    "text": 55,
+    "related-content": 55
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>related-content",
+   "rendered": 55,
+   "estPop": 55,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/anchor-food-professionals-wins-big.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/asia-pacifics-biggest-bakery-event.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/asian-style-nachos.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/baked-rice.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/banana-caramel-tart.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/banana-passion-roll.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/buldak.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/beef-brisket-pizza.html"
+   ],
+   "sections": {
+    "article-header": 55,
+    "text": 55,
+    "related-content": 55
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>related-content",
+   "rendered": 25,
+   "estPop": 25,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/baby-brioche.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/baked-tiramisu.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/carrot-and-co.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/chicken-liver-parfait.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/cloud-cake.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/feeling-of-flambe.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/four-cheese-tortellini.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/gateau-ardechois.html"
+   ],
+   "sections": {
+    "article-header": 25,
+    "text": 25,
+    "video": 25,
+    "related-content": 25
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>text>related-content",
+   "rendered": 25,
+   "estPop": 25,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-black-garlic-pizza.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-cheese-toastie-pizza.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-chocolate-brownie-pizza.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-cheese-stuffed-pizza-dogs.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-jamaican-jerk-chicken-pizza.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-italian-stretch-pizza.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-mousetrap-scrolls.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-pizza-cornbread-muffins.html"
+   ],
+   "sections": {
+    "article-header": 25,
+    "text": 50,
+    "video": 25,
+    "related-content": 25
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>accordion>columns>related-content",
+   "rendered": 17,
+   "estPop": 17,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-april-2025.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-august-2025.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-december-2024.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-december.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-february-2025.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-jan26.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-january-2025.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-july-2025.html"
+   ],
+   "sections": {
+    "article-header": 17,
+    "text": 17,
+    "accordion": 17,
+    "columns": 17,
+    "related-content": 17
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·article-content-template",
+   "family": "dominoscolab · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>text>related-content",
+   "rendered": 12,
+   "estPop": 12,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Fonterras-Climate-Roadmap.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-fried-chicken-hot-honey-pizza.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-mushroom-tikka-naan-pizza.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-nduja-pasta-with-chorizo.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-pineapple-and-green-chilli-melt.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-open-danish-pastry-pizza-tarts.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-seafood-pizza.html",
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-white-chocolate-raspberry-new-york-cheesecake-pizza.html"
+   ],
+   "sections": {
+    "article-header": 12,
+    "text": 24,
+    "video": 12,
+    "related-content": 12
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>text>accordion>related-content",
+   "rendered": 9,
+   "estPop": 9,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-bulk-butter.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-block-butter.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-lamination-butter-sheets.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-food-professionals-lactic-lamination-butter-sheets.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-extra-stretch-mozzarella-cheese1.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-slice-on-slice-processed-cheese.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream-cheese/anchor-easy-mix-cream-cheese.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-aerosol-whipped-cream.html"
+   ],
+   "sections": {
+    "hero": 9,
+    "cards": 9,
+    "text": 9,
+    "accordion": 9,
+    "related-content": 9
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>related-content>text>columns>related-content",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-christine-de-la-fuente.html",
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-firuz-mohamad-noor.html",
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-ichiro-wong.html",
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-jatuporn-juengmeesuk.html",
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-richard-gao.html",
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-teoh-joo-cheong.html"
+   ],
+   "sections": {
+    "hero": 6,
+    "anchor-links": 6,
+    "text": 12,
+    "related-content": 12,
+    "columns": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>columns>related-content",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/Fonterra-Releases-2021-Sustainability-Report.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/international-cheese-awards.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/kimpichi.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/march-2022-trend-report.html"
+   ],
+   "sections": {
+    "article-header": 4,
+    "text": 4,
+    "columns": 4,
+    "related-content": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>text>related-content",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/anchor-cream-cheese-wins-gold.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/bakery-china-2023.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/female-chefs-excellence.html",
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/sweet-success-world-food-expo.html"
+   ],
+   "sections": {
+    "article-header": 4,
+    "text": 8,
+    "video": 4,
+    "related-content": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·secondary-product-category-template",
+   "family": "global · secondary-product-category-template",
+   "signature": "[secondary-product-category-template] hero>accordion>related-content",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-parchment-butter.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-colby-cheddar-shredded.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-mozzarella-block.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-hi-melt-processed-cheddar.html"
+   ],
+   "sections": {
+    "hero": 4,
+    "accordion": 4,
+    "related-content": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>related-content>text>cards>text>columns>related-content",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-eric-kim.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-eric-kim.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-simon-davey.html"
+   ],
+   "sections": {
+    "hero": 3,
+    "anchor-links": 3,
+    "text": 9,
+    "related-content": 6,
+    "cards": 3,
+    "columns": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·secondary-product-category-template",
+   "family": "global · secondary-product-category-template",
+   "signature": "[secondary-product-category-template] hero>related-content",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-anhydrous-milkfat.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-uht-low-fat-milk.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-uht-low-fat-milk11.html"
+   ],
+   "sections": {
+    "hero": 3,
+    "related-content": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>related-content",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/anchor-stretch-mozzarella.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/product-showcase-september.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/virtual-farm-tour.html"
+   ],
+   "sections": {
+    "article-header": 3,
+    "text": 3,
+    "video": 3,
+    "related-content": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>columns>related-content",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-apr26.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-feb26.html",
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-mar26.html"
+   ],
+   "sections": {
+    "article-header": 3,
+    "text": 3,
+    "columns": 3,
+    "related-content": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text>columns>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "text": 2,
+    "columns": 2,
+    "related-content": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] text>hero>cards>text>hero>text>accordion>text>columns>text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us/solutions/price-lock.html",
+    "https://www.anchorfoodprofessionals.com/global/en/solutions/price-lock.html"
+   ],
+   "sections": {
+    "text": 10,
+    "hero": 4,
+    "cards": 2,
+    "accordion": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/electrolux-giveaway-terms-conditions.html",
+    "https://www.anchorfoodprofessionals.com/global/en/terms-and-conditions.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>read-more>text>related-content>text>cards>text>quote>video>text>columns>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-david-warren.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-david-warren.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "anchor-links": 2,
+    "text": 10,
+    "read-more": 2,
+    "related-content": 4,
+    "cards": 2,
+    "quote": 2,
+    "video": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>related-content>text>cards>text>quote>video>text>columns>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-jean-francois-arnaud.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-jean-francois-arnaud.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "anchor-links": 2,
+    "text": 8,
+    "related-content": 4,
+    "cards": 2,
+    "quote": 2,
+    "video": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>related-content>text>cards>text>quote>text>columns>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-jimmy-griffin.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-jimmy-griffin.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "anchor-links": 2,
+    "text": 8,
+    "related-content": 4,
+    "cards": 2,
+    "quote": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>read-more>text>related-content>text>cards>text>columns>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-judy-koh.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-judy-koh.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "anchor-links": 2,
+    "text": 8,
+    "read-more": 2,
+    "related-content": 4,
+    "cards": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>read-more>text>related-content>text>cards>text>quote>video>text>columns>text>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-steven-ong.html",
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-steven-ong.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "anchor-links": 2,
+    "text": 12,
+    "read-more": 2,
+    "related-content": 4,
+    "cards": 2,
+    "quote": 2,
+    "video": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>accordion>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-minidish-butter1.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-hi-melt-burger-slices.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "accordion": 2,
+    "related-content": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>accordion>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-tinned-butter.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-soft-style-mozzarella-cheese.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "cards": 2,
+    "accordion": 2,
+    "related-content": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>text>video>text>cards>text>accordion>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream-cheese/anchor-cream-cheese-traditional-style.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-whipping-cream.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "text": 6,
+    "video": 2,
+    "cards": 2,
+    "accordion": 2,
+    "related-content": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>text>video>text>accordion>text>related-content",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-chefs-classic-whipping-cream.html",
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-food-professionals-easy-bakery-cream.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "cards": 2,
+    "text": 6,
+    "video": 2,
+    "accordion": 2,
+    "related-content": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·homepage-template",
+   "family": "dominoscolab · homepage-template",
+   "signature": "[homepage-template] carousel>columns>text>cards>video>text>columns>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab"
+   ],
+   "sections": {
+    "carousel": 1,
+    "columns": 2,
+    "text": 3,
+    "cards": 1,
+    "video": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] columns>text>columns>cards>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/innovating-for-you.html"
+   ],
+   "sections": {
+    "columns": 3,
+    "text": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·standard-content-template",
+   "family": "dominoscolab · standard-content-template",
+   "signature": "[standard-content-template] hero>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/privacy-policy.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] hero>text>columns>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/contact-us.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 2,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·standard-content-template",
+   "family": "dominoscolab · standard-content-template",
+   "signature": "[standard-content-template] hero>text>columns>video>text>columns>text>article-listing",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/innovating-for-you/menu-ideation.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 3,
+    "columns": 2,
+    "video": 1,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] hero>text>article-listing>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/resources.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 2,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/terms-and-conditions.html"
+   ],
+   "sections": {
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] hero>text>columns>text>video>text>columns>cards>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/toolkit-for-growth/sustainability-makes-a-difference.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 3,
+    "columns": 3,
+    "video": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] hero>text>columns>cards>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/toolkit-for-growth.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1,
+    "columns": 2,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·standard-content-template",
+   "family": "dominoscolab · standard-content-template",
+   "signature": "[standard-content-template] hero>text>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/your-toolkit-for-growth.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/404.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] hero>text>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/dominoscolab/your-toolkit-for-growth/fonterras-foodservice-business.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·homepage-template",
+   "family": "global · homepage-template",
+   "signature": "[homepage-template] carousel>columns>cards>columns>text>cards>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en.html"
+   ],
+   "sections": {
+    "carousel": 1,
+    "columns": 2,
+    "cards": 2,
+    "text": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>cards",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us/solutions.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text>cards>text>cards",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us/fonterra-research-development-centre.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 2,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>text>cards>hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us/sustainability/cared-for-cows.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "text": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>columns>text>columns>text>cards>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us/sustainability.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 2,
+    "text": 3,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>columns>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/about-us/sustainability/new-zealand-grass-fed-standard.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] contact-form",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/contact-us.html"
+   ],
+   "sections": {
+    "contact-form": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text>accordion>text>accordion>text>accordion>text>accordion",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/digital-guidelines.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 4,
+    "accordion": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] carousel>columns>text>columns>related-content>text>cards>text>accordion>text>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia.html"
+   ],
+   "sections": {
+    "carousel": 1,
+    "columns": 2,
+    "text": 4,
+    "related-content": 2,
+    "cards": 1,
+    "accordion": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] article-listing",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration.html"
+   ],
+   "sections": {
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>cards>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/inspiration/Recipes-with-our-award-winning-mozzarella.html"
+   ],
+   "sections": {
+    "article-header": 1,
+    "text": 1,
+    "cards": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products.html"
+   ],
+   "sections": {
+    "hero": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>text>accordion>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/afp-salted-butter-5kg.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1,
+    "accordion": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-category-template",
+   "family": "global · product-category-template",
+   "signature": "[product-category-template] hero>cards>anchor-links>text>product-category>text>product-category>text>product-category>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "anchor-links": 1,
+    "text": 4,
+    "product-category": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>text>accordion>text>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-food-professionals-cultured-style-butter.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "text": 2,
+    "accordion": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·secondary-product-category-template",
+   "family": "global · secondary-product-category-template",
+   "signature": "[secondary-product-category-template] hero>text>accordion>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-cheddar-block.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1,
+    "accordion": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-category-template",
+   "family": "global · product-category-template",
+   "signature": "[product-category-template] hero>cards>anchor-links>text>product-category>text>product-category>text>product-category>text>product-category>text>product-category",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "anchor-links": 1,
+    "text": 5,
+    "product-category": 5
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>text>video>text>accordion>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-extra-stretch-plus.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "text": 2,
+    "video": 1,
+    "accordion": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-category-template",
+   "family": "global · product-category-template",
+   "signature": "[product-category-template] hero>cards>product-category>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream-cheese.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "product-category": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-category-template",
+   "family": "global · product-category-template",
+   "signature": "[product-category-template] hero>cards>anchor-links>text>product-category>text>product-category>text>product-category",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "anchor-links": 1,
+    "text": 3,
+    "product-category": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>text>accordion>related-content>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-extra-yield-cream.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "cards": 1,
+    "text": 2,
+    "accordion": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] carousel>related-content>columns>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs.html"
+   ],
+   "sections": {
+    "carousel": 1,
+    "related-content": 2,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/partnerships/worldchefs.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text>accordion",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/privacy-policy.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 1,
+    "accordion": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>search",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/search.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "search": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>columns>cards>text>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/global/en/supply-chain.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 2,
+    "cards": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·blank-page-template",
+   "family": "yumlive · blank-page-template",
+   "signature": "[blank-page-template] hero>columns>text>columns>text>columns>text>columns>text>columns>text>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/contact-the-team.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 6,
+    "text": 5
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·blank-page-template",
+   "family": "yumlive · blank-page-template",
+   "signature": "[blank-page-template] hero>article-listing",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·homepage-template",
+   "family": "yumlive · homepage-template",
+   "signature": "[homepage-template] carousel>columns>cards>columns",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive"
+   ],
+   "sections": {
+    "carousel": 1,
+    "columns": 2,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>columns>text>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/happy-halloweeeeeen.html"
+   ],
+   "sections": {
+    "article-header": 1,
+    "text": 2,
+    "columns": 1,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>text>video>related-content",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/resources/virtual-fonterra-farm-tour.html"
+   ],
+   "sections": {
+    "article-header": 1,
+    "text": 2,
+    "video": 2,
+    "related-content": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·blank-page-template",
+   "family": "yumlive · blank-page-template",
+   "signature": "[blank-page-template] hero>columns>article-listing",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/trends-and-insights.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "columns": 1,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "yumlive·blank-page-template",
+   "family": "yumlive · blank-page-template",
+   "signature": "[blank-page-template] hero>cards>text>read-more>hero>text>cards>text>cards",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.anchorfoodprofessionals.com/yumlive/test-lab-kitchen.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "cards": 3,
+    "text": 3,
+    "read-more": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

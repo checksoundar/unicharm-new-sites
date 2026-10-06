@@ -1,0 +1,193 @@
+{
+ "captured": "2026-10-06T15:07:56.652Z",
+ "locales": [],
+ "sections": [
+  "global",
+  "dominoscolab",
+  "yumlive"
+ ],
+ "selInspect": {
+  "totalGroups": 15,
+  "totalLive": 522,
+  "totalUrls": 529,
+  "selectedTotal": 522,
+  "skippedTotal": 7,
+  "non200Total": 7,
+  "nonRrendered": 48,
+  "nonRtotal": 48,
+  "fullGroups": 8,
+  "rRendered": 474,
+  "rTotal": 480,
+  "rGroups": 6,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/yumlive/{section}/{slug}",
+   "label": "Yumlive sub-pages",
+   "total": 250,
+   "selected": 249,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/yumlive/resources/pizza-of-the-month-taco-pizza.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/global/{section}/{page}/{path…}",
+   "label": "Global deep pages",
+   "total": 151,
+   "selected": 150,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/global/en/our-products/cream.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/dominoscolab/{section}/{slug}",
+   "label": "Dominoscolab sub-pages",
+   "total": 59,
+   "selected": 58,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/dominoscolab/resources/downside-price-break.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/yumlive/{section}/{page}",
+   "label": "Yumlive sub-pages",
+   "total": 26,
+   "selected": 26,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/yumlive/resources/yum-live.html"
+  },
+  {
+   "groupId": "G04",
+   "template": "/global/{section}/{page}",
+   "label": "Global sub-pages",
+   "total": 11,
+   "selected": 10,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/global/en/our-products.html"
+  },
+  {
+   "groupId": "G05",
+   "template": "/dominoscolab/{section}/{page}",
+   "label": "Dominoscolab sub-pages",
+   "total": 11,
+   "selected": 11,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/dominoscolab/resources/dominos-colab.html"
+  },
+  {
+   "groupId": "G06",
+   "template": "/dominoscolab/{section}",
+   "label": "Dominoscolab section pages",
+   "total": 5,
+   "selected": 5,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/dominoscolab/innovating-for-you.html"
+  },
+  {
+   "groupId": "G07",
+   "template": "/yumlive/{section}",
+   "label": "Yumlive section pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/yumlive/test-lab-kitchen.html"
+  },
+  {
+   "groupId": "G08",
+   "template": "/global/{section}/{slug}",
+   "label": "Global sub-pages",
+   "total": 4,
+   "selected": 3,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/global/en/terms-and-conditions.html"
+  },
+  {
+   "groupId": "G09",
+   "template": "/dominoscolab/{slug}",
+   "label": "Dominoscolab section pages",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/dominoscolab/your-toolkit-for-growth.html"
+  },
+  {
+   "groupId": "G10",
+   "template": "/global/{section}",
+   "label": "Global section pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/global/en.html"
+  },
+  {
+   "groupId": "G11",
+   "template": "/dominoscolab",
+   "label": "Dominoscolab — landing",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/dominoscolab"
+  },
+  {
+   "groupId": "G12",
+   "template": "/yumlive",
+   "label": "Yumlive — landing",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/yumlive"
+  },
+  {
+   "groupId": "G13",
+   "template": "/yumlive/{slug}",
+   "label": "Yumlive section pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/yumlive/terms-and-conditions.html"
+  },
+  {
+   "groupId": "G14",
+   "template": "/dominoscolab/{id}/{slug}",
+   "label": "Dominoscolab sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/dominoscolab/your-toolkit-for-growth/fonterras-foodservice-business.html"
+  }
+ ]
+}

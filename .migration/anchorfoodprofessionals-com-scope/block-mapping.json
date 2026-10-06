@@ -1,0 +1,85 @@
+{
+  "_about": "Evidence-reviewed classification of every AEM component found by tag-pattern analysis (aem-block-inventory.json). Boilerplate = maps to a block in the EDS boilerplate/Block Collection library (Table, Columns, Cards, Video, Accordion, Hero, Carousel, Tabs, Search, Embed, Quote). Custom = needs bespoke EDS block code. variantRules (first match on the variant's tag pattern / style / modifier tokens) override the component default.",
+
+  "articleheader": { "eds": "article-header", "category": "custom", "complexity": "Medium",
+    "rationale": "On 431 article pages. Tag pattern section(div(rte),div(div(rte),div(div(rte),div)),div)+div[dialog]: title, category chip, publish date and computed read-time are page-metadata driven, plus a share dialog. No Block Collection equivalent — build as an auto-block from page metadata." },
+  "relatedcontent": { "eds": "related-content", "category": "custom", "complexity": "Complex",
+    "rationale": "Query-driven 'related articles / products' rail (data-category, data-card-type) rendered as a slick carousel of linked cards (a(div,div(rte,div),div(rte))+ with prev/next buttons). Cards are selected by tags at runtime, not authored — needs a query-index driven block (carousel + cards behaviour).",
+    "variantRules": [
+      { "mod": "\\bproduct\\b", "eds": "related-content", "category": "custom", "note": "'product' card-type variant (related products, two-column, no slider when ≤2 items) — same custom block, product query." }
+    ] },
+  "articlelisting": { "eds": "article-listing", "category": "custom", "complexity": "Complex",
+    "rationale": "Filterable article listing: tag-filter nav(button+), hidden input state, AJAX endpoint (_jcr_content/…/articlelisting.html, data-tag-id) and 'load more'. Needs a query-index listing block with filters." },
+  "productcategory": { "eds": "product-category", "category": "custom", "complexity": "Medium",
+    "rationale": "Product range listing per category (data-category, data-product-number) with per-product expandable details (button[exp] + div[exp]) and 'Show more' paging — product-data driven list; no standard block combines card list + expand + paging." },
+  "contactform": { "eds": "contact-form", "category": "custom", "complexity": "Complex",
+    "rationale": "18-field enquiry form (country/product selects, checkbox consent, reCAPTCHA data-sitekey) posting to a marketing backend. No form block in the boilerplate library; needs a form block + submission integration." },
+  "anchorlinks": { "eds": "anchor-links", "category": "custom", "complexity": "Simple",
+    "rationale": "Sticky in-page jump navigation (afpHeroBanner-alinks) under the hero on 22 chef/landing pages. Content is a plain link list but the sticky/scroll-spy behaviour needs a small custom block." },
+  "bodyrte": { "eds": "read-more", "category": "custom", "complexity": "Simple",
+    "rationale": "Rich text with a 'Read more / Read less' toggle (data-readmoretext, data-readlesstext, button). Small custom block (or a text variant).",
+    "variantRules": [
+      { "pattern": "^div$", "eds": "default-content", "category": "default-content", "note": "Empty rich-text instance — authored as default content." }
+    ] },
+
+  "homepageherobanner": { "eds": "carousel", "category": "boilerplate", "complexity": "Medium",
+    "rationale": "AEM carousel (data-cmp-hook-carousel, role=group/tabpanel slides, numbered dots) of hero slides → Block Collection Carousel (hero-style slides).",
+    "variantRules": [
+      { "pattern": "video\\(source\\)", "eds": "hero", "category": "boilerplate", "note": "Single-slide with background <video> → Hero (video background variant)." },
+      { "pattern": "^div\\[group\\]\\(div\\[tabpanel\\]\\([^+]*\\)$", "eds": "hero", "category": "boilerplate", "note": "Single-slide carousel → Hero." }
+    ] },
+  "herobanner": { "eds": "hero", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Text + image banner (afpHeroBanner textImage) → Hero. textYouTube variants open a YouTube modal → Hero with video link (Video/modal).",
+    "variantRules": [ { "mod": "textYouTube", "eds": "hero", "category": "boilerplate", "note": "Hero with play button opening a YouTube dialog → Hero + Video (modal) variant." } ] },
+  "productbanner": { "eds": "hero", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Product detail banner (title, product image, enlarge-image dialog) → Hero (product variant) on 29 product pages." },
+  "pagebanner": { "eds": "hero", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Page title banner (afpHeroBanner, background colour) → Hero (text-only / colour variants)." },
+  "leftrightcontent": { "eds": "columns", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Two-column text + media split (div(div(rte)+,div(a)),div(media)) → Columns. Variants differ by media (image / video / YouTube dialog / contact table).",
+    "variantRules": [
+      { "pattern": "iframe\\[youtube\\]", "eds": "columns", "category": "boilerplate", "note": "Columns with a YouTube dialog on the media side → Columns + Video (modal)." },
+      { "pattern": "table\\(", "eds": "columns", "category": "boilerplate", "note": "Team-contact layout (photo + details table) → Columns (contacts variant)." }
+    ] },
+  "iconcards": { "eds": "cards", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Repeated card items (img, rte, optional CTA / whole-card link) → Cards. Modifier tokens (twoColumn/threeColumn, images/icons, simple, headlineCopy) become Cards variants.",
+    "variantRules": [
+      { "pattern": "div\\(div\\(img\\),div\\(div\\(div\\(img\\)", "eds": "columns", "category": "boilerplate", "note": "headlineCopy layout: lead image beside a list of icon + text features → Columns." },
+      { "pattern": "^div\\(div\\(img\\),div\\(div\\(rte\\)\\+\\)\\)$", "eds": "columns", "category": "boilerplate", "note": "Single image + text item → Columns." },
+      { "pattern": "div\\(a\\(div\\(rte\\)\\),div\\(a\\(rte\\),rte\\)\\)", "eds": "cards", "category": "boilerplate", "note": "Year-by-year history grid (timeline look) — Cards with a 'timeline' variant style." }
+    ] },
+  "accordionItem": { "eds": "accordion", "category": "boilerplate", "complexity": "Medium",
+    "rationale": "aria-expanded header + collapsible panel (div[exp](div(rte)),div[exp](...)). AEM authors one component per item; EDS Accordion groups consecutive items. Panels that nest other components (@iconcards, @gridlayout) need nested-block content (Medium)." },
+  "catalogueCalculatorPromo": { "eds": "columns", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Promo strip: heading/copy left, icon + label + CTA right → Columns." },
+  "testimonials": { "eds": "quote", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Single pull-quote (afpTestimonials) → Block Collection Quote." },
+  "video": { "eds": "video", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "YouTube poster image + data-video (ytvideo) → Block Collection Video (YouTube with placeholder image)." },
+  "search": { "eds": "search", "category": "boilerplate", "complexity": "Medium",
+    "rationale": "Site search results page (query form, product + article hit lists, paging data-hitsperpage) → Block Collection Search, re-pointed from the AEM search servlet to the EDS query index." },
+
+  "text": { "eds": "default-content", "category": "default-content", "complexity": "Simple",
+    "rationale": "AEM rich-text component → EDS default content.",
+    "variantRules": [
+      { "pattern": "table\\(", "eds": "table", "category": "boilerplate", "note": "Rich text containing a <table> (nutritional / spec / recipe tables) → Table block." },
+      { "style": "afpDefaultBtn", "eds": "default-content", "category": "default-content", "note": "Button styled link → default-content button." }
+    ] },
+  "title": { "eds": "default-content", "category": "default-content", "complexity": "Simple", "rationale": "Heading → default content." },
+  "sectionheader": { "eds": "default-content", "category": "default-content", "complexity": "Simple", "rationale": "Section heading + intro copy → default content (section style)." },
+  "image": { "eds": "default-content", "category": "default-content", "complexity": "Simple", "rationale": "Image (optionally linked) → default-content picture." },
+  "anchor": { "eds": "default-content", "category": "default-content", "complexity": "Simple", "rationale": "Invisible anchor target (div(a)) → not migrated; EDS sections/headings provide ids." },
+
+  "gridlayout": { "eds": "section", "category": "section", "complexity": "Simple",
+    "rationale": "Layout component → EDS section; background / width modifiers (bgDigitalDarkBlue, bgWhite, bgred, narrow, fullwidth…) → section-metadata styles.",
+    "variantRules": [
+      { "pattern": "^div\\(div\\(@[a-zA-Z]+\\)(,div\\(@[a-zA-Z]+\\))+\\)$", "eds": "columns", "category": "boilerplate", "note": "Grid row with side-by-side child components (e.g. text | image) → Columns." }
+    ] },
+  "container": { "eds": "section", "category": "section", "complexity": "Simple", "rationale": "Page root container → EDS page body / sections." },
+  "responsivegrid": { "eds": "section", "category": "section", "complexity": "Simple", "rationale": "Layout container → EDS section." },
+
+  "header": { "eds": "header", "category": "chrome", "complexity": "Complex",
+    "rationale": "Experience-fragment header. Global EN = mega-menu (nested dropdown panels, back buttons, search form); Domino's Colab / Yum!Live share a simpler nav + search. → EDS header fragment (nav document) per property." },
+  "footer": { "eds": "footer", "category": "chrome", "complexity": "Simple",
+    "rationale": "Experience-fragment footer (link columns, logo, back-to-top). Global EN and the two microsites use different footers → one EDS footer fragment per property." }
+}

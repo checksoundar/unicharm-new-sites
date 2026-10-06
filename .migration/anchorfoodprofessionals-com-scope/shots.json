@@ -1,0 +1,280 @@
+{
+ "captured": "2026-10-06T15:36:47.263Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>related-content",
+   "estPop": 225,
+   "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-food-drink-trends-sea.html",
+   "file": "t00_yumlive·article-content-template.jpg",
+   "captured": true,
+   "bytes": 411419
+  },
+  {
+   "idx": 1,
+   "name": "dominoscolab·article-content-template",
+   "family": "dominoscolab · article-content-template",
+   "signature": "[article-content-template] article-header>text>related-content",
+   "estPop": 55,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Cheese-and-Vegetables-are-The-New-Perfect-Pairing.html",
+   "file": "t01_dominoscolab·article-content-template.jpg",
+   "captured": true,
+   "bytes": 392606
+  },
+  {
+   "idx": 2,
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>related-content",
+   "estPop": 55,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/anchor-food-professionals-wins-big.html",
+   "file": "t02_global·article-content-template.jpg",
+   "captured": true,
+   "bytes": 597232
+  },
+  {
+   "idx": 3,
+   "name": "global·article-content-template",
+   "family": "global · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>related-content",
+   "estPop": 25,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/baby-brioche.html",
+   "file": "t03_global·article-content-template.jpg",
+   "captured": true,
+   "bytes": 568619
+  },
+  {
+   "idx": 4,
+   "name": "yumlive·article-content-template",
+   "family": "yumlive · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>text>related-content",
+   "estPop": 25,
+   "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-black-garlic-pizza.html",
+   "file": "t04_yumlive·article-content-template.jpg",
+   "captured": true,
+   "bytes": 332348
+  },
+  {
+   "idx": 6,
+   "name": "dominoscolab·article-content-template",
+   "family": "dominoscolab · article-content-template",
+   "signature": "[article-content-template] article-header>text>video>text>related-content",
+   "estPop": 12,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Fonterras-Climate-Roadmap.html",
+   "file": "t06_dominoscolab·article-content-template.jpg",
+   "captured": true,
+   "bytes": 792945
+  },
+  {
+   "idx": 7,
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>cards>text>accordion>related-content",
+   "estPop": 9,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-bulk-butter.html",
+   "file": "t07_global·product-detail-template.jpg",
+   "captured": true,
+   "bytes": 348862
+  },
+  {
+   "idx": 8,
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>related-content>text>columns>related-content",
+   "estPop": 6,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-christine-de-la-fuente.html",
+   "file": "t08_global·blank-page-template.jpg",
+   "captured": true,
+   "bytes": 343342
+  },
+  {
+   "idx": 11,
+   "name": "global·secondary-product-category-template",
+   "family": "global · secondary-product-category-template",
+   "signature": "[secondary-product-category-template] hero>accordion>related-content",
+   "estPop": 4,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-parchment-butter.html",
+   "file": "t11_global·secondary-product-category-template.jpg",
+   "captured": true,
+   "bytes": 362704
+  },
+  {
+   "idx": 12,
+   "name": "global·blank-page-template",
+   "family": "global · blank-page-template",
+   "signature": "[blank-page-template] hero>anchor-links>text>related-content>text>cards>text>columns>related-content",
+   "estPop": 3,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-eric-kim.html",
+   "file": "t12_global·blank-page-template.jpg",
+   "captured": true,
+   "bytes": 552777
+  },
+  {
+   "idx": 13,
+   "name": "global·secondary-product-category-template",
+   "family": "global · secondary-product-category-template",
+   "signature": "[secondary-product-category-template] hero>related-content",
+   "estPop": 3,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-anhydrous-milkfat.html",
+   "file": "t13_global·secondary-product-category-template.jpg",
+   "captured": true,
+   "bytes": 288356
+  },
+  {
+   "idx": 16,
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text>columns>related-content",
+   "estPop": 2,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/about-us.html",
+   "file": "t16_global·standard-content-template.jpg",
+   "captured": true,
+   "bytes": 588789
+  },
+  {
+   "idx": 18,
+   "name": "global·standard-content-template",
+   "family": "global · standard-content-template",
+   "signature": "[standard-content-template] hero>text",
+   "estPop": 2,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/electrolux-giveaway-terms-conditions.html",
+   "file": "t18_global·standard-content-template.jpg",
+   "captured": true,
+   "bytes": 619515
+  },
+  {
+   "idx": 24,
+   "name": "global·product-detail-template",
+   "family": "global · product-detail-template",
+   "signature": "[product-detail-template] hero>accordion>related-content",
+   "estPop": 2,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-minidish-butter1.html",
+   "file": "t24_global·product-detail-template.jpg",
+   "captured": true,
+   "bytes": 203774
+  },
+  {
+   "idx": 28,
+   "name": "dominoscolab·homepage-template",
+   "family": "dominoscolab · homepage-template",
+   "signature": "[homepage-template] carousel>columns>text>cards>video>text>columns>text",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab",
+   "file": "t28_dominoscolab·homepage-template.jpg",
+   "captured": true,
+   "bytes": 383793
+  },
+  {
+   "idx": 29,
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] columns>text>columns>cards>columns",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab/innovating-for-you.html",
+   "file": "t29_dominoscolab·blank-page-template.jpg",
+   "captured": true,
+   "bytes": 459919
+  },
+  {
+   "idx": 30,
+   "name": "dominoscolab·standard-content-template",
+   "family": "dominoscolab · standard-content-template",
+   "signature": "[standard-content-template] hero>text",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab/privacy-policy.html",
+   "file": "t30_dominoscolab·standard-content-template.jpg",
+   "captured": true,
+   "bytes": 200945
+  },
+  {
+   "idx": 31,
+   "name": "dominoscolab·blank-page-template",
+   "family": "dominoscolab · blank-page-template",
+   "signature": "[blank-page-template] hero>text>columns>text",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab/contact-us.html",
+   "file": "t31_dominoscolab·blank-page-template.jpg",
+   "captured": true,
+   "bytes": 488245
+  },
+  {
+   "idx": 32,
+   "name": "dominoscolab·standard-content-template",
+   "family": "dominoscolab · standard-content-template",
+   "signature": "[standard-content-template] hero>text>columns>video>text>columns>text>article-listing",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/dominoscolab/innovating-for-you/menu-ideation.html",
+   "file": "t32_dominoscolab·standard-content-template.jpg",
+   "captured": true,
+   "bytes": 920411
+  },
+  {
+   "idx": 40,
+   "name": "global·homepage-template",
+   "family": "global · homepage-template",
+   "signature": "[homepage-template] carousel>columns>cards>columns>text>cards>related-content",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/global/en.html",
+   "file": "t40_global·homepage-template.jpg",
+   "captured": true,
+   "bytes": 647638
+  },
+  {
+   "idx": 53,
+   "name": "global·product-category-template",
+   "family": "global · product-category-template",
+   "signature": "[product-category-template] hero>cards>anchor-links>text>product-category>text>product-category>text>product-category>text",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter.html",
+   "file": "t53_global·product-category-template.jpg",
+   "captured": true,
+   "bytes": 387355
+  },
+  {
+   "idx": 56,
+   "name": "global·product-category-template",
+   "family": "global · product-category-template",
+   "signature": "[product-category-template] hero>cards>anchor-links>text>product-category>text>product-category>text>product-category>text>product-category>text>product-category",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese.html",
+   "file": "t56_global·product-category-template.jpg",
+   "captured": true,
+   "bytes": 454004
+  },
+  {
+   "idx": 66,
+   "name": "yumlive·blank-page-template",
+   "family": "yumlive · blank-page-template",
+   "signature": "[blank-page-template] hero>columns>text>columns>text>columns>text>columns>text>columns>text>columns",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/yumlive/contact-the-team.html",
+   "file": "t66_yumlive·blank-page-template.jpg",
+   "captured": true,
+   "bytes": 817358
+  },
+  {
+   "idx": 67,
+   "name": "yumlive·blank-page-template",
+   "family": "yumlive · blank-page-template",
+   "signature": "[blank-page-template] hero>article-listing",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/yumlive/resources.html",
+   "file": "t67_yumlive·blank-page-template.jpg",
+   "captured": true,
+   "bytes": 592510
+  },
+  {
+   "idx": 68,
+   "name": "yumlive·homepage-template",
+   "family": "yumlive · homepage-template",
+   "signature": "[homepage-template] carousel>columns>cards>columns",
+   "estPop": 1,
+   "url": "https://www.anchorfoodprofessionals.com/yumlive",
+   "file": "t68_yumlive·homepage-template.jpg",
+   "captured": true,
+   "bytes": 506296
+  }
+ ]
+}

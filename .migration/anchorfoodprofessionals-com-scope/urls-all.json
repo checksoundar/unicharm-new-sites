@@ -1,0 +1,2820 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-10-06T14:54:06.890Z",
+    "totalUrls": 530,
+    "totalDocuments": 169,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 692,
+      "redirect": 2,
+      "clientError": 4,
+      "serverError": 1,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-chefs-classic-whipping-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-extra-yield-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-culinary-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-whipping-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-aerosol-whipped-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream/anchor-food-professionals-easy-bakery-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-hi-melt-processed-cheddar.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-cheddar-block.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-slice-on-slice-processed-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-extra-stretch-plus.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-colby-cheddar-shredded.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-mozzarella-block.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-hi-melt-burger-slices.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-soft-style-mozzarella-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cheese/anchor-extra-stretch-mozzarella-cheese1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream-cheese/anchor-cream-cheese-traditional-style.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/cream-cheese/anchor-easy-mix-cream-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-bulk-butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-block-butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-parchment-butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-lamination-butter-sheets.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-anhydrous-milkfat.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-food-professionals-lactic-lamination-butter-sheets.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-tinned-butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/afp-salted-butter-5kg.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-uht-low-fat-milk.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-uht-low-fat-milk11.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-minidish-butter1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/our-products/butter/anchor-food-professionals-cultured-style-butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-steven-ong.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-david-warren.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-jean-francois-arnaud.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-judy-koh.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-jimmy-griffin.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-eric-kim.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/our-chefs/chef-simon-davey.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/partnerships/worldchefs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/Recipes-with-our-award-winning-mozzarella.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/butter-naturally-pure.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/choosing-the-right-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/female-chefs-excellence.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/march-2022-trend-report.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/Fonterra-Releases-2021-Sustainability-Report.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/international-cheese-awards.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/ready-to-reopen.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/delivering-exellence.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/creamy-mushroom-soup.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/regal-shake-recipe.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/lychee-dragon-fruit-smoothie-recipe.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/anchor-cream-cheese-wins-gold.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/global-partnership-with-worldchefs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/tarte-a-la-mangue.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/vanilla-cream-blueberry-pavlova.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/roselle-raspberry-hibiscus-cream-choux.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/sable-au-caramel.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/asian-style-nachos.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/baked-rice.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/buldak.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cheese-on-rice.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cheese-stuffed-meatballs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cheesy-dipping-bowl.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cheesy-egg-roll.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cheesy-tteokbokki.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/chicken-cheese-arancini.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/fire-chicken-cutlet-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/naan-with-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/rice-in-cheesy-sauce.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/roasted-cauliflower-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/meatball-bread-bowl.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/thick-cut-fried-toast-with-curry-chicken.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/kimchi-cheese-focaccia.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/croizza-banh-mi.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/shenzhens-new-space.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/asia-pacifics-biggest-bakery-event.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/moulin-rouge.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/st-honore.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/mr-blueberry.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cherry-clafoutis.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/banana-passion-roll.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/beef-brisket-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/bakery-china-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/new-york-cheesecake.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/milk-chocolate-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/four-cheese-tortellini.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/gambas-chorizo-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/lamb-shank-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/penne-vodka.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/pumpkin-pistachio-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/seafood-bisque-tagliatelle.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/ricotta-gnocchi.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/mandarin-cheesecake.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/chefs-who-are-world-class.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/anchor-food-professionals-wins-big.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/collaborating-to-grow-our-chinese-market.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/sweet-success-world-food-expo.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/smoked-salmon-terrine.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/dairy-gets-creative.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/nz-pm-visit-to-fonterra-china.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/green-grass-golden-butter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/gateau-ardechois.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/tortellini-squash-and-pumpkin.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/pork-breast-cauliflower.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/cloud-cake.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/carrot-and-co.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/baked-tiramisu.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/baby-brioche.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/feeling-of-flambe.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/lamb-pea-puree.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/chicken-liver-parfait.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/new-test-kitchen-space.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/salmon-soup.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/scallops-barley.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/sora-dessert.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/food-hotel-malaysia-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/ciie-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/everyday-nutrition.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/tropical-pie.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/shortbread.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/banana-caramel-tart.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/rabbit-ragout.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/heirloom-tomato-salad.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/joaquim-cake.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/pain-suisse.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/kimpichi.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/smoked-ham-cheddar-mousse.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/mango-sticky-rice-tart.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us/solutions.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us/solutions/price-lock.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us/sustainability.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us/sustainability/new-zealand-grass-fed-standard.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us/sustainability/cared-for-cows.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/about-us/fonterra-research-development-centre.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/supply-chain.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/contact-us.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/terms-and-conditions.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/404.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/search.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/digital-guidelines.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/solutions.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/solutions/price-lock.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-steven-ong.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-david-warren.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-jean-francois-arnaud.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-judy-koh.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-jimmy-griffin.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-eric-kim.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-ichiro-wong.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-teoh-joo-cheong.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-christine-de-la-fuente.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-jatuporn-juengmeesuk.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-richard-gao.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/foodnhotelasia/chef-firuz-mohamad-noor.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/electrolux-giveaway-terms-conditions.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/innovating-for-you.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/toolkit-for-growth.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/your-toolkit-for-growth.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/contact-us.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/dominos-colab.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/downside-price-break.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/toolkit-for-growth/sustainability-makes-a-difference.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/innovating-for-you/menu-ideation.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/terms-and-conditions.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/privacy-policy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/test-lab-kitchen.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/trends-and-insights.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/contact-the-team.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-taco-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/why-free-stuff-makes-us-irrational.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/world-first-trial-in-sustainable-electricity-storage.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/yum-live.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/trends-report-september.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Salty-Snacks-Boost-Millennials-Moods.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/team-member-showcase-tamsin.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/terms-and-conditions.html",
+        "status": 301
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/privacy-policy.html",
+        "status": 301
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/inspiration/dtanjong-katong.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/global/en/%7B%7Bthis.path%7D%7D",
+        "status": 404
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/product-range.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/our-mozzarella.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-paella-pizza.html",
+        "status": 404
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/cheese-powder.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/price-collar.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-january-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/behavioural-hub.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/carbon-conscious-mozzarella.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/what-makes-us-unique.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/your-toolkit-for-growth/fonterras-foodservice-business.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/i-like-the-sound-of-that.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-seafood-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-pricing-update-may-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-may-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-pineapple-and-green-chilli-melt.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/more-cheese-please.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-april-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-pricing-update-april-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/chef-dannys-menu-ideation-trip.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-nduja-pasta-with-chorizo.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-april-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/nzmp-carbon-footprinter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/healthy-cows.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/sustainability-in-malaysia.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/ev-tanker.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/fonterra-increases-emissions-reduction-ambitions.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Fonterras-Climate-Roadmap.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-white-chocolate-raspberry-new-york-cheesecake-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-open-danish-pastry-pizza-tarts.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-fried-chicken-hot-honey-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-meatball-pots.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-seasoned-pasta-chips.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/concept-of-the-month-mushroom-tikka-naan-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-february-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-pricing-update-february-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-march-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-pricing-update-march-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-pricing-update-december-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-december-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/experience-fonterra-virtual-visit.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-july-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-august-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-september-20231.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-october-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/global-supply-chain-disruptions-update-november-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-march-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/The-Experience-Economy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Girl-Dinner-Trend-Indicates-Unmet-Snacking-Needs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Plant-based-Pizza-Picks-Up-in-Popularity.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-december-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-january-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/the-impact-of-inflation-on-consumer-behaviour.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/2023-food-and-drink-trends-sea.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/nostalgia-sells.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-august-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/sweet-heat-the-new-flavour-trend.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Consumers-Desire-to-Sense-the-Intense-Brings-Pizza-Innovation.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-september-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Cheese-and-Vegetables-are-The-New-Perfect-Pairing.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/The-Rise-of-Jackfruit.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/kidulting-sees-adults-seek-nostalgia-wherever-they-can.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Salty-Snacks-Boost-Millennials-Moods.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-october-20231.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/sauces-dips-and-spreads-whats-trending.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/The-Importance-of-Real-Social-Connection-Skyrockets.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/trends-report-november-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/dominoscolab/resources/Holiday-Favourites-Fuse-with-Pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-cheese-stuffed-pizza-dogs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-pizza-pot-pie.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-pizzadilla.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-crispy-pizza-crusts.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Cheese-and-Vegetables-are-The-New-Perfect-Pairing.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/kidulting-sees-adults-seek-nostalgia-wherever-they-can.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-december-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/shaping-the-future-of-foodservice-key-consumer-and-market-trends-for-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-apr-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-mar-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-feb-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-jan-2026.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-october-20251.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-apr26.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-mar26.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-feb26.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-jan26.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-december.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-october-20251.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/patatas-bravas-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-rise-of-jackfruit.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-pizza-cornbread-muffins.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Pizza-Restaurants-US-2023-Report.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/The-Importance-of-Real-Social-Connection-Skyrockets.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Plant-based-Pizza-Picks-Up-in-Popularity.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-spicy-meatball-sliders.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-july-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Sauces-Dips-and-Spreads-Whats-Trending.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-october-20231.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/sweet-heat-the-new-flavour-trend.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-september-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-december-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Consumers-Desire-to-Sense-the-Intense-Brings-Pizza-Innovation.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Could-Protein-be-the-Fibre-of-the-Future-in-Bread.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Fun-Flavours-and-Textures-is-Giving-Ice-Cream-a-New-Edge.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-november-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-august-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Girl-Dinner-Trend-Indicates-Unmet-Snacking-Needs.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-black-garlic-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/exploring-flavour-and-ingredient-trends-in-foodservice.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Holiday-Favourites-Fuse-with-Pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-chocolate-brownie-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-january--2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-june-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-global-consumer-trends-anz.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/whats-next-for-gluten-free.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/nostalgia-sells.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-cinnamon-scrolls.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-april-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/target-millennials-with-smoothies.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-cheese-toastie-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-january.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-global-consumer-trends-sea.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/2023-food-drink-trends-sea.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/trends-report-november.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/coffee-as-a-new-snack-flavour.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/international-cheese-day.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-may-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/whats-next-in-beverages.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-jamaican-jerk-chicken-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/shine-muscat-as-new-flavour-trend.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-mousetrap-scrolls.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/dessert-cheese-offers-new-sweet-savory-experiences.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/are-pizza-bowls-on-your-menu.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/experiences-driving-trends.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-future-of-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/lifetime-achievement-award-goes-to-pizza-hut.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-november.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-may-trends-report-june.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-october.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-spicy-calamari.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fathers-day-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/trends-report-july.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-may-trends-report.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-world-of-shopping-videos.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Pizza-of-the-month-elburrito-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/micro-nutrients.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/what-is-loaded.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/italian-tuna-chilli-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/happy-halloweeeeeen.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/what-is-mochi.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/spiced-paneer-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/build-your-own-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/sichuan-chilli-prawn.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/korean-fried-chicken.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-mushroom-bolognaise-parmesan.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-spciy-calamari-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-month-sweet-apple-pie-and-custard.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-rosemary-pide.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-spicy-beef-pizza0.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month-breakfast-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-of-the-month---lamb-merguez-.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/march-pizza-of-month-hangi-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/african-berbere-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-march-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/concept-of-the-month-italian-stretch-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-april-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/spanish-melt-with-tomato-salsa.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/more-cheese-please.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-monthly-trends-report-may-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/surf-and-turf-melt.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/tropical-pie-melt.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/i-like-the-sound-of-that.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/behavioural-hub-sustainability-studies-singapore.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/behavioural-hub-sustainability-studies-australia.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/behavioural-hub-sustainability-studies-taiwan.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chris-lava-cake-experience.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/tiktok---modern-day-marketing.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/dos-scarcity-make-you-dumb.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/behavioral-hub-cognitive-bias.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-rise-in-plant-based-products-APAC.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/choice-overload.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/leveraging-artificial-intelligence-and-the-metaverse.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/sustainability---what-is-important-to-consumers-in-ksa--kingdom-.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/menu-ideation-dessert-concept.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/an-overview-of--mintel-s-latest-2021-apac-trends-in-sustainabili.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/menu-ideation-appetisers-concept.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/breakfast-manakish.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/sustainability-in-malaysia.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/menu-ideation-process.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/virtual-farm-tour.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/wat-er-we-doing-across-the-co-op-.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-ghee-product-showcase-ghee.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/valentines-chinese-new-year-menu-inspiration.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-june-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-june-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-july-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-august-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-august-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-november-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-november-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-december-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-december-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-january-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-january-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-february-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-february-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-december-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-september-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-july-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-november-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-january-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-august-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/waitoa-wood-biomass-boiler.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-november-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterras-climate-roadmap.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/team-member-showcase-eddy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/team-member-showcase-debi.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-increases-emissions-reduction-ambitions.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-delivering-on-decarbonisation.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-october-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/team-member-showcase-hailey1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-may-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/meet-tamsin.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/team-member-showcase-andrew.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pizza-hut-pizza-hunt.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/celebrating-fonterras-100th-ev.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-april-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/kiwi-summer.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/new-sustainability-finance-framework.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-december-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-january-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-february-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-march-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/procurement-award.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-november-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-electric-fleet.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-and-nestle-partner-for-a-more-sustainable-future.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-june-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-february-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-february-20241.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/new-zealands-very-first-electric-milk-tanker.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-august-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-yum-team-visits-you-part-two.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-october-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/winning-mozzarella.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/how-fonterra-celebrate-world-milk-day.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-yum-team-visits-you-part-one.html",
+        "status": 500
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/product-showcase-June0.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-yum-wins-award.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-july-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-disruptions-update-june-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Fonterra-reduces-CO2e.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-september-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-new-fonterra-track-and-trace-report.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-sustainability---healthy-people--healthy-environment--h.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/yum-live1.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/downside-price-break.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/price-collar.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/why-daily-dairy-is-good-for-you.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/lowest-carbon-mozzarella.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/people-environment-business.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/healthy-cows.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-disruptions-update---february-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-disruptions-update---march-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/bathurst-racing-weekend-pizza-hut.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/help-chef-danny-create-your-dream-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-disruptions-update-april-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-brings-biodiversity-to-the-forefront-of-farms.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-disruptions-update---may-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Consumer-Behaviour-towards-Dairy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/stirling-cheese-plant-moves-to-renewable-energy.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-march-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-march-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/nzmp-carbon-footprinter.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/chef-dannys-menu-ideation-trip.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-april-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-april-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-september-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-september-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-october-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-october-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-may-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-may-2024.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-march-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-march-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-april-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-april-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/cognitive-bias-status-quo-bias.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/consumers-want-convenience-for-breakfast.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/product-showcase-cheese-pro-cream.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/cognitive-bias-risk-aversion.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-evolving-world-of-salty-snacks.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/anchor-stretch-mozzarella.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/festive-spending.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/cognitive-bias-social-proof.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/product-showcase-march.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/future-foodservice-customers.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/catering-to-gen-zs-late-night-noshing-habits.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/takeaway-packaging.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/competitive-strategies-opportunities-foodservice-2023.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-impact-of-inflation-on-consumer-behaviour.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/snacking-consumers-balance-enjoyment-with-health.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/unlocking-pizza-permissibility-through-fibre.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/a-year-of-innovation-in-pizza-2022.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/gypsy-day.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/pineapple-on-pizza.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-rise-of-gen-z.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/impulse-purchasing-declines.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-august.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/whats-going-on-around-farms-in-NZ.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/redefining-value-is-a-key-trend.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/focus-on-breakfast.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/a-day-on-the-farm.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-june.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/product-showcase-september.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/how-consumers-respond-to-inflation.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/product-showcase-cream-cheese.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/Consumer-Ethics-Insights.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/professional-perspective.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-super-bowl-of-food-.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/the-growth-of-probiotics-in-the-apac-region.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/welcome-visit-to-fonterra.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/ksa-sustainability.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/fonterra-virtual-farm-tour.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/virtual-fonterra-farm-tour.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-may-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-june-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-september-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-july-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-august-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-pricing-update-october-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-may-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-june-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-july-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-august-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-september-2025.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/yumlive/resources/global-supply-chain-update-october-2025.html",
+        "status": 200
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/afp/global/recipe/global/AnchorFP-Kimchi-Pizza-Chicken-Recipe-Card.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/afp/global/docs/pdf/PriceIndexFinal.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/Dominos-Team-Contact-Details-updated.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Menu_Ideation_Process.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/contact-the-team/download/yum-live-contact-the-team-v3.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Yum-Pizza-of-the-month_Pizza-Taco_Sep22.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Consumer-Behaviour2_Free-Stuff.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Trends-Report-Sept.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/Product-Range.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/product-showcase-cheese-powder.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-January24.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/archive/Dominos-Team-Contact-Details.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Seafood-Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-pricing-update/Pricing-Update-May-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-May24.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Pineapple-and-Green-Chilli-Melt.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-April24.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-pricing-update/Pricing-Update-April-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Spicy-Nduja-Penne-with-Chorizo.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/trends-report/Trends-Report-April-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-White-Chocolate-Raspberry-New-York-Cheesecake-Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Open%20Danish%20Pastry%20Pizza%20Tarts.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Three%20Cheese%20Hot%20Honey%20Fried%20Chicken%20Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Meatball-Pots.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Pasta%20Chippies.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/concept-of-the-month/COTM-Mushroom%20Tikka%20Naan%20Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-February24.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-pricing-update/Pricing-Update-February-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-March24.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-pricing-update/Pricing-Update-March-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-pricing-update/Pricing-Update-December-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-December23.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Disruptions-Update-July23.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Disruptions-Update-August23.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Disruptions-Update-September23.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Disruptions-Update-October23.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/global-supply-chain-disruptions-update/Global-Supply-Chain-Update-November23.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/trends-report/Trends-Report-March-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/trends-report/Trends-Report-December-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/trends-report/Trends-Report-January-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/trends-report/Trends-Report-August-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/articles/monthly-trends-report/Trends-Report-September-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/articles/monthly-trends-report/Trends-Report-October-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/dominos-colab/pdfs/trends-report/Trends-Report-November-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Cheese-Stuffed-Pizza-Dogs.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Pizza-Pot-Pie.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Pizzadilla.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Crispy-Pizza-Crusts.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-December-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-%20April%202026.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-march-2026.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-feb-2026.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-%20January%202026.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-%20November%202025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/patatas-bravas-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Pizza-Cornbread-Muffins.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Spicy-Meatball-Sliders.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/trends-report-july-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-October-20231.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/trends-report-september-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-December-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-November-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/trends-report-august-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Black-Garlic-Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Chocolate-brownie-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-January-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/trends-report-june-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Cinnamon-Scrolls.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/trends-report-april-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/february-concept-of-the-month.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/january-concept-of-the-month.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/trends-report-november.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/trends-report-may-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Jamaican-Jerk-Chicken-Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/march-concept-of-the-month.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/november-concept-of-the-month.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Trends-Report-June.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Trends-report-october.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/pizza-of-months/june-spicy-calamari.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/fathers-day-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/trends-report-july.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Trends-Report-May.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/pizza-of-month-october.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Italian-Tuna-Chilli-Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/pizza-of-month-mushroom-bolognaise.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/pizza-of-months/july-sweet-apple-custard.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/pizza-month/pizza-of-the-month-rosemary-pide.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Spicy-beef-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/pizza-of-months/may-pizza-of-month-breakfast-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Lamb-Merguez-Feb.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/march-pizza-of-month-hangi-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/october-2021/african-berbere-pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-March-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/COTM-Italian-Stretch-Pizza.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-april-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/Spanish-Melt-with-Tomato-Salsa.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/monthly-trends-report/Trends-Report-may-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/Surf-n-Turf-Melt.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/concept-of-the-month/tropical-pie-melt.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/QSR-Singapore-Sustainability-Claims-Report.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/QSR-Australia-Sustainability-Claims-Report.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/QSR-Taiwan-Sustainability-Claims-Report.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/choice-overload.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Yum!-Menu_Dessert.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Yum!-Menu_Appetisers.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Yum!-Menu_Breakfast.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/fonterra-ghee-infographic-1.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/yum-live-inspo-year-of-the-tigervalentines.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-June-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-june-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-july-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-august-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-august-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/YUM%20global-pricing-update-Nov-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-December-2024%20.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-January%202025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-february-2025-yum.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-december-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-september-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-july-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-pricing-update-November-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-january-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-august-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-november-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-october-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-may-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-april-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Global-Supply-Chain-Update-December.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/310123-global-supply-chain-update-yumlive.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-chain-update-february.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-chain-update-march-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/211122GSCupdatenovember.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-june-2023.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-February2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-february-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Global-Pricing-Update_May2022_Yum.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-chain-update-august.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-shipping-update-october.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Cheese-powder.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Global-Supply-Chain-Update-July.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-update-june.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-chain-update-sept.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-chain-update-feb-2022.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-chai-update-march-2022.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Supply-Chain-Update-April.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-supply-update-may.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-march-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-march-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-april-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-april-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-september-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-october-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-may-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-supply-chain-update/global-supply-chain-update-may-2024.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-March%202025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-April%202025%20.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/product-showcase/Product-Showcase_cheese-pro-cream.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Product-Showcase_cheese-powder.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-pricing-update-august-2022.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/global-pricing-update-June.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Product-Showcase-September.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/october-2021/cream-cheese-showcase.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/documents/Professional-Perspective-July.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-may-2025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-june-2025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-september-2025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-july-2025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-august-2025.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.anchorfoodprofessionals.com/content/dam/yum/page/articles/global-pricing-update/global-pricing-update-October-2025.pdf",
+        "status": 200
+      }
+    ]
+  }
+}
