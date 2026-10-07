@@ -19,6 +19,21 @@ if (fs.existsSync(outFile) && fs.statSync(outFile).size > 2) {
 
 const docExt = ['.pdf', '.doc', '.docx', '.xls', '.xlsx', '.ppt', '.pptx', '.txt', '.csv', '.zip', '.rar'];
 const imgExt = ['.jpg', '.jpeg', '.png', '.gif', '.svg', '.webp', '.ico', '.bmp', '.tiff', '.avif'];
+// A URL that redirected (crawl-scoped records finalUrl) is a redirect, not a page: mark it 301
+// and make sure its same-origin target is inventoried — prevents /content/<site>/... aliases and
+// trailing-slash variants from being rendered twice.
+{
+  const have = new Set(raw.map((it) => (typeof it === 'string' ? it : it.url)));
+  const extra = [];
+  for (const it of raw) {
+    if (typeof it === 'string' || !it.finalUrl) continue;
+    const target = it.finalUrl.split(/[?#]/)[0];
+    if (target === it.url) continue;
+    if (it.status === 200) it.status = 301;
+    try { if (new URL(target).origin === new URL(it.url).origin && !have.has(target)) { have.add(target); extra.push({ url: target, status: 200, from: it.url }); } } catch (e) { /* skip */ }
+  }
+  raw.push(...extra);
+}
 const urls = []; const documents = [];
 const sb = { success: 0, redirect: 0, clientError: 0, serverError: 0, errorTimeout: 0 };
 for (const it of raw) {

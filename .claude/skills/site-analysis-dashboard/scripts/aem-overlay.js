@@ -13,8 +13,8 @@ const fs = require('fs');
 const path = require('path');
 
 const CAT_LABEL = { custom: 'Custom', boilerplate: 'Boilerplate', 'default-content': 'Default content', section: 'Section', chrome: 'Header / Footer' };
-const EDS_LABEL = { hero: 'Hero', cards: 'Cards', columns: 'Columns', carousel: 'Carousel', accordion: 'Accordion', tabs: 'Tabs', video: 'Video', embed: 'Embed', table: 'Table', form: 'Form', quote: 'Quote', search: 'Search', fragment: 'Fragment', 'default-content': 'Default content', section: 'Section (layout)', header: 'Header', footer: 'Footer' };
-const BOILER_ORDER = ['hero', 'cards', 'columns', 'carousel', 'accordion', 'tabs', 'video', 'embed', 'table', 'quote', 'search', 'form', 'fragment'];
+const EDS_LABEL = { hero: 'Hero', cards: 'Cards', columns: 'Columns', carousel: 'Carousel', accordion: 'Accordion', tabs: 'Tabs', video: 'Video', embed: 'Embed', table: 'Table', form: 'Form', quote: 'Quote', search: 'Search', breadcrumbs: 'Breadcrumbs', fragment: 'Fragment', 'default-content': 'Default content', section: 'Section (layout)', header: 'Header', footer: 'Footer' };
+const BOILER_ORDER = ['hero', 'cards', 'columns', 'carousel', 'accordion', 'tabs', 'video', 'embed', 'table', 'quote', 'search', 'breadcrumbs', 'form', 'fragment'];
 
 function apply({ DATA, METHOD, METHOD_IMAGES, IMAGES, CF, CFG, b64, SITE_ORIGIN, nf }) {
   const inv = JSON.parse(fs.readFileSync(path.join(CF, 'aem-block-inventory.json'), 'utf8'));

@@ -22,6 +22,7 @@ node -e "require('playwright-core')" 2>/dev/null || { echo "❌ playwright-core 
 
 cfg(){ node -e "console.log((JSON.parse(require('fs').readFileSync('$CF/config.json')).$1)||'')"; }
 SITE_URL="$(cfg siteUrl)"; SITE_ORIGIN="$(cfg siteOrigin)"
+[ -n "$(cfg renderSample)" ] && RENDER_SAMPLE="$(cfg renderSample)"
 [ -z "$SITE_URL" ] && SITE_URL="$SITE_ORIGIN"
 
 echo "▶ catalog: $CF"; echo "▶ site: $SITE_URL"
@@ -30,7 +31,10 @@ echo "▶ catalog: $CF"; echo "▶ site: $SITE_URL"
 if [ "${CJK:-0}" = "1" ]; then bash "$SKILL_DIR/install-cjk-font.sh" "$CF"; fi
 
 # --- 1. URL discovery (crawl) -> urls-all.json ---
-if [ ! -f "$CF/urls-all.json" ]; then
+if [ ! -f "$CF/urls-all.json" ] && [ -n "$(cfg crawl)" ]; then
+  echo "▶ [1/12] scoped crawl (config.crawl)"; node "$SKILL_DIR/crawl-scoped.js" "$CF" > "$CF/crawl.log" 2>&1
+  node "$SKILL_DIR/build-urls-all.js" "$CF"
+elif [ ! -f "$CF/urls-all.json" ]; then
   echo "▶ [1/12] crawling $SITE_URL (this can take a while for large sites)"
   CRAWL="$(find /home/node/.excat-marketplaces -name crawl-site.js -path '*url-discovery*' 2>/dev/null | head -1)"
   NODE_OPTIONS="--max-old-space-size=8192" node "$CRAWL" "$SITE_URL" --max-pages "$MAX_PAGES" --delay 350 --timeout 15000 --max-retries 1 --checkpoint-file "$CF/crawl-checkpoint.json" --logFile "$CF/catalog.log" > "$CF/.crawl.out" 2>>"$CF/catalog.log"
@@ -49,10 +53,10 @@ echo "▶ [4/12] cluster layouts + detect front-end integrations"; node "$SKILL_
 # --- 5. capture block instances -> blocks.jsonl + blocks/ ---
 #     Classifies blocks incl. tabs/carousel/accordion/video via structural+ARIA signals
 #     (class-agnostic — works on hashed/Next.js markup, not just semantic class names).
-echo "▶ [5/12] capture block instances (resumable)"; node "$SKILL_DIR/capture-blocks.js" "$CF" --concurrency "$CONCURRENCY"
+if [ "$(cfg blockStrategy)" != "aem" ]; then echo "▶ [5/12] capture block instances (resumable)"; node "$SKILL_DIR/capture-blocks.js" "$CF" --concurrency "$CONCURRENCY"; else echo "▶ [5/12] generic block capture skipped (AEM mode)"; fi
 
 # --- 6. consolidate blocks -> block-catalog.json ---
-echo "▶ [6/12] consolidate block variants"; node "$SKILL_DIR/consolidate-blocks.js" "$CF"
+[ "$(cfg blockStrategy)" != "aem" ] && { echo "▶ [6/12] consolidate block variants"; node "$SKILL_DIR/consolidate-blocks.js" "$CF"; }
 
 # --- 5b/6b. AEM Sites sources: component tag-pattern analysis (config.blockStrategy = "aem") ---
 #      Walks the real aem-Grid component tree, fingerprints every instance by normalised HTML

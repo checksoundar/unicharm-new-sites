@@ -90,10 +90,15 @@ for (const [k, v] of Object.entries(groups)) {
 patternGroups.sort((a, b) => b[1].length - a[1].length);
 
 // 4 + 5: render set = sampled pattern pages + ALL long-tail pages
+// Optional config.fullPrefixes: path prefixes whose pages are ALWAYS rendered in full
+// (e.g. the primary locale), while recurring templates elsewhere are sampled.
+let FULL = [];
+try { FULL = JSON.parse(fs.readFileSync(path.join(CF, 'config.json'), 'utf8')).fullPrefixes || []; } catch (e) { /* none */ }
+const isFull = (u) => FULL.some((p) => new URL(u).pathname.startsWith(p));
 const renderSet = new Set();
 const groupMeta = {};
 for (const [k, v] of patternGroups) {
-  const picks = sample(v, SAMPLE_N);
+  const picks = [...new Set([...sample(v.filter((u) => !isFull(u)), SAMPLE_N), ...v.filter(isFull)])];
   picks.forEach((u) => renderSet.add(u));
   groupMeta[k] = { total: v.length, rendered: picks.length, type: 'pattern', label: groupLabel[k] || '' };
 }
@@ -102,6 +107,25 @@ for (const [k, v] of longTail) {
   groupMeta[k] = { total: v.length, rendered: v.length, type: 'long-tail', label: groupLabel[k] || '' };
 }
 
+// Optional config.stratifiedSample = { sample: 4, localeSegments: 2, maxDepth: 6 }: when URL templates
+// are too coarse (deep multi-locale trees collapse into one shape), additionally sample every
+// (locale, top-level section, depth) stratum so each locale/section is inspected.
+let STRAT = null;
+try { STRAT = JSON.parse(fs.readFileSync(path.join(CF, 'config.json'), 'utf8')).stratifiedSample || null; } catch (e) { /* none */ }
+if (STRAT) {
+  const strata = {};
+  for (const u of pages) {
+    if (isFull(u)) continue;
+    const s = new URL(u).pathname.split('/').filter(Boolean);
+    const L = STRAT.localeSegments || 2;
+    const k = [s.slice(0, L).join('/'), (s[L] || '(home)').replace(/\.html$/, ''), Math.min(s.length, STRAT.maxDepth || 6)].join('|');
+    (strata[k] = strata[k] || []).push(u);
+  }
+  let added = 0;
+  for (const v of Object.values(strata)) for (const u of sample(v, STRAT.sample || 4)) { if (!renderSet.has(u)) added++; renderSet.add(u); }
+  console.error(`stratified sample: ${Object.keys(strata).length} strata, +${added} pages`);
+  for (const [k, v] of Object.entries(groups)) if (groupMeta[k]) groupMeta[k].rendered = v.filter((u) => renderSet.has(u)).length;
+}
 const renderList = [...renderSet].sort();
 
 fs.writeFileSync(path.join(CF, 'groups.json'), JSON.stringify({

@@ -34,16 +34,36 @@ const { chromium } = require('playwright-core');
 
 
 // ---------------- runs in the browser ----------------
-function extractAem() {
+function extractAem(opts) {
+  opts = opts || {};
   const LAYOUT = new Set(['container', 'responsivegrid', 'gridlayout', 'layoutcontainer', 'columncontrol', 'parsys']);
   const INLINE = new Set(['span', 'strong', 'em', 'b', 'i', 'u', 'br', 'sup', 'sub', 'small', 'font', 'wbr', 'abbr', 'mark', 's']);
   const SKIP = new Set(['script', 'style', 'noscript', 'template', 'link', 'meta']);
   const FLOW = new Set(['p', 'ul', 'ol', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6', 'blockquote', 'hr', 'rte']);
   const MAXD = 16;
   // component boundary: aem-Grid column, or a direct child of a simple-layout container (.cmp-container)
-  const isCmp = (el) => el.nodeType === 1 && !el.classList.contains('aem-Grid') && !SKIP.has(el.tagName.toLowerCase())
-    && (el.classList.contains('aem-GridColumn') || (el.parentElement && (el.parentElement.classList.contains('aem-Grid') || el.parentElement.classList.contains('cmp-container'))));
-  const cmpName = (el) => (Array.from(el.classList).find((c) => !/^aem-/.test(c)) || el.tagName.toLowerCase());
+  // config.componentSelector (non-grid sites, e.g. legacy parsys one-pagers) replaces the grid rules
+  const isCmp = opts.selector
+    ? (el) => el.nodeType === 1 && el.matches(opts.selector)
+    : (el) => el.nodeType === 1 && !el.classList.contains('aem-Grid') && !SKIP.has(el.tagName.toLowerCase())
+      && (el.classList.contains('aem-GridColumn') || (el.parentElement && (el.parentElement.classList.contains('aem-Grid') || el.parentElement.classList.contains('cmp-container'))));
+  // AEM SPA (React) grid columns carry only aem-* classes: name the component by its root element's
+  // BEM block class instead (e.g. "fast-facts__wrapper" -> "fast-facts")
+  const cmpName = (el) => {
+    const own = Array.from(el.classList).find((c) => !/^aem-/.test(c) && !(opts.ignoreClasses || []).includes(c));
+    if (own) return own;
+    // walk down the first-child chain (≤4 levels) for a meaningful class: skip aem-*, configured
+    // generic wrappers (opts.ignoreClasses, e.g. "vv-component"), state (is-*/has-*) and BEM elements
+    const ok = (c) => !/^aem-/.test(c) && !/^(is|has|js)-/.test(c) && !/__/.test(c) && !(opts.ignoreClasses || []).includes(c);
+    if (el.firstElementChild && el.firstElementChild.classList.contains('aem-Grid')) return 'responsivegrid'; // SPA nested grid = layout
+    let n = el;
+    for (let d = 0; d < 4 && n; d++) {
+      n = Array.from(n.children).find((c) => !SKIP.has(c.tagName.toLowerCase()));
+      const t = n && Array.from(n.classList).find(ok);
+      if (t) return t.split('--')[0];
+    }
+    return el.tagName.toLowerCase();
+  };
   const styleTokens = (el) => Array.from(el.classList).filter((c) => !/^aem-/.test(c)).slice(1);
   const visible = (el) => { const r = el.getBoundingClientRect(); const s = getComputedStyle(el); return r.width > 0 && r.height > 0 && s.visibility !== 'hidden' && s.display !== 'none'; };
   function iframeHost(f) { const s = f.getAttribute('src') || f.getAttribute('data-src') || ''; if (/youtube|youtu\.be/.test(s)) return 'youtube'; if (/vimeo/.test(s)) return 'vimeo'; if (/brightcove|players\.brightcove/.test(s)) return 'brightcove'; if (/google\.com\/maps/.test(s)) return 'gmaps'; return s ? 'ext' : 'blank'; }
@@ -106,18 +126,20 @@ function extractAem() {
   }
   const recs = []; const seq = [];
   let ord = 0;
-  function visit(el, parent, depth, topLevel) {
-    let name = cmpName(el);
-    let chrome = null;
+  function visit(el, parent, depth, topLevel, forceChrome) {
+    let name = forceChrome || cmpName(el);
+    let chrome = forceChrome || null;
     if (name === 'experiencefragment') {
       const xf = el.querySelector('.cmp-experiencefragment');
       if (xf && /--header/.test(xf.className)) chrome = 'header'; else if (xf && /--footer/.test(xf.className)) chrome = 'footer';
     }
+    // a top-level grid component named header/footer/navigation is page chrome too
+    if (!chrome && depth === 0 && /^(header|footer|navigation|globalheader|globalfooter)$/i.test(name)) chrome = /footer/i.test(name) ? 'footer' : 'header';
     const paths = new Set(); const nested = [];
     // chrome (header/footer XF) is fingerprinted flat — its inner components ARE its structure
     const pattern = pat(el, 0, el, '', paths, nested, !!chrome);
     const r = el.getBoundingClientRect();
-    const isLayout = LAYOUT.has(name) || (name === 'experiencefragment' && !chrome);
+    const isLayout = LAYOUT.has(name.toLowerCase()) || (name === 'experiencefragment' && !chrome);
     const kids = nested.filter((n) => n.getBoundingClientRect().height > 0);
     // a layout container whose visible child components sit on one row = columns layout
     let cols = 0; const rows = [];
@@ -142,35 +164,55 @@ function extractAem() {
     for (const n of nested) visit(n, chrome || name, depth + 1, topLevel && isLayout);
   }
   // top-level components = components with no component ancestor
-  const all = Array.from(document.querySelectorAll('.aem-GridColumn, .aem-Grid > *, .cmp-container > *')).filter(isCmp);
+  const all = Array.from(document.querySelectorAll(opts.selector || '.aem-GridColumn, .aem-Grid > *, .cmp-container > *')).filter(isCmp);
   const hasCmpAncestor = (el) => { for (let p = el.parentElement; p; p = p.parentElement) if (isCmp(p)) return true; return false; };
   const tops = all.filter((el) => !hasCmpAncestor(el));
   for (const t of tops) visit(t, null, 0, true);
+  // header/footer landmarks rendered outside the component tree (older AEM templates hard-code them
+  // in the page component): record the outermost <header>/<nav>/<footer> not already covered
+  if (!recs.some((r) => r.cmp === 'header') || !recs.some((r) => r.cmp === 'footer')) {
+    const covered = (el) => el.closest('[data-sadblk]') || el.querySelector('[data-sadblk]');
+    const lms = Array.from(document.querySelectorAll('header, nav, footer, [role=banner], [role=contentinfo]'))
+      .filter((el) => !covered(el) && !el.parentElement.closest('header, nav, footer, [role=banner], [role=contentinfo]'));
+    for (const lm of lms) {
+      const kind = /footer/i.test(lm.tagName) || lm.getAttribute('role') === 'contentinfo' ? 'footer' : 'header';
+      if (recs.some((r) => r.cmp === kind)) continue;
+      if (lm.getBoundingClientRect().height < 20 && !lm.querySelector('a')) continue;
+      visit(lm, null, 0, true, kind);
+    }
+  }
   const tmpl = (document.querySelector('meta[name=template]') || {}).content || '';
   return { recs, seq, template: tmpl, title: document.title, h1: (document.querySelector('h1') || {}).innerText || '', lang: document.documentElement.lang, aemGrid: all.length };
 }
 
 // hide fixed/sticky overlays (sticky header, JS cookie bar, chat widgets) so element crops are clean
-// (header/footer chrome is shot after restoreOverlays())
-function hideOverlays() {
-  const CHROME = '.cmp-experiencefragment--header,.cmp-experiencefragment--footer';
+// Before each crop: hide every fixed/sticky element (sticky header, fixed nav, cookie bar, chat
+// widget) that is neither the target, nor an ancestor or descendant of it; also hide the header
+// XF (it re-appears on scroll-up) unless the target is inside it. Uses opacity, which children
+// cannot override (visibility can be re-declared visible by a child).
+// A stylesheet !important rule is used (not inline style) so page scripts that animate the
+// element's inline opacity (fullPage-style scrollers, scroll-reveal headers) cannot undo it.
+// opts.hideSelectors (config.hideSelectors) adds site-specific chrome to always hide.
+function hideOverlays(arg) {
+  const targetId = arg && typeof arg === 'object' ? arg.id : arg; const extraSelectors = arg && typeof arg === 'object' ? arg.extra : [];
+  for (const el of document.querySelectorAll('[data-sadhidden]')) el.removeAttribute('data-sadhidden'); // self-contained: runs in the page
+  if (!document.getElementById('sad-hide-css')) {
+    const st = document.createElement('style'); st.id = 'sad-hide-css';
+    st.textContent = '[data-sadhidden]{opacity:0 !important;pointer-events:none !important}';
+    document.head.appendChild(st);
+  }
+  const t = targetId ? document.querySelector(`[data-sadblk="${targetId}"]`) : null;
+  const related = (el) => t && (el === t || el.contains(t) || t.contains(el));
+  const hide = (el) => el.setAttribute('data-sadhidden', '1');
   for (const el of document.querySelectorAll('body *')) {
     const p = getComputedStyle(el).position;
-    if (p !== 'fixed' && p !== 'sticky') continue;
-    const inContent = el.closest('[data-sadblk]') && !el.closest(CHROME);
-    if (inContent || el.querySelector('[data-sadblk]:not(' + CHROME.split(',').map((c) => c + ' *').join(',') + ')')) continue;
-    el.style.setProperty('opacity', '0', 'important'); el.setAttribute('data-sadhidden', '1');
+    if ((p === 'fixed' || p === 'sticky') && !related(el)) hide(el);
   }
-  // the header XF re-appears on scroll (scroll-up reveal) — hide it outright for content crops
-  for (const el of document.querySelectorAll('.cmp-experiencefragment--header')) { el.style.setProperty('opacity', '0', 'important'); el.setAttribute('data-sadhidden', '1'); }
+  const extra = ['.cmp-experiencefragment--header'].concat(extraSelectors || []).join(',');
+  for (const el of document.querySelectorAll(extra)) if (!related(el)) hide(el);
 }
 function restoreOverlays() {
-  for (const el of document.querySelectorAll('[data-sadhidden]')) { el.style.removeProperty('opacity'); el.removeAttribute('data-sadhidden'); }
-  // keep the cookie bar / chat widgets hidden: anything fixed outside the header/footer XF
-  for (const el of document.querySelectorAll('body *')) {
-    const p = getComputedStyle(el).position;
-    if ((p === 'fixed' || p === 'sticky') && !el.closest('.cmp-experiencefragment--header,.cmp-experiencefragment--footer,[data-sadblk]')) el.style.setProperty('opacity', '0', 'important');
-  }
+  for (const el of document.querySelectorAll('[data-sadhidden]')) el.removeAttribute('data-sadhidden');
 }
 
 async function autoScroll(page) {
@@ -195,6 +237,8 @@ async function main() {
   const shotCount = {};
   if (fs.existsSync(OUT_P)) for (const l of fs.readFileSync(OUT_P, 'utf8').split('\n')) { try { const r = JSON.parse(l); if (r.status === 'ok') done.add(r.url); } catch (e) { /* skip */ } }
   if (fs.existsSync(OUT_C)) for (const l of fs.readFileSync(OUT_C, 'utf8').split('\n')) { try { const r = JSON.parse(l); if (r.file) shotCount[r.cmp + ':' + r.hash] = (shotCount[r.cmp + ':' + r.hash] || 0) + 1; } catch (e) { /* skip */ } }
+  const CFG = JSON.parse(fs.readFileSync(path.join(CF, 'config.json'), 'utf8'));
+  const EXOPTS = { selector: CFG.componentSelector || '', ignoreClasses: CFG.ignoreClasses || [], hideSelectors: CFG.hideSelectors || [] };
   const todo = urls.filter((u) => !done.has(u));
   console.error(`Render set ${urls.length}, done ${done.size}, todo ${todo.length}`);
 
@@ -211,12 +255,8 @@ async function main() {
         await page.waitForTimeout(800); await autoScroll(page); await page.waitForTimeout(600);
         // dismiss cookie banners that would overlay crops
         await page.evaluate(() => { document.querySelectorAll('#onetrust-consent-sdk,.cookie-banner,#CybotCookiebotDialog').forEach((e) => e.remove()); }).catch(() => {});
-        const data = await page.evaluate(extractAem);
-        await page.evaluate(hideOverlays).catch(() => {});
-        data.recs.sort((x, y) => (x.chrome ? 1 : 0) - (y.chrome ? 1 : 0)); // content first, chrome last
-        let restored = false;
+        const data = await page.evaluate(extractAem, EXOPTS);
         for (const r of data.recs) {
-          if (r.chrome && !restored) { await page.evaluate(restoreOverlays).catch(() => {}); restored = true; }
           r.hash = crypto.createHash('md5').update(r.cmp + '|' + r.pattern).digest('hex').slice(0, 10);
           const k = r.cmp + ':' + r.hash;
           const rec = { pageUrl: url, ...r };
@@ -224,7 +264,7 @@ async function main() {
             shotCount[k] = (shotCount[k] || 0) + 1;
             const file = `${r.cmp.replace(/[^a-z0-9-]/gi, '')}_${r.hash}_${shotCount[k]}.jpg`;
             try {
-              if (!r.chrome) await page.evaluate(hideOverlays).catch(() => {});
+              await page.evaluate(hideOverlays, { id: r.tagId, extra: EXOPTS.hideSelectors }).catch(() => {});
               await page.locator(`[data-sadblk="${r.tagId}"]`).first().screenshot({ path: path.join(BLOCKS_DIR, file), type: 'jpeg', quality: 72, timeout: 15000 });
               rec.file = file; shots++;
             } catch (e) { shotCount[k] -= 1; rec.shotErr = (e.message || '').split('\n')[0].slice(0, 80); }

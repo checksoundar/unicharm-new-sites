@@ -34,9 +34,19 @@ const JACCARD = parseFloat(arg('--jaccard', '0.8'));
 const CFG = JSON.parse(fs.readFileSync(path.join(CF, 'config.json'), 'utf8'));
 const ORIGIN = CFG.siteOrigin;
 const rdl = (f) => fs.readFileSync(path.join(CF, f), 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l));
-const comps = rdl('aem-components.jsonl');
+// de-duplicate: a capture interrupted mid-page and resumed re-records that page's components
+const comps = (() => {
+  const seen = new Set();
+  return rdl('aem-components.jsonl').filter((c) => {
+    const k = [c.pageUrl, c.cmp, c.hash, c.depth, c.parent, c.box && c.box.top, c.box && c.box.h].join('|');
+    if (seen.has(k)) return false; seen.add(k); return true;
+  });
+})();
 const aemPages = rdl('aem-pages.jsonl').filter((p) => p.status === 'ok');
-const MAP = fs.existsSync(path.join(CF, 'block-mapping.json')) ? JSON.parse(fs.readFileSync(path.join(CF, 'block-mapping.json'), 'utf8')) : {};
+// mapping = optional shared library (config.sharedMapping, e.g. one per brand family) overlaid by
+// the site's own <CF>/block-mapping.json; keys starting with "_" are comments
+const readMap = (f) => (f && fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {});
+const MAP = Object.fromEntries(Object.entries({ ...readMap(CFG.sharedMapping), ...readMap(path.join(CF, 'block-mapping.json')) }).filter(([k]) => !k.startsWith('_')));
 const PROPS = CFG.properties || null; // optional [{key,label,prefix}]
 const propOf = (u) => {
   const p = u.replace(ORIGIN, '');
