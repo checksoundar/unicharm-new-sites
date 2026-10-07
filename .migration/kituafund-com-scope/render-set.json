@@ -1,0 +1,19 @@
+{
+ "captured": "2026-10-07T04:56:18.593Z",
+ "strategy": "pattern-groups(>=2) sampled to 100000; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 11,
+ "renderCount": 11,
+ "urls": [
+  "https://www.kituafund.com/global/en.html",
+  "https://www.kituafund.com/global/en/board-and-investment-committee.html",
+  "https://www.kituafund.com/global/en/footer-links.html",
+  "https://www.kituafund.com/global/en/news.html",
+  "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+  "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+  "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+  "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html",
+  "https://www.kituafund.com/global/en/partners.html",
+  "https://www.kituafund.com/global/en/team.html",
+  "https://www.kituafund.com/global/en/terms-and-conditions.html"
+ ]
+}

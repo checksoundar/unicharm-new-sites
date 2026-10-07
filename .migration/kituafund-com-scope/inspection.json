@@ -1,0 +1,81 @@
+{
+ "captured": "2026-10-07T05:33:45.327Z",
+ "locales": [],
+ "sections": [
+  "global"
+ ],
+ "selInspect": {
+  "totalGroups": 5,
+  "totalLive": 11,
+  "totalUrls": 30,
+  "selectedTotal": 11,
+  "skippedTotal": 19,
+  "non200Total": 19,
+  "nonRrendered": 3,
+  "nonRtotal": 3,
+  "fullGroups": 2,
+  "rRendered": 8,
+  "rTotal": 23,
+  "rGroups": 2,
+  "exclTotal": 4,
+  "exclGroups": 1,
+  "nonEnExcluded": 4
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/global/{section}/{page}/{path…}",
+   "label": "Global deep pages",
+   "total": 18,
+   "selected": 4,
+   "skipped": 14,
+   "non200": 14,
+   "category": "sampled",
+   "example": "/global/en/footer-links/cookie-statement.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/global/{section}/{page}",
+   "label": "Global sub-pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/global/en/footer-links.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/global/{section}/{id}/{path…}",
+   "label": "Global deep pages",
+   "total": 4,
+   "selected": 0,
+   "skipped": 4,
+   "non200": 4,
+   "category": "excluded",
+   "example": "/global/en/board-and-investment-committee/komal-mistry-mehta.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/global/{section}/{slug}",
+   "label": "Global sub-pages",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/global/en/board-and-investment-committee.html"
+  },
+  {
+   "groupId": "G04",
+   "template": "/global/{section}",
+   "label": "Global section pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/global/en.html"
+  }
+ ]
+}

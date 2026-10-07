@@ -1,0 +1,15 @@
+pages=6 instances=66 components=13 exactPatterns=25 variants=21
+custom           did-you-know             → did-you-know           inst=    6 pg=   5 patterns=  3 variants=1  {"site":6}
+custom           fast-facts               → fast-facts             inst=    5 pg=   5 patterns=  4 variants=3  {"site":5}
+custom           end-of-stage             → stage-navigation       inst=    5 pg=   5 patterns=  1 variants=1  {"site":5}
+custom           timeline                 → timeline               inst=    4 pg=   4 patterns=  3 variants=2  {"site":4}
+custom           sustainability-commitments → image-hotspots         inst=    3 pg=   3 patterns=  1 variants=1  {"site":3}
+custom           stage-menu               → stage-menu             inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      stage-intro              → hero                   inst=    5 pg=   5 patterns=  1 variants=1  {"site":5}
+boilerplate      meet-the-people          → cards                  inst=    2 pg=   2 patterns=  1 variants=1  {"site":2}
+boilerplate      video-page               → video                  inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+default-content  section-divider          → default-content        inst=   21 pg=   5 patterns=  1 variants=1  {"site":21}
+default-content  div                      → default-content        inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+section          responsivegrid           → section                inst=    6 pg=   6 patterns=  5 variants=5  {"site":6}
+chrome           header                   → header                 inst=    6 pg=   6 patterns=  2 variants=2  {"site":6}
+layout families: 1 (5 signatures)

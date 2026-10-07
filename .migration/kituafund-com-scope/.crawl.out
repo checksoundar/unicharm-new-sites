@@ -1,0 +1,170 @@
+[
+ {
+  "url": "https://www.kituafund.com/global/en.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/footer-links.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/footer-links/cookie-statement.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.fonterra.com/nz/en/cookies-statement.html"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/footer-links/ki-tua-linkedin.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F97176448%2F"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/footer-links/privacy.html",
+  "status": 200,
+  "from": "sitemap",
+  "finalUrl": "https://www.kituafund.com/global/en/terms-and-conditions.html"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/footer-links/terms-and-conditions.html",
+  "status": 200,
+  "from": "sitemap",
+  "finalUrl": "https://www.kituafund.com/global/en/terms-and-conditions.html"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/xin-ma.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/xin-ma-3451706"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/hamish-gowans.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/hamish-gowans-282a8a34"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/brian-fu.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/baoyinfu"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/jeremy-hill.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/jeremy-hill-93b4a52"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/paul-mcjarrow.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/paul-mcjarrow-60881324/"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/sneha-chatterjee.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/snehachatterjee/"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/rachel-resek.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/rachelresek"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/ranjani-varadan.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/ranjanivaradan"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/board-and-investment-committee.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/board-and-investment-committee/komal-mistry-mehta.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/komalmistrymehta"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/team/william-robertson.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/-williamrobertson"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/board-and-investment-committee/mike-cronin.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/mike-cronin-638830124"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/board-and-investment-committee/rodolphe-barrangou.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/rodolphe-barrangou-797b5328"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/terms-and-conditions.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/board-and-investment-committee/bill-liao.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/in/billliao"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/news.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/kitua-linkedin.html",
+  "status": 301,
+  "from": "sitemap",
+  "finalUrl": "https://www.linkedin.com/uas/login?session_redirect=%2Fcompany%2F97176448%2F"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/news/articles.html",
+  "status": 404,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/partners.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+  "status": 200,
+  "from": "sitemap"
+ }
+]

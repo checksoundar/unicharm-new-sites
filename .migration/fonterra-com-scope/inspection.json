@@ -1,0 +1,321 @@
+{
+ "captured": "2026-10-07T10:34:39.628Z",
+ "locales": [
+  "nz",
+  "au",
+  "jp",
+  "cn",
+  "eu",
+  "lk"
+ ],
+ "sections": [
+  "sea",
+  "americas",
+  "content"
+ ],
+ "selInspect": {
+  "totalGroups": 26,
+  "totalLive": 10258,
+  "totalUrls": 11036,
+  "selectedTotal": 1742,
+  "skippedTotal": 9294,
+  "non200Total": 778,
+  "nonRrendered": 11,
+  "nonRtotal": 11,
+  "fullGroups": 3,
+  "rRendered": 1731,
+  "rTotal": 10984,
+  "rGroups": 14,
+  "exclTotal": 41,
+  "exclGroups": 9,
+  "nonEnExcluded": 41
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{page}/{path…}/{path…}",
+   "label": "Locale deep pages",
+   "total": 7367,
+   "selected": 1262,
+   "skipped": 6105,
+   "non200": 244,
+   "category": "sampled",
+   "example": "/nz/en/our-co-operative/fonterra-farmers/organic-farming.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/sea/{section}/{page}/{path…}",
+   "label": "Sea deep pages",
+   "total": 1901,
+   "selected": 50,
+   "skipped": 1851,
+   "non200": 146,
+   "category": "sampled",
+   "example": "/sea/en/about-us/our-co-op-story.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/americas/{section}/{page}/{path…}",
+   "label": "Americas deep pages",
+   "total": 981,
+   "selected": 35,
+   "skipped": 946,
+   "non200": 36,
+   "category": "sampled",
+   "example": "/americas/en/about-us/our-co-op-story.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{locale}/{section}/{page}/{path…}",
+   "label": "Locale deep pages",
+   "total": 180,
+   "selected": 82,
+   "skipped": 98,
+   "non200": 91,
+   "category": "sampled",
+   "example": "/nz/en/our-co-operative/our-strategy.html"
+  },
+  {
+   "groupId": "G04",
+   "template": "/{locale}/{section}/{page}/{slug}",
+   "label": "Locale deep pages",
+   "total": 140,
+   "selected": 59,
+   "skipped": 81,
+   "non200": 76,
+   "category": "sampled",
+   "example": "/nz/en/our-co-operative/governance-and-management.html"
+  },
+  {
+   "groupId": "G05",
+   "template": "/{locale}/{section}/{page}",
+   "label": "Locale sub-pages",
+   "total": 140,
+   "selected": 96,
+   "skipped": 44,
+   "non200": 44,
+   "category": "sampled",
+   "example": "/nz/en/our-co-operative.html"
+  },
+  {
+   "groupId": "G06",
+   "template": "/{locale}/{section}/{page}/{id}/{path…}",
+   "label": "Locale deep pages",
+   "total": 89,
+   "selected": 60,
+   "skipped": 29,
+   "non200": 12,
+   "category": "sampled",
+   "example": "/nz/en/our-co-operative/governance-and-management/code-of-conduct-and-policies.html"
+  },
+  {
+   "groupId": "G07",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 56,
+   "selected": 25,
+   "skipped": 31,
+   "non200": 31,
+   "category": "sampled",
+   "example": "/nz/en/terms-and-conditions.html"
+  },
+  {
+   "groupId": "G08",
+   "template": "/sea/{section}/{page}",
+   "label": "Sea sub-pages",
+   "total": 35,
+   "selected": 24,
+   "skipped": 11,
+   "non200": 11,
+   "category": "sampled",
+   "example": "/sea/en/about-us.html"
+  },
+  {
+   "groupId": "G09",
+   "template": "/content/{section}/{page}/{path…}",
+   "label": "Content deep pages",
+   "total": 33,
+   "selected": 15,
+   "skipped": 18,
+   "non200": 8,
+   "category": "sampled",
+   "example": "/content/dam/fonterra-public-website/fonterra-new-zealand/documents/pdf/tax-principles/fonterra-fy25-eu-pcbcr.xhtml"
+  },
+  {
+   "groupId": "G10",
+   "template": "/{locale}/{section}/{id}/{path…}/{path…}",
+   "label": "Locale deep pages",
+   "total": 23,
+   "selected": 1,
+   "skipped": 22,
+   "non200": 22,
+   "category": "sampled",
+   "example": "/nz/en/what-we-stand-for/nutrition/dairy-nutrition.html"
+  },
+  {
+   "groupId": "G11",
+   "template": "/americas/{section}/{page}",
+   "label": "Americas sub-pages",
+   "total": 18,
+   "selected": 13,
+   "skipped": 5,
+   "non200": 4,
+   "category": "sampled",
+   "example": "/americas/en/about-us.html"
+  },
+  {
+   "groupId": "G12",
+   "template": "/sea/{section}/{slug}",
+   "label": "Sea sub-pages",
+   "total": 14,
+   "selected": 6,
+   "skipped": 8,
+   "non200": 8,
+   "category": "sampled",
+   "example": "/sea/en/terms-and-conditions.html"
+  },
+  {
+   "groupId": "G13",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 12,
+   "selected": 0,
+   "skipped": 12,
+   "non200": 12,
+   "category": "excluded",
+   "example": "/nz.html"
+  },
+  {
+   "groupId": "G14",
+   "template": "/{page}/{section}/{page}/{path…}",
+   "label": "Root-level product & marketing pages",
+   "total": 12,
+   "selected": 0,
+   "skipped": 12,
+   "non200": 12,
+   "category": "excluded",
+   "example": "/nz2/en31/our-stories/articles.html"
+  },
+  {
+   "groupId": "G15",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 8,
+   "selected": 8,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/nz/en.html"
+  },
+  {
+   "groupId": "G16",
+   "template": "/americas/{section}/{slug}",
+   "label": "Americas sub-pages",
+   "total": 7,
+   "selected": 3,
+   "skipped": 4,
+   "non200": 4,
+   "category": "sampled",
+   "example": "/americas/en/terms-and-conditions.html"
+  },
+  {
+   "groupId": "G17",
+   "template": "/{locale}/{section}/{id}/{path…}",
+   "label": "Locale deep pages",
+   "total": 5,
+   "selected": 0,
+   "skipped": 5,
+   "non200": 5,
+   "category": "excluded",
+   "example": "/nz/en/what-we-stand-for/community.html"
+  },
+  {
+   "groupId": "G18",
+   "template": "/{locale}/{section}/{id}/{slug}",
+   "label": "Locale deep pages",
+   "total": 4,
+   "selected": 0,
+   "skipped": 4,
+   "non200": 4,
+   "category": "excluded",
+   "example": "/nz/en/goodness-of-nz-milk/food-safety-and-quality.html"
+  },
+  {
+   "groupId": "G19",
+   "template": "/{page}/{section}/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 3,
+   "selected": 0,
+   "skipped": 3,
+   "non200": 3,
+   "category": "excluded",
+   "example": "/nz1/en11/careers.html"
+  },
+  {
+   "groupId": "G20",
+   "template": "/sea/{section}",
+   "label": "Sea section pages",
+   "total": 2,
+   "selected": 2,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/sea/en.html"
+  },
+  {
+   "groupId": "G21",
+   "template": "/sea/{section}/{id}/{path…}",
+   "label": "Sea deep pages",
+   "total": 2,
+   "selected": 0,
+   "skipped": 2,
+   "non200": 2,
+   "category": "excluded",
+   "example": "/sea/en/what-we-stand-for/environment/water.html"
+  },
+  {
+   "groupId": "G22",
+   "template": "/americas/{section}",
+   "label": "Americas section pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/americas/en.html"
+  },
+  {
+   "groupId": "G23",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": ""
+  },
+  {
+   "groupId": "G24",
+   "template": "/{page}/{section}/{id}/{path…}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/nz1/en11/what-we-stand-for/nutrition.html"
+  },
+  {
+   "groupId": "G25",
+   "template": "/americas/{section}/{id}/{path…}",
+   "label": "Americas deep pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/americas/en/what-we-stand-for/environment/water.html"
+  }
+ ]
+}

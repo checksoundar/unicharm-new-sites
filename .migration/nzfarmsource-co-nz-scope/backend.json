@@ -1,0 +1,161 @@
+{
+ "captured": "2026-10-07T09:15:52.341Z",
+ "sampledPages": 40,
+ "firstPartyDomain": "co.nz",
+ "totalServices": 6,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Session replay / analytics",
+   "count": 1
+  },
+  {
+   "category": "First-party platform",
+   "count": 1
+  },
+  {
+   "category": "Survey / VoC",
+   "count": 1
+  },
+  {
+   "category": "Advertising",
+   "count": 1
+  },
+  {
+   "category": "Video",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 38,
+   "coverage": "95%"
+  },
+  {
+   "name": "Digital-experience analytics",
+   "category": "Session replay / analytics",
+   "note": "",
+   "hosts": [
+    "a.clarity.ms"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST a.clarity.ms/collect"
+   ],
+   "pages": 37,
+   "coverage": "93%"
+  },
+  {
+   "name": "Nzfarmsource: Other first-party API",
+   "category": "First-party platform",
+   "note": "Uncategorised same-domain API call",
+   "hosts": [
+    "nzfarmsource.co.nz"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET nzfarmsource.co.nz/bin/fonterra-core-components/getPageListing",
+    "GET nzfarmsource.co.nz/bin/farmsource/userProfile"
+   ],
+   "pages": 36,
+   "coverage": "90%"
+  },
+  {
+   "name": "Survey / VoC",
+   "category": "Survey / VoC",
+   "note": "",
+   "hosts": [
+    "siteintercept.qualtrics.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST siteintercept.qualtrics.com/WRSiteInterceptEngine/Targeting.php",
+    "GET siteintercept.qualtrics.com/WRSiteInterceptEngine/Asset.php",
+    "POST siteintercept.qualtrics.com/WRSiteInterceptEngine"
+   ],
+   "pages": 35,
+   "coverage": "88%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "ad.doubleclick.net",
+    "googleads.g.doubleclick.net"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "GET googleads.g.doubleclick.net/pagead/id"
+   ],
+   "pages": 7,
+   "coverage": "18%"
+  },
+  {
+   "name": "Video platform API",
+   "category": "Video",
+   "note": "",
+   "hosts": [
+    "player.vimeo.com",
+    "vod-adaptive-ak.vimeocdn.com",
+    "vimeo.com",
+    "skyfire.vimeocdn.com",
+    "www.youtube.com"
+   ],
+   "hostCount": 5,
+   "endpoints": [
+    "POST player.vimeo.com/cdn-cgi/challenge-platform/h/g/precursor/:id/0.:id::id:_-AzIUTm-QUVP01R6e",
+    "GET vod-adaptive-ak.vimeocdn.com/exp=:id~acl=%:id%2Fpsid%:id%2F%2A~hmac=:id/:id/psid=:id/v2/pl",
+    "POST vimeo.com/flarepoint/orion/v3/identity/settings",
+    "GET skyfire.vimeocdn.com/:idx:id/:id/psid=:id/v2/playlist/av/primary/sub/:idn-x-autogen/prot/c",
+    "POST www.youtube.com/youtubei/v1/log_event",
+    "POST www.youtube.com/api/stats/atr"
+   ],
+   "pages": 6,
+   "coverage": "15%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.google.com",
+   "pages": 38,
+   "sample": "POST www.google.com/ccm/collect"
+  },
+  {
+   "host": "fonterralimited.australia-3.evergage.com",
+   "pages": 35,
+   "sample": "GET fonterralimited.australia-3.evergage.com/api2/event/farm_source_nz_prod"
+  },
+  {
+   "host": "fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws",
+   "pages": 35,
+   "sample": "POST fh-118116076e9a4c2a96a99fbb70bea2a0.ecs.us-west-2.on.aws/events"
+  },
+  {
+   "host": "jnn-pa.googleapis.com",
+   "pages": 2,
+   "sample": "POST jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 1,
+   "sample": "POST www.googletagmanager.com/td"
+  }
+ ]
+}

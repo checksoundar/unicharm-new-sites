@@ -1,0 +1,97 @@
+{
+  "siteUrl": "https://www.fonterra.com/nz/en.html",
+  "siteOrigin": "https://www.fonterra.com",
+  "site": "fonterra.com",
+  "scope": "Entire domain \u2014 nz/en rendered in full; the other 10 regions/locales sampled (4 pages per locale \u00d7 section \u00d7 depth stratum, every stratum inspected)",
+  "eyebrow": "Fonterra (Fonterra) \u00b7 Site Analysis",
+  "heroTitle": "Structural analysis of fonterra.com",
+  "heroSub": "",
+  "brandLine": "fonterra.com<br>Migration Console",
+  "accountName": "Fonterra \u2014 Fonterra",
+  "locale": "10 regions / locales",
+  "multiLocale": true,
+  "discovery": "sitemap + scoped link crawl",
+  "cjk": true,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/fonterra-com-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": "",
+  "blockStrategy": "aem",
+  "sharedMapping": "/backups/checksoundar/unicharm-new-sites/repo/.migration/fonterra-shared-block-mapping.json",
+  "crawl": {
+    "sitemaps": [
+      "https://www.fonterra.com/sitemap.xml"
+    ],
+    "seeds": [
+      "https://www.fonterra.com/nz/en.html"
+    ],
+    "concurrency": 10,
+    "delay": 50
+  },
+  "properties": [
+    {
+      "key": "nz-en",
+      "label": "NZ (en)",
+      "prefix": "/nz/en"
+    },
+    {
+      "key": "au-en",
+      "label": "AU (en)",
+      "prefix": "/au/en"
+    },
+    {
+      "key": "jp-ja",
+      "label": "JP (ja)",
+      "prefix": "/jp/ja"
+    },
+    {
+      "key": "jp-en",
+      "label": "JP (en)",
+      "prefix": "/jp/en"
+    },
+    {
+      "key": "cn-zh",
+      "label": "CN (zh)",
+      "prefix": "/cn/zh"
+    },
+    {
+      "key": "cn-en",
+      "label": "CN (en)",
+      "prefix": "/cn/en"
+    },
+    {
+      "key": "lk-en",
+      "label": "LK (en)",
+      "prefix": "/lk/en"
+    },
+    {
+      "key": "eu-en",
+      "label": "EU (en)",
+      "prefix": "/eu/en"
+    },
+    {
+      "key": "sea",
+      "label": "SEA (en)",
+      "prefix": "/sea/en"
+    },
+    {
+      "key": "americas",
+      "label": "Americas",
+      "prefix": "/americas/en"
+    },
+    {
+      "key": "sea-bh",
+      "label": "SEA (bh)",
+      "prefix": "/sea/bh"
+    }
+  ],
+  "fullPrefixes": [
+    "/nz/en"
+  ],
+  "renderSample": 4,
+  "stratifiedSample": {
+    "sample": 4,
+    "localeSegments": 2,
+    "maxDepth": 6
+  }
+}

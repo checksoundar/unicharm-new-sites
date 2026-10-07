@@ -1,0 +1,5372 @@
+{
+ "captured": "2026-10-07T05:44:50.062Z",
+ "jaccard": 0.8,
+ "pages": 86,
+ "componentInstances": 1575,
+ "components": 25,
+ "exactPatterns": 110,
+ "structuralVariants": 83,
+ "byCategory": {
+  "custom": {
+   "components": [
+    "news-letter-signup",
+    "article-tile-listing",
+    "contactus",
+    "cmr-calculator",
+    "mixing-calculator",
+    "request-a-quote-form",
+    "website-signup-form"
+   ],
+   "edsBlocks": [
+    "newsletter-signup",
+    "article-listing",
+    "contact-form",
+    "cmr-calculator",
+    "mixing-calculator",
+    "request-quote-form",
+    "signup-form"
+   ],
+   "variants": 8,
+   "instances": 47
+  },
+  "boilerplate": {
+   "components": [
+    "grid-multicolumn",
+    "image-text-badge",
+    "key-features",
+    "tile-listing",
+    "video",
+    "request-quote-badge",
+    "calculator-intro",
+    "video-container",
+    "quotes",
+    "text"
+   ],
+   "edsBlocks": [
+    "columns",
+    "cards",
+    "video",
+    "hero",
+    "quote",
+    "table"
+   ],
+   "variants": 39,
+   "instances": 390
+  },
+  "default-content": {
+   "components": [
+    "text",
+    "icon-badge",
+    "image",
+    "section-header",
+    "headline"
+   ],
+   "edsBlocks": [
+    "default-content"
+   ],
+   "variants": 10,
+   "instances": 728
+  },
+  "section": {
+   "components": [
+    "grid-container",
+    "responsivegrid"
+   ],
+   "edsBlocks": [
+    "section"
+   ],
+   "variants": 24,
+   "instances": 238
+  },
+  "chrome": {
+   "components": [
+    "header",
+    "footer"
+   ],
+   "edsBlocks": [
+    "header",
+    "footer"
+   ],
+   "variants": 2,
+   "instances": 172
+  }
+ },
+ "inventory": [
+  {
+   "cmp": "news-letter-signup",
+   "aemComponent": "news-letter-signup",
+   "instances": 20,
+   "pages": 20,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 20
+   },
+   "eds": "newsletter-signup",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Email signup strip on 20 pages (email input + reCAPTCHA, posts to the marketing backend) → custom newsletter form block + submission integration.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "news-letter-signup",
+     "pattern": "div(div(rte),form(input[hidden]+,div(div(input[email]),div(div(div(iframe[ext]),div,textarea),iframe[blank]),input[hidden],div(button))),div(div(rte)+)+)",
+     "hashes": [
+      {
+       "hash": "d6fffbdc90",
+       "instances": 20,
+       "pattern": "div(div(rte),form(input[hidden]+,div(div(input[email]),div(div(div(iframe[ext]),div,textarea),iframe[blank]),input[hidden],div(button))),div(div(rte)+)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 20,
+     "pages": 20,
+     "properties": {
+      "site": 20
+     },
+     "sampleUrls": [
+      "/nz/en/about-us.html",
+      "/nz/en/animals/calves/assessing-calf-health.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html",
+      "/nz/en/animals/calves/feeing-new-arrivals.html"
+     ],
+     "repFile": "news-letter-signup_d6fffbdc90_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us.html",
+     "modifiers": [
+      "newsletter(20)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 3,
+      "btn": 1,
+      "input": 2,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-sitekey",
+      "data-callback",
+      "data-size",
+      "data-style"
+     ],
+     "topLabel": "",
+     "eds": "newsletter-signup",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "article-tile-listing",
+   "aemComponent": "article-tile-listing",
+   "instances": 16,
+   "pages": 16,
+   "exactPatterns": 3,
+   "variants": 2,
+   "properties": {
+    "site": 16
+   },
+   "eds": "article-listing",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "'Related articles' rail (14 pages) and the full News & Events article grid (12+ tiles) — lists of article pages with image + title → query-index driven article-listing block (related / all variants).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "article-tile-listing-v1",
+     "pattern": "div(div(div(rte),a),div(div(a(div,div(div(rte)+)))+))",
+     "hashes": [
+      {
+       "hash": "a5165db337",
+       "instances": 11,
+       "pattern": "div(div(div(rte),a),div(div(a(div,div(div(rte)+)))+))"
+      },
+      {
+       "hash": "f45b25d3ac",
+       "instances": 3,
+       "pattern": "div(div(div(rte),a),div(div(a(div,div(div(rte)+)))+),div(a))"
+      }
+     ],
+     "jaccardMerged": [
+      0.83
+     ],
+     "instances": 14,
+     "pages": 14,
+     "properties": {
+      "site": 14
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/assessing-calf-health.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html",
+      "/nz/en/animals/calves/feeing-new-arrivals.html",
+      "/nz/en/animals/calves/how-to-mix-milk-replacers.html"
+     ],
+     "repFile": "article-tile-listing_f45b25d3ac_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/joanne-leigh-from-top-notch-calves.html",
+     "modifiers": [
+      "headline-section(14)"
+     ],
+     "styles": [
+      "list(14)",
+      "parbase(14)"
+     ],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 8,
+      "li": 0,
+      "h": 9,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Resources",
+     "eds": "article-listing",
+     "category": "custom",
+     "note": ""
+    },
+    {
+     "id": "article-tile-listing-v2",
+     "pattern": "div(div(a(div,div(div(rte)+)))+)",
+     "hashes": [
+      {
+       "hash": "366c879982",
+       "instances": 2,
+       "pattern": "div(div(a(div,div(div(rte)+)))+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/news-and-events/articles.html",
+      "/nz/en/news-and-events/testimonials.html"
+     ],
+     "repFile": "article-tile-listing_366c879982_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles.html",
+     "modifiers": [
+      "flex(2)",
+      "alignStretch(2)",
+      "wrap(2)"
+     ],
+     "styles": [
+      "list(2)",
+      "parbase(2)"
+     ],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 12,
+      "li": 0,
+      "h": 12,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "article-listing",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "contactus",
+   "aemComponent": "contactus",
+   "instances": 6,
+   "pages": 6,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 6
+   },
+   "eds": "contact-form",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "'Get in touch' enquiry form (email, name, number, message, reCAPTCHA) on 6 campaign/article pages → custom form block + submission integration.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "contactus",
+     "pattern": "div(div(rte),form(input[hidden]+,div(input[email],div),div(button,rte,input[text],div),div(input[text],div),div(input[number],div),div(textarea,div),div(div(div(iframe[ext]),div,textarea),iframe[blank]),input[hidden],div(button)),div(div(rte)+)+)",
+     "hashes": [
+      {
+       "hash": "f80fb823ac",
+       "instances": 6,
+       "pattern": "div(div(rte),form(input[hidden]+,div(input[email],div),div(button,rte,input[text],div),div(input[text],div),div(input[number],div),div(textarea,div),div(div(div(iframe[ext]),div,textarea),iframe[blank]),input[hidden],div(button)),div(div(rte)+)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 6,
+     "pages": 6,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/The-Whole-Truth.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/the-proven-formula-for-more-productive-herds.html",
+      "/nz/en/contact-us.html",
+      "/nz/en/news-and-events/articles/how-is-ancalf--made-.html"
+     ],
+     "repFile": "contactus_f80fb823ac_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+     "modifiers": [
+      "contactus(6)",
+      "headline(6)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-multicolumn",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 13,
+      "h": 3,
+      "btn": 2,
+      "input": 6,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-value",
+      "data-error",
+      "data-sitekey",
+      "data-callback",
+      "data-size",
+      "data-style"
+     ],
+     "topLabel": "Get in touch.",
+     "eds": "contact-form",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "cmr-calculator",
+   "aemComponent": "cmr-calculator",
+   "instances": 2,
+   "pages": 2,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 2
+   },
+   "eds": "cmr-calculator",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "Whole milk vs Ancalf CMR savings calculator: numeric inputs, product toggle and live computed costs/savings tables (agbizCalculator). Bespoke calculation logic — custom block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "cmr-calculator",
+     "pattern": "div(input[hidden]+,div(rte)+,div(rte,div(button,rte)),div(rte)+,div(rte,input[number])+,div(rte)+,div(div(rte)+),div(rte),div(rte,input[number]),div(div(rte)+))",
+     "hashes": [
+      {
+       "hash": "92fca5bc12",
+       "instances": 2,
+       "pattern": "div(input[hidden]+,div(rte)+,div(rte,div(button,rte)),div(rte)+,div(rte,input[number])+,div(rte)+,div(div(rte)+),div(rte),div(rte,input[number]),div(div(rte)+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/wholemilk-vs-ancalf-cmr-calculator.html",
+      "/nz/en/wholemilk-vs-finisher-cmr-calculator.html"
+     ],
+     "repFile": "cmr-calculator_92fca5bc12_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/wholemilk-vs-finisher-cmr-calculator.html",
+     "modifiers": [
+      "agbizCalculator(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 12,
+      "h": 4,
+      "btn": 2,
+      "input": 3,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-placement",
+      "data-original-title",
+      "data-value"
+     ],
+     "topLabel": "",
+     "eds": "cmr-calculator",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "mixing-calculator",
+   "aemComponent": "mixing-calculator",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "mixing-calculator",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "Calf milk-replacer mixing calculator: feeding frequency, weight/age radios, calf count → computed volume, powder kg/bags and water (agbizCalculator). Bespoke calculation logic — custom block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "mixing-calculator",
+     "pattern": "div(input[hidden]+,div(rte),div(div(rte,div(div(input[radio],label)+))+,div(div(div,div(input[number])),div(div,div(button,rte))),div(rte,input[number])),div(rte),div(div(rte),div(rte,div(input[number])),div(rte,div(rte)),div(rte)))",
+     "hashes": [
+      {
+       "hash": "a8829158fc",
+       "instances": 1,
+       "pattern": "div(input[hidden]+,div(rte),div(div(rte,div(div(input[radio],label)+))+,div(div(div,div(input[number])),div(div,div(button,rte))),div(rte,input[number])),div(rte),div(div(rte),div(rte,div(input[number])),div(rte,div(rte)),div(rte)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/mixing-calculator.html"
+     ],
+     "repFile": "mixing-calculator_a8829158fc_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/mixing-calculator.html",
+     "modifiers": [
+      "agbizCalculator(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 4,
+      "h": 1,
+      "btn": 1,
+      "input": 7,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-value"
+     ],
+     "topLabel": "",
+     "eds": "mixing-calculator",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "request-a-quote-form",
+   "aemComponent": "request-a-quote-form",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "request-quote-form",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "32-field quote request (customer details, product selects with quantities, region, reCAPTCHA) → custom form block + backend integration.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "request-a-quote-form",
+     "pattern": "div(div(rte),form(input[hidden]+,div(input[text],div)+,input[hidden],div(input[text]+,div),input[hidden],div(button,rte,input[text],div),div(button,rte,select(option+),input[text],div)+,div(input[text]),div(textarea,div),input[hidden]+,div(div(div(iframe[ext]),textarea),iframe[blank]),div(button)))",
+     "hashes": [
+      {
+       "hash": "aa3177faf2",
+       "instances": 1,
+       "pattern": "div(div(rte),form(input[hidden]+,div(input[text],div)+,input[hidden],div(input[text]+,div),input[hidden],div(button,rte,input[text],div),div(button,rte,select(option+),input[text],div)+,div(input[text]),div(textarea,div),input[hidden]+,div(div(div(iframe[ext]),textarea),iframe[blank]),div(button)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/request-a-quote.html"
+     ],
+     "repFile": "request-a-quote-form_aa3177faf2_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/request-a-quote.html",
+     "modifiers": [
+      "requestquote(1)",
+      "headline(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 40,
+      "h": 1,
+      "btn": 5,
+      "input": 32,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-error",
+      "data-value",
+      "data-sitekey",
+      "data-callback"
+     ],
+     "topLabel": "Request a quote",
+     "eds": "request-quote-form",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "website-signup-form",
+   "aemComponent": "website-signup-form",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "signup-form",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "23-field farmer sign-up form (contact details, farm type/size selects, reCAPTCHA) → custom form block + CRM integration.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "website-signup-form",
+     "pattern": "div(div(rte),form(input[hidden]+,div(input[text],div)+,div(button,rte,select(option+),input[text],div)+,div(input[text]),input[hidden]+,div(div(div(iframe[ext]),textarea),iframe[blank]),div(button)))",
+     "hashes": [
+      {
+       "hash": "1f27e8e38f",
+       "instances": 1,
+       "pattern": "div(div(rte),form(input[hidden]+,div(input[text],div)+,div(button,rte,select(option+),input[text],div)+,div(input[text]),input[hidden]+,div(div(div(iframe[ext]),textarea),iframe[blank]),div(button)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/sign-up-form.html"
+     ],
+     "repFile": "website-signup-form_1f27e8e38f_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/sign-up-form.html",
+     "modifiers": [
+      "signupform(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 14,
+      "h": 1,
+      "btn": 3,
+      "input": 23,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-error",
+      "data-sitekey",
+      "data-callback"
+     ],
+     "topLabel": "Get updates from NZAgbiz direct to your inbox",
+     "eds": "signup-form",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "grid-multicolumn",
+   "aemComponent": "grid-multicolumn",
+   "instances": 149,
+   "pages": 45,
+   "exactPatterns": 30,
+   "variants": 17,
+   "properties": {
+    "site": 149
+   },
+   "eds": "columns",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "2–4 column grid of child components (icon-badges, images+text, key-features, forms beside copy) → Columns; the child components become the column cell content.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "grid-multicolumn-v1",
+     "pattern": "div(div(@icon-badge)+)",
+     "hashes": [
+      {
+       "hash": "192cc61e70",
+       "instances": 36,
+       "pattern": "div(div(@icon-badge)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 36,
+     "pages": 15,
+     "properties": {
+      "site": 36
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/how-to-mix-milk-replacers.html",
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/products.html"
+     ],
+     "repFile": "grid-multicolumn_192cc61e70_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/how-to-mix-milk-replacers.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 0,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v2",
+     "pattern": "div(div(@image)+,div)",
+     "hashes": [
+      {
+       "hash": "1b0e92255e",
+       "instances": 29,
+       "pattern": "div(div(@image)+,div)"
+      },
+      {
+       "hash": "b9b7fb8c8d",
+       "instances": 2,
+       "pattern": "div(div(@image),div+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 31,
+     "pages": 5,
+     "properties": {
+      "site": 31
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calf-rearing-answered.html",
+      "/nz/en/animals/calves/calfrearingqandalivestreamvideos.html",
+      "/nz/en/animals/lambs/Lamb-Rearing-Answered-Video-Series.html",
+      "/nz/en/animals/lambs/bloat-in-lambs.html",
+      "/nz/en/rearing-faqs/NZAgbiz-Rearing-Guides.html"
+     ],
+     "repFile": "grid-multicolumn_1b0e92255e_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-rearing-answered.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 2,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v3",
+     "pattern": "div(div(@text+)+,div)",
+     "hashes": [
+      {
+       "hash": "eca357447e",
+       "instances": 20,
+       "pattern": "div(div(@text+)+,div)"
+      },
+      {
+       "hash": "ce9360e6d5",
+       "instances": 6,
+       "pattern": "div(div(@text)+,div)"
+      },
+      {
+       "hash": "005a318d41",
+       "instances": 2,
+       "pattern": "div(div(@text),div(@text+),div)"
+      },
+      {
+       "hash": "465212575d",
+       "instances": 1,
+       "pattern": "div(div(@text),div+)"
+      },
+      {
+       "hash": "70e9d37f8a",
+       "instances": 1,
+       "pattern": "div(div(@text+),div+)"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      1,
+      1,
+      1
+     ],
+     "instances": 30,
+     "pages": 15,
+     "properties": {
+      "site": 30
+     },
+     "sampleUrls": [
+      "/nz/en/animals/puppies.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/products/calf/ancalf-finisher.html",
+      "/nz/en/products/calf/ancalf.html",
+      "/nz/en/products/calf/nutricalf.html"
+     ],
+     "repFile": "grid-multicolumn_ce9360e6d5_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-selection.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Twice a day feeding - 150g/L",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v4",
+     "pattern": "div(div(@key-features)+,div)",
+     "hashes": [
+      {
+       "hash": "a1b2bfd970",
+       "instances": 11,
+       "pattern": "div(div(@key-features)+,div)"
+      },
+      {
+       "hash": "bfda6a2b19",
+       "instances": 1,
+       "pattern": "div(div(@key-features+)+,div)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 12,
+     "pages": 11,
+     "properties": {
+      "site": 12
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html",
+      "/nz/en/animals/calves/feeing-new-arrivals.html",
+      "/nz/en/animals/lambs/bloat-in-lambs.html",
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html"
+     ],
+     "repFile": "grid-multicolumn_a1b2bfd970_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/facilities.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container",
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 8,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Risk factors",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v5",
+     "pattern": "div(div(@image,@text)+,div)",
+     "hashes": [
+      {
+       "hash": "4c3e485b21",
+       "instances": 8,
+       "pattern": "div(div(@image,@text)+,div)"
+      },
+      {
+       "hash": "2b668e88d3",
+       "instances": 1,
+       "pattern": "div(div(@image),div(@text),div)"
+      },
+      {
+       "hash": "3d7c57f4c9",
+       "instances": 1,
+       "pattern": "div(div(@text+),div(@image),div)"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      1
+     ],
+     "instances": 10,
+     "pages": 5,
+     "properties": {
+      "site": 10
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/The-Whole-Truth.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/spring-calving-campaign-2021.html"
+     ],
+     "repFile": "grid-multicolumn_4c3e485b21_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container",
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 4,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "YOU’RE NOT JUST FEEDING CALVES —",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v7",
+     "pattern": "div(div(@key-features,@text),div(@key-features),div)",
+     "hashes": [
+      {
+       "hash": "e503d2986d",
+       "instances": 4,
+       "pattern": "div(div(@key-features,@text),div(@key-features),div)"
+      },
+      {
+       "hash": "e0db5eed8a",
+       "instances": 1,
+       "pattern": "div(div(@key-features),div(@key-features,@text),div)"
+      },
+      {
+       "hash": "fce7e9389b",
+       "instances": 1,
+       "pattern": "div(div(@text),div(@key-features),div)"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      1
+     ],
+     "instances": 6,
+     "pages": 6,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/nz/en/products/calf/ancalf-finisher.html",
+      "/nz/en/products/calf/ancalf.html",
+      "/nz/en/products/calf/nutricalf.html",
+      "/nz/en/products/lamb-and-other-animals/nutrilamb-and-kid.html",
+      "/nz/en/products/lamb-and-other-animals/anlamb.html",
+      "/nz/en/products/supplements/biosupport.html"
+     ],
+     "repFile": "grid-multicolumn_e503d2986d_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/products/calf/ancalf.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 9,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Benefits",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v6",
+     "pattern": "div(div(@contactus),div(@text+),div)",
+     "hashes": [
+      {
+       "hash": "c94516ae24",
+       "instances": 5,
+       "pattern": "div(div(@contactus),div(@text+),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 5,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/The-Whole-Truth.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/the-proven-formula-for-more-productive-herds.html",
+      "/nz/en/contact-us.html"
+     ],
+     "repFile": "grid-multicolumn_c94516ae24_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 6,
+      "li": 13,
+      "h": 14,
+      "btn": 2,
+      "input": 6,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-value",
+      "data-error",
+      "data-sitekey",
+      "data-callback",
+      "data-size",
+      "data-style"
+     ],
+     "topLabel": "Get in touch.",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v8",
+     "pattern": "div(div(@section-header),div(@key-features),div)",
+     "hashes": [
+      {
+       "hash": "805f7d22f8",
+       "instances": 3,
+       "pattern": "div(div(@section-header),div(@key-features),div)"
+      },
+      {
+       "hash": "560f678ec0",
+       "instances": 2,
+       "pattern": "div(div(@key-features),div(@section-header),div)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 5,
+     "pages": 3,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/scours.html",
+      "/nz/en/animals/kids.html",
+      "/nz/en/animals/lambs.html"
+     ],
+     "repFile": "grid-multicolumn_560f678ec0_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/kids.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 7,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Nutritional Scours",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v9",
+     "pattern": "div(div(@image,@headline,@text,@headline)+)",
+     "hashes": [
+      {
+       "hash": "f8201e9297",
+       "instances": 2,
+       "pattern": "div(div(@image,@headline,@text,@headline)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-team.html"
+     ],
+     "repFile": "grid-multicolumn_f8201e9297_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-team.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 2,
+      "li": 0,
+      "h": 6,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Sam Allnutt",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v10",
+     "pattern": "div(div(@image,@headline,@text,@headline)+,div)",
+     "hashes": [
+      {
+       "hash": "4d52686dbe",
+       "instances": 2,
+       "pattern": "div(div(@image,@headline,@text,@headline)+,div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-team.html"
+     ],
+     "repFile": "grid-multicolumn_4d52686dbe_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-team.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 2,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Brian Funnell",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v11",
+     "pattern": "div(div(@text+),div(@cmr-calculator,@text),div)",
+     "hashes": [
+      {
+       "hash": "afae4fa2b2",
+       "instances": 2,
+       "pattern": "div(div(@text+),div(@cmr-calculator,@text),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/wholemilk-vs-ancalf-cmr-calculator.html",
+      "/nz/en/wholemilk-vs-finisher-cmr-calculator.html"
+     ],
+     "repFile": "grid-multicolumn_afae4fa2b2_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/wholemilk-vs-finisher-cmr-calculator.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 15,
+      "h": 5,
+      "btn": 2,
+      "input": 3,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-placement",
+      "data-original-title",
+      "data-value"
+     ],
+     "topLabel": "Swap your herd’s whole milk for Ancalf™ CMR and you could be better of",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v13",
+     "pattern": "div(div(@headline,@text),div(@headline,@text+),div)",
+     "hashes": [
+      {
+       "hash": "c3c753ebce",
+       "instances": 1,
+       "pattern": "div(div(@headline,@text),div(@headline,@text+),div)"
+      },
+      {
+       "hash": "b686bfc540",
+       "instances": 1,
+       "pattern": "div(div(@headline,@text)+,div)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/solid-feeds.html"
+     ],
+     "repFile": "grid-multicolumn_b686bfc540_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/solid-feeds.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 3,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Types of CMR:",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v15",
+     "pattern": "div(div(@icon-badge,@text)+)",
+     "hashes": [
+      {
+       "hash": "4d53f88c39",
+       "instances": 1,
+       "pattern": "div(div(@icon-badge,@text)+)"
+      },
+      {
+       "hash": "be4671266d",
+       "instances": 1,
+       "pattern": "div(div(@icon-badge,@text)+,div(@icon-badge))"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/the-proven-formula-for-more-productive-herds.html",
+      "/nz/en/news-and-events.html"
+     ],
+     "repFile": "grid-multicolumn_be4671266d_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container",
+      "(page)"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 4,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v12",
+     "pattern": "div(div(@image,@text,@icon-badge,@text)+)",
+     "hashes": [
+      {
+       "hash": "34d708bef5",
+       "instances": 1,
+       "pattern": "div(div(@image,@text,@icon-badge,@text)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html"
+     ],
+     "repFile": "grid-multicolumn_34d708bef5_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 6,
+      "a": 6,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "TRUTH",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v14",
+     "pattern": "div(div(@image,@text+)+)",
+     "hashes": [
+      {
+       "hash": "ae601dbfb4",
+       "instances": 1,
+       "pattern": "div(div(@image,@text+)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/calfrearingqanda.html"
+     ],
+     "repFile": "grid-multicolumn_ae601dbfb4_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/calfrearingqanda.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 2,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Dr. Ajmal Khan",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v16",
+     "pattern": "div(div(@text),div(@mixing-calculator,@text),div)",
+     "hashes": [
+      {
+       "hash": "46c68e4ff0",
+       "instances": 1,
+       "pattern": "div(div(@text),div(@mixing-calculator,@text),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/mixing-calculator.html"
+     ],
+     "repFile": "grid-multicolumn_46c68e4ff0_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/mixing-calculator.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 4,
+      "h": 3,
+      "btn": 1,
+      "input": 7,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-value"
+     ],
+     "topLabel": "Easily calculate the quantity of calf milk replacer and water required",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "grid-multicolumn-v17",
+     "pattern": "div(div(@request-a-quote-form),div(@text+),div)",
+     "hashes": [
+      {
+       "hash": "e12e7aa54e",
+       "instances": 1,
+       "pattern": "div(div(@request-a-quote-form),div(@text+),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/request-a-quote.html"
+     ],
+     "repFile": "grid-multicolumn_e12e7aa54e_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/request-a-quote.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 4,
+      "li": 40,
+      "h": 10,
+      "btn": 5,
+      "input": 32,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-error",
+      "data-value",
+      "data-sitekey",
+      "data-callback"
+     ],
+     "topLabel": "Request a quote",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "image-text-badge",
+   "aemComponent": "image-text-badge",
+   "instances": 53,
+   "pages": 27,
+   "exactPatterns": 3,
+   "variants": 3,
+   "properties": {
+    "site": 53
+   },
+   "eds": "columns",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Image beside heading + copy + optional link (imageLeft / imageRight) → Columns; v3 carries a small product table in the text cell.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "image-text-badge-v1",
+     "pattern": "div(div(div+),div(div(rte)+,div(a)))",
+     "hashes": [
+      {
+       "hash": "ac03fdf1a9",
+       "instances": 30,
+       "pattern": "div(div(div+),div(div(rte)+,div(a)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 30,
+     "pages": 16,
+     "properties": {
+      "site": 30
+     },
+     "sampleUrls": [
+      "/nz/en/about-us.html",
+      "/nz/en.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/animals/calves.html",
+      "/nz/en/animals/calves/calf-rearing-guides.html",
+      "/nz/en/animals/lambs.html"
+     ],
+     "repFile": "image-text-badge_ac03fdf1a9_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us.html",
+     "modifiers": [
+      "imageTextBadge(30)",
+      "cq-dd-image(30)",
+      "imageLeft(21)",
+      "imageRight(9)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "THE TRUTH TO ENSURING THE BEST START",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "image-text-badge-v2",
+     "pattern": "div(div(div+),div(div(rte)+))",
+     "hashes": [
+      {
+       "hash": "7b7d34b6cd",
+       "instances": 21,
+       "pattern": "div(div(div+),div(div(rte)+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 21,
+     "pages": 15,
+     "properties": {
+      "site": 21
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/about-us/research-and-development.html",
+      "/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html"
+     ],
+     "repFile": "image-text-badge_7b7d34b6cd_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "imageTextBadge(21)",
+      "cq-dd-image(21)",
+      "imageLeft(15)",
+      "imageRight(6)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Bulk products",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "image-text-badge-v3",
+     "pattern": "div(div(div+),div(div(rte),div(table(thead(tr(th)),tbody(tr(th+)+)))))",
+     "hashes": [
+      {
+       "hash": "03c0274569",
+       "instances": 2,
+       "pattern": "div(div(div+),div(div(rte),div(table(thead(tr(th)),tbody(tr(th+)+)))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html"
+     ],
+     "repFile": "image-text-badge_03c0274569_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/word-on-the-farm.html",
+     "modifiers": [
+      "imageTextBadge(2)",
+      "cq-dd-image(2)",
+      "imageRight(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Ancalf™",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "key-features",
+   "aemComponent": "key-features",
+   "instances": 51,
+   "pages": 26,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 51
+   },
+   "eds": "cards",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Tinted panel with heading + bullet checklist ('Look', 'Smell'…), usually 2–3 side by side → Cards (text-only variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "key-features",
+     "pattern": "div(div(rte)+)",
+     "hashes": [
+      {
+       "hash": "2244401d61",
+       "instances": 51,
+       "pattern": "div(div(rte)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 51,
+     "pages": 26,
+     "properties": {
+      "site": 51
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/assessing-calf-health.html",
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html",
+      "/nz/en/animals/calves/feeing-new-arrivals.html",
+      "/nz/en/animals/calves/scours.html",
+      "/nz/en/animals/cria.html"
+     ],
+     "repFile": "key-features_2244401d61_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/assessing-calf-health.html",
+     "modifiers": [
+      "keyFeature(51)",
+      "bgPaleGrey(51)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-multicolumn",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 4,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Smell",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "tile-listing",
+   "aemComponent": "tile-listing",
+   "instances": 35,
+   "pages": 23,
+   "exactPatterns": 4,
+   "variants": 4,
+   "properties": {
+    "site": 35
+   },
+   "eds": "cards",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "AEM List of linked tiles ('Related products', 'Explore by animal type') with image, title, copy; v3 adds a 'Show all' expander → Cards (author-curated page links; optional show-all variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "tile-listing-v1",
+     "pattern": "div(div(rte),div(div(a(div,div(rte)+))+))",
+     "hashes": [
+      {
+       "hash": "fb340da425",
+       "instances": 29,
+       "pattern": "div(div(rte),div(div(a(div,div(rte)+))+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 29,
+     "pages": 19,
+     "properties": {
+      "site": 29
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves.html",
+      "/nz/en/animals/calves/scours.html",
+      "/nz/en/animals/cria.html",
+      "/nz/en/animals/fawns.html",
+      "/nz/en/animals/foals.html",
+      "/nz/en/animals/kids.html"
+     ],
+     "repFile": "tile-listing_fb340da425_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves.html",
+     "modifiers": [
+      "tile-listing-wrapper(29)",
+      "light-gray-solid(9)",
+      "bgWhiteSmoke(9)"
+     ],
+     "styles": [
+      "list(29)",
+      "parbase(29)"
+     ],
+     "parents": [
+      "grid-container",
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 4,
+      "li": 0,
+      "h": 5,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "calves",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "tile-listing-v2",
+     "pattern": "div(div(rte),div(div(a(div,div(rte)+))+),div(a))",
+     "hashes": [
+      {
+       "hash": "854be72ff7",
+       "instances": 3,
+       "pattern": "div(div(rte),div(div(a(div,div(rte)+))+),div(a))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html"
+     ],
+     "repFile": "tile-listing_854be72ff7_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/word-on-the-farm.html",
+     "modifiers": [
+      "tile-listing-wrapper(3)",
+      "pale-grey-solid(2)",
+      "bgPaleGrey(2)",
+      "light-gray-solid(1)",
+      "bgWhiteSmoke(1)"
+     ],
+     "styles": [
+      "list(3)",
+      "parbase(3)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 5,
+      "li": 0,
+      "h": 5,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "tile-listing-v3",
+     "pattern": "div(div(rte),div(div(a(div,div(rte)+))+)+,div(a))",
+     "hashes": [
+      {
+       "hash": "e5e3bb69ab",
+       "instances": 2,
+       "pattern": "div(div(rte),div(div(a(div,div(rte)+))+)+,div(a))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves.html",
+      "/nz/en/products.html"
+     ],
+     "repFile": "tile-listing_e5e3bb69ab_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/products.html",
+     "modifiers": [
+      "tile-listing-wrapper(2)",
+      "light-gray-solid(2)",
+      "bgWhiteSmoke(2)"
+     ],
+     "styles": [
+      "list(2)",
+      "parbase(2)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 9,
+      "li": 0,
+      "h": 9,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 1
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "Testimonials",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "tile-listing-v4",
+     "pattern": "div(div(a(div,div(rte)+))+)",
+     "hashes": [
+      {
+       "hash": "90f5e8f857",
+       "instances": 1,
+       "pattern": "div(div(a(div,div(rte)+))+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/animals.html"
+     ],
+     "repFile": "tile-listing_90f5e8f857_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals.html",
+     "modifiers": [
+      "tile-listing-wrapper(1)"
+     ],
+     "styles": [
+      "list(1)",
+      "parbase(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 8,
+      "li": 0,
+      "h": 8,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "video",
+   "aemComponent": "video",
+   "instances": 14,
+   "pages": 7,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 14
+   },
+   "eds": "video",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Video component (YouTube, rendered via the parent video-container dialog) → Video.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "video",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "e3887d7916",
+       "instances": 14,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 14,
+     "pages": 7,
+     "properties": {
+      "site": 14
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/ancalf-payback-old.html",
+      "/nz/en/campaigns/ancalf-payback.html",
+      "/nz/en/campaigns/spring-calving-campaign-2021.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/news-and-events/articles/joanne-leigh-from-top-notch-calves.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "video-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "video",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "request-quote-badge",
+   "aemComponent": "request-quote-badge",
+   "instances": 12,
+   "pages": 12,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 12
+   },
+   "eds": "hero",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Promotional panel (free bags / gift voucher offer, product images, 'Calculate my payback' CTA) over a landscape background image → Hero (promo variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "request-quote-badge",
+     "pattern": "div(div+,div(div(div(rte),div(img+)),div(div(rte),div(a))))",
+     "hashes": [
+      {
+       "hash": "8dc0f57591",
+       "instances": 12,
+       "pattern": "div(div+,div(div(div(rte),div(img+)),div(div(rte),div(a))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 12,
+     "pages": 12,
+     "properties": {
+      "site": 12
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/ancalf-payback-old.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/products/calf/ancalf-finisher.html",
+      "/nz/en/products/calf/ancalf.html",
+      "/nz/en/products/calf/nutricalf.html"
+     ],
+     "repFile": "request-quote-badge_8dc0f57591_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html",
+     "modifiers": [
+      "hidden-xs(12)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 1,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Our products are available from all major rural outlets",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "calculator-intro",
+   "aemComponent": "calculator-intro",
+   "instances": 11,
+   "pages": 11,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 11
+   },
+   "eds": "cards",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "'Calculate your savings' intro + two coloured link tiles to the calculators → Cards (icon tile variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "calculator-intro",
+     "pattern": "div(div(div(rte)+),div(div(img),div(div(rte)+,div(a)))+)",
+     "hashes": [
+      {
+       "hash": "fc1d9eba1f",
+       "instances": 11,
+       "pattern": "div(div(div(rte)+),div(div(img),div(div(rte)+,div(a)))+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/animals/calves/calfrearingqandalivestreamvideos.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/ancalf-payback-old.html",
+      "/nz/en/campaigns/calfrearingqanda.html",
+      "/nz/en/campaigns/ancalf-payback.html"
+     ],
+     "repFile": "calculator-intro_fc1d9eba1f_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en.html",
+     "modifiers": [
+      "calculatorIntro(11)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 2,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Calculate your savings",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "video-container",
+   "aemComponent": "video-container",
+   "instances": 8,
+   "pages": 7,
+   "exactPatterns": 6,
+   "variants": 3,
+   "properties": {
+    "site": 8
+   },
+   "eds": "video",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Row of video teasers (thumbnail, play button, title, copy) each opening a YouTube dialog → Video blocks with placeholder image (in a Columns/Cards layout).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "video-container-v1",
+     "pattern": "div(div(@video+),div(div,div(div(div(div,div(div(rte)+)),div[dialog](div[document](div(iframe[youtube]))))+)))",
+     "hashes": [
+      {
+       "hash": "822530e3b8",
+       "instances": 2,
+       "pattern": "div(div(@video+),div(div,div(div(div(div,div(div(rte)+)),div[dialog](div[document](div(iframe[youtube]))))+)))"
+      },
+      {
+       "hash": "564e111fb6",
+       "instances": 2,
+       "pattern": "div(div(@video),div(div,div(div(div,div(div(rte)+)),div[dialog](div[document](div(iframe[youtube]))))))"
+      },
+      {
+       "hash": "9362b8b13c",
+       "instances": 1,
+       "pattern": "div(div(@video+),div(div,div(div(div(div,div(rte)),div[dialog](div[document](div(iframe[youtube]))))+)))"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      0.83
+     ],
+     "instances": 5,
+     "pages": 5,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/ancalf-payback-old.html",
+      "/nz/en/campaigns/spring-calving-campaign-2021.html",
+      "/nz/en/news-and-events/articles/joanne-leigh-from-top-notch-calves.html",
+      "/nz/en/news-and-events/testimonials/joanne-leigh-from-top-notch-calves.html",
+      "/nz/en/campaigns/ancalf-payback.html"
+     ],
+     "repFile": "video-container_822530e3b8_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html",
+     "modifiers": [
+      "aem-Grid(5)",
+      "aem-Grid--12(5)",
+      "aem-Grid--default--12(5)",
+      "video(5)",
+      "aem-GridColumn(5)",
+      "aem-GridColumn--default--12(5)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": true,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "",
+     "eds": "video",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "video-container-v3",
+     "pattern": "div(div(@video+),div(div(a),div(div(div(div,div(rte)),div[dialog](div[document](div(iframe[youtube])))),div(div(div,div(div(rte)+)),div[dialog](div[document](div(iframe[youtube]))))+),div(a)))",
+     "hashes": [
+      {
+       "hash": "e16826eed8",
+       "instances": 1,
+       "pattern": "div(div(@video+),div(div(a),div(div(div(div,div(rte)),div[dialog](div[document](div(iframe[youtube])))),div(div(div,div(div(rte)+)),div[dialog](div[document](div(iframe[youtube]))))+),div(a)))"
+      },
+      {
+       "hash": "c3ba6dfb4f",
+       "instances": 1,
+       "pattern": "div(div(@video+),div(div(a),div(div(div(div,div(div(rte)+)),div[dialog](div[document](div(iframe[youtube]))))+),div(a)))"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html"
+     ],
+     "repFile": "video-container_c3ba6dfb4f_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/wordonthefarm.html",
+     "modifiers": [
+      "aem-Grid(2)",
+      "aem-Grid--12(2)",
+      "aem-Grid--default--12(2)",
+      "video(2)",
+      "aem-GridColumn(2)",
+      "aem-GridColumn--default--12(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 2,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 3,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": true,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "",
+     "eds": "video",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "video-container-v2",
+     "pattern": "div(div,div(rte))",
+     "hashes": [
+      {
+       "hash": "7a9c45bf99",
+       "instances": 1,
+       "pattern": "div(div,div(rte))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/ancalf-payback-old.html"
+     ],
+     "repFile": "video-container_7a9c45bf99_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html",
+     "modifiers": [
+      "aem-Grid(1)",
+      "aem-Grid--12(1)",
+      "aem-Grid--default--12(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Ancalf™ Payback",
+     "eds": "video",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "quotes",
+   "aemComponent": "quotes",
+   "instances": 3,
+   "pages": 3,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 3
+   },
+   "eds": "quote",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Large green pull quote → Quote.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "quotes",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "c0ba48d79f",
+       "instances": 3,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves.html",
+      "/nz/en/news-and-events/articles/nzagbiz-launches-first-electrolyte-product.html",
+      "/nz/en/news-and-events/articles/nzagbiz-recognised-at-prestigious-sustainability-awards.html"
+     ],
+     "repFile": "quotes_c0ba48d79f_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/nzagbiz-launches-first-electrolyte-product.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "quote",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "text",
+   "aemComponent": "text",
+   "instances": 428,
+   "pages": 65,
+   "exactPatterns": 13,
+   "variants": 9,
+   "properties": {
+    "site": 428
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Rich text → default content.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "text-v1",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "9024a9aa0d",
+       "instances": 373,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 373,
+     "pages": 62,
+     "properties": {
+      "site": 373
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/about-us/our-team.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/calf-rearing-answered.html",
+      "/nz/en/animals/calves/calf-selection.html"
+     ],
+     "repFile": "text_9024a9aa0d_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "camoGreen(16)"
+     ],
+     "styles": [
+      "parbase(373)"
+     ],
+     "parents": [
+      "grid-multicolumn",
+      "grid-container",
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Mixing instructions",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "text-v2",
+     "pattern": "div(table(thead(tr(th+)+),tbody(tr(th+,td+)+)))",
+     "hashes": [
+      {
+       "hash": "c9b9961698",
+       "instances": 19,
+       "pattern": "div(table(thead(tr(th+)+),tbody(tr(th+,td+)+)))"
+      },
+      {
+       "hash": "e9703efece",
+       "instances": 6,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td)+,tr(th+,td+)+)))"
+      },
+      {
+       "hash": "ef895af191",
+       "instances": 5,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td+)+)))"
+      },
+      {
+       "hash": "851c47d4a2",
+       "instances": 4,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td),tr(th+,td+)+)))"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      1,
+      1
+     ],
+     "instances": 34,
+     "pages": 12,
+     "properties": {
+      "site": 34
+     },
+     "sampleUrls": [
+      "/nz/en/animals/cria.html",
+      "/nz/en/animals/fawns.html",
+      "/nz/en/animals/puppies.html",
+      "/nz/en/products/supplements/jumpstart.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html"
+     ],
+     "repFile": "text_c9b9961698_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/cria.html",
+     "modifiers": [
+      "table(34)",
+      "table-striped(34)",
+      "table-borderless(34)"
+     ],
+     "styles": [
+      "parbase(34)"
+     ],
+     "parents": [
+      "grid-container",
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    },
+    {
+     "id": "text-v3",
+     "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td(a)),tr(th+,td+)+)))",
+     "hashes": [
+      {
+       "hash": "cc810b5607",
+       "instances": 11,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td(a)),tr(th+,td+)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 2,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/nz/en/products/lamb-and-other-animals/ankid.html",
+      "/nz/en/products/lamb-and-other-animals/anlamb.html"
+     ],
+     "repFile": "text_cc810b5607_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/products/lamb-and-other-animals/ankid.html",
+     "modifiers": [
+      "table(11)",
+      "table-striped(11)",
+      "table-borderless(11)"
+     ],
+     "styles": [
+      "parbase(11)"
+     ],
+     "parents": [
+      "grid-container",
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    },
+    {
+     "id": "text-v4",
+     "pattern": "div(table(thead(tr(th+)),tbody(tr(td+)+)))",
+     "hashes": [
+      {
+       "hash": "6db4da68c5",
+       "instances": 3,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(td+)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 2,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/identifying-infection-in-calves.html",
+      "/nz/en/products/supplements/biosupport.html"
+     ],
+     "repFile": "text_6db4da68c5_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/identifying-infection-in-calves.html",
+     "modifiers": [
+      "table(3)",
+      "table-striped(3)",
+      "table-borderless(3)"
+     ],
+     "styles": [
+      "parbase(3)"
+     ],
+     "parents": [
+      "grid-container",
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    },
+    {
+     "id": "text-v5",
+     "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td),tr(th+,td+)+)),div)",
+     "hashes": [
+      {
+       "hash": "530a740006",
+       "instances": 2,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(th+,td),tr(th+,td+)+)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/products/lamb-and-other-animals/nutrilamb-and-kid.html"
+     ],
+     "repFile": "text_530a740006_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/products/lamb-and-other-animals/nutrilamb-and-kid.html",
+     "modifiers": [
+      "table(2)",
+      "table-striped(2)",
+      "table-borderless(2)"
+     ],
+     "styles": [
+      "parbase(2)"
+     ],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    },
+    {
+     "id": "text-v9",
+     "pattern": "div(rte,table(thead(tr(th+)+),tbody(tr(td+)+)))",
+     "hashes": [
+      {
+       "hash": "216cdfe5b0",
+       "instances": 1,
+       "pattern": "div(rte,table(thead(tr(th+)+),tbody(tr(td+)+)))"
+      },
+      {
+       "hash": "f899acd558",
+       "instances": 1,
+       "pattern": "div(rte,table(thead(tr(th+)),tbody(tr(td+))))"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/products/supplements/novolyte.html"
+     ],
+     "repFile": "text_216cdfe5b0_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/products/supplements/novolyte.html",
+     "modifiers": [],
+     "styles": [
+      "parbase(2)"
+     ],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Calf",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    },
+    {
+     "id": "text-v6",
+     "pattern": "div(table(thead(tr(th+)),tbody(tr(td,td(rte)+)+)))",
+     "hashes": [
+      {
+       "hash": "0a10deff67",
+       "instances": 1,
+       "pattern": "div(table(thead(tr(th+)),tbody(tr(td,td(rte)+)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/identifying-infection-in-calves.html"
+     ],
+     "repFile": "text_0a10deff67_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/identifying-infection-in-calves.html",
+     "modifiers": [
+      "table(1)",
+      "table-striped(1)",
+      "table-borderless(1)"
+     ],
+     "styles": [
+      "parbase(1)"
+     ],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 59,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    },
+    {
+     "id": "text-v7",
+     "pattern": "div(a(img))",
+     "hashes": [
+      {
+       "hash": "a54fb6bc81",
+       "instances": 1,
+       "pattern": "div(a(img))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/ancalf-payback.html"
+     ],
+     "repFile": "text_a54fb6bc81_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback.html",
+     "modifiers": [],
+     "styles": [
+      "parbase(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "text-v8",
+     "pattern": "div(table(thead,tbody(tr(td),tr(td+)+,tr(td)+)))",
+     "hashes": [
+      {
+       "hash": "c1907b3204",
+       "instances": 1,
+       "pattern": "div(table(thead,tbody(tr(td),tr(td+)+,tr(td)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/spring-calving-campaign-2021.html"
+     ],
+     "repFile": "text_c1907b3204_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/spring-calving-campaign-2021.html",
+     "modifiers": [
+      "table(1)",
+      "table-striped(1)",
+      "table-borderless(1)"
+     ],
+     "styles": [
+      "parbase(1)"
+     ],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": "Rich text containing a <table> → Table block."
+    }
+   ]
+  },
+  {
+   "cmp": "icon-badge",
+   "aemComponent": "icon-badge",
+   "instances": 121,
+   "pages": 19,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 121
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Icon image + short heading (TRUTH / QUALITY …, 121 instances) — sits inside grid-multicolumn cells → default content (picture + heading) within a Columns cell.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "icon-badge",
+     "pattern": "div(img,div(rte))",
+     "hashes": [
+      {
+       "hash": "4c96a92a82",
+       "instances": 121,
+       "pattern": "div(img,div(rte))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 121,
+     "pages": 19,
+     "properties": {
+      "site": 121
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/animals/calves/calf-rearing-answered.html",
+      "/nz/en/animals/calves/how-to-mix-milk-replacers.html",
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/the-proven-formula-for-more-productive-herds.html"
+     ],
+     "repFile": "icon-badge_4c96a92a82_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "iconBadge(121)",
+      "cq-dd-image(121)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-multicolumn",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "TRUTH",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "image",
+   "aemComponent": "image",
+   "instances": 103,
+   "pages": 19,
+   "exactPatterns": 3,
+   "variants": 3,
+   "properties": {
+    "site": 103
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Image (optionally linked) → default-content picture.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "image-v1",
+     "pattern": "div(a(img))",
+     "hashes": [
+      {
+       "hash": "1f3eb00b42",
+       "instances": 79,
+       "pattern": "div(a(img))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 79,
+     "pages": 11,
+     "properties": {
+      "site": 79
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/animals/calves/calf-rearing-answered.html",
+      "/nz/en/animals/calves/calfrearingqandalivestreamvideos.html",
+      "/nz/en/animals/lambs/Lamb-Rearing-Answered-Video-Series.html",
+      "/nz/en/animals/lambs/bloat-in-lambs.html"
+     ],
+     "repFile": "image_1f3eb00b42_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en.html",
+     "modifiers": [
+      "cq-dd-image(5)"
+     ],
+     "styles": [
+      "parbase(79)"
+     ],
+     "parents": [
+      "grid-multicolumn",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "image-v2",
+     "pattern": "div(img)",
+     "hashes": [
+      {
+       "hash": "0e4ad988db",
+       "instances": 23,
+       "pattern": "div(img)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 23,
+     "pages": 11,
+     "properties": {
+      "site": 23
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/about-us/our-team.html",
+      "/nz/en/animals/lambs/bloat-in-lambs.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/calfrearingqanda.html",
+      "/nz/en/campaigns/spring-calving-campaign-2021.html"
+     ],
+     "repFile": "image_0e4ad988db_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "cq-dd-image(11)"
+     ],
+     "styles": [
+      "parbase(23)"
+     ],
+     "parents": [
+      "grid-container",
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "image-v3",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "ad92005fcf",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/animals/lambs/Lamb-Rearing-Answered-Video-Series.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/lambs/Lamb-Rearing-Answered-Video-Series.html",
+     "modifiers": [],
+     "styles": [
+      "parbase(1)"
+     ],
+     "parents": [
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "section-header",
+   "aemComponent": "section-header",
+   "instances": 101,
+   "pages": 68,
+   "exactPatterns": 3,
+   "variants": 3,
+   "properties": {
+    "site": 101
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Leaf icon + heading + green sub-heading section intro (101 instances) → default content with a section style.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "section-header-v1",
+     "pattern": "div(img,div(rte)+)",
+     "hashes": [
+      {
+       "hash": "8f4adcad87",
+       "instances": 95,
+       "pattern": "div(img,div(rte)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 95,
+     "pages": 64,
+     "properties": {
+      "site": 95
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/about-us/research-and-development.html",
+      "/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html",
+      "/nz/en/about-us/our-team.html",
+      "/nz/en/animals.html",
+      "/nz/en/animals/calves/assessing-calf-health.html"
+     ],
+     "repFile": "section-header_8f4adcad87_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "cq-dd-image(95)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container",
+      "(page)",
+      "grid-multicolumn"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Feeding guidelines",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "section-header-v2",
+     "pattern": "div(div(rte)+)",
+     "hashes": [
+      {
+       "hash": "0b7fe1768c",
+       "instances": 5,
+       "pattern": "div(div(rte)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 4,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+      "/nz/en/campaigns/The-Whole-Truth.html",
+      "/nz/en/campaigns/unsubscribe-.html"
+     ],
+     "repFile": "section-header_0b7fe1768c_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-milk-replacers.html",
+     "modifiers": [
+      "cq-dd-image(5)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Have a question? We're here to help!",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "section-header-v3",
+     "pattern": "div(img,div(rte)+,div(a))",
+     "hashes": [
+      {
+       "hash": "00f37908a5",
+       "instances": 1,
+       "pattern": "div(img,div(rte)+,div(a))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/404.html"
+     ],
+     "repFile": "section-header_00f37908a5_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/404.html",
+     "modifiers": [
+      "cq-dd-image(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "grid-container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Oops something went wrong!",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "headline",
+   "aemComponent": "headline",
+   "instances": 29,
+   "pages": 7,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 29
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Heading → default content.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "headline",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "fe8665cd2a",
+       "instances": 29,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 29,
+     "pages": 7,
+     "properties": {
+      "site": 29
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-team.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/faqs.html",
+      "/nz/en/animals/calves/solid-feeds.html",
+      "/nz/en/news-and-events/articles/calf-growth-boosts-lifetime-milk-yield-in-new-zealand-heifers.html",
+      "/nz/en/news-and-events/articles/why-whole-milk-powder-is-the-better-whey.html"
+     ],
+     "repFile": "headline_fe8665cd2a_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-team.html",
+     "modifiers": [],
+     "styles": [
+      "cmp(29)",
+      "cmp-title(29)"
+     ],
+     "parents": [
+      "grid-multicolumn",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Carla Rawson",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "grid-container",
+   "aemComponent": "grid-container",
+   "instances": 237,
+   "pages": 71,
+   "exactPatterns": 29,
+   "variants": 23,
+   "properties": {
+    "site": 237
+   },
+   "eds": "section",
+   "category": "section",
+   "complexity": "Simple",
+   "rationale": "Layout wrapper (grid-container-wrapper) → EDS section; pale-grey / charcoal-grey / novolyte-blue themes and vertical-padding / article-centered modifiers → section-metadata styles.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "grid-container-v2",
+     "pattern": "div(@text+)",
+     "hashes": [
+      {
+       "hash": "10e5ec3d2f",
+       "instances": 43,
+       "pattern": "div(@text+)"
+      },
+      {
+       "hash": "123502e77a",
+       "instances": 28,
+       "pattern": "div(@text)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 71,
+     "pages": 24,
+     "properties": {
+      "site": 71
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/faqs.html",
+      "/nz/en/animals/puppies.html",
+      "/nz/en/news-and-events/articles/nzagbiz-launches-first-electrolyte-product.html",
+      "/nz/en/news-and-events/articles/oral-rehydration--one-of-the-most-significant-advances-in-medici.html",
+      "/nz/en/news-and-events/testimonials/Dana-Brett-Smith-Ancalf.html",
+      "/nz/en/news-and-events/testimonials/novolyte-testimonial.html"
+     ],
+     "repFile": "grid-container_10e5ec3d2f_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/faqs.html",
+     "modifiers": [
+      "grid-container-wrapper(71)",
+      "article-centered(70)",
+      "pale-grey-theme(21)",
+      "bgPaleGrey(21)",
+      "vertical-padding-standard(20)",
+      "vertical-padding-bottom(15)",
+      "charcoal-grey-theme(4)",
+      "bgCharcoalGrey(4)",
+      "vertical-padding-top(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Note:",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v1",
+     "pattern": "div(@grid-multicolumn)",
+     "hashes": [
+      {
+       "hash": "f6dba9eaba",
+       "instances": 43,
+       "pattern": "div(@grid-multicolumn)"
+      },
+      {
+       "hash": "0d0e170f37",
+       "instances": 3,
+       "pattern": "div(@grid-multicolumn+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 46,
+     "pages": 27,
+     "properties": {
+      "site": 46
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/animals/calves/assessing-calf-health.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html"
+     ],
+     "repFile": "grid-container_f6dba9eaba_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "grid-container-wrapper(46)",
+      "pale-grey-theme(18)",
+      "bgPaleGrey(18)",
+      "charcoal-grey-theme(14)",
+      "bgCharcoalGrey(14)",
+      "article-centered(3)",
+      "vertical-padding-standard(2)",
+      "bgAncalfGreen(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Twice a day feeding - 150g/L",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v3",
+     "pattern": "div(@image-text-badge)",
+     "hashes": [
+      {
+       "hash": "15291d8e38",
+       "instances": 16,
+       "pattern": "div(@image-text-badge)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 16,
+     "pages": 9,
+     "properties": {
+      "site": 16
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html",
+      "/nz/en/animals/calves/calf-rearing-guides.html",
+      "/nz/en/animals/calves/how-to-mix-milk-replacers.html",
+      "/nz/en/animals/calves/identifying-infection-in-calves.html",
+      "/nz/en/animals/calves/weaning-calves.html",
+      "/nz/en/campaigns/spring-calving-campaign-2021.html"
+     ],
+     "repFile": "grid-container_15291d8e38_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html",
+     "modifiers": [
+      "grid-container-wrapper(16)",
+      "pale-grey-theme(9)",
+      "bgPaleGrey(9)",
+      "vertical-padding-standard(1)",
+      "bgNovolyteBlue(1)",
+      "bgAncalfGreen(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Bulk products",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v4",
+     "pattern": "div(@article-tile-listing)",
+     "hashes": [
+      {
+       "hash": "73e7dcae3d",
+       "instances": 16,
+       "pattern": "div(@article-tile-listing)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 16,
+     "pages": 16,
+     "properties": {
+      "site": 16
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/assessing-calf-health.html",
+      "/nz/en/animals/calves/calf-milk-replacers.html",
+      "/nz/en/animals/calves/calf-selection.html",
+      "/nz/en/animals/calves/facilities.html",
+      "/nz/en/animals/calves/feeing-new-arrivals.html",
+      "/nz/en/animals/calves/how-to-mix-milk-replacers.html"
+     ],
+     "repFile": "grid-container_73e7dcae3d_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/assessing-calf-health.html",
+     "modifiers": [
+      "grid-container-wrapper(16)",
+      "charcoal-grey-theme(16)",
+      "bgCharcoalGrey(16)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 8,
+      "li": 0,
+      "h": 9,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Resources",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v6",
+     "pattern": "div(@text,@grid-multicolumn+)",
+     "hashes": [
+      {
+       "hash": "acd1f55573",
+       "instances": 11,
+       "pattern": "div(@text,@grid-multicolumn+)"
+      },
+      {
+       "hash": "9aa99e6428",
+       "instances": 1,
+       "pattern": "div(@text+,@grid-multicolumn+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 12,
+     "pages": 11,
+     "properties": {
+      "site": 12
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/how-to-mix-milk-replacers.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/products/calf/ancalf-finisher.html",
+      "/nz/en/products/calf/ancalf.html",
+      "/nz/en/products/calf/nutricalf.html"
+     ],
+     "repFile": "grid-container_9aa99e6428_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/products/lamb-and-other-animals/anlamb.html",
+     "modifiers": [
+      "grid-container-wrapper(12)",
+      "pale-grey-theme(11)",
+      "bgPaleGrey(11)",
+      "vertical-padding-standard(11)",
+      "vertical-padding-top(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 6,
+      "a": 0,
+      "li": 0,
+      "h": 7,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Mixing instructions",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v5",
+     "pattern": "div(@calculator-intro)",
+     "hashes": [
+      {
+       "hash": "d549220ae6",
+       "instances": 11,
+       "pattern": "div(@calculator-intro)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/animals/calves/calfrearingqandalivestreamvideos.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/ancalf-payback-old.html",
+      "/nz/en/campaigns/calfrearingqanda.html",
+      "/nz/en/campaigns/ancalf-payback.html"
+     ],
+     "repFile": "grid-container_d549220ae6_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en.html",
+     "modifiers": [
+      "grid-container-wrapper(11)",
+      "vertical-padding-standard(11)",
+      "pale-grey-theme(5)",
+      "bgPaleGrey(5)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 2,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Calculate your savings",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v7",
+     "pattern": "div(@section-header,@text)",
+     "hashes": [
+      {
+       "hash": "ca97be0c70",
+       "instances": 8,
+       "pattern": "div(@section-header,@text)"
+      },
+      {
+       "hash": "a1062745f1",
+       "instances": 2,
+       "pattern": "div(@section-header,@text+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 10,
+     "pages": 9,
+     "properties": {
+      "site": 10
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/identifying-infection-in-calves.html",
+      "/nz/en/animals/calves/weaning-calves.html",
+      "/nz/en/animals/fawns.html",
+      "/nz/en/animals/kids.html",
+      "/nz/en/animals/lambs.html",
+      "/nz/en/animals/piglets.html"
+     ],
+     "repFile": "grid-container_ca97be0c70_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/weaning-calves.html",
+     "modifiers": [
+      "grid-container-wrapper(10)",
+      "article-centered(10)",
+      "vertical-padding-standard(5)",
+      "vertical-padding-bottom(5)",
+      "pale-grey-theme(3)",
+      "bgPaleGrey(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Weaning",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v8",
+     "pattern": "div(@key-features)",
+     "hashes": [
+      {
+       "hash": "78a10d0bc2",
+       "instances": 8,
+       "pattern": "div(@key-features)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 8,
+     "pages": 7,
+     "properties": {
+      "site": 8
+     },
+     "sampleUrls": [
+      "/nz/en/animals/cria.html",
+      "/nz/en/animals/fawns.html",
+      "/nz/en/animals/foals.html",
+      "/nz/en/animals/piglets.html",
+      "/nz/en/animals/puppies.html",
+      "/nz/en/campaigns/word-on-the-farm.html"
+     ],
+     "repFile": "grid-container_78a10d0bc2_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/cria.html",
+     "modifiers": [
+      "grid-container-wrapper(8)",
+      "vertical-padding-standard(8)",
+      "article-centered(8)",
+      "pale-grey-theme(7)",
+      "bgPaleGrey(7)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 5,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v9",
+     "pattern": "div(@section-header)",
+     "hashes": [
+      {
+       "hash": "584dbb0ed1",
+       "instances": 7,
+       "pattern": "div(@section-header)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 7,
+     "pages": 7,
+     "properties": {
+      "site": 7
+     },
+     "sampleUrls": [
+      "/nz/en/404.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/animals/puppies.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/news-and-events/articles/best-practice-calf-feeding---investing-in-calf-performance.html"
+     ],
+     "repFile": "grid-container_584dbb0ed1_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/404.html",
+     "modifiers": [
+      "grid-container-wrapper(7)",
+      "article-centered(5)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Ancalf - the word on the farm series",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v10",
+     "pattern": "div(@video-container)",
+     "hashes": [
+      {
+       "hash": "f12a44393f",
+       "instances": 6,
+       "pattern": "div(@video-container)"
+      },
+      {
+       "hash": "f185edefcc",
+       "instances": 1,
+       "pattern": "div(@video-container+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 7,
+     "pages": 7,
+     "properties": {
+      "site": 7
+     },
+     "sampleUrls": [
+      "/nz/en/campaigns/ancalf-payback.html",
+      "/nz/en/campaigns/spring-calving-campaign-2021.html",
+      "/nz/en/campaigns/word-on-the-farm.html",
+      "/nz/en/campaigns/wordonthefarm.html",
+      "/nz/en/news-and-events/articles/joanne-leigh-from-top-notch-calves.html",
+      "/nz/en/news-and-events/testimonials/joanne-leigh-from-top-notch-calves.html"
+     ],
+     "repFile": "grid-container_f185edefcc_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html",
+     "modifiers": [
+      "grid-container-wrapper(7)",
+      "vertical-padding-standard(7)",
+      "pale-grey-theme(5)",
+      "bgPaleGrey(5)",
+      "charcoal-grey-theme(2)",
+      "bgCharcoalGrey(2)",
+      "article-centered(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": true,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "Ancalf™ Payback",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v11",
+     "pattern": "div(@section-header,@grid-multicolumn)",
+     "hashes": [
+      {
+       "hash": "d9b21edafa",
+       "instances": 5,
+       "pattern": "div(@section-header,@grid-multicolumn)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 4,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/animals/calves/identifying-infection-in-calves.html",
+      "/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html",
+      "/nz/en/campaigns/calfrearingqanda.html"
+     ],
+     "repFile": "grid-container_d9b21edafa_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/identifying-infection-in-calves.html",
+     "modifiers": [
+      "grid-container-wrapper(5)",
+      "pale-grey-theme(3)",
+      "bgPaleGrey(3)",
+      "vertical-padding-standard(3)",
+      "article-centered(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 1,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Our Promise",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v12",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "0ec4cfd467",
+       "instances": 5,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 4,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/faqs.html",
+      "/nz/en/animals/lambs/lamb-rearing-guide.html",
+      "/nz/en/news-and-events/articles/best-practice-calf-rearing.html",
+      "/nz/en/news-and-events/articles/how-is-ancalf--made-.html"
+     ],
+     "repFile": "grid-container_0ec4cfd467_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/how-is-ancalf--made-.html",
+     "modifiers": [
+      "grid-container-wrapper(5)",
+      "pale-grey-theme(1)",
+      "bgPaleGrey(1)",
+      "vertical-padding-standard(1)",
+      "article-centered(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v13",
+     "pattern": "div(@text,@icon-badge)",
+     "hashes": [
+      {
+       "hash": "aa781f6e0c",
+       "instances": 4,
+       "pattern": "div(@text,@icon-badge)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 4,
+     "pages": 1,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calf-rearing-answered.html"
+     ],
+     "repFile": "grid-container_aa781f6e0c_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-rearing-answered.html",
+     "modifiers": [
+      "grid-container-wrapper(4)",
+      "article-centered(4)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)",
+      "grid-container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Colostrum Management",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v14",
+     "pattern": "div(@image,@text)",
+     "hashes": [
+      {
+       "hash": "3c845b2f83",
+       "instances": 3,
+       "pattern": "div(@image,@text)"
+      },
+      {
+       "hash": "e5079e6708",
+       "instances": 1,
+       "pattern": "div(@text,@image,@text)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 4,
+     "pages": 4,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calfrearingqandalivestreamvideos.html",
+      "/nz/en/campaigns/ancalf-payback.html",
+      "/nz/en/news-and-events/articles/nzagbiz-recognised-at-prestigious-sustainability-awards.html",
+      "/nz/en/news-and-events/articles/milk-replacer-benefits-lambs.html"
+     ],
+     "repFile": "grid-container_e5079e6708_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/milk-replacer-benefits-lambs.html",
+     "modifiers": [
+      "grid-container-wrapper(4)",
+      "article-centered(4)",
+      "vertical-padding-standard(3)",
+      "pale-grey-theme(2)",
+      "bgPaleGrey(2)",
+      "vertical-padding-bottom(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Described as New Zealand’s ‘Oscars of sustainability’ the Sustainable ",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v15",
+     "pattern": "div(@text,@image,@text,@headline)",
+     "hashes": [
+      {
+       "hash": "2df60585be",
+       "instances": 3,
+       "pattern": "div(@text,@image,@text,@headline)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en/news-and-events/articles/calf-growth-boosts-lifetime-milk-yield-in-new-zealand-heifers.html",
+      "/nz/en/news-and-events/articles/why-whole-milk-powder-is-the-better-whey.html",
+      "/nz/en/news-and-events/testimonials/why-whole-milk-powder-is-the-better-whey.html"
+     ],
+     "repFile": "grid-container_2df60585be_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/why-whole-milk-powder-is-the-better-whey.html",
+     "modifiers": [
+      "grid-container-wrapper(3)",
+      "vertical-padding-bottom(3)",
+      "article-centered(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v16",
+     "pattern": "div(@image)",
+     "hashes": [
+      {
+       "hash": "93b14696ab",
+       "instances": 2,
+       "pattern": "div(@image)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/about-us/our-story.html"
+     ],
+     "repFile": "grid-container_93b14696ab_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+     "modifiers": [
+      "grid-container-wrapper(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v17",
+     "pattern": "div(@grid-container)",
+     "hashes": [
+      {
+       "hash": "47d717f85c",
+       "instances": 2,
+       "pattern": "div(@grid-container)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/calf-rearing-answered.html",
+      "/nz/en/news-and-events/articles/best-practice-calf-rearing.html"
+     ],
+     "repFile": "grid-container_47d717f85c_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/best-practice-calf-rearing.html",
+     "modifiers": [
+      "grid-container-wrapper(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Care & Welfare",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v18",
+     "pattern": "div(@headline,@text)",
+     "hashes": [
+      {
+       "hash": "e185a44a5e",
+       "instances": 2,
+       "pattern": "div(@headline,@text)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves/faqs.html",
+      "/nz/en/animals/calves/solid-feeds.html"
+     ],
+     "repFile": "grid-container_e185a44a5e_2.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves/solid-feeds.html",
+     "modifiers": [
+      "grid-container-wrapper(2)",
+      "vertical-padding-standard(2)",
+      "article-centered(2)",
+      "pale-grey-theme(1)",
+      "bgPaleGrey(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 3,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Calf Rearing answered",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v19",
+     "pattern": "div(@quotes)",
+     "hashes": [
+      {
+       "hash": "7ea8bb1ef1",
+       "instances": 2,
+       "pattern": "div(@quotes)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/news-and-events/articles/nzagbiz-launches-first-electrolyte-product.html",
+      "/nz/en/news-and-events/articles/nzagbiz-recognised-at-prestigious-sustainability-awards.html"
+     ],
+     "repFile": "grid-container_7ea8bb1ef1_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/nzagbiz-launches-first-electrolyte-product.html",
+     "modifiers": [
+      "grid-container-wrapper(2)",
+      "vertical-padding-standard(2)",
+      "article-centered(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v20",
+     "pattern": "div(@quotes,@image-text-badge)",
+     "hashes": [
+      {
+       "hash": "5f410eea0e",
+       "instances": 1,
+       "pattern": "div(@quotes,@image-text-badge)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves.html"
+     ],
+     "repFile": "grid-container_5f410eea0e_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves.html",
+     "modifiers": [
+      "grid-container-wrapper(1)",
+      "pale-grey-theme(1)",
+      "bgPaleGrey(1)",
+      "vertical-padding-standard(1)",
+      "article-centered(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "NZAgbiz Calf Love",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v21",
+     "pattern": "div(@tile-listing)",
+     "hashes": [
+      {
+       "hash": "8a7d3284e7",
+       "instances": 1,
+       "pattern": "div(@tile-listing)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/animals/calves.html"
+     ],
+     "repFile": "grid-container_8a7d3284e7_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/animals/calves.html",
+     "modifiers": [
+      "grid-container-wrapper(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 4,
+      "li": 0,
+      "h": 5,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v22",
+     "pattern": "div(@text,@contactus)",
+     "hashes": [
+      {
+       "hash": "a4d972ced0",
+       "instances": 1,
+       "pattern": "div(@text,@contactus)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/news-and-events/articles/how-is-ancalf--made-.html"
+     ],
+     "repFile": "grid-container_a4d972ced0_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/how-is-ancalf--made-.html",
+     "modifiers": [
+      "grid-container-wrapper(1)",
+      "vertical-padding-standard(1)",
+      "article-centered(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 13,
+      "h": 3,
+      "btn": 2,
+      "input": 6,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-value",
+      "data-error",
+      "data-sitekey",
+      "data-callback",
+      "data-size",
+      "data-style"
+     ],
+     "topLabel": "Get in touch with the team...",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "grid-container-v23",
+     "pattern": "div(@website-signup-form)",
+     "hashes": [
+      {
+       "hash": "9fb0167877",
+       "instances": 1,
+       "pattern": "div(@website-signup-form)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/sign-up-form.html"
+     ],
+     "repFile": "grid-container_9fb0167877_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/sign-up-form.html",
+     "modifiers": [
+      "grid-container-wrapper(1)",
+      "vertical-padding-standard(1)",
+      "article-centered(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 14,
+      "h": 1,
+      "btn": 3,
+      "input": 23,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-error",
+      "data-sitekey",
+      "data-callback"
+     ],
+     "topLabel": "Get updates from NZAgbiz direct to your inbox",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "responsivegrid",
+   "aemComponent": "responsivegrid",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "section",
+   "category": "section",
+   "complexity": "Simple",
+   "rationale": "Layout container → EDS section.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "responsivegrid",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "eb3c738918",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en.html",
+     "modifiers": [
+      "aem-Grid(1)",
+      "aem-Grid--12(1)",
+      "aem-Grid--default--12(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "header",
+   "aemComponent": "header",
+   "instances": 86,
+   "pages": 86,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 86
+   },
+   "eds": "header",
+   "category": "chrome",
+   "complexity": "Medium",
+   "rationale": "Site header / navigation (logo, menu, search) → EDS header fragment (nav document).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "header",
+     "pattern": "header(div(a),div(div(div(a(img),button[exp]),div(button,div(a[button][exp],div(a[button][exp]+)),div(a[button][exp],a)+,div(a))),div(div(rte,div),div(rte),div(rte,a+)+,div(div(img),div(rte,div(rte),a))),div(div(rte,div(rte),a),div(a+))+,div(div(rte,div(rte),a),div(rte,a+))+,div(button,div,button,rte,a+)+))",
+     "hashes": [
+      {
+       "hash": "ceb1b6dab3",
+       "instances": 86,
+       "pattern": "header(div(a),div(div(div(a(img),button[exp]),div(button,div(a[button][exp],div(a[button][exp]+)),div(a[button][exp],a)+,div(a))),div(div(rte,div),div(rte),div(rte,a+)+,div(div(img),div(rte,div(rte),a))),div(div(rte,div(rte),a),div(a+))+,div(div(rte,div(rte),a),div(rte,a+))+,div(button,div,button,rte,a+)+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 86,
+     "pages": 86,
+     "properties": {
+      "site": 86
+     },
+     "sampleUrls": [
+      "/nz/en/404.html",
+      "/nz/en/about-us.html",
+      "/nz/en.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/about-us/research-and-development.html",
+      "/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html"
+     ],
+     "repFile": "header_ceb1b6dab3_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/404.html",
+     "modifiers": [
+      "signUpBanner(86)",
+      "bgRevolver(86)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 53,
+      "li": 0,
+      "h": 13,
+      "btn": 6,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 11
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "",
+     "eds": "header",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "footer",
+   "aemComponent": "footer",
+   "instances": 86,
+   "pages": 86,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 86
+   },
+   "eds": "footer",
+   "category": "chrome",
+   "complexity": "Simple",
+   "rationale": "Site footer (link columns, legal links, back-to-top) → EDS footer fragment.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "footer",
+     "pattern": "footer(div(div(div(a(img)+),div(rte,div(a+))+,div(rte,div(a+)+),div(rte,div(a+))),div(a(img)+),div(rte,a+)))",
+     "hashes": [
+      {
+       "hash": "0612749c1d",
+       "instances": 86,
+       "pattern": "footer(div(div(div(a(img)+),div(rte,div(a+))+,div(rte,div(a+)+),div(rte,div(a+))),div(a(img)+),div(rte,a+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 86,
+     "pages": 86,
+     "properties": {
+      "site": 86
+     },
+     "sampleUrls": [
+      "/nz/en/404.html",
+      "/nz/en/about-us.html",
+      "/nz/en.html",
+      "/nz/en/about-us/our-story.html",
+      "/nz/en/about-us/research-and-development.html",
+      "/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html"
+     ],
+     "repFile": "footer_0612749c1d_1.jpg",
+     "repUrl": "https://www.nzagbiz.co.nz/nz/en/404.html",
+     "modifiers": [
+      "bgCamoGreen(86)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 4,
+      "a": 31,
+      "li": 0,
+      "h": 5,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "footer",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

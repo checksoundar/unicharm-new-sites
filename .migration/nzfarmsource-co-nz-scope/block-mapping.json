@@ -1,0 +1,14 @@
+{
+  "_about": "nzfarmsource.co.nz — site overrides on top of fonterra-shared-block-mapping.json (same cmp-* component library as kituafund.com / nutiani.com). Sitemap exposes navigation fragments as pages (menu--*, footer-navigation) and 106 myaccount pages.",
+  "experience-fragment": { "eds": "fragment", "category": "section", "complexity": "Simple",
+    "rationale": "Experience fragment wrapper (header/footer XFs on 913 pages, plus embedded content XFs) → EDS fragment; header/footer content is migrated to the EDS header/footer documents." },
+  "article-listing": { "eds": "article-listing", "category": "custom", "complexity": "Complex",
+    "rationale": "Article listing with category tag links, hidden filter state and card grid (version_1) on 12 hub pages → query-index listing block with filters." },
+  "qualtrics-siteintercept-1vf0zvb": { "eds": "qualtrics-feedback", "category": "custom", "complexity": "Simple",
+    "rationale": "Qualtrics Site Intercept feedback widget ('Was this page helpful?' thumbs buttons) on 17 pages — third-party survey integration, load via delayed.js rather than as an authored block." },
+  "quote-card": { "eds": "quote", "category": "boilerplate", "complexity": "Simple", "rationale": "Attributed quote card → Quote." },
+  "social-icons": { "eds": "footer", "category": "chrome", "complexity": "Simple", "rationale": "Social icon links in the footer XF → EDS footer." },
+  "body-rte": { "eds": "default-content", "category": "default-content", "complexity": "Simple", "rationale": "Body rich text → default content." },
+  "column-container": { "eds": "cards", "category": "boilerplate", "complexity": "Simple", "rationale": "Panel of linked logo/image tiles inside a carousel panel container → Cards (logo grid variant)." },
+  "search-results": { "eds": "search", "category": "boilerplate", "complexity": "Medium", "rationale": "Site search results (query box, result cards) → Block Collection Search on the query index." }
+}

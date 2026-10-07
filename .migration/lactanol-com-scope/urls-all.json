@@ -1,0 +1,40 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-10-07T04:56:12.094Z",
+    "totalUrls": 1,
+    "totalDocuments": 3,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 4,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.lactanol.com/",
+        "status": 200
+      }
+    ],
+    "documents": [
+      {
+        "url": "https://www.lactanol.com/content/dam/lactanol/Lactanol%20Brochure.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.lactanol.com/content/dam/lactanol/Ethanol%20Product%20Specifications.pdf",
+        "status": 200
+      },
+      {
+        "url": "https://www.lactanol.com/content/dam/lactanol/lactanol-limited-terms-of-supply-29-march-2021.pdf",
+        "status": 200
+      }
+    ]
+  }
+}

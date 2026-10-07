@@ -1,0 +1,49 @@
+{
+ "captured": "2026-10-07T08:16:00.108Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] section>carousel>section>text>contact-form",
+   "estPop": 94,
+   "url": "https://www.nzmp.com/global/en/ingredients/cheese/cheddar-cheese/cheddar-cheese-au.html",
+   "file": "t00_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 1,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] section>contact-form",
+   "estPop": 57,
+   "url": "https://www.nzmp.com/global/en/about-nzmp/global-ingredients/our-european-ingredients.html",
+   "file": "t01_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 74,
+   "name": "site·nutiani-standard-page",
+   "family": "site · nutiani-standard-page",
+   "signature": "[nutiani-standard-page] ",
+   "estPop": 1,
+   "url": "https://www.nzmp.com/global/en/ingredients/specialty/probiotics/nzmp-bifidob-hn019.html",
+   "file": "t74_site·nutiani-standard-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 76,
+   "name": "site·nutiani-standard-page",
+   "family": "site · nutiani-standard-page",
+   "signature": "[nutiani-standard-page] header>breadcrumbs>hero>text>columns>hero>text>product-listing>related-articles>text>dynamic-form>text>dynamic-form>footer",
+   "estPop": 1,
+   "url": "https://www.nzmp.com/global/en/ingredients/specialty/probiotics/nzmp-lactob-hn001.html",
+   "file": "t76_site·nutiani-standard-page.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

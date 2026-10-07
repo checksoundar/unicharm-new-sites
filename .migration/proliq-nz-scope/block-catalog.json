@@ -1,0 +1,592 @@
+{
+ "captured": "2026-10-07T05:27:22.535Z",
+ "method": "AEM component tag-pattern analysis",
+ "jaccard": 0.8,
+ "totalInstances": 155,
+ "contentInstances": 95,
+ "totalVariants": 16,
+ "baseSummary": [
+  {
+   "base": "default-content",
+   "variants": 5,
+   "instances": 45,
+   "category": "default-content"
+  },
+  {
+   "base": "columns",
+   "variants": 3,
+   "instances": 25,
+   "category": "boilerplate"
+  },
+  {
+   "base": "accordion",
+   "variants": 2,
+   "instances": 12,
+   "category": "boilerplate"
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 7,
+   "category": "boilerplate"
+  },
+  {
+   "base": "header",
+   "variants": 1,
+   "instances": 7,
+   "category": "chrome"
+  },
+  {
+   "base": "footer",
+   "variants": 1,
+   "instances": 7,
+   "category": "chrome"
+  },
+  {
+   "base": "hero",
+   "variants": 2,
+   "instances": 5,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:contact-form",
+   "variants": 1,
+   "instances": 1,
+   "category": "custom"
+  }
+ ],
+ "variants": [
+  {
+   "base": "custom:contact-form",
+   "key": "contactus::c6646a6f9e",
+   "cmp": "contactus",
+   "category": "custom",
+   "eds": "contact-form",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "contactus_c6646a6f9e_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/contact-us.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/contact-us.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(form[form](div[alert]+,input[hidden]+,div(div(label,input[text],div),div(div(label,input[text],div)+),div(div(label,input[email],div),div(label,input[tel],div)),div(label,textarea,div),div(div(div(iframe[ext]),div,textarea),iframe[blank]),div(button))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "contactus"
+  },
+  {
+   "base": "columns",
+   "key": "text-image-with-zoom::635b3224a6",
+   "cmp": "text-image-with-zoom",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 14,
+   "pagesFound": 5,
+   "repFile": "text-image-with-zoom_635b3224a6_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/contact-us.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/timeline.html"
+    }
+   ],
+   "topLabel": "OVERVIEW.",
+   "pattern": "div(div(img),div(div(rte)+))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cq-dd-image(14)",
+    "imageTextLeft(14)"
+   ],
+   "properties": {
+    "site": 14
+   },
+   "id": "text-image-with-zoom-v1"
+  },
+  {
+   "base": "columns",
+   "key": "text-image-with-zoom::5a0a7dfcd3",
+   "cmp": "text-image-with-zoom",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 9,
+   "pagesFound": 3,
+   "repFile": "text-image-with-zoom_5a0a7dfcd3_2.jpg",
+   "repUrl": "https://proliq.nz/nz/en/processes.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/timeline.html"
+    }
+   ],
+   "topLabel": "1814",
+   "pattern": "div(div(div(rte)+),div(img))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cq-dd-image(9)",
+    "imageTextRight(9)"
+   ],
+   "properties": {
+    "site": 9
+   },
+   "id": "text-image-with-zoom-v2"
+  },
+  {
+   "base": "columns",
+   "key": "text-image-with-zoom::940af83c9e",
+   "cmp": "text-image-with-zoom",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "text-image-with-zoom_940af83c9e_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    }
+   ],
+   "topLabel": "BUDGET FRIENDLY.",
+   "pattern": "div(div(img),div(div(rte)+,div(a)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cq-dd-image(2)",
+    "imageTextLeft(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "text-image-with-zoom-v3"
+  },
+  {
+   "base": "accordion",
+   "key": "accordionItem::b91923d82e",
+   "cmp": "accordionItem",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 9,
+   "pagesFound": 2,
+   "repFile": "accordionItem_b91923d82e_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/specifications.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(rte),div),div(@subsection))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "accordion(9)"
+   ],
+   "properties": {
+    "site": 9
+   },
+   "id": "accordionItem-v1"
+  },
+  {
+   "base": "accordion",
+   "key": "accordionItem::d0d3d638f5",
+   "cmp": "accordionItem",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "accordionItem_d0d3d638f5_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/specifications.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    }
+   ],
+   "topLabel": "BASIC INFORMATION.",
+   "pattern": "div(div(div(rte),div),div(@subsection,@richText+,@table,@richText+,@table))",
+   "exactPatterns": 3,
+   "modifiers": [
+    "accordion(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "accordionItem-v2"
+  },
+  {
+   "base": "table",
+   "key": "table::9a6e036d5e",
+   "cmp": "table",
+   "category": "boilerplate",
+   "eds": "table",
+   "instances": 7,
+   "pagesFound": 3,
+   "repFile": "table_9a6e036d5e_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/about.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/contact-us.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(table(tbody(tr(td)),tfoot(tr(td(coral-wait)))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "foundation-layout-util-maximized-alt(7)",
+    "foundation-collection(7)",
+    "foundation-layout-table(7)"
+   ],
+   "properties": {
+    "site": 7
+   },
+   "id": "table"
+  },
+  {
+   "base": "hero",
+   "key": "heroBanner::4163f17597",
+   "cmp": "heroBanner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "heroBanner_4163f17597_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/benefits.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/benefits.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    }
+   ],
+   "topLabel": "PROPERTIES & APPLICATIONS.",
+   "pattern": "div(div(img)+,div(div(rte)+,div(a)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "heroBanner(3)",
+    "cq-dd-image(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "heroBanner-v1"
+  },
+  {
+   "base": "hero",
+   "key": "heroBanner::5531ddbfeb",
+   "cmp": "heroBanner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "heroBanner_5531ddbfeb_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/processes.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/timeline.html"
+    }
+   ],
+   "topLabel": "TESTIMONIALS",
+   "pattern": "div(div(img)+,div(div(rte)+))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "heroBanner(2)",
+    "cq-dd-image(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "heroBanner-v2"
+  },
+  {
+   "base": "default-content",
+   "key": "subsection::1c2897d5e5",
+   "cmp": "subsection",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 21,
+   "pagesFound": 6,
+   "repFile": "subsection_1c2897d5e5_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/benefits.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/benefits.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/timeline.html"
+    }
+   ],
+   "topLabel": "CONTACT US.",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "copy(12)",
+    "headline(9)",
+    "content_bluebar(2)"
+   ],
+   "properties": {
+    "site": 21
+   },
+   "id": "subsection-v1"
+  },
+  {
+   "base": "default-content",
+   "key": "subsection::a126e2031c",
+   "cmp": "subsection",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 4,
+   "pagesFound": 2,
+   "repFile": "subsection_a126e2031c_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/benefits.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/benefits.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    }
+   ],
+   "topLabel": "IMPROVES FEED INTAKE.",
+   "pattern": "div(div(rte)+)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "headline(4)",
+    "content_bluebar(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "subsection-v2"
+  },
+  {
+   "base": "default-content",
+   "key": "subsection::0496f7dcda",
+   "cmp": "subsection",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "subsection_0496f7dcda_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    }
+   ],
+   "topLabel": "PROLIQ added to dry feeds (such as PKE and concentrates) assists in im",
+   "pattern": "div(div(rte)+,div(a))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "headline(2)",
+    "content_bluebar(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "subsection-v3"
+  },
+  {
+   "base": "default-content",
+   "key": "richText::0dfcd5192c",
+   "cmp": "richText",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 9,
+   "pagesFound": 3,
+   "repFile": "richText_0dfcd5192c_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/about.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/contact-us.html"
+    }
+   ],
+   "topLabel": "INTRODUCTION.",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 9
+   },
+   "id": "richText"
+  },
+  {
+   "base": "default-content",
+   "key": "downloadFile::c7f7ced30b",
+   "cmp": "downloadFile",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 9,
+   "pagesFound": 6,
+   "repFile": "downloadFile_c7f7ced30b_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/benefits.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/benefits.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/timeline.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(a))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "download(9)"
+   ],
+   "properties": {
+    "site": 9
+   },
+   "id": "downloadFile"
+  },
+  {
+   "base": "header",
+   "key": "header::031ddafb4c",
+   "cmp": "header",
+   "category": "chrome",
+   "eds": "header",
+   "instances": 7,
+   "pagesFound": 7,
+   "repFile": "header_031ddafb4c_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/benefits.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/benefits.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/contact-us.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "nav(div(div(a(img),button[exp]),div(div(a+),div(a))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "logo(7)"
+   ],
+   "properties": {
+    "site": 7
+   },
+   "id": "header"
+  },
+  {
+   "base": "footer",
+   "key": "footer::770cb1ea2d",
+   "cmp": "footer",
+   "category": "chrome",
+   "eds": "footer",
+   "instances": 7,
+   "pagesFound": 7,
+   "repFile": "footer_770cb1ea2d_1.jpg",
+   "repUrl": "https://proliq.nz/nz/en/benefits.html",
+   "samples": [
+    {
+     "url": "https://proliq.nz/nz/en/about.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/benefits.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/specifications.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/contact-us.html"
+    },
+    {
+     "url": "https://proliq.nz/nz/en/processes.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "footer(div(div(rte),div(div(a(img)+),div(rte)),div(rte)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 7
+   },
+   "id": "footer"
+  }
+ ]
+}

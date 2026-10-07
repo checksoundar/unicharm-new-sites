@@ -1,0 +1,16 @@
+{
+ "captured": "2026-10-07T05:22:06.789Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] header>columns>footer",
+   "estPop": 1,
+   "url": "https://www.lactanol.com/",
+   "file": "t00_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

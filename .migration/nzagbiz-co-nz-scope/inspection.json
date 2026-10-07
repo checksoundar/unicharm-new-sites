@@ -1,0 +1,125 @@
+{
+ "captured": "2026-10-07T05:44:50.918Z",
+ "locales": [
+  "nz"
+ ],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 9,
+  "totalLive": 86,
+  "totalUrls": 96,
+  "selectedTotal": 86,
+  "skippedTotal": 10,
+  "non200Total": 10,
+  "nonRrendered": 48,
+  "nonRtotal": 48,
+  "fullGroups": 3,
+  "rRendered": 38,
+  "rTotal": 46,
+  "rGroups": 4,
+  "exclTotal": 2,
+  "exclGroups": 2,
+  "nonEnExcluded": 2
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{page}/{path…}/{path…}",
+   "label": "Locale deep pages",
+   "total": 44,
+   "selected": 44,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/nz/en/products/calf/ancalf.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}/{section}/{page}/{path…}",
+   "label": "Locale deep pages",
+   "total": 21,
+   "selected": 18,
+   "skipped": 3,
+   "non200": 3,
+   "category": "sampled",
+   "example": "/nz/en/products/calf.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{locale}/{section}/{page}/{slug}",
+   "label": "Locale deep pages",
+   "total": 10,
+   "selected": 7,
+   "skipped": 3,
+   "non200": 3,
+   "category": "sampled",
+   "example": "/nz/en/products/lamb-and-other-animals.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{locale}/{section}/{page}",
+   "label": "Locale sub-pages",
+   "total": 10,
+   "selected": 9,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/nz/en/products.html"
+  },
+  {
+   "groupId": "G04",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 5,
+   "selected": 4,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/nz/en/wholemilk-vs-finisher-cmr-calculator.html"
+  },
+  {
+   "groupId": "G05",
+   "template": "/{locale}/{section}/{page}/{id}/{path…}",
+   "label": "Locale deep pages",
+   "total": 3,
+   "selected": 3,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/nz/en/products/lamb-and-other-animals/anlamb.html"
+  },
+  {
+   "groupId": "G06",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/nz/en.html"
+  },
+  {
+   "groupId": "G07",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/nz.html"
+  },
+  {
+   "groupId": "G08",
+   "template": "/{locale}/{slug}",
+   "label": "Locale section / landing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/nz/en2.html"
+  }
+ ]
+}

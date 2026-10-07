@@ -1,0 +1,152 @@
+{
+ "captured": "2026-10-07T04:56:18.259Z",
+ "minGroup": 2,
+ "sampleN": 100000,
+ "totalLivePages": 91,
+ "totalGroups": 6,
+ "patternGroups": 4,
+ "longTailPages": 2,
+ "groupMeta": {
+  "/{locale}/{section}/{page}/{path…}/{path…}": {
+   "total": 59,
+   "rendered": 59,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}/{page}/{slug}": {
+   "total": 13,
+   "rendered": 13,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}/{page}/{path…}": {
+   "total": 9,
+   "rendered": 9,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}/{page}": {
+   "total": 8,
+   "rendered": 8,
+   "type": "pattern",
+   "label": "Locale sub-pages"
+  },
+  "/{locale}/{section}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Locale section / landing pages"
+  },
+  "/{locale}/{section}/{slug}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Locale sub-pages"
+  }
+ },
+ "groups": {
+  "/{locale}/{section}": [
+   "https://www.nutiani.com/nz/en.html"
+  ],
+  "/{locale}/{section}/{page}/{slug}": [
+   "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html",
+   "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html",
+   "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html",
+   "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html",
+   "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules.html",
+   "https://www.nutiani.com/nz/en/company/terms-and-conditions.html",
+   "https://www.nutiani.com/nz/en/tutorials/tutorial-create-innovation-hub-article.html",
+   "https://www.nutiani.com/nz/en/tutorials/tutorial-uploading-an-asset.html",
+   "https://www.nutiani.com/nz/en/tutorials/tutorial-creating-a-wellness-page.html",
+   "https://www.nutiani.com/nz/en/tutorials/tutorial-download-cta-button-component.html",
+   "https://www.nutiani.com/nz/en/tutorials/tutorial-logging-into-aem.html",
+   "https://www.nutiani.com/nz/en/tutorials/tutorial-create-solutions-product-page.html",
+   "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules/"
+  ],
+  "/{locale}/{section}/{page}/{path…}": [
+   "https://www.nutiani.com/nz/en/wellbeing-areas/test.html",
+   "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html",
+   "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html",
+   "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "https://www.nutiani.com/nz/en/ingredients/phospholipids.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/webcasts.html",
+   "https://www.nutiani.com/nz/en/company/the-nutiani-story.html",
+   "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+  ],
+  "/{locale}/{section}/{page}": [
+   "https://www.nutiani.com/nz/en/wellbeing-areas.html",
+   "https://www.nutiani.com/nz/en/ingredients.html",
+   "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "https://www.nutiani.com/nz/en/solutions.html",
+   "https://www.nutiani.com/nz/en/search.html",
+   "https://www.nutiani.com/nz/en/tutorials.html",
+   "https://www.nutiani.com/nz/en/digital-guidelines.html",
+   "https://www.nutiani.com/nz/en/product-formats.html"
+  ],
+  "/{locale}/{section}/{page}/{path…}/{path…}": [
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/the-immunity-opportunity-for-nutrition.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/how-to-adopt-a-holistic-approach-to-weight-and-wellbeing.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumers-embrace-nutrition.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/key-takeaways-espen-2022.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-in-sea-gut-health.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/importance-of-nutritional-support-oncology-patients.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-nick-ross.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/top-product-picks-sanse-2022.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/fonterra-athlete-incubator-project.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/the-interconnectedness-of-wellbeing.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/renaissance-stick-packs-josh-schall.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-practical-worriers.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/cognitive-health-and-mobility-opportunities-in-china.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-proactive-pursuers.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-CFU-quality-over-quantity.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-activity-seekers.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-relaxed-cosmopolitans.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/value-seeking-supplement-buyers-want-more.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/fast-tracking-probiotic-potential.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-balanced-seekers.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/fonterras-probiotics-redefine-gut-brain-and-skin-health.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/multifunctionality-in-the-nutrition-industry.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/health-nutrition-rising-costs.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-from-skincare-to-oral-beauty.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/health-nutrition-trends-2024.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/gut-friendly-snacks-probiotics.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-mental-wellbeing.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/gen-z-gut-health.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/empowering-midlife-women.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-motivations-in-china.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/proactive-nutrition-for-healthy-aging.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-tom-walsh.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/embracing-evolving-narratives-of-aging.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/unlock-happiness-nutiani-hn001.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/building-a-resilient-future-with-precision-fermentation.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/future-of-personalised-nutrition.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/rethinking-metabolic-health-with-microbiome-science.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/harnessing-probiotics-for-next-gen-wellness.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/inside-the-rise-of-synthetic-nutrition.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/hn019-for-children-immunity.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/supporting-pregnancy-and-childhood-health.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/articles/supporting-womens-nutrition-across-life-stages.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/resources/health-nutrition-rising-costs-report.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/resources/phospholipid-protein-shake-concept-card-landing-page.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/resources/unmet-nutrition-needs.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/resources/probiotics-portfolio-brochure.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/resources/proactive-pursuers-article-landing-page.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/webcasts/mobility-fuelling-longer-active-lives.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/webcasts/gut-feelings-hn001-stress-happiness.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/webcasts/next-gen-sports-nutrition.html",
+   "https://www.nutiani.com/nz/en/innovation-hub/webcasts/2025-health-and-wellbeing-trends.html",
+   "https://www.nutiani.com/nz/en/company/contact-us/form-error.html",
+   "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+  ],
+  "/{locale}/{section}/{slug}": [
+   "https://www.nutiani.com/nz/en/404.html"
+  ]
+ }
+}

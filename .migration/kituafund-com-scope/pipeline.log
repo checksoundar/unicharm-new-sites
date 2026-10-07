@@ -1,0 +1,101 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/kituafund-com-scope
+▶ site: https://www.kituafund.com/global/en.html
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 11, already done: 11, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 11
+Distinct layout signatures: 9
+
+=== Layout templates (est. full-population pages) ===
+    2 pp  rendered=  2   section-nav-list list                                           |  global(2)
+    2 pp  rendered=  2   article-text     text>text                                      |  global(2)
+    1 pp  rendered=  1   hero-landing     hero>text>text>media>text>text>text>carousel>t |  global(1)
+    1 pp  rendered=  1   form-page        hero>form                                      |  global(1)
+    1 pp  rendered=  1   media-article    text>media>text>media                          |  global(1)
+    1 pp  rendered=  1   article-text     text>text>text                                 |  global(1)
+    1 pp  rendered=  1   media-article    text>media>text>media>text>media>text          |  global(1)
+    1 pp  rendered=  1   carousel-page    carousel>carousel>carousel>carousel>carousel>c |  global(1)
+    1 pp  rendered=  1   carousel-page    hero>text>carousel>text>carousel               |  global(1)
+
+=== Third-party integrations detected ===
+   22 YouTube embed
+   22 Google Tag Manager
+   11 Vimeo
+   11 Adobe RUM (Helix)
+
+=== Global objects ===
+  11 dataLayer
+  11 google_tag_manager
+  11 YT
+  11 Vimeo
+▶ [5/12] capture block instances (resumable)
+Render set 11, pages already captured 6, todo 5
+DONE. pages=5 blocks=25
+▶ [6/12] consolidate block variants
+Total block instances: 32
+Total variants: 8
+
+=== Base type -> variants / instances ===
+  12 inst    1 variants   carousel
+  12 inst    3 variants   text
+   3 inst    2 variants   hero
+   3 inst    1 variants   media
+   2 inst    1 variants   unknown
+
+=== Top 20 variants ===
+  12 x   carousel      pages=  2   div|section1|img,hd,aN,iN
+   8 x   text          pages=  4   div|div1|aN,iN
+   3 x   media         pages=  1   div|div1|img,aN,iN
+   2 x   hero          pages=  2   div|section1|hd,aN,iN
+   2 x   text          pages=  2   div|div1|hd,aN,iN
+   2 x   text          pages=  2   div|div1|img,aN,iN
+   2 x   unknown       pages=  2   section|div2|img,lst,aN,iN
+   1 x   hero          pages=  1   div|section1|img,hd,aN,iN
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 11, done 0, todo 11
+DONE pages=11 shots=38
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 7 pages, 22 variants
+DONE reshoot ok=22 miss=0
+▶ [7/12] capture template screenshots
+✓ t00_site·kituafund-standard-template.jpg  (29KB)  https://www.kituafund.com/global/en/footer-links.html
+✓ t01_site·kituafund-standard-template.jpg  (184KB)  https://www.kituafund.com/global/en/news.html
+✓ t02_site·kituafund-article-template.jpg  (416KB)  https://www.kituafund.com/global/en/news/articles/ki-tua-fun
+✓ t03_site·kituafund-article-template.jpg  (301KB)  https://www.kituafund.com/global/en/news/articles/ki-tua-fun
+DONE shots: 4/4
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 5 template groups | full: 2 sampled: 2 excluded: 1
+pages — inspected: 11 skipped: 19 non-200: 19 of 30 urls
+
+=== Template groups (by size) ===
+  G00    18  sampled   /global/{section}/{page}/{path…}  Global deep pages
+  G01     5  sampled   /global/{section}/{page}          Global sub-pages
+  G02     4  excluded  /global/{section}/{id}/{path…}    Global deep pages
+  G03     2  full      /global/{section}/{slug}          Global sub-pages
+  G04     1  full      /global/{section}                 Global section pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 3, already done 0, todo 3
+DONE backend capture. pages=3 ok=3
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 3 | first-party domain: kituafund.com
+Probable backend integrations: 1 | unclassified hosts: 0
+
+=== By category ===
+  1 Analytics
+
+=== Services (by page coverage) ===
+  3pg  Analytics                   Google Analytics (GA4)
+▶ [11/12] compute supplementary data
+compute-data: live pages 11 | structure groups 1 | docs 0 | url groups 2 | layout heatmap rows 2 | block heatmap rows 2 | integrations 4
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/kituafund-com-site-analysis-dashboard.html 3.08 MB
+templates: 2 galleries: Cards:2, Video:1
+IMAGES: 22 TEMPLATE_SHOTS: 2
+✅ done.
+exit=0

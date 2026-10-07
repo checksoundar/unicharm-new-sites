@@ -1,0 +1,5 @@
+pages=1 instances=9 components=3 exactPatterns=8 variants=8
+boilerplate      page-section             → columns                inst=    7 pg=   1 patterns=  6 variants=6  {"site":7}
+chrome           nav                      → header                 inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+chrome           comp__footer             → footer                 inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+layout families: 1 (1 signatures)

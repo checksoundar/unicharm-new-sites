@@ -1,0 +1,41 @@
+{
+  "siteUrl": "https://www.visit.fonterra.com/global/en/home.html",
+  "siteOrigin": "https://www.visit.fonterra.com",
+  "site": "visit.fonterra.com",
+  "scope": "Entire domain — every page rendered (no sampling)",
+  "eyebrow": "Fonterra Virtual Visit (Fonterra) · Site Analysis",
+  "heroTitle": "Structural analysis of visit.fonterra.com",
+  "heroSub": "",
+  "brandLine": "visit.fonterra.com<br>Migration Console",
+  "accountName": "Fonterra — Fonterra Virtual Visit",
+  "locale": "en (single) — AEM SPA",
+  "multiLocale": false,
+  "discovery": "AEM SPA model.json (:children) — no sitemap, links are JS-driven",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/visit-fonterra-com-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": "",
+  "blockStrategy": "aem",
+  "sharedMapping": "/backups/checksoundar/unicharm-new-sites/repo/.migration/fonterra-shared-block-mapping.json",
+  "crawl": {
+    "seeds": [
+      "https://www.visit.fonterra.com/global/en/home.html",
+      "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+      "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+      "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+      "https://www.visit.fonterra.com/global/en/home/distribution.html",
+      "https://www.visit.fonterra.com/global/en/home/export.html"
+    ]
+  },
+  "properties": [
+    {
+      "key": "site",
+      "label": "Virtual Visit",
+      "prefix": "/"
+    }
+  ],
+  "ignoreClasses": [
+    "vv-component"
+  ]
+}

@@ -1,0 +1,27 @@
+pages=86 instances=1575 components=25 exactPatterns=110 variants=83
+custom           news-letter-signup       → newsletter-signup      inst=   20 pg=  20 patterns=  1 variants=1  {"site":20}
+custom           article-tile-listing     → article-listing        inst=   16 pg=  16 patterns=  3 variants=2  {"site":16}
+custom           contactus                → contact-form           inst=    6 pg=   6 patterns=  1 variants=1  {"site":6}
+custom           cmr-calculator           → cmr-calculator         inst=    2 pg=   2 patterns=  1 variants=1  {"site":2}
+custom           mixing-calculator        → mixing-calculator      inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+custom           request-a-quote-form     → request-quote-form     inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+custom           website-signup-form      → signup-form            inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      grid-multicolumn         → columns                inst=  149 pg=  45 patterns= 30 variants=17  {"site":149}
+boilerplate      image-text-badge         → columns                inst=   53 pg=  27 patterns=  3 variants=3  {"site":53}
+boilerplate      key-features             → cards                  inst=   51 pg=  26 patterns=  1 variants=1  {"site":51}
+boilerplate      tile-listing             → cards                  inst=   35 pg=  23 patterns=  4 variants=4  {"site":35}
+boilerplate      video                    → video                  inst=   14 pg=   7 patterns=  1 variants=1  {"site":14}
+boilerplate      request-quote-badge      → hero                   inst=   12 pg=  12 patterns=  1 variants=1  {"site":12}
+boilerplate      calculator-intro         → cards                  inst=   11 pg=  11 patterns=  1 variants=1  {"site":11}
+boilerplate      video-container          → video                  inst=    8 pg=   7 patterns=  6 variants=3  {"site":8}
+boilerplate      quotes                   → quote                  inst=    3 pg=   3 patterns=  1 variants=1  {"site":3}
+default-content  text                     → default-content        inst=  428 pg=  65 patterns= 13 variants=9  {"site":428}
+default-content  icon-badge               → default-content        inst=  121 pg=  19 patterns=  1 variants=1  {"site":121}
+default-content  image                    → default-content        inst=  103 pg=  19 patterns=  3 variants=3  {"site":103}
+default-content  section-header           → default-content        inst=  101 pg=  68 patterns=  3 variants=3  {"site":101}
+default-content  headline                 → default-content        inst=   29 pg=   7 patterns=  1 variants=1  {"site":29}
+section          grid-container           → section                inst=  237 pg=  71 patterns= 29 variants=23  {"site":237}
+section          responsivegrid           → section                inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+chrome           header                   → header                 inst=   86 pg=  86 patterns=  1 variants=1  {"site":86}
+chrome           footer                   → footer                 inst=   86 pg=  86 patterns=  1 variants=1  {"site":86}
+layout families: 1 (37 signatures)

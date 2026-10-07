@@ -1,0 +1,220 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/nzfarmsource-co-nz-scope
+▶ site: https://nzfarmsource.co.nz/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 1056, already done: 970, todo: 86
+  [w5] 20/86 done (ok=5 fail=17) last=https://nzfarmsource.co.nz/myaccount/co-op-and-financials/shareholding
+  [w1] 40/86 done (ok=14 fail=28) last=https://nzfarmsource.co.nz/myaccount/co-op-and-financials/strategy-hub
+  [w0] 60/86 done (ok=23 fail=37) last=https://nzfarmsource.co.nz/myaccount/retail.html
+  [w5] 80/86 done (ok=43 fail=38) last=https://nzfarmsource.co.nz/retail/seasonal-hub/pasture-seed.html
+DONE rendering. ok=48 fail=38 total_processed=86
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 1018
+Distinct layout signatures: 185
+
+=== Layout templates (est. full-population pages) ===
+  216 pp  rendered=216   article-text     text>text                                      |  advice-and-support(208) legal-and-disclaimers(5) animals(1)
+  160 pp  rendered=160   article-text     text                                           |  advice-and-support(145) archive(4) campaigns(3)
+   82 pp  rendered= 82   form-page        text>form>text                                 |  myaccount(82)
+   81 pp  rendered= 81   article-text     text>text>text                                 |  advice-and-support(60) archive(9) campaigns(4)
+   52 pp  rendered= 52   article-text     text>text>text>text                            |  advice-and-support(43) land-and-feed(5) milk(2)
+   38 pp  rendered= 38   minimal-page     (empty)                                        |  advice-and-support(9) archive(9) footer-navigation(9)
+   14 pp  rendered= 14   carousel-page    text>carousel                                  |  archive(5) co-op-and-financials(4) campaigns(3)
+   14 pp  rendered= 14   media-article    text>text>media>text                           |  advice-and-support(14)
+   10 pp  rendered= 10   media-article    text>media>text>text                           |  advice-and-support(10)
+   10 pp  rendered= 10   article-text     text>text>text>text>text>text                  |  advice-and-support(7) legal-and-disclaimers(2) land-and-feed(1)
+    9 pp  rendered=  9   media-article    text>media>text                                |  advice-and-support(9)
+    8 pp  rendered=  8   article-text     text>text>text>text>text                       |  advice-and-support(8)
+    8 pp  rendered=  8   media-article    text>text>media>text>media>text                |  advice-and-support(8)
+    8 pp  rendered=  8   media-article    text>text>media>text>text>text                 |  advice-and-support(8)
+    8 pp  rendered=  8   media-article    text>text>media                                |  advice-and-support(8)
+    8 pp  rendered=  8   data-table       text>table                                     |  archive(3) legal-and-disclaimers(3) advice-and-support(2)
+    8 pp  rendered=  8   media-article    text>text>media>text>text                      |  advice-and-support(8)
+    7 pp  rendered=  7   article-text     text>text>text>text>text>text>text>text>text>t |  advice-and-support(6) legal-and-disclaimers(1)
+    7 pp  rendered=  7   media-article    text>media                                     |  advice-and-support(7)
+    7 pp  rendered=  7   article-text     text>text>text>text>text>text>text>text>text>t |  advice-and-support(6) legal-and-disclaimers(1)
+    6 pp  rendered=  6   card-grid        text>cards>text                                |  (home)(1) animals.html(1) co-op-and-financials(1)
+    6 pp  rendered=  6   article-text     text>text>text>text>text>text>text>text>text>t |  advice-and-support(6)
+    6 pp  rendered=  6   media-article    text>media>text>text>text                      |  advice-and-support(6)
+    6 pp  rendered=  6   card-grid        cards                                          |  co-op-and-financials(3) advice-and-support(1) archive(1)
+    5 pp  rendered=  5   embed-page       text>iframe-embed>text                         |  advice-and-support(5)
+    5 pp  rendered=  5   article-text     text>text>text>text>text>text>text             |  legal-and-disclaimers(3) advice-and-support(1) archive(1)
+    4 pp  rendered=  4   embed-page       text>text>iframe-embed>text                    |  advice-and-support(4)
+    4 pp  rendered=  4   article-text     text>text>text>text>text>text>text>text>text>t |  advice-and-support(4)
+    4 pp  rendered=  4   article-text     text>text>text>text>text>text>text>text>text   |  advice-and-support(4)
+    4 pp  rendered=  4   data-table       table                                          |  advice-and-support(2) legal-and-disclaimers(2)
+
+=== Third-party integrations detected ===
+ 2794 Microsoft Clarity
+ 2687 Qualtrics
+ 1951 Google Tag Manager
+ 1934 Hotjar
+ 1856 YouTube embed
+ 1855 Meta (Facebook) Pixel
+ 1064 CDN/JS libs
+ 1005 Vimeo
+  920 Adobe RUM (Helix)
+  914 Consent / GDPR service
+  913 Google (reCAPTCHA / APIs)
+  905 Twitter/X Pixel
+  107 Other third-party: fonterracorporate.my.site.com
+   33 Other third-party: 7242161.collect.igodigital.com
+    4 Other third-party: open.spotify.com
+    4 Google Ads/DoubleClick
+    2 Other third-party: capi-automation.s3.us-east-2.amazonaws.com
+
+=== Global objects ===
+ 989 dataLayer
+ 947 google_tag_manager
+ 942 fbq
+ 911 YT
+ 911 Vimeo
+▶ [5/12] generic block capture skipped (AEM mode)
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 1056, done 0, todo 1056
+  [w3] 20/1056 pages, shots=74
+  [w2] 40/1056 pages, shots=81
+  [w1] 60/1056 pages, shots=90
+  [w3] 80/1056 pages, shots=94
+  [w2] 100/1056 pages, shots=95
+  [w4] 120/1056 pages, shots=97
+  [w2] 140/1056 pages, shots=100
+  [w4] 160/1056 pages, shots=102
+  [w0] 180/1056 pages, shots=106
+  [w5] 200/1056 pages, shots=109
+  [w4] 220/1056 pages, shots=110
+  [w2] 240/1056 pages, shots=114
+  [w3] 260/1056 pages, shots=115
+  [w2] 280/1056 pages, shots=115
+  [w0] 300/1056 pages, shots=116
+  [w3] 320/1056 pages, shots=116
+  [w5] 340/1056 pages, shots=117
+  [w4] 360/1056 pages, shots=117
+  [w3] 380/1056 pages, shots=117
+  [w1] 400/1056 pages, shots=119
+  [w0] 420/1056 pages, shots=119
+  [w5] 440/1056 pages, shots=121
+  [w3] 460/1056 pages, shots=121
+  [w5] 480/1056 pages, shots=122
+  [w5] 500/1056 pages, shots=123
+  [w0] 520/1056 pages, shots=124
+  [w3] 540/1056 pages, shots=125
+  [w0] 560/1056 pages, shots=126
+  [w5] 580/1056 pages, shots=126
+  [w3] 600/1056 pages, shots=126
+  [w3] 620/1056 pages, shots=126
+  [w1] 640/1056 pages, shots=127
+  [w0] 660/1056 pages, shots=128
+  [w5] 680/1056 pages, shots=130
+  [w5] 700/1056 pages, shots=165
+  [w4] 720/1056 pages, shots=190
+  [w4] 740/1056 pages, shots=253
+  [w5] 760/1056 pages, shots=294
+  [w4] 780/1056 pages, shots=342
+  [w4] 800/1056 pages, shots=366
+  [w1] 820/1056 pages, shots=406
+  [w3] 840/1056 pages, shots=431
+  [w0] 860/1056 pages, shots=460
+  [w5] 880/1056 pages, shots=462
+  [w3] 900/1056 pages, shots=470
+  [w5] 920/1056 pages, shots=483
+  [w4] 940/1056 pages, shots=485
+  [w3] 960/1056 pages, shots=485
+  [w2] 980/1056 pages, shots=485
+  [w2] 1000/1056 pages, shots=485
+  [w4] 1020/1056 pages, shots=485
+  [w5] 1040/1056 pages, shots=515
+DONE pages=1056 shots=539
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 135 pages, 238 variants
+  20/135 pages ok=49 miss=0
+  40/135 pages ok=87 miss=0
+  60/135 pages ok=128 miss=0
+  80/135 pages ok=168 miss=0
+  100/135 pages ok=195 miss=0
+  120/135 pages ok=219 miss=0
+DONE reshoot ok=236 miss=2
+▶ [7/12] capture template screenshots
+✓ t00_site·article-page.jpg  (457KB)  https://nzfarmsource.co.nz/advice-and-support/enrich/10-hand
+✓ t01_site·no-template.jpg  (25KB)  https://nzfarmsource.co.nz/advice-and-support/digital-tools-
+✓ t02_site·vendor-article-page.jpg  (312KB)  https://nzfarmsource.co.nz/advice-and-support/enrich/5-reaso
+✓ t03_site·standard-page.jpg  (277KB)  https://nzfarmsource.co.nz/archive/farm-source-card.html
+✓ t04_site·vendor-article-page.jpg  (434KB)  https://nzfarmsource.co.nz/advice-and-support/enrich/all-nut
+✓ t05_site·standard-page.jpg  (75KB)  https://nzfarmsource.co.nz/archive.html
+✓ t07_site·article-page.jpg  (323KB)  https://nzfarmsource.co.nz/advice-and-support/enrich/are-you
+✓ t52_site·homepage.jpg  (684KB)  https://nzfarmsource.co.nz/
+DONE shots: 8/8
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A second standard type (Table)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 75 template groups | full: 28 sampled: 35 excluded: 12
+pages — inspected: 1045 skipped: 408 non-200: 397 of 1453 urls
+
+=== Template groups (by size) ===
+  G00   672  sampled   /advice-and-support/{section}/{slug}  Advice-and-support sub-pages
+  G01    84  sampled   /myaccount/{id}/{page}/{path…}    Myaccount deep pages
+  G02    68  sampled   /campaigns/{id}/{page}/{path…}    Campaigns deep pages
+  G03    53  sampled   /{page}/{section}                 Root-level product & marketing pages
+  G04    52  excluded  /campaigns/{id}/{id}/{path…}      Campaigns deep pages
+  G05    47  sampled   /{page}                           Root-level product & marketing pages
+  G06    37  excluded  /{page}/{slug}                    Root-level product & marketing pages
+  G07    35  sampled   /{page}/{section}/{page}/{path…}  Root-level product & marketing pages
+  G08    22  full      /legal-and-disclaimers/{section}/{id}/{path…}  Legal-and-disclaimers deep pages
+  G09    18  sampled   /co-op-and-financials/{section}/{page}  Co-op-and-financials sub-pages
+  G10    17  sampled   /archive/{section}/{slug}         Archive sub-pages
+  G11    14  sampled   /retail/{section}/{page}          Retail sub-pages
+  G12    14  sampled   /campaigns/{section}              Campaigns section pages
+  G13    14  excluded  /footer-navigation/{section}/{page}/{path…}  Footer-navigation deep pages
+  G14    13  sampled   /co-op-and-financials/{section}/{slug}  Co-op-and-financials sub-pages
+  G15    13  sampled   /campaigns/{id}/{slug}            Campaigns sub-pages
+  G16    13  full      /archive/{section}                Archive section pages
+  G17    12  full      /advice-and-support/{section}/{page}  Advice-and-support sub-pages
+  G18    11  full      /archive/{section}/{page}         Archive sub-pages
+  G19    10  full      /myaccount/{section}              Myaccount section pages
+  G20    10  excluded  /farming-jobs/{section}/{slug}    Farming-jobs sub-pages
+  G21    10  sampled   /archive/{id}/{slug}              Archive sub-pages
+  G22     8  sampled   /co-op-and-financials/{section}   Co-op-and-financials section pages
+  G23     8  sampled   /footer-navigation/{section}/{page}  Footer-navigation sub-pages
+  G24     8  sampled   /archive/{id}/{page}              Archive sub-pages
+  G25     8  sampled   /advice-and-support/{section}/{page}/{path…}  Advice-and-support deep pages
+  G26     7  full      /myaccount/{section}/{page}       Myaccount sub-pages
+  G27     7  sampled   /co-op-and-financials/{id}/{slug}  Co-op-and-financials sub-pages
+  G28     7  sampled   /retail/{section}                 Retail section pages
+  G29     6  full      /myaccount/{section}/{id}/{path…}  Myaccount deep pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 40, already done 0, todo 40
+  10/40 (ok=10 empty-fail=0)
+  20/40 (ok=20 empty-fail=0)
+  30/40 (ok=30 empty-fail=0)
+  40/40 (ok=40 empty-fail=0)
+DONE backend capture. pages=40 ok=40
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 40 | first-party domain: co.nz
+Probable backend integrations: 6 | unclassified hosts: 5
+
+=== By category ===
+  1 Analytics
+  1 Session replay / analytics
+  1 First-party platform
+  1 Survey / VoC
+  1 Advertising
+  1 Video
+
+=== Services (by page coverage) ===
+ 38pg  Analytics                   Google Analytics (GA4)
+ 37pg  Session replay / analytics  Digital-experience analytics
+ 36pg  First-party platform        Nzfarmsource: Other first-party API
+ 35pg  Survey / VoC                Survey / VoC
+  7pg  Advertising                 Google Ads / DoubleClick
+  6pg  Video                       Video platform API
+▶ [11/12] compute supplementary data
+compute-data: live pages 1056 | structure groups 25 | docs 119 | url groups 30 | layout heatmap rows 6 | block heatmap rows 7 | integrations 17
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/nzfarmsource-co-nz-site-analysis-dashboard.html 22.15 MB
+templates: 5 galleries: Hero:23, Cards:31, Columns:101, Accordion:20, Tabs:2, Table:14, Video:5
+IMAGES: 238 TEMPLATE_SHOTS: 5
+✅ done.
+exit=0

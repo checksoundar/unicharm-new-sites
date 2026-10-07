@@ -1,0 +1,23 @@
+pages=11 instances=411 components=21 exactPatterns=58 variants=52
+custom           related-articles         → related-articles       inst=    6 pg=   5 patterns=  2 variants=2  {"site":6}
+custom           article-header           → article-header         inst=    4 pg=   4 patterns=  1 variants=1  {"site":4}
+custom           card-filter-panel        → card-filter            inst=    2 pg=   1 patterns=  2 variants=2  {"site":2}
+custom           article-listing-with-filter → article-listing        inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      card                     → cards                  inst=   13 pg=   3 patterns=  2 variants=1  {"site":13}
+boilerplate      breadcrumb               → breadcrumbs            inst=   11 pg=  11 patterns=  2 variants=2  {"site":11}
+boilerplate      multicolumngrid          → columns                inst=    5 pg=   2 patterns=  4 variants=4  {"site":5}
+boilerplate      secondary-hero-banner    → hero                   inst=    3 pg=   3 patterns=  2 variants=2  {"site":3}
+boilerplate      primary-hero-banner      → hero                   inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      featured-tile            → accordion              inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      video-embedded           → video                  inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+default-content  text                     → default-content        inst=  112 pg=  11 patterns=  1 variants=1  {"site":112}
+default-content  image                    → default-content        inst=   19 pg=  11 patterns=  2 variants=2  {"site":19}
+default-content  title                    → default-content        inst=    7 pg=   3 patterns=  1 variants=1  {"site":7}
+default-content  anchor                   → default-content        inst=    6 pg=   2 patterns=  1 variants=1  {"site":6}
+default-content  cta-button               → default-content        inst=    6 pg=   3 patterns=  1 variants=1  {"site":6}
+section          container                → section                inst=  158 pg=  11 patterns= 29 variants=24  {"site":158}
+section          experiencefragment       → fragment               inst=   22 pg=  11 patterns=  1 variants=1  {"site":22}
+chrome           header                   → header                 inst=   11 pg=  11 patterns=  1 variants=1  {"site":11}
+chrome           footer                   → footer                 inst=   11 pg=  11 patterns=  1 variants=1  {"site":11}
+chrome           navigation               → footer                 inst=   11 pg=  11 patterns=  1 variants=1  {"site":11}
+layout families: 2 (8 signatures)

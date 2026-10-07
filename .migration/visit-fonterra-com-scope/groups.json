@@ -1,0 +1,35 @@
+{
+ "captured": "2026-10-07T04:56:18.153Z",
+ "minGroup": 2,
+ "sampleN": 100000,
+ "totalLivePages": 6,
+ "totalGroups": 2,
+ "patternGroups": 1,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/global/{section}/{page}/{path…}": {
+   "total": 5,
+   "rendered": 5,
+   "type": "pattern",
+   "label": "Global deep pages"
+  },
+  "/global/{section}/{page}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Global sub-pages"
+  }
+ },
+ "groups": {
+  "/global/{section}/{page}/{path…}": [
+   "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+   "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+   "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+   "https://www.visit.fonterra.com/global/en/home/distribution.html",
+   "https://www.visit.fonterra.com/global/en/home/export.html"
+  ],
+  "/global/{section}/{page}": [
+   "https://www.visit.fonterra.com/global/en/home.html"
+  ]
+ }
+}

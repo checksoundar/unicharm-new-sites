@@ -1,0 +1,3454 @@
+{
+ "captured": "2026-10-07T06:04:47.940Z",
+ "method": "AEM component tag-pattern analysis",
+ "jaccard": 0.8,
+ "totalInstances": 4594,
+ "contentInstances": 3262,
+ "totalVariants": 99,
+ "baseSummary": [
+  {
+   "base": "default-content",
+   "variants": 9,
+   "instances": 1381,
+   "category": "default-content"
+  },
+  {
+   "base": "section",
+   "variants": 9,
+   "instances": 499,
+   "category": "section"
+  },
+  {
+   "base": "custom:gated-download",
+   "variants": 6,
+   "instances": 380,
+   "category": "custom"
+  },
+  {
+   "base": "header",
+   "variants": 1,
+   "instances": 182,
+   "category": "chrome"
+  },
+  {
+   "base": "footer",
+   "variants": 1,
+   "instances": 91,
+   "category": "chrome"
+  },
+  {
+   "base": "breadcrumbs",
+   "variants": 1,
+   "instances": 90,
+   "category": "boilerplate"
+  },
+  {
+   "base": "accordion",
+   "variants": 16,
+   "instances": 88,
+   "category": "boilerplate"
+  },
+  {
+   "base": "cards",
+   "variants": 15,
+   "instances": 74,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:related-articles",
+   "variants": 6,
+   "instances": 71,
+   "category": "custom"
+  },
+  {
+   "base": "custom:article-header",
+   "variants": 3,
+   "instances": 54,
+   "category": "custom"
+  },
+  {
+   "base": "columns",
+   "variants": 5,
+   "instances": 19,
+   "category": "boilerplate"
+  },
+  {
+   "base": "hero",
+   "variants": 10,
+   "instances": 19,
+   "category": "boilerplate"
+  },
+  {
+   "base": "quote",
+   "variants": 1,
+   "instances": 14,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:image-hotspots",
+   "variants": 3,
+   "instances": 9,
+   "category": "custom"
+  },
+  {
+   "base": "custom:product-listing",
+   "variants": 2,
+   "instances": 6,
+   "category": "custom"
+  },
+  {
+   "base": "video",
+   "variants": 2,
+   "instances": 6,
+   "category": "boilerplate"
+  },
+  {
+   "base": "carousel",
+   "variants": 4,
+   "instances": 5,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:article-listing",
+   "variants": 1,
+   "instances": 2,
+   "category": "custom"
+  },
+  {
+   "base": "custom:in-page-navigation",
+   "variants": 1,
+   "instances": 1,
+   "category": "custom"
+  },
+  {
+   "base": "custom:product-filter",
+   "variants": 1,
+   "instances": 1,
+   "category": "custom"
+  },
+  {
+   "base": "search",
+   "variants": 1,
+   "instances": 1,
+   "category": "boilerplate"
+  },
+  {
+   "base": "table",
+   "variants": 1,
+   "instances": 1,
+   "category": "boilerplate"
+  }
+ ],
+ "variants": [
+  {
+   "base": "custom:gated-download",
+   "key": "options::cb5f64ca65",
+   "cmp": "options",
+   "category": "custom",
+   "eds": "gated-download",
+   "instances": 58,
+   "pagesFound": 52,
+   "repFile": "options_28358f4bd2_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-balanced-seekers.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(fieldset(div(input[text],label,a[button][exp],rte,div)))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-form-options(58)",
+    "cmp-form-options--drop-down(58)",
+    "dropdown(58)"
+   ],
+   "properties": {
+    "site": 58
+   },
+   "id": "options-v3"
+  },
+  {
+   "base": "custom:gated-download",
+   "key": "options::ce9f1675c5",
+   "cmp": "options",
+   "category": "custom",
+   "eds": "gated-download",
+   "instances": 55,
+   "pagesFound": 52,
+   "repFile": "options_ce9f1675c5_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(fieldset(div(input[checkbox],label)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-form-options(55)",
+    "cmp-form-options--checkbox(55)"
+   ],
+   "properties": {
+    "site": 55
+   },
+   "id": "options-v2"
+  },
+  {
+   "base": "custom:gated-download",
+   "key": "options::f99a976d84",
+   "cmp": "options",
+   "category": "custom",
+   "eds": "gated-download",
+   "instances": 26,
+   "pagesFound": 24,
+   "repFile": "options_aeb6b49ba8_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumers-embrace-nutrition.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/gen-z-gut-health.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(fieldset(div(input[combobox],a[button][exp](label),div(rte),div)))",
+   "exactPatterns": 3,
+   "modifiers": [
+    "cmp-form-options(26)",
+    "cmp-form-options--multi-drop-down(26)",
+    "multi-select(26)"
+   ],
+   "properties": {
+    "site": 26
+   },
+   "id": "options-v4"
+  },
+  {
+   "base": "custom:gated-download",
+   "key": "button::3e8ba98ec2",
+   "cmp": "button",
+   "category": "custom",
+   "eds": "gated-download",
+   "instances": 146,
+   "pagesFound": 91,
+   "repFile": "button_aef6b45738_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(div(iframe[ext]),div,textarea),iframe[blank]),button)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "button(146)",
+    "extra-large(146)",
+    "g-recaptcha(146)"
+   ],
+   "properties": {
+    "site": 146
+   },
+   "id": "button"
+  },
+  {
+   "base": "custom:gated-download",
+   "key": "download-cta::07b7787525",
+   "cmp": "download-cta",
+   "category": "custom",
+   "eds": "gated-download",
+   "instances": 85,
+   "pagesFound": 48,
+   "repFile": "download-cta_04de3f444f_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/key-takeaways-espen-2022.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-balanced-seekers.html"
+    }
+   ],
+   "topLabel": "From Sports & the Microbiome to Women's Health & Performance",
+   "pattern": "div(section(div(div(div(rte),div),div(div(button,div,div(div(rte)+,div(a))),div(button,div(rte),div(@container),div(form(input[hidden],div(input[email],label,div),div(div(div(iframe[ext]),div,textarea),button))),div(rte,div))))))",
+   "exactPatterns": 3,
+   "modifiers": [
+    "download-cta(85)"
+   ],
+   "properties": {
+    "site": 85
+   },
+   "id": "download-cta-v1"
+  },
+  {
+   "base": "custom:gated-download",
+   "key": "download-cta::ad2c96ea2b",
+   "cmp": "download-cta",
+   "category": "custom",
+   "eds": "gated-download",
+   "instances": 10,
+   "pagesFound": 9,
+   "repFile": "download-cta_73e4efd8da_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/building-a-resilient-future-with-precision-fermentation.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/fast-tracking-probiotic-potential.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/harnessing-probiotics-for-next-gen-wellness.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/health-nutrition-trends-2024.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/importance-of-nutritional-support-oncology-patients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/unlock-happiness-nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/unmet-nutrition-needs.html"
+    }
+   ],
+   "topLabel": "Fast Tracking Probiotic Potential",
+   "pattern": "div(section(div(a(div(div(div(rte),div),div(div,div(div(rte)+,div)))))))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "download-cta(10)"
+   ],
+   "properties": {
+    "site": 10
+   },
+   "id": "download-cta-v2"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::159f33eb11",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 49,
+   "pagesFound": 48,
+   "repFile": "related-articles_ce0e916577_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-tom-walsh.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(rte),div(a)),div(div(rte),div(div(button(svg)+),div(a(div(rte),div(div(rte)+,div+))+),rte)))",
+   "exactPatterns": 3,
+   "modifiers": [
+    "cmp-related-articles(49)",
+    "cmp-related-articles--masonary(48)",
+    "cmp-related-articles--carousel(1)"
+   ],
+   "properties": {
+    "site": 49
+   },
+   "id": "related-articles-v1"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::ed82c7b2be",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 10,
+   "pagesFound": 8,
+   "repFile": "related-articles_ed82c7b2be_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-tom-walsh.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-tom-walsh.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-nick-ross.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/importance-of-nutritional-support-oncology-patients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/multifunctionality-in-the-nutrition-industry.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-related-articles(10)",
+    "cmp-related-articles--centered-thumbnails(6)",
+    "cmp-related-articles--masonary(3)",
+    "cmp-related-articles--carousel(1)"
+   ],
+   "properties": {
+    "site": 10
+   },
+   "id": "related-articles-v2"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::264be5f927",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 6,
+   "pagesFound": 5,
+   "repFile": "related-articles_264be5f927_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(a(div,div(div(rte)+,div+))+))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-related-articles(6)",
+    "cmp-related-articles--centered-thumbnails(6)"
+   ],
+   "properties": {
+    "site": 6
+   },
+   "id": "related-articles-v3"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::fb84114d81",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "related-articles_6e3ab6bd1e_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-in-sea-gut-health.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/renaissance-stick-packs-josh-schall.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-in-sea-gut-health.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(a(div(rte),div(div(rte)+,div+))))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-related-articles(3)",
+    "cmp-related-articles--centered-thumbnails(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "related-articles-v4"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::2704a4b09d",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "related-articles_2704a4b09d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(div(rte),div(div(button(svg)+),div(a(div(rte),div(div(rte)+,div+))+),rte)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-related-articles(2)",
+    "cmp-related-articles--masonary(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "related-articles-v5"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::7879a66e71",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "related-articles_7879a66e71_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/gen-z-gut-health.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/gen-z-gut-health.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(rte),div),div(a(div(rte),div(div(rte)+,div+))+))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-related-articles(1)",
+    "cmp-related-articles--centered-thumbnails(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "related-articles-v6"
+  },
+  {
+   "base": "custom:article-header",
+   "key": "article-header::e5566a3f22",
+   "cmp": "article-header",
+   "category": "custom",
+   "eds": "article-header",
+   "instances": 49,
+   "pagesFound": 49,
+   "repFile": "article-header_e5566a3f22_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-tom-walsh.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-nick-ross.html"
+    }
+   ],
+   "topLabel": "Top 10 Consumer Trends for Health and Nutrition Brands in 2025",
+   "pattern": "div(section(div(div(rte,div(img,rte),div(rte),div,div(div(img,rte),rte,div),div),div)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-article-banner(49)"
+   ],
+   "properties": {
+    "site": 49
+   },
+   "id": "article-header-v1"
+  },
+  {
+   "base": "custom:article-header",
+   "key": "article-header::29f49b71c2",
+   "cmp": "article-header",
+   "category": "custom",
+   "eds": "article-header",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "article-header_29f49b71c2_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/gut-feelings-hn001-stress-happiness.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/2025-health-and-wellbeing-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/gut-feelings-hn001-stress-happiness.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/mobility-fuelling-longer-active-lives.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/next-gen-sports-nutrition.html"
+    }
+   ],
+   "topLabel": "Nutiani 2025 Health & Nutrition Trends",
+   "pattern": "div(section(div(div(div(div(rte)+),div(div(rte)+,div)),div(div(iframe[blank]),div(div(div,div(rte)+,div(form(div(input[email],div),input[hidden]+,div(div(div(div(iframe[ext]),div,textarea),button),div(a))))),div(div(rte)+,div(a)))))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-article-banner(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "article-header-v2"
+  },
+  {
+   "base": "custom:article-header",
+   "key": "article-header::a5da30480a",
+   "cmp": "article-header",
+   "category": "custom",
+   "eds": "article-header",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "article-header_a5da30480a_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html"
+    }
+   ],
+   "topLabel": "TItle",
+   "pattern": "div(section(div(div(div(rte)+,div(div(rte),div),div),div)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-article-banner(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "article-header-v3"
+  },
+  {
+   "base": "custom:image-hotspots",
+   "key": "sub-benefit-hotspots::d204d3af7c",
+   "cmp": "sub-benefit-hotspots",
+   "category": "custom",
+   "eds": "image-hotspots",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "sub-benefit-hotspots_d204d3af7c_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "Backed by science",
+   "pattern": "div(div(rte)+,div,div(div,div(div(button[exp],div(div(rte)+))+)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 4
+   },
+   "id": "sub-benefit-hotspots-v1"
+  },
+  {
+   "base": "custom:image-hotspots",
+   "key": "sub-benefit-hotspots::600ca2b10a",
+   "cmp": "sub-benefit-hotspots",
+   "category": "custom",
+   "eds": "image-hotspots",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "sub-benefit-hotspots_600ca2b10a_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html"
+    }
+   ],
+   "topLabel": "Aspects of inner wellbeing",
+   "pattern": "div(div(rte)+,div(div,div(div(button[exp],div(div(rte)+,div(a)))+)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 2
+   },
+   "id": "sub-benefit-hotspots-v2"
+  },
+  {
+   "base": "custom:product-listing",
+   "key": "product-listing::324f22fc26",
+   "cmp": "product-listing",
+   "category": "custom",
+   "eds": "product-listing",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "product-listing_324f22fc26_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte)+,div(div(a(div(div(img),div(div(rte)+))))+),div(input[text]))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-product-listing(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "product-listing-v1"
+  },
+  {
+   "base": "custom:product-listing",
+   "key": "product-listing::a88119f45b",
+   "cmp": "product-listing",
+   "category": "custom",
+   "eds": "product-listing",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "product-listing_a88119f45b_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte)+,div(input[text]))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-product-listing(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "product-listing-v2"
+  },
+  {
+   "base": "custom:image-hotspots",
+   "key": "key-benefits::c8a1a86731",
+   "cmp": "key-benefits",
+   "category": "custom",
+   "eds": "image-hotspots",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "key-benefits_c8a1a86731_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules/"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(div(a(rte,div),div)+))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-key-benefits(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "key-benefits"
+  },
+  {
+   "base": "custom:article-listing",
+   "key": "article-listing::332f58f434",
+   "cmp": "article-listing",
+   "category": "custom",
+   "eds": "article-listing",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "article-listing_332f58f434_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts.html"
+    }
+   ],
+   "topLabel": "Rethinking Metabolic Health with Microbiome Science",
+   "pattern": "div(a+,input[hidden],div(div(div(rte),div(a,rte)),div(a+),div(a(div(div,div(div,div(rte)+,div(div(rte)+))))),div(div(a(div,div(div(rte),div(div(rte)+))))+),div(button)))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "version_1(2)",
+    "cmp-article-listing(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "article-listing"
+  },
+  {
+   "base": "custom:in-page-navigation",
+   "key": "inpagenavigation::94bc1b86af",
+   "cmp": "inpagenavigation",
+   "category": "custom",
+   "eds": "in-page-navigation",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "inpagenavigation_94bc1b86af_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(rte),div(a+)),div(div(@text+,@video-embedded),div(@text+,@container+),div(@text,@image,@text)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-in-page-navigation(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "inpagenavigation"
+  },
+  {
+   "base": "custom:product-filter",
+   "key": "filter-panel::a8eb074ba7",
+   "cmp": "filter-panel",
+   "category": "custom",
+   "eds": "product-filter",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "filter-panel_a8eb074ba7_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(button,div(rte),button),div(div(div(a,button),div(div(input[checkbox],label),div(div(input[checkbox],label)+),div,div(input[checkbox],label)+)),div(div(a,button),div(input[checkbox],label)),div(div(a,button),div(div(input[checkbox],label)+))+,div(button)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-tag-filter(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "filter-panel"
+  },
+  {
+   "base": "breadcrumbs",
+   "key": "breadcrumb::a86af4b366",
+   "cmp": "breadcrumb",
+   "category": "boilerplate",
+   "eds": "breadcrumbs",
+   "instances": 90,
+   "pagesFound": 90,
+   "repFile": "breadcrumb_a86af4b366_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/terms-and-conditions.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(nav(rte,div(rte)))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmpBreadcrumb(90)"
+   ],
+   "properties": {
+    "site": 90
+   },
+   "id": "breadcrumb-v1"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::30e619c94b",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 45,
+   "pagesFound": 39,
+   "repFile": "accordion_30e619c94b_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    }
+   ],
+   "topLabel": "REFERENCES",
+   "pattern": "div(rte,div[region](div(rte)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 45
+   },
+   "id": "accordion-v1"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::c3f8ed28c2",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 7,
+   "pagesFound": 1,
+   "repFile": "accordion_c3f8ed28c2_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html"
+    }
+   ],
+   "topLabel": "IMMUNE HEALTH",
+   "pattern": "div(rte,div[region](div(@card,@text,@card,@text,@card,@text+,@image)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 7
+   },
+   "id": "accordion-v2"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::38cfb89101",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 5,
+   "pagesFound": 2,
+   "repFile": "accordion_c5764ecc25_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/digital-guidelines.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    }
+   ],
+   "topLabel": "2. PETITE PLEASURES",
+   "pattern": "div(rte,div[region](div(@text+,@image,@text)))",
+   "exactPatterns": 3,
+   "modifiers": [],
+   "properties": {
+    "site": 5
+   },
+   "id": "accordion-v7"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::3ed02aaa16",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "accordion_3ed02aaa16_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/empowering-midlife-women.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/empowering-midlife-women.html"
+    }
+   ],
+   "topLabel": "PRODUCT INSPIRATION",
+   "pattern": "div(rte,div[region](div(section[group](div(div(a(img)),div(div(rte)+,div))))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 3
+   },
+   "id": "accordion-v3"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::e33a6ce89f",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "accordion_e33a6ce89f_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules/"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules.html"
+    }
+   ],
+   "topLabel": "RESOURCES",
+   "pattern": "div(rte,div[region](div(section(div(div(div(rte),div),div(div(button,div,div(div(rte)+,div(a))),div(button,div(rte),div(@container),div(form(input[hidden],div(input[email],label,div(…)),div(…))),div(rte,div))))))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 3
+   },
+   "id": "accordion-v4"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::7e6e3be0e3",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "accordion_7e6e3be0e3_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    }
+   ],
+   "topLabel": "WAYS OF WORKING",
+   "pattern": "div(div(rte,div[region](div(@text)))+)",
+   "exactPatterns": 2,
+   "modifiers": [],
+   "properties": {
+    "site": 3
+   },
+   "id": "accordion-v5"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::ed126df52c",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "accordion_ed126df52c_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    }
+   ],
+   "topLabel": "3. CLOSING THE BRAIN AND BODY GAP",
+   "pattern": "div(rte,div[region](div(@text+,@related-articles)))",
+   "exactPatterns": 2,
+   "modifiers": [],
+   "properties": {
+    "site": 3
+   },
+   "id": "accordion-v6"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::413d6104a1",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 3,
+   "pagesFound": 2,
+   "repFile": "accordion_a256cbd0fe_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    }
+   ],
+   "topLabel": "IMAGES",
+   "pattern": "div(div(rte,div[region](div(@text+,@cta-button,@text+))),div(rte,div[region](div(@text+))),div(rte,div[region](div(@text+,@image))))",
+   "exactPatterns": 3,
+   "modifiers": [],
+   "properties": {
+    "site": 3
+   },
+   "id": "accordion-v9"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::3fdb547519",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_3fdb547519_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/digital-guidelines.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html"
+    }
+   ],
+   "topLabel": "INNOVATION HUB",
+   "pattern": "div(div(rte,div[region](div(@text,@card,@text))),div(rte,div[region](div(@text))),div(rte,div[region](div(@text+))),div(rte,div[region](div(@text))))",
+   "exactPatterns": 2,
+   "modifiers": [],
+   "properties": {
+    "site": 2
+   },
+   "id": "accordion-v10"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::98a0fc7ea6",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "accordion_98a0fc7ea6_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    }
+   ],
+   "topLabel": "What are the key health benefits of the Nutiani HN001™ probiotic strai",
+   "pattern": "div(div(rte,div[region](div(@multicolumngrid))),div(rte,div[region](div(@text))),div(rte,div[region](div(@multicolumngrid))),div(rte,div[region](div(@text))))",
+   "exactPatterns": 2,
+   "modifiers": [],
+   "properties": {
+    "site": 2
+   },
+   "id": "accordion-v12"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::f9e1fb5914",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_f9e1fb5914_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/digital-guidelines.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    }
+   ],
+   "topLabel": "WEB CONTENT CREATION",
+   "pattern": "div(div(rte,div[region](div(@text+))),div(rte,div[region](div(@text,@card))),div(rte,div[region](div(@text,@card+,@text,@cta-button))),div(rte,div[region](div(@text+,@card+))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "accordion-v8"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::a228e90bf8",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_a228e90bf8_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/digital-guidelines.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    }
+   ],
+   "topLabel": "TUTORIALS LINK",
+   "pattern": "div(rte,div[region](div(@text,@cta-button,@text,@cta-button,@text,@cta-button,@text,@cta-button,@text,@cta-button,@text,@cta-button)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "accordion-v11"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::de2f467278",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_de2f467278_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "What studies have been performed indicating the efficacy of Nutiani MF",
+   "pattern": "div(div(rte,div[region](div(@container))),div(rte,div[region](div(@multicolumngrid))),div(rte,div[region](div(@text)))+)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "accordion-v13"
+  },
+  {
+   "base": "accordion",
+   "key": "accordion::5e6278c438",
+   "cmp": "accordion",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "accordion_5e6278c438_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html"
+    }
+   ],
+   "topLabel": "REFERENCES",
+   "pattern": "div(rte,div[region](div))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "accordion-v14"
+  },
+  {
+   "base": "cards",
+   "key": "card::e44b89a7c9",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 16,
+   "pagesFound": 8,
+   "repFile": "card_e44b89a7c9_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/gut-feelings-hn001-stress-happiness.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/next-gen-sports-nutrition.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html"
+    }
+   ],
+   "topLabel": "Nutiani Probiotics",
+   "pattern": "div(section[group](div(div(img),div(div(rte)+,div(a)))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(16)"
+   ],
+   "properties": {
+    "site": 16
+   },
+   "id": "card-v1"
+  },
+  {
+   "base": "cards",
+   "key": "card::d1f1988906",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 9,
+   "pagesFound": 9,
+   "repFile": "card_d1f1988906_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/cognitive-health-and-mobility-opportunities-in-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-proactive-pursuers.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/future-of-personalised-nutrition.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/fonterras-probiotics-redefine-gut-brain-and-skin-health.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/health-nutrition-trends-2024.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(img),div(div(rte)+,div))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(5)",
+    "cmp-card--two-column(3)",
+    "cmp-card--three-column(1)"
+   ],
+   "properties": {
+    "site": 9
+   },
+   "id": "card-v2"
+  },
+  {
+   "base": "cards",
+   "key": "card::dd1d2981b7",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 9,
+   "pagesFound": 4,
+   "repFile": "card_dd1d2981b7_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-motivations-in-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/empowering-midlife-women.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html"
+    }
+   ],
+   "topLabel": "88%",
+   "pattern": "div(section[group](div(div,div(div(rte)+,div))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(9)"
+   ],
+   "properties": {
+    "site": 9
+   },
+   "id": "card-v3"
+  },
+  {
+   "base": "cards",
+   "key": "card::76b35e711d",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 7,
+   "pagesFound": 7,
+   "repFile": "card_76b35e711d_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/proactive-nutrition-for-healthy-aging.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-motivations-in-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/innovation-insipiration-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/proactive-nutrition-for-healthy-aging.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/health-nutrition-rising-costs-report.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/probiotics-portfolio-brochure.html"
+    }
+   ],
+   "topLabel": "93%",
+   "pattern": "div(section[group](div(div(div,div(div(rte)+,div))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--three-column(4)",
+    "cmp-card--single-column(2)",
+    "cmp-card--two-column(1)"
+   ],
+   "properties": {
+    "site": 7
+   },
+   "id": "card-v4"
+  },
+  {
+   "base": "cards",
+   "key": "card::6208a55c28",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 7,
+   "pagesFound": 7,
+   "repFile": "card_6208a55c28_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/importance-of-nutritional-support-oncology-patients.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/importance-of-nutritional-support-oncology-patients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/multifunctionality-in-the-nutrition-industry.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-mental-wellbeing.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/renaissance-stick-packs-josh-schall.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-from-skincare-to-oral-beauty.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(img),div(div(rte)+,div))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(7)"
+   ],
+   "properties": {
+    "site": 7
+   },
+   "id": "card-v5"
+  },
+  {
+   "base": "cards",
+   "key": "card::45f9bfb43b",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 6,
+   "pagesFound": 6,
+   "repFile": "card_45f9bfb43b_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/key-takeaways-espen-2022.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-CFU-quality-over-quantity.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/key-takeaways-espen-2022.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/unlock-happiness-nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/2025-health-and-wellbeing-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts/mobility-fuelling-longer-active-lives.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(img),div(div(rte)+,div(a)))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(6)"
+   ],
+   "properties": {
+    "site": 6
+   },
+   "id": "card-v6"
+  },
+  {
+   "base": "cards",
+   "key": "card::ceb47cfe9f",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 5,
+   "pagesFound": 3,
+   "repFile": "card_ceb47cfe9f_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/future-of-personalised-nutrition.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/embracing-evolving-narratives-of-aging.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/future-of-personalised-nutrition.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/gut-friendly-snacks-probiotics.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(a(img)),div(div(rte)+,div))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(5)"
+   ],
+   "properties": {
+    "site": 5
+   },
+   "id": "card-v7"
+  },
+  {
+   "base": "cards",
+   "key": "card::709f9dd9bf",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 3,
+   "pagesFound": 1,
+   "repFile": "card_709f9dd9bf_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(img),img),div(div(rte)+,div(a)))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "card-v8"
+  },
+  {
+   "base": "cards",
+   "key": "card::b29871d1aa",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "card_b29871d1aa_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/proactive-pursuers-article-landing-page.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(div(img),img),div(div(rte)+,div)),div(div(img),div(div(rte)+,div))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "card-v9"
+  },
+  {
+   "base": "cards",
+   "key": "card::3195f261e1",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "card_3195f261e1_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/health-nutrition-trends-2024.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(a(img)),div(div(rte)+,div(a)))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "card-v10"
+  },
+  {
+   "base": "cards",
+   "key": "card::8dfccaa232",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "card_8dfccaa232_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(div(a(img)),img),div(div(rte)+,div))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--three-column(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "card-v11"
+  },
+  {
+   "base": "cards",
+   "key": "card::c3d110d398",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "card_c3d110d398_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-activity-seekers.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-activity-seekers.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(img),div(div(rte),div(table(tbody(tr(td(rte))))),div)),div(div(img),div(div(rte)+,div))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--single-column(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "card-v13"
+  },
+  {
+   "base": "cards",
+   "key": "card::d9682f141d",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "card_d9682f141d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(div(div(img),img),div(div(rte),div,div(a)))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-card--three-column(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "card-v14"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::a60f81016f",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 6,
+   "pagesFound": 3,
+   "repFile": "multicolumngrid_a60f81016f_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(img))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "hasImage(6)"
+   ],
+   "properties": {
+    "site": 6
+   },
+   "id": "multicolumngrid-v1"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::6ac53c9068",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "multicolumngrid_6ac53c9068_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "45",
+   "pattern": "div(div(div(rte)+)+)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "hasImage(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "multicolumngrid-v2"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::f6a6f60562",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "multicolumngrid_f6a6f60562_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    }
+   ],
+   "topLabel": "Nutiani HN001™ Probiotics - Unleashing the Power of Advanced Nutrition",
+   "pattern": "div(div(rte),div(div(section(div(div(div(rte),div),div(div(button,div,div(div(…)+,div(a))),div(button,div(…)+,div(form(…)),div(rte,div))))))+),div(section(div(div(div(rte),div),div(div(button,div,div(div(…)+,div(a))),div(button,div(…)+,div(form(…)),div(rte,div)))))))",
+   "exactPatterns": 3,
+   "modifiers": [
+    "hasImage(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "multicolumngrid-v3"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::35437b5b22",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "multicolumngrid_35437b5b22_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients.html"
+    }
+   ],
+   "topLabel": "Nutiani HN001ᵀᴹ",
+   "pattern": "div(div(div(section[group](div(div(a(img)),div(div(rte)+,div(a))))),div(section(div(div(div(rte),div),div(div(button,div,div(div(div(rte),div(…)+,div(a)),div(img))),div(button,div(…)+,div(form(…)),div(rte,div))))))),div(div(section(div(div(div(rte),div),div(div(button,div,div(div(div(rte),div(…)+,div(a)),div(img))),div(button,div(…)+,div(form(…)),div(rte,div)))))),div(section[group](div(div(a(img)),div(div(rte)+,div(a)))))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "hasImage(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "multicolumngrid-v4"
+  },
+  {
+   "base": "quote",
+   "key": "quote-card::d857a351bd",
+   "cmp": "quote-card",
+   "category": "boilerplate",
+   "eds": "quote",
+   "instances": 14,
+   "pagesFound": 14,
+   "repFile": "quote-card_d857a351bd_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumers-embrace-nutrition.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-motivations-in-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/fast-tracking-probiotic-potential.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(img),div(rte,div(rte))),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "quote-card(14)"
+   ],
+   "properties": {
+    "site": 14
+   },
+   "id": "quote-card"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::46ca19bd71",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "secondary-hero-banner_46ca19bd71_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/digital-guidelines.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/webcasts.html"
+    }
+   ],
+   "topLabel": "Digital Guidelines - FY24",
+   "pattern": "div(section(div+,div(div(rte)+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(3)",
+    "d-none(3)",
+    "d-sm-block(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "secondary-hero-banner-v1"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::fb0e703dc1",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "secondary-hero-banner_fb0e703dc1_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/probiotics-portfolio-brochure.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html"
+    }
+   ],
+   "topLabel": "Probiotic solutions with a legacy of excellence",
+   "pattern": "div(section(div+,div(div(div(rte)+),div(a))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(3)",
+    "d-none(3)",
+    "d-sm-block(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "secondary-hero-banner-v2"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::70954fa2c2",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "secondary-hero-banner_70954fa2c2_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/resources/proactive-pursuers-article-landing-page.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/phospholipid-protein-shake-concept-card-landing-page.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/proactive-pursuers-article-landing-page.html"
+    }
+   ],
+   "topLabel": "Protein & Phospholipid Shake",
+   "pattern": "div(section(div+,div(div(div(rte)+),div)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(2)",
+    "d-none(2)",
+    "d-sm-block(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "secondary-hero-banner-v3"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::edec344305",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "secondary-hero-banner_edec344305_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/404.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(div(div(rte)+),div(div(a)+))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(1)",
+    "two-cta(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "secondary-hero-banner-v4"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::439ddb9bbd",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "secondary-hero-banner_439ddb9bbd_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/resources/health-nutrition-rising-costs-report.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/health-nutrition-rising-costs-report.html"
+    }
+   ],
+   "topLabel": "Health,Nutrition, and Rising Costs",
+   "pattern": "div(section(div(video(source)),div(div(div(rte)+),div)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "secondary-hero-banner-v5"
+  },
+  {
+   "base": "accordion",
+   "key": "featured-tile::23d52de74a",
+   "cmp": "featured-tile",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "featured-tile_23d52de74a_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(rte),div(rte,div(div(div(rte),div),div(div,div(img))))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-featured-tile(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "featured-tile-v1"
+  },
+  {
+   "base": "accordion",
+   "key": "featured-tile::eb1e2d5c9c",
+   "cmp": "featured-tile",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "featured-tile_b1ddf54e08_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/resources/proactive-pursuers-article-landing-page.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/health-nutrition-rising-costs-report.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/probiotics-portfolio-brochure.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/phospholipid-protein-shake-concept-card-landing-page.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/proactive-pursuers-article-landing-page.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section[group](div(div(rte,div(div(div(rte),div),div(div,div(img))))+)))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-featured-tile(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "featured-tile-v2"
+  },
+  {
+   "base": "video",
+   "key": "video-embedded::5943b78676",
+   "cmp": "video-embedded",
+   "category": "boilerplate",
+   "eds": "video",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "video-embedded_5943b78676_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/embracing-evolving-narratives-of-aging.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/probiotics-CFU-quality-over-quantity.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(div,iframe[youtube],div(rte,div))))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-video-embedded(4)",
+    "embedded-video(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "video-embedded-v1"
+  },
+  {
+   "base": "video",
+   "key": "video-embedded::06d2a27e40",
+   "cmp": "video-embedded",
+   "category": "boilerplate",
+   "eds": "video",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "video-embedded_06d2a27e40_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-nick-ross.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(div,iframe[vimeo],div[img],div(rte,div))))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-video-embedded(2)",
+    "embedded-video(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "video-embedded-v2"
+  },
+  {
+   "base": "hero",
+   "key": "primary-hero-banner::469de2a311",
+   "cmp": "primary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "primary-hero-banner_469de2a311_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/product-formats.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div+,div(div(div+,div(rte)+,div(a)),div(div+))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-primary-hero-banner(3)",
+    "cmp-primary-hero-banner__bg--desktop(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "primary-hero-banner-v1"
+  },
+  {
+   "base": "hero",
+   "key": "primary-hero-banner::876eceafb0",
+   "cmp": "primary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "primary-hero-banner_876eceafb0_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html"
+    }
+   ],
+   "topLabel": "Grounded in the science of the human body",
+   "pattern": "div(section(div+,div(div(div+,div(rte)+),div(div+))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-primary-hero-banner(1)",
+    "cmp-primary-hero-banner__bg--desktop(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "primary-hero-banner-v2"
+  },
+  {
+   "base": "hero",
+   "key": "primary-hero-banner::87d337eac5",
+   "cmp": "primary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "primary-hero-banner_87d337eac5_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub.html"
+    }
+   ],
+   "topLabel": "A resource hub for all things health and wellbeing",
+   "pattern": "div(section(div+,div(div(div+,div(rte)+,div(a)),div(div+,div(a(img,div(div(rte)+)))))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-primary-hero-banner(1)",
+    "cmp-primary-hero-banner__bg--desktop(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "primary-hero-banner-v3"
+  },
+  {
+   "base": "columns",
+   "key": "product-header::97090431c8",
+   "cmp": "product-header",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "product-header_97090431c8_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "Nutiani Lactoferrin",
+   "pattern": "div(div(img+),div(div(rte)+,div(div(img)+),div(div(a),div(button)),div(div(rte,div[region](div(@text)))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-product-header(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "product-header"
+  },
+  {
+   "base": "cards",
+   "key": "biography::d6d4637263",
+   "cmp": "biography",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "biography_d6d4637263_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(img),div(rte)+),div(div(rte,button),div(div(img,div(rte)),div(rte)+)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 4
+   },
+   "id": "biography"
+  },
+  {
+   "base": "hero",
+   "key": "solution-header::a39fb9ceee",
+   "cmp": "solution-header",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "solution-header_a39fb9ceee_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules/"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules.html"
+    }
+   ],
+   "topLabel": "Probiotic Supplement Capsules",
+   "pattern": "div(div(button),div,div(div(div(rte)+,div(a)),div(button)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-solution-header(3)",
+    "bg-iw-3-30(2)",
+    "bg-phw-4-30(1)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "solution-header-v1"
+  },
+  {
+   "base": "hero",
+   "key": "solution-header::8a9ed87e8d",
+   "cmp": "solution-header",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "solution-header_8a9ed87e8d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/test.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/test.html"
+    }
+   ],
+   "topLabel": "Test",
+   "pattern": "div(div(button),div,div(div(div(rte),div+),div(button)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-solution-header(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "solution-header-v2"
+  },
+  {
+   "base": "carousel",
+   "key": "homepageheroslide::1eb824c51d",
+   "cmp": "homepageheroslide",
+   "category": "boilerplate",
+   "eds": "carousel",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "homepageheroslide_1eb824c51d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    }
+   ],
+   "topLabel": "Science-backed, consumer-tested concepts",
+   "pattern": "div(div,div(div(rte)+,div(a)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "text-layout(1)",
+    "cmp-homepage-hero-banner__image--wrapper(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "homepageheroslide-v1"
+  },
+  {
+   "base": "carousel",
+   "key": "homepageheroslide::b5e5ea5d99",
+   "cmp": "homepageheroslide",
+   "category": "boilerplate",
+   "eds": "carousel",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "homepageheroslide_b5e5ea5d99_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    }
+   ],
+   "topLabel": "Mitigating Malnutrition Through Nutrition",
+   "pattern": "div(div(video(source)),div(div(rte)+,div(a)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "text-layout(1)",
+    "cmp-homepage-hero-banner__image--wrapper(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "homepageheroslide-v2"
+  },
+  {
+   "base": "carousel",
+   "key": "featured-solutions::9c44cdceea",
+   "cmp": "featured-solutions",
+   "category": "boilerplate",
+   "eds": "carousel",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "featured-solutions_9c44cdceea_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html"
+    }
+   ],
+   "topLabel": "Immunity & Digestion",
+   "pattern": "div(div(div(rte)+),div(div(button+),div(div(div,div(img),div(rte))+)),div(a))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-featured-solutions(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "featured-solutions"
+  },
+  {
+   "base": "carousel",
+   "key": "homepageherobanner::969de45e33",
+   "cmp": "homepageherobanner",
+   "category": "boilerplate",
+   "eds": "carousel",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "homepageherobanner_969de45e33_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    }
+   ],
+   "topLabel": "Science-backed, consumer-tested concepts",
+   "pattern": "div(div(div(button+),div(@homepageheroslide+),rte),div(button))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-homepage-hero-banner(1)",
+    "variation-3(1)",
+    "light(1)",
+    "splide(1)",
+    "splide--loop(1)",
+    "splide--ltr(1)",
+    "splide--draggable(1)",
+    "is-active(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "homepageherobanner"
+  },
+  {
+   "base": "search",
+   "key": "search-results::0badb8291b",
+   "cmp": "search-results",
+   "category": "boilerplate",
+   "eds": "search",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "search-results_0badb8291b_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/search.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/search.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(form(input[text],div(button[exp],rte))),div(div(rte),div(a(div(img),div(div(rte)+))+),div(a)),div(div(rte),div(a(div,div(div(rte)+))+),div(input[text])))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-search-results(1)",
+    "dark(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "search-results"
+  },
+  {
+   "base": "cards",
+   "key": "product-card::8cb4b25e7e",
+   "cmp": "product-card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "product-card_8cb4b25e7e_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(img),div(div(rte)+))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-product-card(1)",
+    "variation-2(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "product-card"
+  },
+  {
+   "base": "default-content",
+   "key": "text::9024a9aa0d",
+   "cmp": "text",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 817,
+   "pagesFound": 91,
+   "repFile": "text_9024a9aa0d_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/404.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "Active Consumers",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "glarity-read-bilingual(1)"
+   ],
+   "properties": {
+    "site": 817
+   },
+   "id": "text-v1"
+  },
+  {
+   "base": "default-content",
+   "key": "text::cf7542d58e",
+   "cmp": "text",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 239,
+   "pagesFound": 91,
+   "repFile": "text_cf7542d58e_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(input[text],label,div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-form-text(239)",
+    "form-control(239)",
+    "required(239)"
+   ],
+   "properties": {
+    "site": 239
+   },
+   "id": "text-v2"
+  },
+  {
+   "base": "default-content",
+   "key": "text::c9d10b7326",
+   "cmp": "text",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 147,
+   "pagesFound": 91,
+   "repFile": "text_c9d10b7326_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/404.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(input[email],label,div+)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-form-text(147)",
+    "form-control(147)",
+    "required(145)"
+   ],
+   "properties": {
+    "site": 147
+   },
+   "id": "text-v3"
+  },
+  {
+   "base": "default-content",
+   "key": "text::fad24fb6a5",
+   "cmp": "text",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_fad24fb6a5_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(textarea,label,div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-form-text(1)",
+    "form-control(1)",
+    "required(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "text-v7"
+  },
+  {
+   "base": "table",
+   "key": "text::404660c772",
+   "cmp": "text",
+   "category": "boilerplate",
+   "eds": "table",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "text_404660c772_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/supporting-pregnancy-and-childhood-health.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/supporting-pregnancy-and-childhood-health.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(rte,table(tbody(tr(td+),tr(td(rte)+))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "text-v9"
+  },
+  {
+   "base": "default-content",
+   "key": "image::0e4ad988db",
+   "cmp": "image",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 92,
+   "pagesFound": 48,
+   "repFile": "image_0e4ad988db_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/the-nutiani-story.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/building-a-resilient-future-with-precision-fermentation.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(img)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cq-dd-image(1)"
+   ],
+   "properties": {
+    "site": 92
+   },
+   "id": "image-v2"
+  },
+  {
+   "base": "default-content",
+   "key": "title::605a8a777e",
+   "cmp": "title",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 48,
+   "pagesFound": 29,
+   "repFile": "title_605a8a777e_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    }
+   ],
+   "topLabel": "43%",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 48
+   },
+   "id": "title"
+  },
+  {
+   "base": "default-content",
+   "key": "cta-button::f6d8bd3fde",
+   "cmp": "cta-button",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 34,
+   "pagesFound": 26,
+   "repFile": "cta-button_f6d8bd3fde_2.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/digital-guidelines.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(a)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-button__icon--default(34)"
+   ],
+   "properties": {
+    "site": 34
+   },
+   "id": "cta-button-v1"
+  },
+  {
+   "base": "default-content",
+   "key": "cta-button::1b2a648cb2",
+   "cmp": "cta-button",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "cta-button_1b2a648cb2_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(button)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-button__icon--default(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "cta-button-v2"
+  },
+  {
+   "base": "default-content",
+   "key": "body-rte::d207fedda8",
+   "cmp": "body-rte",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "body-rte_d207fedda8_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas.html"
+    }
+   ],
+   "topLabel": "The way we think about health is rapidly changing.",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-body-rte(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "body-rte"
+  },
+  {
+   "base": "section",
+   "key": "container::ce70d934ca",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 228,
+   "pagesFound": 91,
+   "repFile": "layout_2a3c522d13_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "From Sports & the Microbiome to Women's Health & Performance",
+   "pattern": "div(@container)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "aem-Grid(161)",
+    "aem-Grid--12(156)",
+    "aem-Grid--default--12(156)",
+    "aem-Grid--phone--12(70)",
+    "responsivegrid(67)",
+    "aem-Grid--tablet--11(55)",
+    "aem-Grid--tablet--12(10)",
+    "cmp-container--container-width(4)",
+    "aem-Grid--6(4)",
+    "aem-Grid--default--6(4)"
+   ],
+   "properties": {
+    "site": 228
+   },
+   "id": "container-v1"
+  },
+  {
+   "base": "section",
+   "key": "container::5753054577",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 94,
+   "pagesFound": 91,
+   "repFile": "layout_1633d041be_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/innovation-hub.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "Infographic: Unmet Nutrition Needs",
+   "pattern": "div(@text,@container)",
+   "exactPatterns": 3,
+   "modifiers": [
+    "aem-Grid(94)",
+    "aem-Grid--12(92)",
+    "aem-Grid--default--12(92)",
+    "aem-Grid--phone--12(3)",
+    "aem-Grid--6(2)",
+    "aem-Grid--tablet--9(2)",
+    "aem-Grid--default--6(2)",
+    "aem-Grid--tablet--12(1)"
+   ],
+   "properties": {
+    "site": 94
+   },
+   "id": "container-v2"
+  },
+  {
+   "base": "section",
+   "key": "container::258089debd",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 91,
+   "pagesFound": 91,
+   "repFile": "layout_258089debd_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/404.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(form(@input+,@text+,@button,@options,@hidden),div(rte),div(rte,div(button)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "needs-validation(91)",
+    "aem-Grid(91)",
+    "aem-Grid--6(91)",
+    "aem-Grid--default--6(91)"
+   ],
+   "properties": {
+    "site": 91
+   },
+   "id": "container-v3"
+  },
+  {
+   "base": "section",
+   "key": "container::90b537fba8",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 15,
+   "pagesFound": 5,
+   "repFile": "layout_90b537fba8_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/barriers-to-nutritional-product-adoption-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-motivations-in-china.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/inner-wellbeing.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/mental-wellbeing.html"
+    }
+   ],
+   "topLabel": "43%",
+   "pattern": "div(@title,@text)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "title(13)",
+    "aem-Grid(2)",
+    "aem-Grid--4(2)",
+    "aem-Grid--tablet--5(2)",
+    "aem-Grid--default--4(2)",
+    "aem-Grid--phone--12(2)",
+    "cmp-title--tagxl(1)"
+   ],
+   "properties": {
+    "site": 15
+   },
+   "id": "container-v11"
+  },
+  {
+   "base": "section",
+   "key": "container::c5b2f14305",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "layout_c5b2f14305_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn001.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/nutiani-hn019.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/phospholipids.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/ingredients/lactoferrin.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(@biography+)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "aem-Grid(4)",
+    "aem-Grid--12(4)",
+    "aem-Grid--default--12(4)",
+    "oddColumns(1)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "container-v27"
+  },
+  {
+   "base": "section",
+   "key": "container::7c8b9aee2d",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_7c8b9aee2d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(@container,@product-listing)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "responsivegrid(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "container-v68"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::8a4c54b31b",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 64,
+   "pagesFound": 64,
+   "repFile": "layout_8a4c54b31b_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/tutorials.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2025-health-and-nutrition-trends.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/3-probiotics-myths.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/5-consumer-segments.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/2024-sports-active-nutrition-summit-usa.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-tom-walsh.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/athlete-spotlight-nick-ross.html"
+    }
+   ],
+   "topLabel": "Nutiani Tutorial: Creating a Wellness Page",
+   "pattern": "div(@container+)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "aem-Grid(64)",
+    "aem-Grid--12(64)",
+    "aem-Grid--default--12(64)",
+    "responsivegrid(64)",
+    "aem-GridColumn(55)",
+    "aem-Grid--tablet--12(49)",
+    "aem-GridColumn--tablet--11(48)",
+    "aem-GridColumn--tablet--none(48)",
+    "aem-GridColumn--default--12(13)",
+    "cmp-container--container-width(11)"
+   ],
+   "properties": {
+    "site": 64
+   },
+   "id": "responsivegrid-v1"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::33cab15d9d",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_33cab15d9d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/solutions/probiotic-protein-powder.html"
+    }
+   ],
+   "topLabel": "Active Consumers",
+   "pattern": "div(@key-benefits,@image,@text,@card+,@anchor,@container+)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "aem-Grid(1)",
+    "aem-Grid--12(1)",
+    "aem-Grid--tablet--12(1)",
+    "aem-Grid--default--12(1)",
+    "aem-Grid--phone--12(1)",
+    "key-benefits(1)",
+    "aem-GridColumn(1)",
+    "aem-GridColumn--default--12(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "responsivegrid-v16"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::be18fa31d8",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_be18fa31d8_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/wellbeing-areas/test0.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(@image+,@product-card+)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "aem-Grid(1)",
+    "aem-Grid--12(1)",
+    "aem-Grid--default--12(1)",
+    "image(1)",
+    "parbase(1)",
+    "aem-GridColumn--default--none(1)",
+    "aem-GridColumn(1)",
+    "aem-GridColumn--default--6(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "responsivegrid-v21"
+  },
+  {
+   "base": "header",
+   "key": "navigation-links::47f00abf68",
+   "cmp": "navigation-links",
+   "category": "chrome",
+   "eds": "header",
+   "instances": 182,
+   "pagesFound": 91,
+   "repFile": "navigation-links_47f00abf68_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-navigation-links(182)",
+    "links(182)",
+    "links-wrapper(182)"
+   ],
+   "properties": {
+    "site": 182
+   },
+   "id": "navigation-links"
+  },
+  {
+   "base": "footer",
+   "key": "footer::7c587ff21d",
+   "cmp": "footer",
+   "category": "chrome",
+   "eds": "footer",
+   "instances": 91,
+   "pagesFound": 91,
+   "repFile": "footer_7c587ff21d_1.jpg",
+   "repUrl": "https://www.nutiani.com/nz/en/404.html",
+   "samples": [
+    {
+     "url": "https://www.nutiani.com/nz/en/404.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/contact-us/thank-you.html"
+    },
+    {
+     "url": "https://www.nutiani.com/nz/en/company/privacy-policy.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(button),div(div,div(@container+,@text))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "footer(91)"
+   ],
+   "properties": {
+    "site": 91
+   },
+   "id": "footer"
+  }
+ ]
+}

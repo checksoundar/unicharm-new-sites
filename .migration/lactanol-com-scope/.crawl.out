@@ -1,0 +1,22 @@
+[
+ {
+  "url": "https://www.lactanol.com/",
+  "status": 200,
+  "from": "seed"
+ },
+ {
+  "url": "https://www.lactanol.com/content/dam/lactanol/Lactanol%20Brochure.pdf",
+  "status": 200,
+  "from": "https://www.lactanol.com/"
+ },
+ {
+  "url": "https://www.lactanol.com/content/dam/lactanol/Ethanol%20Product%20Specifications.pdf",
+  "status": 200,
+  "from": "https://www.lactanol.com/"
+ },
+ {
+  "url": "https://www.lactanol.com/content/dam/lactanol/lactanol-limited-terms-of-supply-29-march-2021.pdf",
+  "status": 200,
+  "from": "https://www.lactanol.com/"
+ }
+]

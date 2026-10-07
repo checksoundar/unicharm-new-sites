@@ -1,0 +1,1624 @@
+{
+ "captured": "2026-10-07T05:27:22.579Z",
+ "jaccard": 0.8,
+ "pages": 7,
+ "componentInstances": 155,
+ "components": 11,
+ "exactPatterns": 27,
+ "structuralVariants": 24,
+ "byCategory": {
+  "custom": {
+   "components": [
+    "contactus"
+   ],
+   "edsBlocks": [
+    "contact-form"
+   ],
+   "variants": 1,
+   "instances": 1
+  },
+  "boilerplate": {
+   "components": [
+    "text-image-with-zoom",
+    "accordionItem",
+    "table",
+    "heroBanner"
+   ],
+   "edsBlocks": [
+    "columns",
+    "accordion",
+    "table",
+    "hero"
+   ],
+   "variants": 8,
+   "instances": 49
+  },
+  "default-content": {
+   "components": [
+    "subsection",
+    "richText",
+    "downloadFile"
+   ],
+   "edsBlocks": [
+    "default-content"
+   ],
+   "variants": 5,
+   "instances": 45
+  },
+  "section": {
+   "components": [
+    "gridLayout"
+   ],
+   "edsBlocks": [
+    "section"
+   ],
+   "variants": 8,
+   "instances": 46
+  },
+  "chrome": {
+   "components": [
+    "header",
+    "footer"
+   ],
+   "edsBlocks": [
+    "header",
+    "footer"
+   ],
+   "variants": 2,
+   "instances": 14
+  }
+ },
+ "inventory": [
+  {
+   "cmp": "contactus",
+   "aemComponent": "contactus",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "contact-form",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Enquiry form (location select, name, email, phone, comments) with reCAPTCHA (data-sitekey) posting to a Fonterra backend — no form block in the boilerplate library; needs a form block + submission integration.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "contactus",
+     "pattern": "div(form[form](div[alert]+,input[hidden]+,div(div(label,input[text],div),div(div(label,input[text],div)+),div(div(label,input[email],div),div(label,input[tel],div)),div(label,textarea,div),div(div(div(iframe[ext]),div,textarea),iframe[blank]),div(button))))",
+     "hashes": [
+      {
+       "hash": "c6646a6f9e",
+       "instances": 1,
+       "pattern": "div(form[form](div[alert]+,input[hidden]+,div(div(label,input[text],div),div(div(label,input[text],div)+),div(div(label,input[email],div),div(label,input[tel],div)),div(label,textarea,div),div(div(div(iframe[ext]),div,textarea),iframe[blank]),div(button))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/contact-us.html"
+     ],
+     "repFile": "contactus_c6646a6f9e_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/contact-us.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 1,
+      "input": 7,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-sitekey",
+      "data-callback",
+      "data-size",
+      "data-style"
+     ],
+     "topLabel": "",
+     "eds": "contact-form",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "text-image-with-zoom",
+   "aemComponent": "text-image-with-zoom",
+   "instances": 25,
+   "pages": 5,
+   "exactPatterns": 3,
+   "variants": 3,
+   "properties": {
+    "site": 25
+   },
+   "eds": "columns",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Image beside heading + copy (imageTextLeft / imageTextRight modifiers → Columns variant order); image opens a zoom modal (data-toggle) — use the boilerplate modal/lightbox enhancement.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "text-image-with-zoom-v1",
+     "pattern": "div(div(img),div(div(rte)+))",
+     "hashes": [
+      {
+       "hash": "635b3224a6",
+       "instances": 14,
+       "pattern": "div(div(img),div(div(rte)+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 14,
+     "pages": 5,
+     "properties": {
+      "site": 14
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/contact-us.html",
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "text-image-with-zoom_635b3224a6_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en.html",
+     "modifiers": [
+      "cq-dd-image(14)",
+      "imageTextLeft(14)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "OVERVIEW.",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "text-image-with-zoom-v2",
+     "pattern": "div(div(div(rte)+),div(img))",
+     "hashes": [
+      {
+       "hash": "5a0a7dfcd3",
+       "instances": 9,
+       "pattern": "div(div(div(rte)+),div(img))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 9,
+     "pages": 3,
+     "properties": {
+      "site": 9
+     },
+     "sampleUrls": [
+      "/nz/en/about.html",
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "text-image-with-zoom_5a0a7dfcd3_2.jpg",
+     "repUrl": "https://proliq.nz/nz/en/processes.html",
+     "modifiers": [
+      "cq-dd-image(9)",
+      "imageTextRight(9)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "1814",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "text-image-with-zoom-v3",
+     "pattern": "div(div(img),div(div(rte)+,div(a)))",
+     "hashes": [
+      {
+       "hash": "940af83c9e",
+       "instances": 2,
+       "pattern": "div(div(img),div(div(rte)+,div(a)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about.html"
+     ],
+     "repFile": "text-image-with-zoom_940af83c9e_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en.html",
+     "modifiers": [
+      "cq-dd-image(2)",
+      "imageTextLeft(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "BUDGET FRIENDLY.",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "accordionItem",
+   "aemComponent": "accordionItem",
+   "instances": 12,
+   "pages": 2,
+   "exactPatterns": 4,
+   "variants": 2,
+   "properties": {
+    "site": 12
+   },
+   "eds": "accordion",
+   "category": "boilerplate",
+   "complexity": "Medium",
+   "rationale": "Expand/collapse items grouped by data-accordiongroup ('Show more') → Accordion. Specification panels nest richText + table components (Medium).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "accordionItem-v1",
+     "pattern": "div(div(div(rte),div),div(@subsection))",
+     "hashes": [
+      {
+       "hash": "b91923d82e",
+       "instances": 9,
+       "pattern": "div(div(div(rte),div),div(@subsection))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 9,
+     "pages": 2,
+     "properties": {
+      "site": 9
+     },
+     "sampleUrls": [
+      "/nz/en/specifications.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "accordionItem_b91923d82e_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/specifications.html",
+     "modifiers": [
+      "accordion(9)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 4,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 1
+     },
+     "dataAttrs": [
+      "data-accordiongroup",
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "",
+     "eds": "accordion",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "accordionItem-v2",
+     "pattern": "div(div(div(rte),div),div(@subsection,@richText+,@table,@richText+,@table))",
+     "hashes": [
+      {
+       "hash": "d0d3d638f5",
+       "instances": 1,
+       "pattern": "div(div(div(rte),div),div(@subsection,@richText+,@table,@richText+,@table))"
+      },
+      {
+       "hash": "6f73da5641",
+       "instances": 1,
+       "pattern": "div(div(div(rte),div),div(@subsection,@richText,@table))"
+      },
+      {
+       "hash": "109a514804",
+       "instances": 1,
+       "pattern": "div(div(div(rte),div),div(@subsection,@richText,@table,@richText,@table))"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      1
+     ],
+     "instances": 3,
+     "pages": 1,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en/specifications.html"
+     ],
+     "repFile": "accordionItem_d0d3d638f5_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/specifications.html",
+     "modifiers": [
+      "accordion(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 1
+     },
+     "dataAttrs": [
+      "data-accordiongroup",
+      "data-toggle",
+      "data-target",
+      "data-emptytext",
+      "data-foundation-selections-mode",
+      "data-foundation-layout-table-guesstotal",
+      "data-foundation-layout"
+     ],
+     "topLabel": "BASIC INFORMATION.",
+     "eds": "accordion",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "table",
+   "aemComponent": "table",
+   "instances": 7,
+   "pages": 3,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 7
+   },
+   "eds": "table",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Specification table → Table. DEFECT: on the live site these 7 instances render the Granite/Coral authoring UI ('There is no item' / 'Loading more items', coral-wait) instead of data — re-author the spec data from the PDFs during migration.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "table",
+     "pattern": "div(table(tbody(tr(td)),tfoot(tr(td(coral-wait)))))",
+     "hashes": [
+      {
+       "hash": "9a6e036d5e",
+       "instances": 7,
+       "pattern": "div(table(tbody(tr(td)),tfoot(tr(td(coral-wait)))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 7,
+     "pages": 3,
+     "properties": {
+      "site": 7
+     },
+     "sampleUrls": [
+      "/nz/en/about.html",
+      "/nz/en/specifications.html",
+      "/nz/en/contact-us.html"
+     ],
+     "repFile": "table_9a6e036d5e_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/about.html",
+     "modifiers": [
+      "foundation-layout-util-maximized-alt(7)",
+      "foundation-collection(7)",
+      "foundation-layout-table(7)"
+     ],
+     "styles": [
+      "table-component(7)"
+     ],
+     "parents": [
+      "gridLayout",
+      "accordionItem"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-foundation-selections-mode",
+      "data-foundation-layout-table-guesstotal",
+      "data-foundation-layout"
+     ],
+     "topLabel": "",
+     "eds": "table",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "heroBanner",
+   "aemComponent": "heroBanner",
+   "instances": 5,
+   "pages": 5,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 5
+   },
+   "eds": "hero",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Background image (desktop + mobile <img>) with heading, copy and optional CTA overlaid → Hero.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "heroBanner-v1",
+     "pattern": "div(div(img)+,div(div(rte)+,div(a)))",
+     "hashes": [
+      {
+       "hash": "4163f17597",
+       "instances": 3,
+       "pattern": "div(div(img)+,div(div(rte)+,div(a)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/about.html"
+     ],
+     "repFile": "heroBanner_4163f17597_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "heroBanner(3)",
+      "cq-dd-image(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "PROPERTIES & APPLICATIONS.",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "heroBanner-v2",
+     "pattern": "div(div(img)+,div(div(rte)+))",
+     "hashes": [
+      {
+       "hash": "5531ddbfeb",
+       "instances": 2,
+       "pattern": "div(div(img)+,div(div(rte)+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "heroBanner_5531ddbfeb_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/processes.html",
+     "modifiers": [
+      "heroBanner(2)",
+      "cq-dd-image(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "TESTIMONIALS",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "subsection",
+   "aemComponent": "subsection",
+   "instances": 27,
+   "pages": 6,
+   "exactPatterns": 3,
+   "variants": 3,
+   "properties": {
+    "site": 27
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Headline (+ blue underline) and copy → default content (heading style via section metadata).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "subsection-v1",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "1c2897d5e5",
+       "instances": 21,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 21,
+     "pages": 6,
+     "properties": {
+      "site": 21
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/specifications.html",
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "subsection_1c2897d5e5_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "copy(12)",
+      "headline(9)",
+      "content_bluebar(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout",
+      "accordionItem"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "CONTACT US.",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "subsection-v2",
+     "pattern": "div(div(rte)+)",
+     "hashes": [
+      {
+       "hash": "a126e2031c",
+       "instances": 4,
+       "pattern": "div(div(rte)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 4,
+     "pages": 2,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "subsection_a126e2031c_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "headline(4)",
+      "content_bluebar(4)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "IMPROVES FEED INTAKE.",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "subsection-v3",
+     "pattern": "div(div(rte)+,div(a))",
+     "hashes": [
+      {
+       "hash": "0496f7dcda",
+       "instances": 2,
+       "pattern": "div(div(rte)+,div(a))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about.html"
+     ],
+     "repFile": "subsection_0496f7dcda_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en.html",
+     "modifiers": [
+      "headline(2)",
+      "content_bluebar(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "PROLIQ added to dry feeds (such as PKE and concentrates) assists in im",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "richText",
+   "aemComponent": "richText",
+   "instances": 9,
+   "pages": 3,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 9
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Rich text → default content.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "richText",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "0dfcd5192c",
+       "instances": 9,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 9,
+     "pages": 3,
+     "properties": {
+      "site": 9
+     },
+     "sampleUrls": [
+      "/nz/en/about.html",
+      "/nz/en/specifications.html",
+      "/nz/en/contact-us.html"
+     ],
+     "repFile": "richText_0dfcd5192c_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/about.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "gridLayout",
+      "accordionItem"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "INTRODUCTION.",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "downloadFile",
+   "aemComponent": "downloadFile",
+   "instances": 9,
+   "pages": 6,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 9
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Short copy + single button (Contact us / PDF download) in a tinted strip → default-content text + button inside a styled section.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "downloadFile",
+     "pattern": "div(div(rte),div(a))",
+     "hashes": [
+      {
+       "hash": "c7f7ced30b",
+       "instances": 9,
+       "pattern": "div(div(rte),div(a))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 9,
+     "pages": 6,
+     "properties": {
+      "site": 9
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/specifications.html",
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "downloadFile_c7f7ced30b_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "download(9)"
+     ],
+     "styles": [],
+     "parents": [
+      "gridLayout"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "gridLayout",
+   "aemComponent": "gridLayout",
+   "instances": 46,
+   "pages": 7,
+   "exactPatterns": 9,
+   "variants": 8,
+   "properties": {
+    "site": 46
+   },
+   "eds": "section",
+   "category": "section",
+   "complexity": "Simple",
+   "rationale": "Layout component (article-grid / vertical-standard) → EDS section; bgCerulean / blueShade / minimal-padded → section-metadata styles.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "gridLayout-v1",
+     "pattern": "div(@text-image-with-zoom)",
+     "hashes": [
+      {
+       "hash": "189fc073a6",
+       "instances": 25,
+       "pattern": "div(@text-image-with-zoom)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 25,
+     "pages": 5,
+     "properties": {
+      "site": 25
+     },
+     "sampleUrls": [
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/contact-us.html",
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en.html",
+     "modifiers": [
+      "article-grid(19)",
+      "vertical-standard-top(17)",
+      "bgCerulean(15)",
+      "vertical-standard(8)",
+      "minimal-padded(4)",
+      "blueShade(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "2001",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v2",
+     "pattern": "div(@subsection)",
+     "hashes": [
+      {
+       "hash": "bc8d2907f1",
+       "instances": 6,
+       "pattern": "div(@subsection)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 6,
+     "pages": 4,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "article-grid(6)",
+      "vertical-standard(5)",
+      "blueShade(2)",
+      "vertical-standard-top(1)",
+      "bgCerulean(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "IMPROVES FEED INTAKE.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v3",
+     "pattern": "div(@subsection,@downloadFile)",
+     "hashes": [
+      {
+       "hash": "e74b6f5808",
+       "instances": 6,
+       "pattern": "div(@subsection,@downloadFile)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 6,
+     "pages": 6,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/specifications.html",
+      "/nz/en/processes.html",
+      "/nz/en/timeline.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "blueShade(6)",
+      "article-grid(6)",
+      "vertical-standard(6)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "CONTACT US.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v4",
+     "pattern": "div(@subsection,@accordionItem+)",
+     "hashes": [
+      {
+       "hash": "cb1b2180bf",
+       "instances": 3,
+       "pattern": "div(@subsection,@accordionItem+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 2,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/nz/en/specifications.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/specifications.html",
+     "modifiers": [
+      "article-grid(3)",
+      "vertical-standard(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 6,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 5
+     },
+     "dataAttrs": [
+      "data-accordiongroup",
+      "data-toggle",
+      "data-target",
+      "data-emptytext",
+      "data-foundation-selections-mode",
+      "data-foundation-layout-table-guesstotal",
+      "data-foundation-layout"
+     ],
+     "topLabel": "GENERAL.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v5",
+     "pattern": "div(@table)",
+     "hashes": [
+      {
+       "hash": "7ca514af0f",
+       "instances": 2,
+       "pattern": "div(@table)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/about.html",
+      "/nz/en/contact-us.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/about.html",
+     "modifiers": [
+      "vertical-standard(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-foundation-selections-mode",
+      "data-foundation-layout-table-guesstotal",
+      "data-foundation-layout"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v7",
+     "pattern": "div(@downloadFile+)",
+     "hashes": [
+      {
+       "hash": "ffd59dcc95",
+       "instances": 1,
+       "pattern": "div(@downloadFile+)"
+      },
+      {
+       "hash": "a3ccfc626b",
+       "instances": 1,
+       "pattern": "div(@downloadFile)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/nz/en/specifications.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/specifications.html",
+     "modifiers": [
+      "bgCerulean(2)",
+      "article-grid(2)",
+      "vertical-standard-top(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 2,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v6",
+     "pattern": "div(@richText)",
+     "hashes": [
+      {
+       "hash": "da5ec27edd",
+       "instances": 1,
+       "pattern": "div(@richText)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/about.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/about.html",
+     "modifiers": [
+      "article-grid(1)",
+      "vertical-standard-top(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "INTRODUCTION.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "gridLayout-v8",
+     "pattern": "div(@richText,@contactus)",
+     "hashes": [
+      {
+       "hash": "c6de0b160b",
+       "instances": 1,
+       "pattern": "div(@richText,@contactus)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/nz/en/contact-us.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://proliq.nz/nz/en/contact-us.html",
+     "modifiers": [
+      "blueShade(1)",
+      "vertical-standard(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 1,
+      "input": 7,
+      "iframe": 2,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-sitekey",
+      "data-callback",
+      "data-size",
+      "data-style"
+     ],
+     "topLabel": "SEND US A QUERY.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "header",
+   "aemComponent": "header",
+   "instances": 7,
+   "pages": 7,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 7
+   },
+   "eds": "header",
+   "category": "chrome",
+   "complexity": "",
+   "rationale": "Experience-fragment header/footer → EDS header/footer fragment.",
+   "mapped": false,
+   "variantList": [
+    {
+     "id": "header",
+     "pattern": "nav(div(div(a(img),button[exp]),div(div(a+),div(a))))",
+     "hashes": [
+      {
+       "hash": "031ddafb4c",
+       "instances": 7,
+       "pattern": "nav(div(div(a(img),button[exp]),div(div(a+),div(a))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 7,
+     "pages": 7,
+     "properties": {
+      "site": 7
+     },
+     "sampleUrls": [
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/about.html",
+      "/nz/en/specifications.html",
+      "/nz/en/contact-us.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "header_031ddafb4c_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [
+      "logo(7)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 6,
+      "li": 0,
+      "h": 0,
+      "btn": 1,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 1
+     },
+     "dataAttrs": [
+      "data-toggle",
+      "data-target"
+     ],
+     "topLabel": "",
+     "eds": "header",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "footer",
+   "aemComponent": "footer",
+   "instances": 7,
+   "pages": 7,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 7
+   },
+   "eds": "footer",
+   "category": "chrome",
+   "complexity": "",
+   "rationale": "Experience-fragment header/footer → EDS header/footer fragment.",
+   "mapped": false,
+   "variantList": [
+    {
+     "id": "footer",
+     "pattern": "footer(div(div(rte),div(div(a(img)+),div(rte)),div(rte)))",
+     "hashes": [
+      {
+       "hash": "770cb1ea2d",
+       "instances": 7,
+       "pattern": "footer(div(div(rte),div(div(a(img)+),div(rte)),div(rte)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 7,
+     "pages": 7,
+     "properties": {
+      "site": 7
+     },
+     "sampleUrls": [
+      "/nz/en/about.html",
+      "/nz/en/benefits.html",
+      "/nz/en.html",
+      "/nz/en/specifications.html",
+      "/nz/en/contact-us.html",
+      "/nz/en/processes.html"
+     ],
+     "repFile": "footer_770cb1ea2d_1.jpg",
+     "repUrl": "https://proliq.nz/nz/en/benefits.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 4,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "footer",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

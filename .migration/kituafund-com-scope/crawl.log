@@ -1,0 +1,6 @@
+sitemap URLs in scope: 30; seeds: 1
+total 30 (+0 component endpoints), sitemap 30
+16	global/en 301
+12	global/en 200
+1	global/en.html 200
+1	global/en 404

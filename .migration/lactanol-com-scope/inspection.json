@@ -1,0 +1,35 @@
+{
+ "captured": "2026-10-07T05:22:06.911Z",
+ "locales": [],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 1,
+  "totalLive": 1,
+  "totalUrls": 1,
+  "selectedTotal": 0,
+  "skippedTotal": 1,
+  "non200Total": 0,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 0,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

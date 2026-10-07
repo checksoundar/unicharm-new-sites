@@ -1,0 +1,171 @@
+{
+ "captured": "2026-10-07T05:33:36.839Z",
+ "renderedPages": 11,
+ "distinctSignatures": 8,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "site·kituafund-article-template",
+   "family": "site · kituafund-article-template",
+   "signature": "[kituafund-article-template] header>breadcrumbs>article-header>text>related-articles>footer",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+    "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+    "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+   ],
+   "sections": {
+    "header": 3,
+    "breadcrumbs": 3,
+    "article-header": 3,
+    "text": 3,
+    "related-articles": 3,
+    "footer": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>footer",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.kituafund.com/global/en/footer-links.html",
+    "https://www.kituafund.com/global/en/board-and-investment-committee.html"
+   ],
+   "sections": {
+    "header": 2,
+    "breadcrumbs": 2,
+    "footer": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>hero>article-listing>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.kituafund.com/global/en/news.html"
+   ],
+   "sections": {
+    "header": 1,
+    "breadcrumbs": 1,
+    "hero": 1,
+    "article-listing": 1,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-article-template",
+   "family": "site · kituafund-article-template",
+   "signature": "[kituafund-article-template] header>breadcrumbs>article-header>text>video>related-articles>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+   ],
+   "sections": {
+    "header": 1,
+    "breadcrumbs": 1,
+    "article-header": 1,
+    "text": 1,
+    "video": 1,
+    "related-articles": 1,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>hero>text>columns>cards>text>accordion>text>related-articles>text>columns>text>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.kituafund.com/global/en.html"
+   ],
+   "sections": {
+    "header": 1,
+    "breadcrumbs": 1,
+    "hero": 1,
+    "text": 5,
+    "columns": 2,
+    "cards": 1,
+    "accordion": 1,
+    "related-articles": 1,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>hero>columns>card-filter>cards>text>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.kituafund.com/global/en/partners.html"
+   ],
+   "sections": {
+    "header": 1,
+    "breadcrumbs": 1,
+    "hero": 1,
+    "columns": 1,
+    "card-filter": 1,
+    "cards": 1,
+    "text": 1,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>hero>text>cards>text>cards>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.kituafund.com/global/en/team.html"
+   ],
+   "sections": {
+    "header": 1,
+    "breadcrumbs": 1,
+    "hero": 1,
+    "text": 2,
+    "cards": 2,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>text>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.kituafund.com/global/en/terms-and-conditions.html"
+   ],
+   "sections": {
+    "header": 1,
+    "breadcrumbs": 1,
+    "text": 1,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

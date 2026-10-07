@@ -1,0 +1,1480 @@
+{
+ "captured": "2026-10-07T05:30:18.151Z",
+ "jaccard": 0.8,
+ "pages": 6,
+ "componentInstances": 66,
+ "components": 13,
+ "exactPatterns": 25,
+ "structuralVariants": 21,
+ "byCategory": {
+  "custom": {
+   "components": [
+    "did-you-know",
+    "fast-facts",
+    "end-of-stage",
+    "timeline",
+    "sustainability-commitments",
+    "stage-menu"
+   ],
+   "edsBlocks": [
+    "did-you-know",
+    "fast-facts",
+    "stage-navigation",
+    "timeline",
+    "image-hotspots",
+    "stage-menu"
+   ],
+   "variants": 9,
+   "instances": 24
+  },
+  "boilerplate": {
+   "components": [
+    "stage-intro",
+    "meet-the-people",
+    "video-page"
+   ],
+   "edsBlocks": [
+    "hero",
+    "cards",
+    "video"
+   ],
+   "variants": 3,
+   "instances": 8
+  },
+  "default-content": {
+   "components": [
+    "section-divider",
+    "div"
+   ],
+   "edsBlocks": [
+    "default-content"
+   ],
+   "variants": 2,
+   "instances": 22
+  },
+  "section": {
+   "components": [
+    "responsivegrid"
+   ],
+   "edsBlocks": [
+    "section"
+   ],
+   "variants": 5,
+   "instances": 6
+  },
+  "chrome": {
+   "components": [
+    "header"
+   ],
+   "edsBlocks": [
+    "header"
+   ],
+   "variants": 2,
+   "instances": 6
+  }
+ },
+ "inventory": [
+  {
+   "cmp": "did-you-know",
+   "aemComponent": "did-you-know",
+   "instances": 6,
+   "pages": 5,
+   "exactPatterns": 3,
+   "variants": 1,
+   "properties": {
+    "site": 6
+   },
+   "eds": "did-you-know",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "'Things to know' Q&A: list of question hotspots each opening an answer panel with its own slick image carousel (26 buttons, data-index). Interactive explorer — custom block (could be built on Accordion + Carousel, but the layout/interaction is bespoke).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "did-you-know",
+     "pattern": "div(div(section(div(div+,div(div(div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg))+),div(rte))))),div)",
+     "hashes": [
+      {
+       "hash": "0e77b6a82d",
+       "instances": 4,
+       "pattern": "div(div(section(div(div+,div(div(div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg))+),div(rte))))),div)"
+      },
+      {
+       "hash": "4841cbfb1c",
+       "instances": 1,
+       "pattern": "div(div(section(div(div+,div(div(div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg)),div(rte,button(svg),div(div(img,div(rte)),svg)),div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg)),div(rte,button(svg),div(div(img,div(rte)),svg))),div(rte))))),div)"
+      },
+      {
+       "hash": "da0b2d07e3",
+       "instances": 1,
+       "pattern": "div(div(section(div(div+,div(div(div(rte,button(svg),div(div(img,div(rte)),svg)),div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg)),div(rte,button(svg),div(div(img,div(rte)),svg)),div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg))),div(rte))))),div)"
+      }
+     ],
+     "jaccardMerged": [
+      0.82,
+      1
+     ],
+     "instances": 6,
+     "pages": 5,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/milk-collection.html",
+      "/global/en/home/export.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "did-you-know_4841cbfb1c_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/export.html",
+     "modifiers": [
+      "vv-component(6)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 11,
+      "a": 0,
+      "li": 0,
+      "h": 5,
+      "btn": 26,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": true,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-index"
+     ],
+     "topLabel": "Crawford Street DC",
+     "eds": "did-you-know",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "fast-facts",
+   "aemComponent": "fast-facts",
+   "instances": 5,
+   "pages": 5,
+   "exactPatterns": 4,
+   "variants": 3,
+   "properties": {
+    "site": 5
+   },
+   "eds": "fast-facts",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "Animated count-up statistics (numbers animate from 0), expandable fact panels (aria-expanded + role=region) beside an interactive NZ map with plotted sites/regions (fastfacts). No standard equivalent — custom block (counter animation + map).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "fast-facts-v1",
+     "pattern": "div(section(div(div(rte,div[region](rte))+),div(div+)),div)",
+     "hashes": [
+      {
+       "hash": "0b22f35c24",
+       "instances": 2,
+       "pattern": "div(section(div(div(rte,div[region](rte))+),div(div+)),div)"
+      },
+      {
+       "hash": "c511ef7c04",
+       "instances": 1,
+       "pattern": "div(section(div(div(rte,div[region](rte))+),div(div(img,div),div(div+)+)),div)"
+      }
+     ],
+     "jaccardMerged": [
+      0.88
+     ],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/export.html",
+      "/global/en/home/milk-collection.html"
+     ],
+     "repFile": "fast-facts_c511ef7c04_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+     "modifiers": [
+      "vv-component(3)",
+      "fast-facts(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 6,
+      "btn": 3,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "fast-facts",
+     "category": "custom",
+     "note": ""
+    },
+    {
+     "id": "fast-facts-v2",
+     "pattern": "div(section(div(div(rte,div[region](rte))+),div(div,div(div+)+)),div)",
+     "hashes": [
+      {
+       "hash": "29889bcfeb",
+       "instances": 1,
+       "pattern": "div(section(div(div(rte,div[region](rte))+),div(div,div(div+)+)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/manufacturing.html"
+     ],
+     "repFile": "fast-facts_29889bcfeb_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+     "modifiers": [
+      "vv-component(1)",
+      "fast-facts(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 6,
+      "btn": 3,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "fast-facts",
+     "category": "custom",
+     "note": ""
+    },
+    {
+     "id": "fast-facts-v3",
+     "pattern": "div(section(div(div(rte,div[region](rte))+),div(div,div(div+),div(div(rte)+))),div)",
+     "hashes": [
+      {
+       "hash": "5dd926267e",
+       "instances": 1,
+       "pattern": "div(section(div(div(rte,div[region](rte))+),div(div,div(div+),div(div(rte)+))),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "fast-facts_5dd926267e_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+     "modifiers": [
+      "vv-component(1)",
+      "fast-facts(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 9,
+      "btn": 3,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "fast-facts",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "end-of-stage",
+   "aemComponent": "end-of-stage",
+   "instances": 5,
+   "pages": 5,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 5
+   },
+   "eds": "stage-navigation",
+   "category": "custom",
+   "complexity": "Simple",
+   "rationale": "End-of-stage panel: stage title + 'Continue exploring' list linking to the other stages (data-active state) → small custom stage-navigation block (shares logic with stage-menu).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "end-of-stage",
+     "pattern": "div(section(header(img),main(rte)),div)",
+     "hashes": [
+      {
+       "hash": "b1da13956d",
+       "instances": 5,
+       "pattern": "div(section(header(img),main(rte)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 5,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/export.html",
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/milk-collection.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "end-of-stage_b1da13956d_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+     "modifiers": [
+      "end-of-stage(5)",
+      "vv-component(5)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 5,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-active"
+     ],
+     "topLabel": "Continue exploring",
+     "eds": "stage-navigation",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "timeline",
+   "aemComponent": "timeline",
+   "instances": 4,
+   "pages": 4,
+   "exactPatterns": 3,
+   "variants": 2,
+   "properties": {
+    "site": 4
+   },
+   "eds": "timeline",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Horizontal parallax timeline (is-parallax--bg-fixed): sequence of dated items with images and expand buttons scrolling sideways → custom timeline block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "timeline-v1",
+     "pattern": "div(section(div+,div(div(div(div,div(rte)),div(div(img),button(svg))),div(div(div,div(rte)),div(img))+)),div)",
+     "hashes": [
+      {
+       "hash": "160d56372e",
+       "instances": 2,
+       "pattern": "div(section(div+,div(div(div(div,div(rte)),div(div(img),button(svg))),div(div(div,div(rte)),div(img))+)),div)"
+      },
+      {
+       "hash": "86c0404f78",
+       "instances": 1,
+       "pattern": "div(section(div,div(div(rte),div),div(div(div(div,div(rte)),div(img))+)),div)"
+      }
+     ],
+     "jaccardMerged": [
+      0.8
+     ],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/on-farm.html",
+      "/global/en/home/manufacturing.html"
+     ],
+     "repFile": "timeline_86c0404f78_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+     "modifiers": [
+      "vv-component(3)",
+      "timeline(3)",
+      "is-parallax--bg-fixed(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 5,
+      "a": 0,
+      "li": 0,
+      "h": 10,
+      "btn": 1,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "timeline",
+     "category": "custom",
+     "note": ""
+    },
+    {
+     "id": "timeline-v2",
+     "pattern": "div(section(div+,div(div(div(div,div(rte)),div(img))+)),div)",
+     "hashes": [
+      {
+       "hash": "ae79a051f8",
+       "instances": 1,
+       "pattern": "div(section(div+,div(div(div(div,div(rte)),div(img))+)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/milk-collection.html"
+     ],
+     "repFile": "timeline_ae79a051f8_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+     "modifiers": [
+      "vv-component(1)",
+      "timeline(1)",
+      "is-parallax--bg-fixed(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 4,
+      "a": 0,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "timeline",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "sustainability-commitments",
+   "aemComponent": "sustainability-commitments",
+   "instances": 3,
+   "pages": 3,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 3
+   },
+   "eds": "image-hotspots",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Full-bleed photo with positioned hotspot tags (Coal, Emissions, Water, Landfill) that reveal commitment details → custom image-hotspots block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "sustainability-commitments",
+     "pattern": "div(section(div(picture(source+,img),div(div(svg)+))),div)",
+     "hashes": [
+      {
+       "hash": "81cda8c40e",
+       "instances": 3,
+       "pattern": "div(section(div(picture(source+,img),div(div(svg)+))),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/global/en/home/export.html",
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "sustainability-commitments_81cda8c40e_2.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+     "modifiers": [
+      "vv-component(3)",
+      "sustainability-commitments(3)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "image-hotspots",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "stage-menu",
+   "aemComponent": "stage-menu",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "stage-menu",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Onboarding / journey launcher (virtualvisit/content/stagemenu): full-screen intro with logo, title, copy and a menu of the 5 stages + audio toggle. Bespoke immersive entry screen — custom block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "stage-menu",
+     "pattern": "div(section(header(img),main(rte),footer(a,svg,a)),div)",
+     "hashes": [
+      {
+       "hash": "e2a5986605",
+       "instances": 1,
+       "pattern": "div(section(header(img),main(rte),footer(a,svg,a)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home.html"
+     ],
+     "repFile": "stage-menu_e2a5986605_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home.html",
+     "modifiers": [
+      "stage-menu(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 2,
+      "li": 5,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-active"
+     ],
+     "topLabel": "Our journey starts here.",
+     "eds": "stage-menu",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "stage-intro",
+   "aemComponent": "stage-intro",
+   "instances": 5,
+   "pages": 5,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 5
+   },
+   "eds": "hero",
+   "category": "boilerplate",
+   "complexity": "Medium",
+   "rationale": "Stage opener (stageintro): full-screen background <video> with gradient, stage title and copy → Hero (video-background variant). Visited-state + stage progress nav are handled by the custom page script.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "stage-intro",
+     "pattern": "div(section(div(div,div(video),div(rte),div)),div)",
+     "hashes": [
+      {
+       "hash": "46a37da9f8",
+       "instances": 5,
+       "pattern": "div(section(div(div,div(video),div(rte),div)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 5,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/export.html",
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/milk-collection.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "stage-intro_46a37da9f8_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+     "modifiers": [
+      "vv-component(5)",
+      "stage-intro(5)",
+      "stage-intro--has-background-gradient(5)",
+      "stage-intro--is-visited(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 1
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Distribution",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "meet-the-people",
+   "aemComponent": "meet-the-people",
+   "instances": 2,
+   "pages": 2,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 2
+   },
+   "eds": "cards",
+   "category": "boilerplate",
+   "complexity": "Medium",
+   "rationale": "Profile cards (image, name, copy, play/read button opening a modal) inside a stage-intro style panel (meetthepeople) → Cards with modal links.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "meet-the-people",
+     "pattern": "div(section(div+,div(div(div(img),div(rte,button(svg)))+)),div)",
+     "hashes": [
+      {
+       "hash": "aa0b3848ce",
+       "instances": 2,
+       "pattern": "div(section(div+,div(div(div(img),div(rte,button(svg)))+)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "meet-the-people_aa0b3848ce_2.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+     "modifiers": [
+      "vv-component(2)",
+      "meet-the-people(2)",
+      "stage-intro(2)",
+      "stage-intro--reversed(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 4,
+      "a": 0,
+      "li": 0,
+      "h": 4,
+      "btn": 4,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Meet Tom from Te Rapa",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "video-page",
+   "aemComponent": "video-page",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "video",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Full-bleed video teaser with title opening a video player (contextual cursor) → Video (placeholder + modal).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "video-page",
+     "pattern": "div(section(div,div(div,div(rte),div)),div)",
+     "hashes": [
+      {
+       "hash": "daf6805a65",
+       "instances": 1,
+       "pattern": "div(section(div,div(div,div(rte),div)),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/milk-collection.html"
+     ],
+     "repFile": "video-page_daf6805a65_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+     "modifiers": [
+      "video-page(1)",
+      "vv-component(1)",
+      "contextual-cursor(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "A day in the life of a tanker operator in the beautiful South Island",
+     "eds": "video",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "section-divider",
+   "aemComponent": "section-divider",
+   "instances": 21,
+   "pages": 5,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 21
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Panel heading with SVG icon between stage chapters (sectiondivider, 21 instances) → default content heading in its own section (icon via section style).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "section-divider",
+     "pattern": "div(section(div(svg+),rte),div)",
+     "hashes": [
+      {
+       "hash": "74e4325cec",
+       "instances": 21,
+       "pattern": "div(section(div(svg+),rte),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 21,
+     "pages": 5,
+     "properties": {
+      "site": 21
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/export.html",
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/milk-collection.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "section-divider_74e4325cec_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+     "modifiers": [
+      "vv-component(21)",
+      "section-divider(21)",
+      "section-divider--secondary(4)"
+     ],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Your questions answered",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "div",
+   "aemComponent": "div",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Empty spacer component.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "div",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "cb76943200",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/milk-collection.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "responsivegrid"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "responsivegrid",
+   "aemComponent": "responsivegrid",
+   "instances": 6,
+   "pages": 6,
+   "exactPatterns": 5,
+   "variants": 5,
+   "properties": {
+    "site": 6
+   },
+   "eds": "section",
+   "category": "section",
+   "complexity": "Complex",
+   "rationale": "SPA responsive grid = the stage page body. NOTE: the horizontal-scroll / parallax stage engine and background audio player are page-level custom JavaScript (not a block) and must be rebuilt for EDS.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "responsivegrid-v1",
+     "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@meet-the-people,@section-divider,@did-you-know,@section-divider,@sustainability-commitments,@section-divider,@timeline,@end-of-stage),div)",
+     "hashes": [
+      {
+       "hash": "d1280ba54c",
+       "instances": 2,
+       "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@meet-the-people,@section-divider,@did-you-know,@section-divider,@sustainability-commitments,@section-divider,@timeline,@end-of-stage),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "layout_d1280ba54c_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+     "modifiers": [
+      "aem-container(2)",
+      "aem-Grid(2)",
+      "aem-Grid--12(2)",
+      "aem-Grid--default--12(2)",
+      "aem-GridColumn(2)",
+      "aem-GridColumn--default--12(2)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 22,
+      "a": 0,
+      "li": 5,
+      "h": 36,
+      "btn": 28,
+      "input": 0,
+      "iframe": 0,
+      "video": 1
+     },
+     "flags": {
+      "slick": true,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-index"
+     ],
+     "topLabel": "Manufacturing",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "responsivegrid-v2",
+     "pattern": "div(div(@stage-menu),div)",
+     "hashes": [
+      {
+       "hash": "37693d40cf",
+       "instances": 1,
+       "pattern": "div(div(@stage-menu),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home.html",
+     "modifiers": [
+      "aem-container(1)",
+      "aem-Grid(1)",
+      "aem-Grid--12(1)",
+      "aem-Grid--default--12(1)",
+      "aem-GridColumn(1)",
+      "aem-GridColumn--default--12(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 2,
+      "li": 5,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-active"
+     ],
+     "topLabel": "Our journey starts here.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "responsivegrid-v3",
+     "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@did-you-know,@section-divider,@timeline,@section-divider,@did-you-know,@end-of-stage),div)",
+     "hashes": [
+      {
+       "hash": "a7f85f8d9e",
+       "instances": 1,
+       "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@did-you-know,@section-divider,@timeline,@section-divider,@did-you-know,@end-of-stage),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html"
+     ],
+     "repFile": "layout_a7f85f8d9e_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+     "modifiers": [
+      "aem-container(1)",
+      "aem-Grid(1)",
+      "aem-Grid--12(1)",
+      "aem-Grid--default--12(1)",
+      "aem-GridColumn(1)",
+      "aem-GridColumn--default--12(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 32,
+      "a": 0,
+      "li": 5,
+      "h": 27,
+      "btn": 66,
+      "input": 0,
+      "iframe": 0,
+      "video": 1
+     },
+     "flags": {
+      "slick": true,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-index"
+     ],
+     "topLabel": "Distribution",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "responsivegrid-v4",
+     "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@did-you-know,@section-divider,@sustainability-commitments,@end-of-stage),div)",
+     "hashes": [
+      {
+       "hash": "9ecaabc07b",
+       "instances": 1,
+       "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@did-you-know,@section-divider,@sustainability-commitments,@end-of-stage),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/export.html"
+     ],
+     "repFile": "layout_9ecaabc07b_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/export.html",
+     "modifiers": [
+      "aem-container(1)",
+      "aem-Grid(1)",
+      "aem-Grid--12(1)",
+      "aem-Grid--default--12(1)",
+      "aem-GridColumn(1)",
+      "aem-GridColumn--default--12(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 10,
+      "a": 0,
+      "li": 5,
+      "h": 17,
+      "btn": 17,
+      "input": 0,
+      "iframe": 0,
+      "video": 1
+     },
+     "flags": {
+      "slick": true,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-index",
+      "data-active"
+     ],
+     "topLabel": "Exporting our dairy",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "responsivegrid-v5",
+     "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@div,@section-divider,@did-you-know,@section-divider,@timeline,@section-divider,@video-page,@end-of-stage),div)",
+     "hashes": [
+      {
+       "hash": "77ec41263e",
+       "instances": 1,
+       "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@div,@section-divider,@did-you-know,@section-divider,@timeline,@section-divider,@video-page,@end-of-stage),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home/milk-collection.html"
+     ],
+     "repFile": "layout_77ec41263e_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+     "modifiers": [
+      "aem-container(1)",
+      "aem-Grid(1)",
+      "aem-Grid--12(1)",
+      "aem-Grid--default--12(1)",
+      "aem-GridColumn(1)",
+      "aem-GridColumn--default--12(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 18,
+      "a": 0,
+      "li": 5,
+      "h": 23,
+      "btn": 31,
+      "input": 0,
+      "iframe": 0,
+      "video": 1
+     },
+     "flags": {
+      "slick": true,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-index"
+     ],
+     "topLabel": "Collecting our milk",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "header",
+   "aemComponent": "header",
+   "instances": 6,
+   "pages": 6,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 6
+   },
+   "eds": "header",
+   "category": "chrome",
+   "complexity": "Medium",
+   "rationale": "Stage nav bar (React nav, not an AEM header XF): home + volume buttons and in-stage chapter links (Intro, Fast Facts, Did you know?, …) with scroll-spy → custom EDS header behaviour.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "header-v1",
+     "pattern": "nav(button(svg)+,div(a+),div)",
+     "hashes": [
+      {
+       "hash": "8322289a69",
+       "instances": 5,
+       "pattern": "nav(button(svg)+,div(a+),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 5,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/global/en/home/distribution.html",
+      "/global/en/home/export.html",
+      "/global/en/home/manufacturing.html",
+      "/global/en/home/milk-collection.html",
+      "/global/en/home/on-farm.html"
+     ],
+     "repFile": "header_8322289a69_1.jpg",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+     "modifiers": [
+      "icon(5)"
+     ],
+     "styles": [
+      "stage-nav--is-hidden(4)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 5,
+      "li": 0,
+      "h": 0,
+      "btn": 2,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "header",
+     "category": "chrome",
+     "note": ""
+    },
+    {
+     "id": "header-v2",
+     "pattern": "nav(button(svg)+,div+)",
+     "hashes": [
+      {
+       "hash": "01a96c5bc6",
+       "instances": 1,
+       "pattern": "nav(button(svg)+,div+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/home.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.visit.fonterra.com/global/en/home.html",
+     "modifiers": [
+      "icon(1)"
+     ],
+     "styles": [
+      "stage-nav--is-hidden(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 2,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "header",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

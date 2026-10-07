@@ -1,0 +1,82 @@
+{
+ "captured": "2026-10-07T06:04:19.455Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·nutiani-standard-page",
+   "family": "site · nutiani-standard-page",
+   "signature": "[nutiani-standard-page] header>breadcrumbs>text>gated-download>text>gated-download>footer",
+   "estPop": 11,
+   "url": "https://www.nutiani.com/nz/en/company/contact-us/form-error.html",
+   "file": "t00_site·nutiani-standard-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 1,
+   "name": "site·nutiani-article-page",
+   "family": "site · nutiani-article-page",
+   "signature": "[nutiani-article-page] header>breadcrumbs>article-header>gated-download>text>accordion>related-articles>text>gated-download>text>gated-download>footer",
+   "estPop": 8,
+   "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/consumer-deep-dive-series-the-practical-worriers.html",
+   "file": "t01_site·nutiani-article-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 2,
+   "name": "site·nutiani-article-page",
+   "family": "site · nutiani-article-page",
+   "signature": "[nutiani-article-page] header>breadcrumbs>article-header>gated-download>text>cards>accordion>related-articles>text>gated-download>text>gated-download>footer",
+   "estPop": 4,
+   "url": "https://www.nutiani.com/nz/en/innovation-hub/articles/importance-of-nutritional-support-oncology-patients.html",
+   "file": "t02_site·nutiani-article-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 5,
+   "name": "site·nutiani-standard-page",
+   "family": "site · nutiani-standard-page",
+   "signature": "[nutiani-standard-page] header>breadcrumbs>hero>text>gated-download>accordion>text>cards>text>gated-download>text>gated-download>footer",
+   "estPop": 3,
+   "url": "https://www.nutiani.com/nz/en/innovation-hub/resources/health-nutrition-rising-costs-report.html",
+   "file": "t05_site·nutiani-standard-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 6,
+   "name": "site·nutiani-product-page",
+   "family": "site · nutiani-product-page",
+   "signature": "[nutiani-product-page] header>breadcrumbs>hero>image-hotspots>text>cards>text>accordion>text>gated-download>text>gated-download>footer",
+   "estPop": 3,
+   "url": "https://www.nutiani.com/nz/en/solutions/probiotic-supplement-capsules/",
+   "file": "t06_site·nutiani-product-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 14,
+   "name": "site·nutiani-home-page",
+   "family": "site · nutiani-home-page",
+   "signature": "[nutiani-home-page] header>breadcrumbs>carousel>text>video>text>cards>hero>related-articles>cards>text>gated-download>text>gated-download>footer",
+   "estPop": 1,
+   "url": "https://www.nutiani.com/nz/en.html",
+   "file": "t14_site·nutiani-home-page.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 56,
+   "name": "site·nutiani-product-page",
+   "family": "site · nutiani-product-page",
+   "signature": "[nutiani-product-page] header>breadcrumbs>hero>text>gated-download>text>gated-download>footer",
+   "estPop": 1,
+   "url": "https://www.nutiani.com/nz/en/wellbeing-areas/test.html",
+   "file": "t56_site·nutiani-product-page.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

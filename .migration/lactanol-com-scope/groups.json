@@ -1,0 +1,22 @@
+{
+ "captured": "2026-10-07T04:56:18.390Z",
+ "minGroup": 2,
+ "sampleN": 100000,
+ "totalLivePages": 1,
+ "totalGroups": 1,
+ "patternGroups": 0,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Homepage & root"
+  }
+ },
+ "groups": {
+  "/": [
+   "https://www.lactanol.com/"
+  ]
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "captured": "2026-10-07T08:45:35.582Z",
+ "locales": [],
+ "sections": [
+  "global",
+  "etc"
+ ],
+ "selInspect": {
+  "totalGroups": 9,
+  "totalLive": 664,
+  "totalUrls": 1091,
+  "selectedTotal": 664,
+  "skippedTotal": 427,
+  "non200Total": 427,
+  "nonRrendered": 7,
+  "nonRtotal": 7,
+  "fullGroups": 3,
+  "rRendered": 657,
+  "rTotal": 1064,
+  "rGroups": 3,
+  "exclTotal": 20,
+  "exclGroups": 3,
+  "nonEnExcluded": 20
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/global/{section}/{page}/{path…}",
+   "label": "Global deep pages",
+   "total": 1036,
+   "selected": 632,
+   "skipped": 404,
+   "non200": 404,
+   "category": "sampled",
+   "example": "/global/en/about-nzmp/global-ingredients.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/global/{section}/{slug}",
+   "label": "Global sub-pages",
+   "total": 15,
+   "selected": 14,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/global/en/sign-up-nzmp-emails.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/global/{section}/{page}",
+   "label": "Global sub-pages",
+   "total": 13,
+   "selected": 11,
+   "skipped": 2,
+   "non200": 2,
+   "category": "sampled",
+   "example": "/global/en/about-nzmp.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{page}/{section}/{page}/{path…}",
+   "label": "Root-level product & marketing pages",
+   "total": 13,
+   "selected": 0,
+   "skipped": 13,
+   "non200": 13,
+   "category": "excluded",
+   "example": "/content/nzmp/global/en/about-nzmp/global-ingredients"
+  },
+  {
+   "groupId": "G04",
+   "template": "/global/{id}/{page}/{path…}",
+   "label": "Global deep pages",
+   "total": 6,
+   "selected": 0,
+   "skipped": 6,
+   "non200": 6,
+   "category": "excluded",
+   "example": "/global/en-draft-0919/archived/nz-grass-fed-difference-archive-21-10-25.html"
+  },
+  {
+   "groupId": "G05",
+   "template": "/etc/{section}/{page}/{path…}",
+   "label": "Etc deep pages",
+   "total": 5,
+   "selected": 5,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/etc/designs/nzmp/clientlibs/global/fonts/MarkOffcPro.otf"
+  },
+  {
+   "groupId": "G06",
+   "template": "/global/{section}",
+   "label": "Global section pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/global/en.html"
+  },
+  {
+   "groupId": "G07",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/mynzmp-request-supply"
+  },
+  {
+   "groupId": "G08",
+   "template": "/",
+   "label": "Homepage & root",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": ""
+  }
+ ]
+}

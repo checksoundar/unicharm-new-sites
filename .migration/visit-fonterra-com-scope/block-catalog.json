@@ -1,0 +1,675 @@
+{
+ "captured": "2026-10-07T05:30:18.108Z",
+ "method": "AEM component tag-pattern analysis",
+ "jaccard": 0.8,
+ "totalInstances": 66,
+ "contentInstances": 54,
+ "totalVariants": 18,
+ "baseSummary": [
+  {
+   "base": "default-content",
+   "variants": 1,
+   "instances": 21,
+   "category": "default-content"
+  },
+  {
+   "base": "custom:did-you-know",
+   "variants": 1,
+   "instances": 6,
+   "category": "custom"
+  },
+  {
+   "base": "custom:fast-facts",
+   "variants": 3,
+   "instances": 5,
+   "category": "custom"
+  },
+  {
+   "base": "custom:stage-navigation",
+   "variants": 1,
+   "instances": 5,
+   "category": "custom"
+  },
+  {
+   "base": "hero",
+   "variants": 1,
+   "instances": 5,
+   "category": "boilerplate"
+  },
+  {
+   "base": "section",
+   "variants": 4,
+   "instances": 5,
+   "category": "section"
+  },
+  {
+   "base": "header",
+   "variants": 1,
+   "instances": 5,
+   "category": "chrome"
+  },
+  {
+   "base": "custom:timeline",
+   "variants": 2,
+   "instances": 4,
+   "category": "custom"
+  },
+  {
+   "base": "custom:image-hotspots",
+   "variants": 1,
+   "instances": 3,
+   "category": "custom"
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 2,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:stage-menu",
+   "variants": 1,
+   "instances": 1,
+   "category": "custom"
+  },
+  {
+   "base": "video",
+   "variants": 1,
+   "instances": 1,
+   "category": "boilerplate"
+  }
+ ],
+ "variants": [
+  {
+   "base": "custom:did-you-know",
+   "key": "did-you-know::0e77b6a82d",
+   "cmp": "did-you-know",
+   "category": "custom",
+   "eds": "did-you-know",
+   "instances": 6,
+   "pagesFound": 5,
+   "repFile": "did-you-know_4841cbfb1c_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/export.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "Crawford Street DC",
+   "pattern": "div(div(section(div(div+,div(div(div(rte,button(svg),div(div(div(img,div(rte,nav(…)))+),svg))+),div(rte))))),div)",
+   "exactPatterns": 3,
+   "modifiers": [
+    "vv-component(6)"
+   ],
+   "properties": {
+    "site": 6
+   },
+   "id": "did-you-know"
+  },
+  {
+   "base": "custom:fast-facts",
+   "key": "fast-facts::0b22f35c24",
+   "cmp": "fast-facts",
+   "category": "custom",
+   "eds": "fast-facts",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "fast-facts_c511ef7c04_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(div(rte,div[region](rte))+),div(div+)),div)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "vv-component(3)",
+    "fast-facts(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "fast-facts-v1"
+  },
+  {
+   "base": "custom:fast-facts",
+   "key": "fast-facts::29889bcfeb",
+   "cmp": "fast-facts",
+   "category": "custom",
+   "eds": "fast-facts",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "fast-facts_29889bcfeb_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(div(rte,div[region](rte))+),div(div,div(div+)+)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(1)",
+    "fast-facts(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "fast-facts-v2"
+  },
+  {
+   "base": "custom:fast-facts",
+   "key": "fast-facts::5dd926267e",
+   "cmp": "fast-facts",
+   "category": "custom",
+   "eds": "fast-facts",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "fast-facts_5dd926267e_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(div(rte,div[region](rte))+),div(div,div(div+),div(div(rte)+))),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(1)",
+    "fast-facts(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "fast-facts-v3"
+  },
+  {
+   "base": "custom:stage-navigation",
+   "key": "end-of-stage::b1da13956d",
+   "cmp": "end-of-stage",
+   "category": "custom",
+   "eds": "stage-navigation",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "end-of-stage_b1da13956d_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "Continue exploring",
+   "pattern": "div(section(header(img),main(rte)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "end-of-stage(5)",
+    "vv-component(5)"
+   ],
+   "properties": {
+    "site": 5
+   },
+   "id": "end-of-stage"
+  },
+  {
+   "base": "custom:timeline",
+   "key": "timeline::160d56372e",
+   "cmp": "timeline",
+   "category": "custom",
+   "eds": "timeline",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "timeline_86c0404f78_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div+,div(div(div(div,div(rte)),div(div(img),button(svg))),div(div(div,div(rte)),div(img))+)),div)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "vv-component(3)",
+    "timeline(3)",
+    "is-parallax--bg-fixed(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "timeline-v1"
+  },
+  {
+   "base": "custom:timeline",
+   "key": "timeline::ae79a051f8",
+   "cmp": "timeline",
+   "category": "custom",
+   "eds": "timeline",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "timeline_ae79a051f8_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div+,div(div(div(div,div(rte)),div(img))+)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(1)",
+    "timeline(1)",
+    "is-parallax--bg-fixed(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "timeline-v2"
+  },
+  {
+   "base": "custom:image-hotspots",
+   "key": "sustainability-commitments::81cda8c40e",
+   "cmp": "sustainability-commitments",
+   "category": "custom",
+   "eds": "image-hotspots",
+   "instances": 3,
+   "pagesFound": 3,
+   "repFile": "sustainability-commitments_81cda8c40e_2.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(picture(source+,img),div(div(svg)+))),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(3)",
+    "sustainability-commitments(3)"
+   ],
+   "properties": {
+    "site": 3
+   },
+   "id": "sustainability-commitments"
+  },
+  {
+   "base": "custom:stage-menu",
+   "key": "stage-menu::e2a5986605",
+   "cmp": "stage-menu",
+   "category": "custom",
+   "eds": "stage-menu",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "stage-menu_e2a5986605_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home.html"
+    }
+   ],
+   "topLabel": "Our journey starts here.",
+   "pattern": "div(section(header(img),main(rte),footer(a,svg,a)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "stage-menu(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "stage-menu"
+  },
+  {
+   "base": "hero",
+   "key": "stage-intro::46a37da9f8",
+   "cmp": "stage-intro",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "stage-intro_46a37da9f8_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "Distribution",
+   "pattern": "div(section(div(div,div(video),div(rte),div)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(5)",
+    "stage-intro(5)",
+    "stage-intro--has-background-gradient(5)",
+    "stage-intro--is-visited(1)"
+   ],
+   "properties": {
+    "site": 5
+   },
+   "id": "stage-intro"
+  },
+  {
+   "base": "cards",
+   "key": "meet-the-people::aa0b3848ce",
+   "cmp": "meet-the-people",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "meet-the-people_aa0b3848ce_2.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "Meet Tom from Te Rapa",
+   "pattern": "div(section(div+,div(div(div(img),div(rte,button(svg)))+)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(2)",
+    "meet-the-people(2)",
+    "stage-intro(2)",
+    "stage-intro--reversed(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "meet-the-people"
+  },
+  {
+   "base": "video",
+   "key": "video-page::daf6805a65",
+   "cmp": "video-page",
+   "category": "boilerplate",
+   "eds": "video",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "video-page_daf6805a65_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    }
+   ],
+   "topLabel": "A day in the life of a tanker operator in the beautiful South Island",
+   "pattern": "div(section(div,div(div,div(rte),div)),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "video-page(1)",
+    "vv-component(1)",
+    "contextual-cursor(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "video-page"
+  },
+  {
+   "base": "default-content",
+   "key": "section-divider::74e4325cec",
+   "cmp": "section-divider",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 21,
+   "pagesFound": 5,
+   "repFile": "section-divider_74e4325cec_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "Your questions answered",
+   "pattern": "div(section(div(svg+),rte),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "vv-component(21)",
+    "section-divider(21)",
+    "section-divider--secondary(4)"
+   ],
+   "properties": {
+    "site": 21
+   },
+   "id": "section-divider"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::d1280ba54c",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "layout_d1280ba54c_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "Manufacturing",
+   "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@meet-the-people,@section-divider,@did-you-know,@section-divider,@sustainability-commitments,@section-divider,@timeline,@end-of-stage),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "aem-container(2)",
+    "aem-Grid(2)",
+    "aem-Grid--12(2)",
+    "aem-Grid--default--12(2)",
+    "aem-GridColumn(2)",
+    "aem-GridColumn--default--12(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "responsivegrid-v1"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::a7f85f8d9e",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_a7f85f8d9e_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    }
+   ],
+   "topLabel": "Distribution",
+   "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@did-you-know,@section-divider,@timeline,@section-divider,@did-you-know,@end-of-stage),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "aem-container(1)",
+    "aem-Grid(1)",
+    "aem-Grid--12(1)",
+    "aem-Grid--default--12(1)",
+    "aem-GridColumn(1)",
+    "aem-GridColumn--default--12(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "responsivegrid-v3"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::9ecaabc07b",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_9ecaabc07b_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/export.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    }
+   ],
+   "topLabel": "Exporting our dairy",
+   "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@section-divider,@did-you-know,@section-divider,@sustainability-commitments,@end-of-stage),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "aem-container(1)",
+    "aem-Grid(1)",
+    "aem-Grid--12(1)",
+    "aem-Grid--default--12(1)",
+    "aem-GridColumn(1)",
+    "aem-GridColumn--default--12(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "responsivegrid-v4"
+  },
+  {
+   "base": "section",
+   "key": "responsivegrid::77ec41263e",
+   "cmp": "responsivegrid",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_77ec41263e_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    }
+   ],
+   "topLabel": "Collecting our milk",
+   "pattern": "div(div(@stage-intro,@section-divider,@fast-facts,@div,@section-divider,@did-you-know,@section-divider,@timeline,@section-divider,@video-page,@end-of-stage),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "aem-container(1)",
+    "aem-Grid(1)",
+    "aem-Grid--12(1)",
+    "aem-Grid--default--12(1)",
+    "aem-GridColumn(1)",
+    "aem-GridColumn--default--12(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "responsivegrid-v5"
+  },
+  {
+   "base": "header",
+   "key": "header::8322289a69",
+   "cmp": "header",
+   "category": "chrome",
+   "eds": "header",
+   "instances": 5,
+   "pagesFound": 5,
+   "repFile": "header_8322289a69_1.jpg",
+   "repUrl": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+   "samples": [
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/distribution.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/export.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+    },
+    {
+     "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "nav(button(svg)+,div(a+),div)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "icon(5)"
+   ],
+   "properties": {
+    "site": 5
+   },
+   "id": "header-v1"
+  }
+ ]
+}

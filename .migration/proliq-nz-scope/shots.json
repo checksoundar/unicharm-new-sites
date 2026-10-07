@@ -1,0 +1,27 @@
+{
+ "captured": "2026-10-07T05:27:23.319Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>columns>table>text>hero>text",
+   "estPop": 1,
+   "url": "https://proliq.nz/nz/en/about.html",
+   "file": "t00_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 1,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>hero>text",
+   "estPop": 1,
+   "url": "https://proliq.nz/nz/en/benefits.html",
+   "file": "t01_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

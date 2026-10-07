@@ -1,0 +1,269 @@
+{
+ "captured": "2026-10-07T10:30:25.662Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "nz-en·no-template",
+   "family": "nz-en · no-template",
+   "signature": "[-] text>carousel",
+   "estPop": 538,
+   "url": "https://www.fonterra.com/nz/en/our-stories/articles/2019-year-in-review.html",
+   "file": "t00_nz-en·no-template.jpg",
+   "captured": true,
+   "bytes": 275832
+  },
+  {
+   "idx": 1,
+   "name": "nz-en·no-template",
+   "family": "nz-en · no-template",
+   "signature": "[-] heroQuote>newDawnImageTextWrapper>text>carousel",
+   "estPop": 57,
+   "url": "https://www.fonterra.com/nz/en/our-stories/articles/22-years-of-growth-and-learning-at-fonterra.html",
+   "file": "t01_nz-en·no-template.jpg",
+   "captured": true,
+   "bytes": 434875
+  },
+  {
+   "idx": 24,
+   "name": "other·no-template",
+   "family": "other · no-template",
+   "signature": "[-] text",
+   "estPop": 6,
+   "url": "https://www.fonterra.com/content/fonterra/americas/en/campaign/from-here-to-everywhere.html",
+   "file": "t24_other·no-template.jpg",
+   "captured": true,
+   "bytes": 89329
+  },
+  {
+   "idx": 30,
+   "name": "cn-zh·no-template",
+   "family": "cn-zh · no-template",
+   "signature": "[-] text",
+   "estPop": 5,
+   "url": "https://www.fonterra.com/cn/zh/404.html",
+   "file": "t30_cn-zh·no-template.jpg",
+   "captured": true,
+   "bytes": 106765
+  },
+  {
+   "idx": 31,
+   "name": "jp-ja·no-template",
+   "family": "jp-ja · no-template",
+   "signature": "[-] text",
+   "estPop": 5,
+   "url": "https://www.fonterra.com/jp/ja/404.html",
+   "file": "t31_jp-ja·no-template.jpg",
+   "captured": true,
+   "bytes": 82269
+  },
+  {
+   "idx": 35,
+   "name": "americas·no-template",
+   "family": "americas · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/americas/en/cookies-statement.html",
+   "file": "t35_americas·no-template.jpg",
+   "captured": true,
+   "bytes": 143815
+  },
+  {
+   "idx": 36,
+   "name": "au-en·no-template",
+   "family": "au-en · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/au/en/cookies-statement.html",
+   "file": "t36_au-en·no-template.jpg",
+   "captured": true,
+   "bytes": 145386
+  },
+  {
+   "idx": 37,
+   "name": "cn-en·no-template",
+   "family": "cn-en · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/cn/en/cookies-statement.html",
+   "file": "t37_cn-en·no-template.jpg",
+   "captured": true,
+   "bytes": 127774
+  },
+  {
+   "idx": 38,
+   "name": "eu-en·no-template",
+   "family": "eu-en · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/eu/en/cookies-statement.html",
+   "file": "t38_eu-en·no-template.jpg",
+   "captured": true,
+   "bytes": 146877
+  },
+  {
+   "idx": 39,
+   "name": "jp-en·no-template",
+   "family": "jp-en · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/jp/en/cookies-statement.html",
+   "file": "t39_jp-en·no-template.jpg",
+   "captured": true,
+   "bytes": 140437
+  },
+  {
+   "idx": 40,
+   "name": "lk-en·no-template",
+   "family": "lk-en · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/lk/en/cookies-statement.html",
+   "file": "t40_lk-en·no-template.jpg",
+   "captured": true,
+   "bytes": 141753
+  },
+  {
+   "idx": 45,
+   "name": "sea-bh·no-template",
+   "family": "sea-bh · no-template",
+   "signature": "[-] text",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/sea/bh/404.html",
+   "file": "t45_sea-bh·no-template.jpg",
+   "captured": true,
+   "bytes": 179462
+  },
+  {
+   "idx": 46,
+   "name": "sea·no-template",
+   "family": "sea · no-template",
+   "signature": "[-] accordion",
+   "estPop": 4,
+   "url": "https://www.fonterra.com/sea/en/cookies-statement.html",
+   "file": "t46_sea·no-template.jpg",
+   "captured": true,
+   "bytes": 142405
+  },
+  {
+   "idx": 47,
+   "name": "americas·no-template",
+   "family": "americas · no-template",
+   "signature": "[-] text",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/americas/en/404.html",
+   "file": "t47_americas·no-template.jpg",
+   "captured": true,
+   "bytes": 89329
+  },
+  {
+   "idx": 48,
+   "name": "au-en·no-template",
+   "family": "au-en · no-template",
+   "signature": "[-] cardtile>text>carousel",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/au/en/dairy-nutrition-hub/learn-and-discover/content/consumer-protein-awareness.html",
+   "file": "t48_au-en·no-template.jpg",
+   "captured": true,
+   "bytes": 293811
+  },
+  {
+   "idx": 49,
+   "name": "cn-zh·no-template",
+   "family": "cn-zh · no-template",
+   "signature": "[-] text>carousel",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/cn/zh/our-stories/articles/ready-to-respond.html",
+   "file": "t49_cn-zh·no-template.jpg",
+   "captured": true,
+   "bytes": 220704
+  },
+  {
+   "idx": 51,
+   "name": "other·no-template",
+   "family": "other · no-template",
+   "signature": "[-] ",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/content/fonterra/lk/en/redirection/",
+   "file": "t51_other·no-template.jpg",
+   "captured": true,
+   "bytes": 21011
+  },
+  {
+   "idx": 52,
+   "name": "jp-en·no-template",
+   "family": "jp-en · no-template",
+   "signature": "[-] text>carousel",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/jp/en/our-stories/media/fonterra-fresh-approach-to-uht-in-china.html",
+   "file": "t52_jp-en·no-template.jpg",
+   "captured": true,
+   "bytes": 450051
+  },
+  {
+   "idx": 53,
+   "name": "jp-ja·no-template",
+   "family": "jp-ja · no-template",
+   "signature": "[-] accordion",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/jp/ja/cookies-statement.html",
+   "file": "t53_jp-ja·no-template.jpg",
+   "captured": true,
+   "bytes": 144836
+  },
+  {
+   "idx": 55,
+   "name": "lk-en·no-template",
+   "family": "lk-en · no-template",
+   "signature": "[-] text",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/lk/en/404.html",
+   "file": "t55_lk-en·no-template.jpg",
+   "captured": true,
+   "bytes": 87351
+  },
+  {
+   "idx": 71,
+   "name": "sea-bh·no-template",
+   "family": "sea-bh · no-template",
+   "signature": "[-] text>carousel",
+   "estPop": 3,
+   "url": "https://www.fonterra.com/sea/bh/our-stories/media/fonterra-milk-volume-forecast-reduced.html",
+   "file": "t71_sea-bh·no-template.jpg",
+   "captured": true,
+   "bytes": 392157
+  },
+  {
+   "idx": 79,
+   "name": "cn-en·no-template",
+   "family": "cn-en · no-template",
+   "signature": "[-] text",
+   "estPop": 2,
+   "url": "https://www.fonterra.com/cn/en/404.html",
+   "file": "t79_cn-en·no-template.jpg",
+   "captured": true,
+   "bytes": 74682
+  },
+  {
+   "idx": 88,
+   "name": "eu-en·no-template",
+   "family": "eu-en · no-template",
+   "signature": "[-] cards",
+   "estPop": 2,
+   "url": "https://www.fonterra.com/eu/en/about-us/governance-and-management/management-team.html",
+   "file": "t88_eu-en·no-template.jpg",
+   "captured": true,
+   "bytes": 218479
+  },
+  {
+   "idx": 128,
+   "name": "sea·no-template",
+   "family": "sea · no-template",
+   "signature": "[-] text>carousel",
+   "estPop": 2,
+   "url": "https://www.fonterra.com/sea/en/our-stories/media/fonterra-dairy-products-100-safe.html",
+   "file": "t128_sea·no-template.jpg",
+   "captured": true,
+   "bytes": 415622
+  }
+ ]
+}

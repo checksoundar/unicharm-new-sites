@@ -1,0 +1,86 @@
+{
+ "captured": "2026-10-07T05:44:51.034Z",
+ "sampledPages": 18,
+ "firstPartyDomain": "co.nz",
+ "totalServices": 3,
+ "categories": [
+  {
+   "category": "Advertising",
+   "count": 1
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Security / bot",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "ad.doubleclick.net",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST ad.doubleclick.net/activity;src=:id;type=pixel;cat=nzagb0;rcb=7;ord=:id;npa=0;auiddc=:id.:",
+    "POST ad.doubleclick.net/activity;src=:id;type=allclick;cat=nzagb0;rcb=7;ord=:id;npa=0;auiddc=:i",
+    "GET ad.doubleclick.net/activity;dc_pre=CLDapPqYp5cDFdXqPwQdHro2YA;src=:id;type=pixel;cat=nzagb",
+    "GET www.google.com/gmp/conversion/_dc_unique_id=:id;_dc_ptd=ChEI8LiS1gYQnJnDjozGuYyGARIfAG-KpM",
+    "GET ad.doubleclick.net/activity;dc_pre=CKjYpvqYp5cDFVRLdAYdRnM6tg;src=:id;type=allclick;cat=nz",
+    "GET ad.doubleclick.net/activity;dc_pre=CKXZ5f2Yp5cDFUEjVwEd5RYZAQ;src=:id;type=allclick;cat=nz",
+    "GET ad.doubleclick.net/activity;dc_pre=COL85P2Yp5cDFXM1VwEdbZgdTw;src=:id;type=pixel;cat=nzagb"
+   ],
+   "pages": 18,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "analytics.google.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST analytics.google.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 18,
+   "coverage": "100%"
+  },
+  {
+   "name": "Bot / security",
+   "category": "Security / bot",
+   "note": "",
+   "hosts": [
+    "www.google.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST www.google.com/recaptcha/api2/reload"
+   ],
+   "pages": 3,
+   "coverage": "17%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.google.com",
+   "pages": 18,
+   "sample": "POST www.google.com/ccm/collect"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 1,
+   "sample": "POST www.googletagmanager.com/td"
+  }
+ ]
+}

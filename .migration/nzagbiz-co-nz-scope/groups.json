@@ -1,0 +1,155 @@
+{
+ "captured": "2026-10-07T04:56:18.559Z",
+ "minGroup": 2,
+ "sampleN": 100000,
+ "totalLivePages": 86,
+ "totalGroups": 7,
+ "patternGroups": 6,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/{locale}/{section}/{page}/{path…}/{path…}": {
+   "total": 44,
+   "rendered": 44,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}/{page}/{path…}": {
+   "total": 18,
+   "rendered": 18,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}/{page}": {
+   "total": 9,
+   "rendered": 9,
+   "type": "pattern",
+   "label": "Locale sub-pages"
+  },
+  "/{locale}/{section}/{page}/{slug}": {
+   "total": 7,
+   "rendered": 7,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}/{slug}": {
+   "total": 4,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Locale sub-pages"
+  },
+  "/{locale}/{section}/{page}/{id}/{path…}": {
+   "total": 3,
+   "rendered": 3,
+   "type": "pattern",
+   "label": "Locale deep pages"
+  },
+  "/{locale}/{section}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Locale section / landing pages"
+  }
+ },
+ "groups": {
+  "/{locale}/{section}": [
+   "https://www.nzagbiz.co.nz/nz/en.html"
+  ],
+  "/{locale}/{section}/{page}/{id}/{path…}": [
+   "https://www.nzagbiz.co.nz/nz/en/products/lamb-and-other-animals/anlamb.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/lamb-and-other-animals/ankid.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/lamb-and-other-animals/nutrilamb-and-kid.html"
+  ],
+  "/{locale}/{section}/{page}": [
+   "https://www.nzagbiz.co.nz/nz/en/products.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events.html",
+   "https://www.nzagbiz.co.nz/nz/en/about-us.html",
+   "https://www.nzagbiz.co.nz/nz/en/contact-us.html",
+   "https://www.nzagbiz.co.nz/nz/en/mixing-calculator.html",
+   "https://www.nzagbiz.co.nz/nz/en/request-a-quote.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns.html",
+   "https://www.nzagbiz.co.nz/nz/en/sign-up-form.html"
+  ],
+  "/{locale}/{section}/{page}/{path…}/{path…}": [
+   "https://www.nzagbiz.co.nz/nz/en/products/calf/ancalf.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/calf/nutricalf.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/calf/ancalf-finisher.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/supplements/novolyte.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/supplements/biosupport.html",
+   "https://www.nzagbiz.co.nz/nz/en/products/supplements/jumpstart.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-rearing-guides.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-rearing-answered.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/calfrearingqandalivestreamvideos.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/weaning-calves.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-milk-replacers.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/feeing-new-arrivals.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/facilities.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/calf-selection.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/solid-feeds.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/how-to-mix-milk-replacers.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/assessing-calf-health.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/identifying-infection-in-calves.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/scours.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves/faqs.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/lambs/lamb-rearing-guide.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/lambs/bloat-in-lambs.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/lambs/Lamb-Rearing-Answered-Video-Series.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/why-whole-milk-powder-is-the-better-whey.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/joanne-leigh-from-top-notch-calves.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/nzagbiz-launches-first-electrolyte-product.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/investing-in-best-practice-colostrum-management.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/nzagbiz-recognised-at-prestigious-sustainability-awards.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/best-practice-calf-feeding---investing-in-calf-performance.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/whole-milk-based-replacers-better-for-lamb-health-and-growth-.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/oral-rehydration--one-of-the-most-significant-advances-in-medici.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/best-practice-calf-rearing.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/milk-replacer-benefits-lambs.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/calf-growth-boosts-lifetime-milk-yield-in-new-zealand-heifers.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/how-is-ancalf--made-.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/testimonial-by-melissa-barber.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/novolyte-testimonial.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/Dana-Brett-Smith-Ancalf.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/joanne-leigh-from-top-notch-calves.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/why-whole-milk-powder-is-the-better-whey.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/lucy-gore-switch-to-cmr.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/Rhys-Darby-Testimonial-Winter-Milker.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials/beef-calf-rearing-efficiency-starts-with-a-quality-product-.html",
+   "https://www.nzagbiz.co.nz/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html"
+  ],
+  "/{locale}/{section}/{page}/{path…}": [
+   "https://www.nzagbiz.co.nz/nz/en/animals/calves.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/lambs.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/foals.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/kids.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/piglets.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/fawns.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/puppies.html",
+   "https://www.nzagbiz.co.nz/nz/en/animals/cria.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/articles.html",
+   "https://www.nzagbiz.co.nz/nz/en/news-and-events/testimonials.html",
+   "https://www.nzagbiz.co.nz/nz/en/about-us/our-story.html",
+   "https://www.nzagbiz.co.nz/nz/en/about-us/our-team.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/wordonthefarm.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/calfrearingqanda.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/unsubscribe-.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/The-Whole-Truth.html"
+  ],
+  "/{locale}/{section}/{page}/{slug}": [
+   "https://www.nzagbiz.co.nz/nz/en/rearing-faqs/NZAgbiz-Rearing-Guides.html",
+   "https://www.nzagbiz.co.nz/nz/en/about-us/research-and-development.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/word-on-the-farm.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/spring-calving-campaign-2021.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/Start-with-Ancalf-this-Autumn.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/the-proven-formula-for-more-productive-herds.html",
+   "https://www.nzagbiz.co.nz/nz/en/campaigns/YOUR-FUTURE-IS-IN-THE-BAG.html"
+  ],
+  "/{locale}/{section}/{slug}": [
+   "https://www.nzagbiz.co.nz/nz/en/wholemilk-vs-finisher-cmr-calculator.html",
+   "https://www.nzagbiz.co.nz/nz/en/wholemilk-vs-ancalf-cmr-calculator.html",
+   "https://www.nzagbiz.co.nz/nz/en/terms-and-conditions.html",
+   "https://www.nzagbiz.co.nz/nz/en/404.html"
+  ]
+ }
+}

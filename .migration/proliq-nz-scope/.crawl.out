@@ -1,0 +1,93 @@
+[
+ {
+  "url": "https://proliq.nz/nz/en.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/processes.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/benefits.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/specifications.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/about.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/contact-us.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/timeline.html",
+  "status": 200,
+  "from": "sitemap"
+ },
+ {
+  "url": "https://proliq.nz/nz/en.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en.html"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/processes.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en/processes.html"
+ },
+ {
+  "url": "https://proliq.nz/content/dam/proliq/docs/PROLIQ-vetarinary-feeding-advice.pdf",
+  "status": 200,
+  "from": "https://proliq.nz/nz/en/processes.html"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/benefits.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en/benefits.html"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/specifications.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en/specifications.html"
+ },
+ {
+  "url": "https://proliq.nz/content/dam/proliq/docs/PROLIQ-mineral-breakdown-Hautapu-03-09-2018.pdf",
+  "status": 200,
+  "from": "https://proliq.nz/nz/en/specifications.html"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/about.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en/about.html"
+ },
+ {
+  "url": "https://proliq.nz/content/dam/proliq/docs/PROLIQ-properties-and-applications.pdf",
+  "status": 200,
+  "from": "https://proliq.nz/nz/en/specifications.html"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/contact-us.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en/contact-us.html"
+ },
+ {
+  "url": "https://proliq.nz/nz/en/timeline.html.html",
+  "status": 404,
+  "from": "https://proliq.nz/nz/en/timeline.html"
+ },
+ {
+  "url": "https://proliq.nz/content/proliq/nz/en/about",
+  "status": 200,
+  "from": "https://proliq.nz/nz/en.html",
+  "finalUrl": "https://proliq.nz/nz/en/about.html"
+ }
+]

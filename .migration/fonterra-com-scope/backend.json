@@ -1,0 +1,186 @@
+{
+ "captured": "2026-10-07T10:34:39.753Z",
+ "sampledPages": 40,
+ "firstPartyDomain": "fonterra.com",
+ "totalServices": 8,
+ "categories": [
+  {
+   "category": "Advertising",
+   "count": 2
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Maps",
+   "count": 1
+  },
+  {
+   "category": "Session replay / analytics",
+   "count": 1
+  },
+  {
+   "category": "First-party platform",
+   "count": 1
+  },
+  {
+   "category": "Analytics / experience",
+   "count": 1
+  },
+  {
+   "category": "Video",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 40,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "ad.doubleclick.net"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST ad.doubleclick.net/ccm/s/collect",
+    "POST ad.doubleclick.net/activity;src=:id;type=pagev0;cat=undefined;rcb=16;ord=:id;npa=0;auiddc=",
+    "GET ad.doubleclick.net/activity;dc_pre=CP_0u9bZp5cDFVoPVwEdZRYXBA;src=:id;type=pagev0;cat=unde",
+    "POST ad.doubleclick.net/activity;src=:id;type=pagev0;cat=undefined;rcb=6;ord=:id;npa=0;auiddc=:",
+    "GET ad.doubleclick.net/activity;dc_pre=CNzNt9nZp5cDFV0IVwEdpT8fvg;src=:id;type=pagev0;cat=unde",
+    "POST ad.doubleclick.net/activity;src=:id;type=pagev0;cat=undefined;rcb=18;ord=:id;npa=0;auiddc=",
+    "GET ad.doubleclick.net/activity;dc_pre=CJe5odzZp5cDFVkhVwEdCfYo7Q;src=:id;type=pagev0;cat=unde",
+    "POST ad.doubleclick.net/activity;src=:id;type=pagev0;cat=undefined;rcb=1;ord=:id;npa=0;auiddc=:"
+   ],
+   "pages": 40,
+   "coverage": "100%"
+  },
+  {
+   "name": "Google Maps API",
+   "category": "Maps",
+   "note": "",
+   "hosts": [
+    "maps.googleapis.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET maps.googleapis.com/maps/api/mapsjs/gen_:n"
+   ],
+   "pages": 40,
+   "coverage": "100%"
+  },
+  {
+   "name": "Digital-experience analytics",
+   "category": "Session replay / analytics",
+   "note": "",
+   "hosts": [
+    "z.clarity.ms"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST z.clarity.ms/collect"
+   ],
+   "pages": 40,
+   "coverage": "100%"
+  },
+  {
+   "name": "Www: Other first-party API",
+   "category": "First-party platform",
+   "note": "Uncategorised same-domain API call",
+   "hosts": [
+    "www.fonterra.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.fonterra.com/bin/fonterradotcom/geolocationPopup",
+    "GET www.fonterra.com/bin/fonterradotcom/articleFilter"
+   ],
+   "pages": 34,
+   "coverage": "85%"
+  },
+  {
+   "name": "Adobe Experience Cloud",
+   "category": "Analytics / experience",
+   "note": "Adobe Analytics + Audience Manager",
+   "hosts": [
+    "cc-api-cp.adobe.io",
+    "indd.adobe.com",
+    "cdn.cp.adobe.io"
+   ],
+   "hostCount": 3,
+   "endpoints": [
+    "GET cc-api-cp.adobe.io/api/v2/lastmile/assets/:id/website",
+    "GET indd.adobe.com/view/publication/:id/wvx4/content.json",
+    "GET cdn.cp.adobe.io/content/2/:id/:id/package/index.html"
+   ],
+   "pages": 1,
+   "coverage": "3%"
+  },
+  {
+   "name": "Meta Conversions",
+   "category": "Advertising",
+   "note": "",
+   "hosts": [
+    "connect.facebook.net"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET connect.facebook.net/app_config/json/:id"
+   ],
+   "pages": 1,
+   "coverage": "3%"
+  },
+  {
+   "name": "Video platform API",
+   "category": "Video",
+   "note": "",
+   "hosts": [
+    "player.vimeo.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST player.vimeo.com/cdn-cgi/challenge-platform/h/g/precursor/:id/0.:id::id:uHmIvvWQC3eky9mNN9"
+   ],
+   "pages": 1,
+   "coverage": "3%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "www.google.com",
+   "pages": 40,
+   "sample": "POST www.google.com/ccm/collect"
+  },
+  {
+   "host": "www.googletagmanager.com",
+   "pages": 5,
+   "sample": "POST www.googletagmanager.com/td"
+  },
+  {
+   "host": "challenges.cloudflare.com",
+   "pages": 1,
+   "sample": "POST challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/fo/:id::id:izcrdmB:nBVkLFGI6sQQkK"
+  },
+  {
+   "host": "brunhild.challenges.cloudflare.com",
+   "pages": 1,
+   "sample": "GET brunhild.challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/i/:id/_U3H6E1tCl9FMhpYXY"
+  }
+ ]
+}

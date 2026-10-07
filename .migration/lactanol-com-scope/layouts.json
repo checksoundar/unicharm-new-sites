@@ -1,0 +1,25 @@
+{
+ "captured": "2026-10-07T05:22:06.031Z",
+ "renderedPages": 1,
+ "distinctSignatures": 1,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] header>columns>footer",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.lactanol.com/"
+   ],
+   "sections": {
+    "header": 1,
+    "columns": 1,
+    "footer": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

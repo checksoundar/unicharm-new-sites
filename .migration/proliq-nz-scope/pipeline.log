@@ -1,0 +1,84 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/proliq-nz-scope
+▶ site: https://proliq.nz/nz/en.html
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 7, already done: 7, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 7
+Distinct layout signatures: 3
+
+=== Layout templates (est. full-population pages) ===
+    4 pp  rendered=  4   nav              nav>text>text>text                             |  nz(4)
+    2 pp  rendered=  2   data-table       nav>text>table>text                            |  nz(2)
+    1 pp  rendered=  1   form-page        nav>text>form>text                             |  nz(1)
+
+=== Third-party integrations detected ===
+    8 Google (reCAPTCHA / APIs)
+    7 CDN/JS libs
+    7 Adobe RUM (Helix)
+    7 Google Maps
+
+=== Global objects ===
+▶ [5/12] capture block instances (resumable)
+Render set 7, pages already captured 5, todo 2
+DONE. pages=2 blocks=6
+▶ [6/12] consolidate block variants
+Total block instances: 11
+Total variants: 4
+
+=== Base type -> variants / instances ===
+   7 inst    1 variants   text
+   3 inst    2 variants   unknown
+   1 inst    1 variants   form
+
+=== Top 20 variants ===
+   7 x   text          pages=  7   div|div1|hd,aN,iN
+   2 x   unknown       pages=  2   footer|div1|img,aN,iN
+   1 x   form          pages=  1   div|div1|img,tbl,frm,ifr,hd,aN,iN
+   1 x   unknown       pages=  1   div|div1|img,hd,aN,iN
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 7, done 0, todo 7
+DONE pages=7 shots=42
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 6 pages, 22 variants
+DONE reshoot ok=22 miss=0
+▶ [7/12] capture template screenshots
+✓ t00_site·no-template.jpg  (346KB)  https://proliq.nz/nz/en/benefits.html
+✓ t01_site·no-template.jpg  (205KB)  https://proliq.nz/nz/en/contact-us.html
+DONE shots: 2/2
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A second standard type (Table)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 3 template groups | full: 0 sampled: 2 excluded: 1
+pages — inspected: 7 skipped: 8 non-200: 8 of 15 urls
+
+=== Template groups (by size) ===
+  G00    12  sampled   /{locale}/{section}/{page}        Locale sub-pages
+  G01     2  sampled   /{locale}/{section}               Locale section / landing pages
+  G02     1  excluded  /{page}/{section}/{page}/{path…}  Root-level product & marketing pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 3, already done 0, todo 3
+DONE backend capture. pages=3 ok=3
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 3 | first-party domain: proliq.nz
+Probable backend integrations: 2 | unclassified hosts: 0
+
+=== By category ===
+  1 Maps
+  1 Security / bot
+
+=== Services (by page coverage) ===
+  3pg  Maps                        Google Maps API
+  1pg  Security / bot              Bot / security
+▶ [11/12] compute supplementary data
+compute-data: live pages 7 | structure groups 0 | docs 3 | url groups 2 | layout heatmap rows 1 | block heatmap rows 2 | integrations 4
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/proliq-nz-site-analysis-dashboard.html 1.80 MB
+templates: 1 galleries: Cards:2, Table:1
+IMAGES: 22 TEMPLATE_SHOTS: 1
+✅ done.
+exit=0

@@ -1,0 +1,75 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/visit-fonterra-com-scope
+▶ site: https://www.visit.fonterra.com/global/en/home.html
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 6, already done: 6, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 6
+Distinct layout signatures: 2
+
+=== Layout templates (est. full-population pages) ===
+    4 pp  rendered=  4   article-text     text>text>text                                 |  global(4)
+    2 pp  rendered=  2   article-text     text                                           |  global(2)
+
+=== Third-party integrations detected ===
+   12 Google Tag Manager
+   12 Other third-party: w.soundcloud.com
+    6 Google Analytics
+    6 Adobe RUM (Helix)
+
+=== Global objects ===
+   6 dataLayer
+   6 ga
+   6 google_tag_manager
+▶ [5/12] capture block instances (resumable)
+Render set 6, pages already captured 3, todo 3
+DONE. pages=3 blocks=0
+▶ [6/12] consolidate block variants
+Total block instances: 0
+Total variants: 0
+
+=== Base type -> variants / instances ===
+
+=== Top 20 variants ===
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 6, done 0, todo 6
+DONE pages=6 shots=32
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 6 pages, 18 variants
+DONE reshoot ok=13 miss=5
+▶ [7/12] capture template screenshots
+✓ t00_site·spa-page-template.jpg  (8KB)  https://www.visit.fonterra.com/global/en/home/manufacturing.
+✓ t01_site·spa-page-template.jpg  (8KB)  https://www.visit.fonterra.com/global/en/home.html
+DONE shots: 2/2
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 2 template groups | full: 2 sampled: 0 excluded: 0
+pages — inspected: 6 skipped: 0 non-200: 0 of 6 urls
+
+=== Template groups (by size) ===
+  G00     5  full      /global/{section}/{page}/{path…}  Global deep pages
+  G01     1  full      /global/{section}/{page}          Global sub-pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 2, already done 0, todo 2
+DONE backend capture. pages=2 ok=2
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 2 | first-party domain: fonterra.com
+Probable backend integrations: 1 | unclassified hosts: 3
+
+=== By category ===
+  1 Analytics
+
+=== Services (by page coverage) ===
+  2pg  Analytics                   Google Analytics (GA4)
+▶ [11/12] compute supplementary data
+compute-data: live pages 6 | structure groups 1 | docs 0 | url groups 2 | layout heatmap rows 1 | block heatmap rows 3 | integrations 4
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/visit-fonterra-com-site-analysis-dashboard.html 1.84 MB
+templates: 1 galleries: Cards:4, Carousel:1, Video:1
+IMAGES: 18 TEMPLATE_SHOTS: 1
+✅ done.
+exit=0

@@ -1,0 +1,32 @@
+[
+ {
+  "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+  "status": 200,
+  "from": "seed"
+ },
+ {
+  "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+  "status": 200,
+  "from": "seed"
+ },
+ {
+  "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+  "status": 200,
+  "from": "seed"
+ },
+ {
+  "url": "https://www.visit.fonterra.com/global/en/home.html",
+  "status": 200,
+  "from": "seed"
+ },
+ {
+  "url": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+  "status": 200,
+  "from": "seed"
+ },
+ {
+  "url": "https://www.visit.fonterra.com/global/en/home/export.html",
+  "status": 200,
+  "from": "seed"
+ }
+]

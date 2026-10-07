@@ -1,0 +1,107 @@
+{
+ "captured": "2026-10-07T05:30:18.092Z",
+ "renderedPages": 6,
+ "distinctSignatures": 5,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] hero>text>fast-facts>text>cards>text>did-you-know>text>image-hotspots>text>timeline>stage-navigation",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+    "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+   ],
+   "sections": {
+    "hero": 2,
+    "text": 10,
+    "fast-facts": 2,
+    "cards": 2,
+    "did-you-know": 2,
+    "image-hotspots": 2,
+    "timeline": 2,
+    "stage-navigation": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] stage-menu",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.visit.fonterra.com/global/en/home.html"
+   ],
+   "sections": {
+    "stage-menu": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] hero>text>fast-facts>text>did-you-know>text>timeline>text>did-you-know>stage-navigation",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.visit.fonterra.com/global/en/home/distribution.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 4,
+    "fast-facts": 1,
+    "did-you-know": 2,
+    "timeline": 1,
+    "stage-navigation": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] hero>text>fast-facts>text>did-you-know>text>image-hotspots>stage-navigation",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.visit.fonterra.com/global/en/home/export.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 3,
+    "fast-facts": 1,
+    "did-you-know": 1,
+    "image-hotspots": 1,
+    "stage-navigation": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] hero>text>fast-facts>text>did-you-know>text>timeline>text>video>stage-navigation",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.visit.fonterra.com/global/en/home/milk-collection.html"
+   ],
+   "sections": {
+    "hero": 1,
+    "text": 4,
+    "fast-facts": 1,
+    "did-you-know": 1,
+    "timeline": 1,
+    "video": 1,
+    "stage-navigation": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

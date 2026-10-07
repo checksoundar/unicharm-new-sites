@@ -1,0 +1,164 @@
+{
+ "captured": "2026-10-07T08:45:35.701Z",
+ "sampledPages": 40,
+ "firstPartyDomain": "nzmp.com",
+ "totalServices": 7,
+ "categories": [
+  {
+   "category": "First-party platform",
+   "count": 2
+  },
+  {
+   "category": "Advertising",
+   "count": 2
+  },
+  {
+   "category": "Analytics",
+   "count": 1
+  },
+  {
+   "category": "Session replay / analytics",
+   "count": 1
+  },
+  {
+   "category": "Video",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google-analytics.com/j/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 39,
+   "coverage": "98%"
+  },
+  {
+   "name": "Www: Other first-party API",
+   "category": "First-party platform",
+   "note": "Uncategorised same-domain API call",
+   "hosts": [
+    "www.nzmp.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.nzmp.com/bin/nzmp/quicklinks",
+    "POST www.nzmp.com/bin/nzmp/extend",
+    "POST www.nzmp.com/bin/nzmp/processDLArticleLink",
+    "GET www.nzmp.com/bin/nzmp/cheeseawardsdata",
+    "GET www.nzmp.com/bin/nzmp/ecampaign"
+   ],
+   "pages": 38,
+   "coverage": "95%"
+  },
+  {
+   "name": "Www: Content / App API",
+   "category": "First-party platform",
+   "note": "App / content back-end",
+   "hosts": [
+    "www.nzmp.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET www.nzmp.com/etc.clientlibs/nzmp/components/content/productBrowser/clientlibs/resources/te"
+   ],
+   "pages": 38,
+   "coverage": "95%"
+  },
+  {
+   "name": "Digital-experience analytics",
+   "category": "Session replay / analytics",
+   "note": "",
+   "hosts": [
+    "z.clarity.ms"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST z.clarity.ms/collect"
+   ],
+   "pages": 38,
+   "coverage": "95%"
+  },
+  {
+   "name": "LinkedIn Ads",
+   "category": "Advertising",
+   "note": "",
+   "hosts": [
+    "px.ads.linkedin.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST px.ads.linkedin.com/wa"
+   ],
+   "pages": 38,
+   "coverage": "95%"
+  },
+  {
+   "name": "Video platform API",
+   "category": "Video",
+   "note": "",
+   "hosts": [
+    "www.youtube.com"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "POST www.youtube.com/youtubei/v1/log_event",
+    "POST www.youtube.com/api/stats/atr",
+    "POST www.youtube.com/api/stats/qoe"
+   ],
+   "pages": 20,
+   "coverage": "50%"
+  },
+  {
+   "name": "Google Ads / DoubleClick",
+   "category": "Advertising",
+   "note": "Conversion beacons",
+   "hosts": [
+    "googleads.g.doubleclick.net"
+   ],
+   "hostCount": 1,
+   "endpoints": [
+    "GET googleads.g.doubleclick.net/pagead/id"
+   ],
+   "pages": 13,
+   "coverage": "33%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "ka-p.fontawesome.com",
+   "pages": 38,
+   "sample": "GET ka-p.fontawesome.com/assets/:id/:id/kit.css"
+  },
+  {
+   "host": "service.mtcaptcha.com",
+   "pages": 37,
+   "sample": "GET service.mtcaptcha.com/mtcv1/api/getchallenge.json"
+  },
+  {
+   "host": "gjp08mu8fu-dsn.algolia.net",
+   "pages": 35,
+   "sample": "POST gjp08mu8fu-dsn.algolia.net/1/indexes/*/queries"
+  },
+  {
+   "host": "jnn-pa.googleapis.com",
+   "pages": 13,
+   "sample": "POST jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT"
+  },
+  {
+   "host": "service2.mtcaptcha.com",
+   "pages": 1,
+   "sample": "GET service2.mtcaptcha.com/mtcv1/api/getchallenge.json"
+  }
+ ]
+}

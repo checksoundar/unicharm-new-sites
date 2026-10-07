@@ -1,0 +1,26 @@
+sitemap URLs in scope: 614; seeds: 1
+  crawled 100, queue 653
+  crawled 200, queue 606
+  crawled 300, queue 668
+  crawled 400, queue 709
+  crawled 500, queue 655
+  crawled 600, queue 567
+  crawled 700, queue 483
+  crawled 800, queue 383
+  crawled 900, queue 290
+  crawled 1000, queue 189
+  crawled 1100, queue 91
+  crawled 1200, queue 6
+total 1214 (+0 component endpoints), sitemap 614
+1045	global/en 200
+127	content/dam 200
+13	global/en 404
+12	content/nzmp 200
+6	global/en-draft-0919 200
+5	etc/designs 200
+1	global/en.html 200
+1	global/en 301
+1	content/dam 404
+1	content/nzmp 404
+1	mynzmp-request-supply 200
+1	/ 200

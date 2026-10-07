@@ -1,0 +1,47 @@
+{
+  "analysis-urls-all": {
+    "captured": "2026-10-07T04:56:12.078Z",
+    "totalUrls": 6,
+    "totalDocuments": 0,
+    "method": "crawl",
+    "sitemapURL": null,
+    "robotsTxtFound": false,
+    "robotsTxtRulesApplied": false,
+    "limitations": "",
+    "confidence": "88%",
+    "statusBreakdown": {
+      "success": 6,
+      "redirect": 0,
+      "clientError": 0,
+      "serverError": 0,
+      "errorTimeout": 0
+    },
+    "urls": [
+      {
+        "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.visit.fonterra.com/global/en/home/on-farm.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.visit.fonterra.com/global/en/home.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.visit.fonterra.com/global/en/home/distribution.html",
+        "status": 200
+      },
+      {
+        "url": "https://www.visit.fonterra.com/global/en/home/export.html",
+        "status": 200
+      }
+    ],
+    "documents": []
+  }
+}

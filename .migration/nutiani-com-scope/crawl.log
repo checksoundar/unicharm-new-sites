@@ -1,0 +1,11 @@
+sitemap URLs in scope: 106; seeds: 1
+  crawled 100, queue 30
+total 130 (+2 component endpoints), sitemap 106
+100	nz/en 200
+20	nz/en 404
+5	content/nutiani 404
+1	nz/en.html 200
+1	nz.html 200
+1	nz/en 301
+1	content/nutiani 200
+1	content/nutiani 502

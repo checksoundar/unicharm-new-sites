@@ -1,0 +1,56 @@
+{
+ "captured": "2026-10-07T04:56:18.579Z",
+ "minGroup": 2,
+ "sampleN": 100000,
+ "totalLivePages": 11,
+ "totalGroups": 4,
+ "patternGroups": 3,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/global/{section}/{page}": {
+   "total": 4,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Global sub-pages"
+  },
+  "/global/{section}/{page}/{path…}": {
+   "total": 4,
+   "rendered": 4,
+   "type": "pattern",
+   "label": "Global deep pages"
+  },
+  "/global/{section}/{slug}": {
+   "total": 2,
+   "rendered": 2,
+   "type": "pattern",
+   "label": "Global sub-pages"
+  },
+  "/global/{section}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Global section pages"
+  }
+ },
+ "groups": {
+  "/global/{section}": [
+   "https://www.kituafund.com/global/en.html"
+  ],
+  "/global/{section}/{page}": [
+   "https://www.kituafund.com/global/en/footer-links.html",
+   "https://www.kituafund.com/global/en/team.html",
+   "https://www.kituafund.com/global/en/news.html",
+   "https://www.kituafund.com/global/en/partners.html"
+  ],
+  "/global/{section}/{slug}": [
+   "https://www.kituafund.com/global/en/board-and-investment-committee.html",
+   "https://www.kituafund.com/global/en/terms-and-conditions.html"
+  ],
+  "/global/{section}/{page}/{path…}": [
+   "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+   "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+   "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html",
+   "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+  ]
+ }
+}

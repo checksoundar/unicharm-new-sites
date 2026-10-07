@@ -1,0 +1,36 @@
+{
+ "captured": "2026-10-07T04:56:18.456Z",
+ "minGroup": 2,
+ "sampleN": 100000,
+ "totalLivePages": 7,
+ "totalGroups": 2,
+ "patternGroups": 1,
+ "longTailPages": 1,
+ "groupMeta": {
+  "/{locale}/{section}/{page}": {
+   "total": 6,
+   "rendered": 6,
+   "type": "pattern",
+   "label": "Locale sub-pages"
+  },
+  "/{locale}/{section}": {
+   "total": 1,
+   "rendered": 1,
+   "type": "long-tail",
+   "label": "Locale section / landing pages"
+  }
+ },
+ "groups": {
+  "/{locale}/{section}": [
+   "https://proliq.nz/nz/en.html"
+  ],
+  "/{locale}/{section}/{page}": [
+   "https://proliq.nz/nz/en/processes.html",
+   "https://proliq.nz/nz/en/benefits.html",
+   "https://proliq.nz/nz/en/specifications.html",
+   "https://proliq.nz/nz/en/about.html",
+   "https://proliq.nz/nz/en/contact-us.html",
+   "https://proliq.nz/nz/en/timeline.html"
+  ]
+ }
+}

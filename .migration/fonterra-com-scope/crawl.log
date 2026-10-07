@@ -1,0 +1,155 @@
+sitemap URLs in scope: 10704; seeds: 1
+  crawled 100, queue 10917
+  crawled 200, queue 10836
+  crawled 300, queue 10753
+  crawled 400, queue 10657
+  crawled 500, queue 10564
+  crawled 600, queue 10471
+  crawled 700, queue 10373
+  crawled 800, queue 10280
+  crawled 900, queue 10187
+  crawled 1000, queue 10093
+  crawled 1100, queue 10009
+  crawled 1200, queue 9912
+  crawled 1300, queue 9849
+  crawled 1400, queue 9775
+  crawled 1500, queue 9680
+  crawled 1600, queue 9585
+  crawled 1700, queue 9486
+  crawled 1800, queue 9391
+  crawled 1900, queue 9295
+  crawled 2000, queue 9197
+  crawled 2100, queue 9097
+  crawled 2200, queue 8997
+  crawled 2300, queue 8897
+  crawled 2400, queue 8806
+  crawled 2500, queue 8709
+  crawled 2600, queue 8611
+  crawled 2700, queue 8513
+  crawled 2800, queue 8427
+  crawled 2900, queue 8329
+  crawled 3000, queue 8227
+  crawled 3100, queue 8128
+  crawled 3200, queue 8029
+  crawled 3300, queue 7939
+  crawled 3400, queue 7838
+  crawled 3500, queue 7741
+  crawled 3600, queue 7642
+  crawled 3700, queue 7544
+  crawled 3800, queue 7443
+  crawled 3900, queue 7350
+  crawled 4000, queue 7253
+  crawled 4100, queue 7150
+  crawled 4200, queue 7052
+  crawled 4300, queue 6952
+  crawled 4400, queue 6855
+  crawled 4500, queue 6760
+  crawled 4600, queue 6661
+  crawled 4700, queue 6559
+  crawled 4800, queue 6470
+  crawled 4900, queue 6375
+  crawled 5000, queue 6274
+  crawled 5100, queue 6179
+  crawled 5200, queue 6077
+  crawled 5300, queue 5978
+  crawled 5400, queue 5880
+  crawled 5500, queue 5782
+  crawled 5600, queue 5684
+  crawled 5700, queue 5583
+  crawled 5800, queue 5490
+  crawled 5900, queue 5396
+  crawled 6000, queue 5297
+  crawled 6100, queue 5197
+  crawled 6200, queue 5097
+  crawled 6300, queue 4999
+  crawled 6400, queue 4899
+  crawled 6500, queue 4803
+  crawled 6600, queue 4702
+  crawled 6700, queue 4602
+  crawled 6800, queue 4514
+  crawled 6900, queue 4415
+  crawled 7000, queue 4317
+  crawled 7100, queue 4215
+  crawled 7200, queue 4117
+  crawled 7300, queue 4018
+  crawled 7400, queue 3921
+  crawled 7500, queue 3824
+  crawled 7600, queue 3724
+  crawled 7700, queue 3624
+  crawled 7800, queue 3525
+  crawled 7900, queue 3430
+  crawled 8000, queue 3330
+  crawled 8100, queue 3229
+  crawled 8200, queue 3129
+  crawled 8300, queue 3030
+  crawled 8400, queue 2931
+  crawled 8500, queue 2839
+  crawled 8600, queue 2737
+  crawled 8700, queue 2646
+  crawled 8800, queue 2552
+  crawled 8900, queue 2451
+  crawled 9000, queue 2352
+  crawled 9100, queue 2253
+  crawled 9200, queue 2154
+  crawled 9300, queue 2053
+  crawled 9400, queue 1960
+  crawled 9500, queue 1858
+  crawled 9600, queue 1758
+  crawled 9700, queue 1668
+  crawled 9800, queue 1573
+  crawled 9900, queue 1473
+  crawled 10000, queue 1375
+  crawled 10100, queue 1274
+  crawled 10200, queue 1175
+  crawled 10300, queue 1078
+  crawled 10400, queue 981
+  crawled 10500, queue 882
+  crawled 10600, queue 781
+  crawled 10700, queue 682
+  crawled 10800, queue 584
+  crawled 10900, queue 483
+  crawled 11000, queue 382
+  crawled 11100, queue 281
+  crawled 11200, queue 181
+  crawled 11300, queue 81
+total 11384 (+6 component endpoints), sitemap 10704
+1349	nz/en 200
+1110	jp/ja 200
+1072	sea/en 200
+1020	lk/en 200
+1008	cn/zh 200
+993	americas/en 200
+984	jp/en 200
+974	eu/en 200
+961	cn/en 200
+823	sea/bh 200
+400	au/en 200
+369	content/dam 200
+41	nz/en 404
+37	nz/en 301
+28	sea/en 403
+28	lk/en 403
+15	sea/en 404
+14	lk/en 404
+13	jp/ja 404
+12	content/dam 404
+10	jp/en 404
+10	americas/en 404
+9	cn/zh 404
+8	cn/en 404
+8	eu/en 404
+8	sea/bh 404
+7	content/fonterra 200
+6	sea/en 301
+6	lk/en 301
+5	au/en 404
+4	language-masters/en 404
+3	archive/nz1 404
+3	global/en 200
+2	jp/en 301
+2	jp/ja 301
+2	americas/en 301
+2	nz1/en11 200
+2	nz/en-old 200
+1	nz/en.html 200
+1	nz.html 200

@@ -1,0 +1,3565 @@
+{
+ "captured": "2026-10-07T05:33:36.920Z",
+ "jaccard": 0.8,
+ "pages": 11,
+ "componentInstances": 411,
+ "components": 21,
+ "exactPatterns": 58,
+ "structuralVariants": 52,
+ "byCategory": {
+  "custom": {
+   "components": [
+    "related-articles",
+    "article-header",
+    "card-filter-panel",
+    "article-listing-with-filter"
+   ],
+   "edsBlocks": [
+    "related-articles",
+    "article-header",
+    "card-filter",
+    "article-listing"
+   ],
+   "variants": 6,
+   "instances": 13
+  },
+  "boilerplate": {
+   "components": [
+    "card",
+    "breadcrumb",
+    "multicolumngrid",
+    "secondary-hero-banner",
+    "primary-hero-banner",
+    "featured-tile",
+    "video-embedded"
+   ],
+   "edsBlocks": [
+    "cards",
+    "breadcrumbs",
+    "columns",
+    "hero",
+    "accordion",
+    "video"
+   ],
+   "variants": 12,
+   "instances": 35
+  },
+  "default-content": {
+   "components": [
+    "text",
+    "image",
+    "title",
+    "anchor",
+    "cta-button"
+   ],
+   "edsBlocks": [
+    "default-content"
+   ],
+   "variants": 6,
+   "instances": 150
+  },
+  "section": {
+   "components": [
+    "container",
+    "experiencefragment"
+   ],
+   "edsBlocks": [
+    "section",
+    "fragment"
+   ],
+   "variants": 25,
+   "instances": 180
+  },
+  "chrome": {
+   "components": [
+    "header",
+    "footer",
+    "navigation"
+   ],
+   "edsBlocks": [
+    "header",
+    "footer"
+   ],
+   "variants": 3,
+   "instances": 33
+  }
+ },
+ "inventory": [
+  {
+   "cmp": "related-articles",
+   "aemComponent": "related-articles",
+   "instances": 6,
+   "pages": 5,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 6
+   },
+   "eds": "related-articles",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "Query-driven article rail (minimal-card, 'Related Articles' on news pages) and the 'Our Team' masonry grid with LinkedIn icons on the home page (data-slidetype/perpage, prev/next buttons). Cards come from tagged pages at runtime — query-index driven custom block with two variants.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "related-articles-v1",
+     "pattern": "div(div(rte),div(a(div(rte),div(div(rte)+,div))+))",
+     "hashes": [
+      {
+       "hash": "a331f7de08",
+       "instances": 4,
+       "pattern": "div(div(rte),div(a(div(rte),div(div(rte)+,div))+))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 4,
+     "pages": 4,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+      "/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+     ],
+     "repFile": "related-articles_a331f7de08_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+     "modifiers": [
+      "cmp-related-articles(4)",
+      "cmp-related-articles--minimal-card(4)"
+     ],
+     "styles": [
+      "list(4)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 3,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-slidetype",
+      "data-perpage",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "",
+     "eds": "related-articles",
+     "category": "custom",
+     "note": ""
+    },
+    {
+     "id": "related-articles-v2",
+     "pattern": "div(div(rte),div(div(button(svg)+),div(a(div,div(div(rte)+,div))+),rte))",
+     "hashes": [
+      {
+       "hash": "ffae9ea6af",
+       "instances": 2,
+       "pattern": "div(div(rte),div(div(button(svg)+),div(a(div,div(div(rte)+,div))+),rte))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "related-articles_ffae9ea6af_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "cmp-related-articles(2)",
+      "cmp-related-articles--masonary(2)"
+     ],
+     "styles": [
+      "list(2)",
+      "link-icon-linkedin(2)",
+      "scrollable(2)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 25,
+      "li": 3,
+      "h": 41,
+      "btn": 5,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-slidetype",
+      "data-perpage",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Our Team",
+     "eds": "related-articles",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "article-header",
+   "aemComponent": "article-header",
+   "instances": 4,
+   "pages": 4,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 4
+   },
+   "eds": "article-header",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Article banner: breadcrumb, title, summary plus page-metadata-driven tag chips, publish date and read time (cmp-article-banner). Build as an auto-block from page metadata.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "article-header",
+     "pattern": "div(section(div(div(rte,div(rte)+,div(rte,div),div),div)))",
+     "hashes": [
+      {
+       "hash": "49d15c42e5",
+       "instances": 4,
+       "pattern": "div(section(div(div(rte,div(rte)+,div(rte,div),div),div)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 4,
+     "pages": 4,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+      "/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+     ],
+     "repFile": "article-header_49d15c42e5_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+     "modifiers": [
+      "cmp-article-banner(4)",
+      "cmp-article-banner--text(4)"
+     ],
+     "styles": [
+      "cmp-article-header__no-image(4)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 4,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Ki Tua Fund invests in Fermeate to unlock next-generation control of m",
+     "eds": "article-header",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "card-filter-panel",
+   "aemComponent": "card-filter-panel",
+   "instances": 2,
+   "pages": 1,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 2
+   },
+   "eds": "card-filter",
+   "category": "custom",
+   "complexity": "Medium",
+   "rationale": "Checkbox filter panel (collapsible facet groups + apply/reset) driving a grid of partner cards. Custom filter behaviour over a Cards block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "card-filter-panel-v1",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "90babde72d",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/partners.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "card-filter",
+     "category": "custom",
+     "note": ""
+    },
+    {
+     "id": "card-filter-panel-v2",
+     "pattern": "div(div(rte),div(rte,div(div(div(a),div(div(input[checkbox],label)+))+),div(button+)),div(rte))",
+     "hashes": [
+      {
+       "hash": "eb486c213f",
+       "instances": 1,
+       "pattern": "div(div(rte),div(rte,div(div(div(a),div(div(input[checkbox],label)+))+),div(button+)),div(rte))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/partners.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [
+      "cmp-card-filter-panel(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 2,
+      "li": 0,
+      "h": 3,
+      "btn": 2,
+      "input": 7,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-parent"
+     ],
+     "topLabel": "",
+     "eds": "card-filter",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "article-listing-with-filter",
+   "aemComponent": "article-listing-with-filter",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "article-listing",
+   "category": "custom",
+   "complexity": "Complex",
+   "rationale": "Filterable article listing: topic checkbox filters, feature-first card, paging (data-respath, data-itemsperpage, data-tag). Needs a query-index listing block with filters.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "article-listing-with-filter",
+     "pattern": "div(div(div(rte),div(div(button),div(rte,button),div(div(a),div(div(input[checkbox],label)+)),div(button+))),div(div(div(a(div(img),div(div(rte)+)))+),div(button)))",
+     "hashes": [
+      {
+       "hash": "45bc0eb18c",
+       "instances": 1,
+       "pattern": "div(div(div(rte),div(div(button),div(rte,button),div(div(a),div(div(input[checkbox],label)+)),div(button+))),div(div(div(a(div(img),div(div(rte)+)))+),div(button)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/news.html"
+     ],
+     "repFile": "article-listing-with-filter_45bc0eb18c_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/news.html",
+     "modifiers": [
+      "cmp-article-listing-with-filter(1)"
+     ],
+     "styles": [
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 4,
+      "a": 5,
+      "li": 0,
+      "h": 6,
+      "btn": 5,
+      "input": 6,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 1
+     },
+     "dataAttrs": [
+      "data-respath",
+      "data-itemsperpage",
+      "data-featurefirst",
+      "data-bs-toggle",
+      "data-bs-parent",
+      "data-tag"
+     ],
+     "topLabel": "",
+     "eds": "article-listing",
+     "category": "custom",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "card",
+   "aemComponent": "card",
+   "instances": 13,
+   "pages": 3,
+   "exactPatterns": 2,
+   "variants": 1,
+   "properties": {
+    "site": 13
+   },
+   "eds": "cards",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Partner/team card (logo or photo, name, copy, 'Read more') placed in carousel/panel containers (13 instances on Partners/Team) → Cards; the partner grid is filtered by card-filter-panel.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "card",
+     "pattern": "div(section[group](div(div(img),div(div(rte)+,div(a)))))",
+     "hashes": [
+      {
+       "hash": "e44b89a7c9",
+       "instances": 11,
+       "pattern": "div(section[group](div(div(img),div(div(rte)+,div(a)))))"
+      },
+      {
+       "hash": "45f9bfb43b",
+       "instances": 2,
+       "pattern": "div(section[group](div(div(div(img),div(div(rte)+,div(a)))+)))"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 13,
+     "pages": 3,
+     "properties": {
+      "site": 13
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/partners.html",
+      "/global/en/team.html"
+     ],
+     "repFile": "card_45f9bfb43b_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/team.html",
+     "modifiers": [
+      "cmp-card--single-column(11)",
+      "cmp-card--three-column(2)"
+     ],
+     "styles": [
+      "carousel(13)",
+      "panelcontainer(13)",
+      "card-partner-style(9)",
+      "scrollable(3)",
+      "card-team-style(2)",
+      "image-right(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Our Partners",
+     "eds": "cards",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "breadcrumb",
+   "aemComponent": "breadcrumb",
+   "instances": 11,
+   "pages": 11,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 11
+   },
+   "eds": "breadcrumbs",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "AEM core breadcrumb (nav > ol/li, data-max-level) → Block Collection Breadcrumbs (auto-generated from the page path).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "breadcrumb-v1",
+     "pattern": "div(section(div(nav(rte,div(rte)))))",
+     "hashes": [
+      {
+       "hash": "a86af4b366",
+       "instances": 10,
+       "pattern": "div(section(div(nav(rte,div(rte)))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 10,
+     "pages": 10,
+     "properties": {
+      "site": 10
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "cmpBreadcrumb(10)"
+     ],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 1,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-max-level",
+      "data-cmp-custom-data-layer",
+      "data-cmp-action",
+      "data-cmp-title"
+     ],
+     "topLabel": "",
+     "eds": "breadcrumbs",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "breadcrumb-v2",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "c335ca29e0",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "breadcrumbs",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "multicolumngrid",
+   "aemComponent": "multicolumngrid",
+   "instances": 5,
+   "pages": 2,
+   "exactPatterns": 4,
+   "variants": 4,
+   "properties": {
+    "site": 5
+   },
+   "eds": "columns",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Multi-column layout with width ratios (width-30-70 / 70-30, stack-mobile) → Columns (ratio as a variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "multicolumngrid-v1",
+     "pattern": "div(div(rte)+)",
+     "hashes": [
+      {
+       "hash": "2d97f804d0",
+       "instances": 2,
+       "pattern": "div(div(rte)+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/partners.html"
+     ],
+     "repFile": "multicolumngrid_2d97f804d0_2.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [],
+     "styles": [
+      "width-30-70(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "We invest in and partner with innovative start-ups to develop real sol",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "multicolumngrid-v2",
+     "pattern": "div(div(rte),div)",
+     "hashes": [
+      {
+       "hash": "60782d5e67",
+       "instances": 1,
+       "pattern": "div(div(rte),div)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "multicolumngrid_60782d5e67_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "width-70-30(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Beyond what we can see, to a place of limitless possibilities.",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "multicolumngrid-v3",
+     "pattern": "div(div,div(div(rte),div))",
+     "hashes": [
+      {
+       "hash": "45672a6c67",
+       "instances": 1,
+       "pattern": "div(div,div(div(rte),div))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "multicolumngrid_45672a6c67_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "width-30-70(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Beyond the expected, to support the extraordinary.",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "multicolumngrid-v4",
+     "pattern": "div(div(section[group](div(div(img),div(div(rte)+,div(a))))),div(section[group](div(div,div(div(rte)+,div,div(a))))))",
+     "hashes": [
+      {
+       "hash": "3fbfc8440a",
+       "instances": 1,
+       "pattern": "div(div(section[group](div(div(img),div(div(rte)+,div(a))))),div(section[group](div(div,div(div(rte)+,div,div(a))))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "multicolumngrid_3fbfc8440a_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "width-70-30(1)",
+      "cmp-multicolumngrid__stack-mobile-tablet(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 2,
+      "li": 0,
+      "h": 2,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Prolific Machines to Harness Light to Deliver Unprecedented Cellular C",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "secondary-hero-banner",
+   "aemComponent": "secondary-hero-banner",
+   "instances": 3,
+   "pages": 3,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 3
+   },
+   "eds": "hero",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Page-title banner (eyebrow/breadcrumb, title, intro) → Hero (text-only variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "secondary-hero-banner-v1",
+     "pattern": "div(section(div(div(rte),div)))",
+     "hashes": [
+      {
+       "hash": "8b8003cacc",
+       "instances": 2,
+       "pattern": "div(section(div(div(rte),div)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en/news.html",
+      "/global/en/partners.html"
+     ],
+     "repFile": "secondary-hero-banner_8b8003cacc_2.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [
+      "secondary-hero-banner(2)"
+     ],
+     "styles": [
+      "scrollable(2)",
+      "active(2)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "News",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "secondary-hero-banner-v2",
+     "pattern": "div(section(div(div(rte)+)))",
+     "hashes": [
+      {
+       "hash": "b484196ddb",
+       "instances": 1,
+       "pattern": "div(section(div(div(rte)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/team.html"
+     ],
+     "repFile": "secondary-hero-banner_b484196ddb_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/team.html",
+     "modifiers": [
+      "secondary-hero-banner(1)"
+     ],
+     "styles": [
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Team",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "primary-hero-banner",
+   "aemComponent": "primary-hero-banner",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "hero",
+   "category": "boilerplate",
+   "complexity": "Medium",
+   "rationale": "Full-width hero; full-video variant plays a background <video> with play/pause controls → Hero (video-background variant).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "primary-hero-banner",
+     "pattern": "div(section(div(button+,video(source)+),div(div(div(rte)+),div(div+))))",
+     "hashes": [
+      {
+       "hash": "3586612a7f",
+       "instances": 1,
+       "pattern": "div(section(div(button+,video(source)+),div(div(div(rte)+),div(div+))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "primary-hero-banner_3586612a7f_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "cmp-primary-hero-banner(1)"
+     ],
+     "styles": [
+      "cmp-primary-hero-banner__full-video(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 2,
+      "input": 0,
+      "iframe": 0,
+      "video": 2
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Video",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "featured-tile",
+   "aemComponent": "featured-tile",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "accordion",
+   "category": "boilerplate",
+   "complexity": "Medium",
+   "rationale": "'What we offer' list of collapsible headings (data-bs-toggle collapse) whose open item swaps the accompanying image → Accordion with an image variant.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "featured-tile",
+     "pattern": "div(section[group](div(div(rte),div(rte,div(div(div(rte),div),div(div,div(img))))+)))",
+     "hashes": [
+      {
+       "hash": "23d52de74a",
+       "instances": 1,
+       "pattern": "div(section[group](div(div(rte),div(rte,div(div(div(rte),div),div(div,div(img))))+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "featured-tile_23d52de74a_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "cmp-featured-tile(1)"
+     ],
+     "styles": [
+      "carousel(1)",
+      "panelcontainer(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 0,
+      "li": 0,
+      "h": 4,
+      "btn": 3,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer",
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "What we offer",
+     "eds": "accordion",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "video-embedded",
+   "aemComponent": "video-embedded",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "video",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Embedded video (YouTube / DAM) → Video block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "video-embedded",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "c6cbb3c0f4",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "video",
+     "category": "boilerplate",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "text",
+   "aemComponent": "text",
+   "instances": 112,
+   "pages": 11,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 112
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Rich text → default content.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "text",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "9024a9aa0d",
+       "instances": 112,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 112,
+     "pages": 11,
+     "properties": {
+      "site": 112
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "text_9024a9aa0d_2.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "white(19)",
+      "bottom-large(2)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Ki Tua is to go beyond.",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "image",
+   "aemComponent": "image",
+   "instances": 19,
+   "pages": 11,
+   "exactPatterns": 2,
+   "variants": 2,
+   "properties": {
+    "site": 19
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Image (optionally linked) → default-content picture.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "image-v1",
+     "pattern": "div(a(img))",
+     "hashes": [
+      {
+       "hash": "1f3eb00b42",
+       "instances": 11,
+       "pattern": "div(a(img))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+     ],
+     "repFile": "image_1f3eb00b42_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "footer"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    },
+    {
+     "id": "image-v2",
+     "pattern": "div(img)",
+     "hashes": [
+      {
+       "hash": "0e4ad988db",
+       "instances": 8,
+       "pattern": "div(img)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 8,
+     "pages": 5,
+     "properties": {
+      "site": 8
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+      "/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+     ],
+     "repFile": "image_0e4ad988db_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "title",
+   "aemComponent": "title",
+   "instances": 7,
+   "pages": 3,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 7
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Heading → default content (colour modifiers → section style).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "title",
+     "pattern": "div(rte)",
+     "hashes": [
+      {
+       "hash": "605a8a777e",
+       "instances": 7,
+       "pattern": "div(rte)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 7,
+     "pages": 3,
+     "properties": {
+      "site": 7
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/team.html",
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "title_605a8a777e_2.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "font-colour-red(3)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "News",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "anchor",
+   "aemComponent": "anchor",
+   "instances": 6,
+   "pages": 2,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 6
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "Invisible anchor target → not migrated; EDS sections/headings provide ids.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "anchor",
+     "pattern": "div(a)",
+     "hashes": [
+      {
+       "hash": "960598a2c0",
+       "instances": 6,
+       "pattern": "div(a)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 6,
+     "pages": 2,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [],
+     "styles": [
+      "scrollable(4)",
+      "active(2)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "cta-button",
+   "aemComponent": "cta-button",
+   "instances": 6,
+   "pages": 3,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 6
+   },
+   "eds": "default-content",
+   "category": "default-content",
+   "complexity": "Simple",
+   "rationale": "CTA link styled as a button (icon / large / load-more modifiers) → default-content button; style modifiers via section metadata.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "cta-button",
+     "pattern": "div(a)",
+     "hashes": [
+      {
+       "hash": "f6d8bd3fde",
+       "instances": 6,
+       "pattern": "div(a)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 6,
+     "pages": 3,
+     "properties": {
+      "site": 6
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/partners.html",
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "cta-button_f6d8bd3fde_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "cmp-button__icon--default(6)"
+     ],
+     "styles": [
+      "button(6)",
+      "cta-button__with-logo(4)",
+      "cta-button__large-text-size(1)",
+      "cta-button__load-more-button(1)",
+      "d-none(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "",
+     "eds": "default-content",
+     "category": "default-content",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "container",
+   "aemComponent": "container",
+   "instances": 158,
+   "pages": 11,
+   "exactPatterns": 29,
+   "variants": 24,
+   "properties": {
+    "site": 158
+   },
+   "eds": "section",
+   "category": "section",
+   "complexity": "Simple",
+   "rationale": "Layout container → EDS section; background / width / colour modifiers → section-metadata styles.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "container-v1",
+     "pattern": "div(@text)",
+     "hashes": [
+      {
+       "hash": "53943790ef",
+       "instances": 71,
+       "pattern": "div(@text)"
+      },
+      {
+       "hash": "51d384dc67",
+       "instances": 10,
+       "pattern": "div(@text+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 81,
+     "pages": 2,
+     "properties": {
+      "site": 81
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "text(81)",
+      "white(19)",
+      "bottom-large(2)"
+     ],
+     "styles": [
+      "responsivegrid(81)",
+      "scrollable(81)",
+      "container-text-width-smaller(80)",
+      "cmp-container--align-items-center(69)",
+      "cmp-container--flex(57)",
+      "active(21)",
+      "container-text-width(1)",
+      "paddingTop__large(1)",
+      "paddingBottom__large(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Ki Tua is to go beyond.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v2",
+     "pattern": "div(@container)",
+     "hashes": [
+      {
+       "hash": "ce70d934ca",
+       "instances": 11,
+       "pattern": "div(@container)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "responsivegrid(11)"
+     ],
+     "styles": [
+      "responsivegrid(11)"
+     ],
+     "parents": [
+      "experiencefragment"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 8,
+      "li": 1,
+      "h": 0,
+      "btn": 2,
+      "input": 1,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-bs-parent",
+      "data-cmp-custom-data-layer",
+      "data-cmp-action",
+      "data-cmp-title",
+      "data-max-level"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v3",
+     "pattern": "div(@header,@breadcrumb)",
+     "hashes": [
+      {
+       "hash": "77ec96fc8c",
+       "instances": 11,
+       "pattern": "div(@header,@breadcrumb)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "header(11)",
+      "navigation(11)"
+     ],
+     "styles": [
+      "responsivegrid(11)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 8,
+      "li": 1,
+      "h": 0,
+      "btn": 2,
+      "input": 1,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-bs-parent",
+      "data-cmp-custom-data-layer",
+      "data-cmp-action",
+      "data-cmp-title",
+      "data-max-level"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v4",
+     "pattern": "div(@footer)",
+     "hashes": [
+      {
+       "hash": "171485d799",
+       "instances": 11,
+       "pattern": "div(@footer)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "footer(11)"
+     ],
+     "styles": [
+      "responsivegrid(11)"
+     ],
+     "parents": [
+      "experiencefragment"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 5,
+      "li": 4,
+      "h": 0,
+      "btn": 1,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v5",
+     "pattern": "div(@navigation,@text)",
+     "hashes": [
+      {
+       "hash": "63a0d953a3",
+       "instances": 11,
+       "pattern": "div(@navigation,@text)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "navigation(11)"
+     ],
+     "styles": [
+      "responsivegrid(11)"
+     ],
+     "parents": [
+      "footer"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 4,
+      "li": 4,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v6",
+     "pattern": "div(@title)",
+     "hashes": [
+      {
+       "hash": "e13184ce8d",
+       "instances": 5,
+       "pattern": "div(@title)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 5,
+     "pages": 2,
+     "properties": {
+      "site": 5
+     },
+     "sampleUrls": [
+      "/global/en/team.html",
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/team.html",
+     "modifiers": [
+      "title(5)",
+      "font-colour-red(2)"
+     ],
+     "styles": [
+      "responsivegrid(5)",
+      "scrollable(5)",
+      "active(4)",
+      "paddingTop__medium(4)",
+      "cmp-container--align-items-center(3)",
+      "container-width(2)",
+      "cmp-container--flex(2)",
+      "container-text-width(1)",
+      "container-text-width-smaller(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Our Team",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v7",
+     "pattern": "div(@multicolumngrid)",
+     "hashes": [
+      {
+       "hash": "1f434a9308",
+       "instances": 4,
+       "pattern": "div(@multicolumngrid)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 4,
+     "pages": 1,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "multicolumngrid(4)",
+      "width-70-30(2)",
+      "width-30-70(1)"
+     ],
+     "styles": [
+      "responsivegrid(4)",
+      "container-width(4)",
+      "scrollable(3)",
+      "paddingBottom__large(2)",
+      "paddingTop__large(1)",
+      "paddingTop__medium(1)",
+      "paddingBottom__medium(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Beyond what we can see, to a place of limitless possibilities.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v12",
+     "pattern": "div(@text,@image,@text,@image)",
+     "hashes": [
+      {
+       "hash": "46bf6e4e14",
+       "instances": 1,
+       "pattern": "div(@text,@image,@text,@image)"
+      },
+      {
+       "hash": "a7ef702d83",
+       "instances": 1,
+       "pattern": "div(@text,@image,@text)"
+      },
+      {
+       "hash": "8622809350",
+       "instances": 1,
+       "pattern": "div(@text,@image,@text,@image,@text,@image,@text)"
+      },
+      {
+       "hash": "90069a1c67",
+       "instances": 1,
+       "pattern": "div(@text,@image)"
+      }
+     ],
+     "jaccardMerged": [
+      1,
+      1,
+      1
+     ],
+     "instances": 4,
+     "pages": 4,
+     "properties": {
+      "site": 4
+     },
+     "sampleUrls": [
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+      "/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+     "modifiers": [
+      "text(4)"
+     ],
+     "styles": [
+      "responsivegrid(4)",
+      "container-width-article(4)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 1,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v8",
+     "pattern": "div(@container,@related-articles)",
+     "hashes": [
+      {
+       "hash": "ed537df818",
+       "instances": 3,
+       "pattern": "div(@container,@related-articles)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 3,
+     "pages": 3,
+     "properties": {
+      "site": 3
+     },
+     "sampleUrls": [
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html",
+      "/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+     "modifiers": [
+      "responsivegrid(3)"
+     ],
+     "styles": [
+      "responsivegrid(3)",
+      "ktf-main-grid-wrapper(3)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 4,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-slidetype",
+      "data-perpage",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v9",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "4f3216249b",
+       "instances": 2,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [],
+     "styles": [
+      "responsivegrid(2)",
+      "ktf-main-grid-wrapper(2)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v15",
+     "pattern": "div(@cta-button)",
+     "hashes": [
+      {
+       "hash": "d5d0c7d767",
+       "instances": 1,
+       "pattern": "div(@cta-button)"
+      },
+      {
+       "hash": "9c4e7f0638",
+       "instances": 1,
+       "pattern": "div(@cta-button+)"
+      }
+     ],
+     "jaccardMerged": [
+      1
+     ],
+     "instances": 2,
+     "pages": 2,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/global/en.html",
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "layout_9c4e7f0638_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/terms-and-conditions.html",
+     "modifiers": [
+      "cta-button(2)",
+      "button(2)"
+     ],
+     "styles": [
+      "responsivegrid(2)",
+      "cmp-container--flex(2)",
+      "cmp-container--align-items-center(2)",
+      "scrollable(2)",
+      "paddingBottom__medium(1)",
+      "paddingTop__medium(1)",
+      "paddingStyle__button(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 3,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v10",
+     "pattern": "div(@primary-hero-banner,@anchor,@container+,@image,@container+,@card,@container+,@related-articles+,@container,@anchor,@container,@anchor,@container)",
+     "hashes": [
+      {
+       "hash": "542a6b000a",
+       "instances": 1,
+       "pattern": "div(@primary-hero-banner,@anchor,@container+,@image,@container+,@card,@container+,@related-articles+,@container,@anchor,@container,@anchor,@container)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "primary-hero-banner(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "ktf-main-grid-wrapper(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 6,
+      "a": 50,
+      "li": 4,
+      "h": 83,
+      "btn": 13,
+      "input": 0,
+      "iframe": 0,
+      "video": 2
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer",
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-slidetype",
+      "data-perpage"
+     ],
+     "topLabel": "Video",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v11",
+     "pattern": "div(@secondary-hero-banner,@article-listing-with-filter)",
+     "hashes": [
+      {
+       "hash": "e857304de0",
+       "instances": 1,
+       "pattern": "div(@secondary-hero-banner,@article-listing-with-filter)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/news.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/news.html",
+     "modifiers": [
+      "secondary-hero-banner(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "ktf-main-grid-wrapper(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 4,
+      "a": 5,
+      "li": 0,
+      "h": 7,
+      "btn": 5,
+      "input": 6,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 1
+     },
+     "dataAttrs": [
+      "data-respath",
+      "data-itemsperpage",
+      "data-featurefirst",
+      "data-bs-toggle",
+      "data-bs-parent",
+      "data-tag"
+     ],
+     "topLabel": "News",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v13",
+     "pattern": "div(@text,@anchor)",
+     "hashes": [
+      {
+       "hash": "7de1a95762",
+       "instances": 1,
+       "pattern": "div(@text,@anchor)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "text(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "container-text-width(1)",
+      "paddingTop__large(1)",
+      "paddingBottom__large(1)",
+      "scrollable(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Going beyond to help create the next generation of solutions that will",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v14",
+     "pattern": "div(@featured-tile,@anchor)",
+     "hashes": [
+      {
+       "hash": "97d66d1a9b",
+       "instances": 1,
+       "pattern": "div(@featured-tile,@anchor)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "featured-tile(1)",
+      "carousel(1)",
+      "panelcontainer(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "scrollable(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 0,
+      "li": 0,
+      "h": 4,
+      "btn": 3,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 3
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer",
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "What we offer",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v16",
+     "pattern": "div(@container,@video-embedded,@related-articles)",
+     "hashes": [
+      {
+       "hash": "398d0093b5",
+       "instances": 1,
+       "pattern": "div(@container,@video-embedded,@related-articles)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+     "modifiers": [
+      "responsivegrid(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "ktf-main-grid-wrapper(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 3,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-slidetype",
+      "data-perpage",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v17",
+     "pattern": "div(@title,@container)",
+     "hashes": [
+      {
+       "hash": "8461a0dfa2",
+       "instances": 1,
+       "pattern": "div(@title,@container)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "title(1)",
+      "font-colour-red(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "container-width(1)",
+      "scrollable(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 2,
+      "li": 0,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "News",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v18",
+     "pattern": "div(@title,@cta-button)",
+     "hashes": [
+      {
+       "hash": "5b52278578",
+       "instances": 1,
+       "pattern": "div(@title,@cta-button)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en.html",
+     "modifiers": [
+      "title(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "container-width(1)",
+      "two-columns(1)",
+      "paddingTop__medium(1)",
+      "paddingBottom__medium(1)",
+      "scrollable(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Connect with us and ignite innovation.",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v19",
+     "pattern": "div(@secondary-hero-banner,@container+)",
+     "hashes": [
+      {
+       "hash": "5d67d688be",
+       "instances": 1,
+       "pattern": "div(@secondary-hero-banner,@container+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/partners.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [
+      "secondary-hero-banner(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "ktf-main-grid-wrapper(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 10,
+      "a": 13,
+      "li": 0,
+      "h": 15,
+      "btn": 2,
+      "input": 7,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-parent",
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Partners",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v20",
+     "pattern": "div(@multicolumngrid,@card-filter-panel)",
+     "hashes": [
+      {
+       "hash": "bef537bf3b",
+       "instances": 1,
+       "pattern": "div(@multicolumngrid,@card-filter-panel)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/partners.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [
+      "multicolumngrid(1)",
+      "width-30-70(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "container-width(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "At Ki Tua Fund, we invest in and partner with innovative start-ups to ",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v21",
+     "pattern": "div(@card-filter-panel,@container,@cta-button)",
+     "hashes": [
+      {
+       "hash": "d670853050",
+       "instances": 1,
+       "pattern": "div(@card-filter-panel,@container,@cta-button)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/partners.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [
+      "card-filter-panel(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "container-width(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 10,
+      "a": 13,
+      "li": 0,
+      "h": 13,
+      "btn": 2,
+      "input": 7,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-parent",
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "BioLumic",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v22",
+     "pattern": "div(@card+)",
+     "hashes": [
+      {
+       "hash": "5d26fbed14",
+       "instances": 1,
+       "pattern": "div(@card+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/partners.html"
+     ],
+     "repFile": "layout_5d26fbed14_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/partners.html",
+     "modifiers": [
+      "card(1)",
+      "carousel(1)",
+      "panelcontainer(1)",
+      "card-partner-style(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "cmp-container--fluid-cards(1)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 10,
+      "a": 10,
+      "li": 0,
+      "h": 10,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "BioLumic",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v23",
+     "pattern": "div(@secondary-hero-banner,@container,@card,@container,@card)",
+     "hashes": [
+      {
+       "hash": "c699c3e965",
+       "instances": 1,
+       "pattern": "div(@secondary-hero-banner,@container,@card,@container,@card)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/team.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/team.html",
+     "modifiers": [
+      "secondary-hero-banner(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "ktf-main-grid-wrapper(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 14,
+      "a": 14,
+      "li": 0,
+      "h": 17,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image",
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Team",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    },
+    {
+     "id": "container-v24",
+     "pattern": "div(@container+,@anchor,@container+)",
+     "hashes": [
+      {
+       "hash": "c6623aaf9a",
+       "instances": 1,
+       "pattern": "div(@container+,@anchor,@container+)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/global/en/terms-and-conditions.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/terms-and-conditions.html",
+     "modifiers": [
+      "responsivegrid(1)",
+      "cmp-container--align-items-center(1)",
+      "scrollable(1)",
+      "active(1)"
+     ],
+     "styles": [
+      "responsivegrid(1)",
+      "ktf-main-grid-wrapper(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 10,
+      "li": 15,
+      "h": 3,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-action",
+      "data-cmp-custom-data-layer"
+     ],
+     "topLabel": "Privacy policy and Terms & conditions",
+     "eds": "section",
+     "category": "section",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "experiencefragment",
+   "aemComponent": "experiencefragment",
+   "instances": 22,
+   "pages": 11,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 22
+   },
+   "eds": "fragment",
+   "category": "section",
+   "complexity": "Simple",
+   "rationale": "Experience fragment embedded in content → EDS fragment (shared content referenced from a /fragments page).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "experiencefragment",
+     "pattern": "div(@container)",
+     "hashes": [
+      {
+       "hash": "3d15d41d6b",
+       "instances": 22,
+       "pattern": "div(@container)"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 22,
+     "pages": 11,
+     "properties": {
+      "site": 22
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "xf-content-height(22)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 7,
+      "li": 4,
+      "h": 0,
+      "btn": 2,
+      "input": 1,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-bs-parent",
+      "data-cmp-custom-data-layer",
+      "data-cmp-action",
+      "data-cmp-title",
+      "data-max-level",
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "",
+     "eds": "fragment",
+     "category": "section",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "header",
+   "aemComponent": "header",
+   "instances": 11,
+   "pages": 11,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 11
+   },
+   "eds": "header",
+   "category": "chrome",
+   "complexity": "Medium",
+   "rationale": "Site header / navigation (logo, menu, search) → EDS header fragment (nav document).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "header",
+     "pattern": "div(div(div(a(img)),div(div(a),div(button[exp]),button[exp](div+))),div(form(input[search],div(div(rte)+,rte)),div(div(rte),div)),div(div(div(a)+),div(rte,div(a))))",
+     "hashes": [
+      {
+       "hash": "b8316a9cc7",
+       "instances": 11,
+       "pattern": "div(div(div(a(img)),div(div(a),div(button[exp]),button[exp](div+))),div(form(input[search],div(div(rte)+,rte)),div(div(rte),div)),div(div(div(a)+),div(rte,div(a))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [],
+     "styles": [
+      "navigation(11)"
+     ],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 7,
+      "li": 0,
+      "h": 0,
+      "btn": 2,
+      "input": 1,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 2
+     },
+     "dataAttrs": [
+      "data-bs-toggle",
+      "data-bs-target",
+      "data-bs-parent",
+      "data-cmp-custom-data-layer",
+      "data-cmp-action",
+      "data-cmp-title"
+     ],
+     "topLabel": "",
+     "eds": "header",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "footer",
+   "aemComponent": "footer",
+   "instances": 11,
+   "pages": 11,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 11
+   },
+   "eds": "footer",
+   "category": "chrome",
+   "complexity": "Simple",
+   "rationale": "Site footer (link columns, legal links, back-to-top) → EDS footer fragment.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "footer",
+     "pattern": "div(section(div(button),div(div(@container),div(@image))))",
+     "hashes": [
+      {
+       "hash": "3d5b0cd5d7",
+       "instances": 11,
+       "pattern": "div(section(div(button),div(div(@container),div(@image))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+     ],
+     "repFile": "footer_3d5b0cd5d7_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [
+      "footer(11)"
+     ],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 5,
+      "li": 4,
+      "h": 0,
+      "btn": 1,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-cmp-src",
+      "data-asset-id",
+      "data-cmp-filereference",
+      "data-cmp-hook-image"
+     ],
+     "topLabel": "",
+     "eds": "footer",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "navigation",
+   "aemComponent": "navigation",
+   "instances": 11,
+   "pages": 11,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 11
+   },
+   "eds": "footer",
+   "category": "chrome",
+   "complexity": "Simple",
+   "rationale": "AEM core navigation component used for header/footer link lists → part of the EDS header/footer fragment.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "navigation",
+     "pattern": "div(nav(rte))",
+     "hashes": [
+      {
+       "hash": "a1fba95db8",
+       "instances": 11,
+       "pattern": "div(nav(rte))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 11,
+     "pages": 11,
+     "properties": {
+      "site": 11
+     },
+     "sampleUrls": [
+      "/global/en/footer-links.html",
+      "/global/en/board-and-investment-committee.html",
+      "/global/en/news.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+      "/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+      "/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+     ],
+     "repFile": "navigation_a1fba95db8_1.jpg",
+     "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "container"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 4,
+      "li": 4,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "footer",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

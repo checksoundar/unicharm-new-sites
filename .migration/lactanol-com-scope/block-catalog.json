@@ -1,0 +1,202 @@
+{
+ "captured": "2026-10-07T05:22:06.048Z",
+ "method": "AEM component tag-pattern analysis",
+ "jaccard": 0.8,
+ "totalInstances": 9,
+ "contentInstances": 9,
+ "totalVariants": 7,
+ "baseSummary": [
+  {
+   "base": "columns",
+   "variants": 5,
+   "instances": 5,
+   "category": "boilerplate"
+  },
+  {
+   "base": "hero",
+   "variants": 1,
+   "instances": 2,
+   "category": "boilerplate"
+  },
+  {
+   "base": "header",
+   "variants": 1,
+   "instances": 1,
+   "category": "chrome"
+  }
+ ],
+ "variants": [
+  {
+   "base": "hero",
+   "key": "page-section::01812c254b",
+   "cmp": "page-section",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "page-section_01812c254b_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "Sustainable high",
+   "pattern": "section(div(section(div(rte)+)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 2
+   },
+   "id": "page-section-v1"
+  },
+  {
+   "base": "columns",
+   "key": "page-section::2e995cf693",
+   "cmp": "page-section",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "page-section_2e995cf693_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "About us",
+   "pattern": "section(div(div(div(rte)+),div,div(div(img)+)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "page-section-v2"
+  },
+  {
+   "base": "columns",
+   "key": "page-section::50d3851081",
+   "cmp": "page-section",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "page-section_50d3851081_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "Consistent quality",
+   "pattern": "section(div(div(div(rte)+,div(img)),div(rte),div(img)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "page-section-v3"
+  },
+  {
+   "base": "columns",
+   "key": "page-section::baf939f3bc",
+   "cmp": "page-section",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "page-section_baf939f3bc_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "Our process",
+   "pattern": "section(div(div(div(rte)+),div,div(img)))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "page-section-v4"
+  },
+  {
+   "base": "columns",
+   "key": "page-section::03296f3690",
+   "cmp": "page-section",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "page-section_03296f3690_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "Specifications and applications",
+   "pattern": "section(div(div(div(rte)+),div,div(a(img))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "page-section-v5"
+  },
+  {
+   "base": "columns",
+   "key": "page-section::6a60b8caea",
+   "cmp": "page-section",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "page-section_6a60b8caea_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "section(div(div(div(rte)+),div(div(img),div(rte))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "page-section-v6"
+  },
+  {
+   "base": "header",
+   "key": "nav::5b8550332c",
+   "cmp": "nav",
+   "category": "chrome",
+   "eds": "header",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "nav_5b8550332c_1.jpg",
+   "repUrl": "https://www.lactanol.com/",
+   "samples": [
+    {
+     "url": "https://www.lactanol.com/"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "section(div(img),div(section(div(a+))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "image(1)",
+    "parbase(1)",
+    "cq-dd-image(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "nav"
+  }
+ ]
+}

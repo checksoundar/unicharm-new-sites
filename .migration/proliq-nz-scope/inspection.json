@@ -1,0 +1,59 @@
+{
+ "captured": "2026-10-07T05:27:23.443Z",
+ "locales": [
+  "nz"
+ ],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 3,
+  "totalLive": 7,
+  "totalUrls": 15,
+  "selectedTotal": 7,
+  "skippedTotal": 8,
+  "non200Total": 8,
+  "nonRrendered": 0,
+  "nonRtotal": 0,
+  "fullGroups": 0,
+  "rRendered": 7,
+  "rTotal": 14,
+  "rGroups": 2,
+  "exclTotal": 1,
+  "exclGroups": 1,
+  "nonEnExcluded": 1
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{page}",
+   "label": "Locale sub-pages",
+   "total": 12,
+   "selected": 6,
+   "skipped": 6,
+   "non200": 6,
+   "category": "sampled",
+   "example": "/nz/en/processes.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 2,
+   "selected": 1,
+   "skipped": 1,
+   "non200": 1,
+   "category": "sampled",
+   "example": "/nz/en.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{page}/{section}/{page}/{path…}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/content/proliq/nz/en/about"
+  }
+ ]
+}

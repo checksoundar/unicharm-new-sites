@@ -1,0 +1,68 @@
+pages=1741 instances=22328 components=66 exactPatterns=483 variants=351
+custom           relatedStories           → related-stories        inst= 1287 pg=1287 patterns= 10 variants=8  {"americas":16,"au-en":10,"cn-en":10,"cn-zh":7,"eu-en":15,"jp-en":10,"jp-ja":6,"lk-en":9,"nz-en":1182,"sea-bh":11,"sea":11}
+custom           milkDrop                 → milk-drop-animation    inst=  169 pg=   9 patterns=  1 variants=1  {"americas":19,"au-en":18,"cn-en":19,"cn-zh":19,"eu-en":19,"lk-en":19,"nz-en":18,"sea-bh":19,"sea":19}
+custom           videoScroller            → video-scroller         inst=   36 pg=   9 patterns=  2 variants=1  {"americas":4,"au-en":4,"cn-en":4,"cn-zh":4,"eu-en":4,"lk-en":4,"nz-en":4,"sea-bh":4,"sea":4}
+custom           inPageNav                → in-page-navigation     inst=   35 pg=  34 patterns=  3 variants=3  {"americas":2,"cn-en":3,"eu-en":2,"jp-en":2,"jp-ja":2,"lk-en":1,"nz-en":18,"sea-bh":2,"sea":1,"au-en":1,"cn-zh":1}
+custom           articleList              → article-listing        inst=   29 pg=  29 patterns= 10 variants=2  {"americas":3,"au-en":3,"cn-zh":2,"eu-en":3,"lk-en":3,"nz-en":3,"sea-bh":3,"sea":3,"cn-en":2,"jp-en":2,"jp-ja":2}
+custom           roadshow                 → interactive-map        inst=   23 pg=  13 patterns= 10 variants=1  {"americas":2,"au-en":2,"jp-en":2,"jp-ja":2,"lk-en":2,"nz-en":3,"sea-bh":2,"sea":2,"cn-en":2,"cn-zh":2,"eu-en":2}
+custom           storyIndex               → article-listing        inst=   20 pg=  20 patterns=  1 variants=1  {"americas":1,"cn-zh":1,"jp-ja":1,"lk-en":1,"nz-en":15,"sea-bh":1}
+custom           flippingCardTile         → flip-cards             inst=   19 pg=  18 patterns=  4 variants=3  {"americas":2,"au-en":3,"cn-en":2,"cn-zh":2,"eu-en":2,"lk-en":2,"nz-en":2,"sea-bh":2,"sea":2}
+custom           featuredArticle          → article-listing        inst=   19 pg=  19 patterns=  1 variants=1  {"americas":1,"cn-zh":1,"jp-ja":1,"lk-en":1,"nz-en":15}
+custom           flippingCard             → flip-cards             inst=   18 pg=  18 patterns=  1 variants=1  {"americas":2,"au-en":2,"cn-en":2,"cn-zh":2,"eu-en":2,"lk-en":2,"nz-en":2,"sea-bh":2,"sea":2}
+custom           editorialArticleScroller → editorial-scroller     inst=   11 pg=  11 patterns= 11 variants=2  {"americas":1,"au-en":1,"cn-en":1,"cn-zh":1,"jp-en":1,"jp-ja":1,"lk-en":1,"sea-bh":1,"sea":1,"eu-en":1,"nz-en":1}
+custom           contactus-v3             → contact-form           inst=   11 pg=  11 patterns=  4 variants=1  {"americas":1,"au-en":1,"cn-en":1,"cn-zh":1,"jp-en":1,"jp-ja":1,"lk-en":1,"nz-en":1,"eu-en":1,"sea-bh":1,"sea":1}
+custom           swiftypesearchresults    → swiftype-search        inst=   11 pg=  11 patterns=  1 variants=1  {"americas":1,"au-en":1,"cn-en":1,"cn-zh":1,"eu-en":1,"jp-en":1,"jp-ja":1,"lk-en":1,"nz-en":1,"sea-bh":1,"sea":1}
+custom           videoOverlayCarousel     → video-overlay-carousel inst=    9 pg=   9 patterns=  3 variants=3  {"americas":1,"au-en":1,"eu-en":1,"lk-en":1,"nz-en":1,"sea-bh":1,"sea":1,"cn-en":1,"cn-zh":1}
+custom           articleCategoryIndex     → article-listing        inst=    8 pg=   8 patterns=  1 variants=1  {"americas":1,"cn-en":1,"cn-zh":1,"eu-en":1,"jp-en":1,"jp-ja":1,"lk-en":1,"nz-en":1}
+custom           roadmapTimeline          → timeline               inst=    6 pg=   6 patterns=  3 variants=3  {"americas":1,"eu-en":2,"nz-en":3}
+custom           miniArticleListing       → article-listing        inst=    3 pg=   3 patterns=  3 variants=3  {"cn-en":1,"jp-en":1,"nz-en":1}
+custom           numbersDashboardTile     → numbers-dashboard      inst=    3 pg=   1 patterns=  2 variants=2  {"nz-en":3}
+custom           quoteTable               → share-price-table      inst=    2 pg=   2 patterns=  1 variants=1  {"nz-en":2}
+custom           newDawnInvestorsGraph    → investors-graph        inst=    2 pg=   2 patterns=  1 variants=1  {"nz-en":2}
+custom           timeline                 → timeline               inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+custom           avatureCareersSearch     → careers-search         inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+custom           numbersDashboard         → numbers-dashboard      inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+custom           numbersDashboardSharePrices → numbers-dashboard      inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+custom           integratedReport         → integrated-report      inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+custom           topicIndex               → article-listing        inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+boilerplate      newDawnImageTextWrapper  → columns                inst= 1501 pg= 740 patterns= 42 variants=36  {"americas":50,"au-en":32,"cn-en":42,"cn-zh":36,"eu-en":44,"jp-en":43,"jp-ja":34,"lk-en":30,"nz-en":1136,"sea-bh":29,"sea":25}
+boilerplate      accordion                → accordion              inst=  912 pg= 126 patterns= 21 variants=12  {"americas":76,"au-en":63,"cn-en":77,"cn-zh":49,"other":22,"eu-en":81,"jp-en":73,"jp-ja":51,"lk-en":65,"nz-en":243,"sea-bh":43,"sea":69}
+boilerplate      heroQuote                → quote                  inst=  853 pg= 568 patterns=  1 variants=1  {"americas":6,"au-en":4,"cn-en":3,"cn-zh":1,"eu-en":5,"jp-en":2,"jp-ja":3,"lk-en":5,"nz-en":813,"sea-bh":4,"sea":7}
+boilerplate      multiGrid                → columns                inst=  749 pg= 351 patterns= 62 variants=37  {"americas":55,"au-en":30,"cn-en":65,"cn-zh":52,"eu-en":54,"jp-en":64,"jp-ja":47,"lk-en":39,"nz-en":251,"sea-bh":49,"sea":43}
+boilerplate      cardtile                 → cards                  inst=  445 pg= 139 patterns= 12 variants=12  {"americas":37,"au-en":9,"cn-en":43,"cn-zh":33,"eu-en":38,"jp-en":42,"jp-ja":30,"lk-en":26,"nz-en":114,"sea-bh":40,"sea":33}
+boilerplate      biography                → cards                  inst=  145 pg=  48 patterns=  2 variants=2  {"americas":6,"au-en":13,"cn-en":9,"cn-zh":8,"eu-en":5,"jp-en":18,"jp-ja":8,"lk-en":6,"nz-en":37,"sea-bh":19,"sea":16}
+boilerplate      featurePromos            → cards                  inst=  119 pg= 119 patterns= 12 variants=10  {"americas":11,"au-en":12,"cn-en":10,"cn-zh":9,"eu-en":10,"jp-en":7,"jp-ja":5,"lk-en":7,"nz-en":35,"sea-bh":7,"sea":6}
+boilerplate      statistics               → cards                  inst=  117 pg=  48 patterns=  1 variants=1  {"americas":10,"au-en":4,"cn-en":16,"cn-zh":17,"eu-en":10,"jp-en":14,"jp-ja":9,"lk-en":3,"nz-en":31,"sea-bh":2,"sea":1}
+boilerplate      video-component          → video                  inst=   80 pg=  54 patterns=  4 variants=4  {"americas":9,"au-en":5,"cn-en":7,"cn-zh":7,"eu-en":8,"jp-en":3,"jp-ja":3,"lk-en":8,"nz-en":14,"sea-bh":8,"sea":8}
+boilerplate      bannerAndBadge           → hero                   inst=   41 pg=  31 patterns=  4 variants=4  {"jp-ja":2,"nz-en":19,"americas":3,"cn-en":1,"cn-zh":2,"eu-en":4,"jp-en":1,"lk-en":2,"sea-bh":4,"sea":3}
+boilerplate      tabbedContentSnapshot    → tabs                   inst=   38 pg=  35 patterns= 14 variants=13  {"americas":2,"cn-en":3,"eu-en":2,"jp-en":4,"jp-ja":1,"lk-en":1,"nz-en":20,"sea-bh":2,"sea":1,"cn-zh":1,"au-en":1}
+boilerplate      youTube                  → video                  inst=   28 pg=  26 patterns=  1 variants=1  {"cn-zh":1,"nz-en":27}
+boilerplate      cardCarousel             → carousel               inst=   24 pg=  21 patterns= 10 variants=9  {"americas":4,"au-en":2,"eu-en":2,"lk-en":3,"nz-en":7,"cn-en":1,"jp-en":1,"sea-bh":2,"sea":2}
+boilerplate      photoCarousel            → carousel               inst=   23 pg=  23 patterns=  9 variants=3  {"nz-en":23}
+boilerplate      scrollImageCarousel      → carousel               inst=   17 pg=  17 patterns=  2 variants=2  {"nz-en":9,"americas":1,"au-en":1,"cn-en":1,"cn-zh":1,"eu-en":1,"lk-en":1,"sea-bh":1,"sea":1}
+boilerplate      pillarExplorer           → carousel               inst=   16 pg=  16 patterns=  4 variants=4  {"americas":1,"au-en":1,"cn-en":2,"cn-zh":2,"jp-en":1,"jp-ja":1,"lk-en":1,"nz-en":5,"sea-bh":1,"sea":1}
+boilerplate      iframe                   → embed                  inst=    9 pg=   9 patterns=  1 variants=1  {"americas":1,"cn-en":1,"eu-en":1,"jp-en":1,"nz-en":5}
+boilerplate      cardLink                 → cards                  inst=    5 pg=   5 patterns=  3 variants=3  {"cn-zh":1,"eu-en":1,"sea-bh":1,"nz-en":2}
+boilerplate      tabbedContent            → tabs                   inst=    2 pg=   2 patterns=  1 variants=1  {"au-en":1,"sea-bh":1}
+boilerplate      cardTileContainer        → cards                  inst=    2 pg=   1 patterns=  1 variants=1  {"nz-en":2}
+boilerplate      image-grid               → cards                  inst=    2 pg=   2 patterns=  2 variants=2  {"nz-en":2}
+boilerplate      sectionNavigator         → cards                  inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+boilerplate      herotext                 → hero                   inst=    1 pg=   1 patterns=  1 variants=1  {"nz-en":1}
+boilerplate      banner                   → hero                   inst=    1 pg=   1 patterns=  1 variants=1  {"sea-bh":1}
+default-content  text                     → default-content        inst= 3680 pg=1591 patterns= 32 variants=23  {"americas":148,"au-en":90,"cn-en":145,"cn-zh":171,"other":10,"eu-en":137,"jp-en":133,"jp-ja":144,"lk-en":110,"nz-en":2336,"sea-bh":151,"sea":105}
+default-content  headline                 → default-content        inst=  687 pg= 264 patterns=  1 variants=1  {"americas":56,"au-en":39,"cn-en":56,"cn-zh":50,"eu-en":56,"jp-en":57,"jp-ja":55,"lk-en":49,"nz-en":186,"sea-bh":43,"sea":40}
+default-content  newDawnDownloadFile      → default-content        inst=  608 pg=  95 patterns=  2 variants=1  {"americas":53,"au-en":41,"cn-en":59,"cn-zh":52,"eu-en":50,"jp-en":59,"jp-ja":51,"lk-en":46,"nz-en":116,"sea-bh":41,"sea":40}
+default-content  image                    → default-content        inst=  195 pg= 146 patterns=  2 variants=2  {"americas":6,"au-en":3,"cn-en":6,"cn-zh":4,"eu-en":6,"jp-en":3,"jp-ja":4,"lk-en":5,"nz-en":147,"sea-bh":6,"sea":5}
+default-content  ctabutton                → default-content        inst=  180 pg= 141 patterns=  3 variants=3  {"americas":13,"au-en":6,"cn-en":14,"cn-zh":13,"eu-en":13,"jp-en":12,"jp-ja":9,"lk-en":8,"nz-en":78,"sea-bh":6,"sea":6,"other":2}
+default-content  anchor                   → default-content        inst=  121 pg=  57 patterns=  1 variants=1  {"americas":9,"cn-en":8,"cn-zh":3,"eu-en":9,"jp-en":8,"jp-ja":4,"lk-en":4,"nz-en":68,"sea-bh":4,"sea":4}
+default-content  sectionHeader            → default-content        inst=  108 pg=   9 patterns=  2 variants=2  {"americas":12,"au-en":12,"cn-en":12,"cn-zh":12,"eu-en":12,"lk-en":12,"nz-en":12,"sea-bh":12,"sea":12}
+default-content  inPageLink               → default-content        inst=   60 pg=  35 patterns=  1 variants=1  {"americas":5,"au-en":4,"cn-en":5,"cn-zh":1,"eu-en":4,"jp-en":4,"jp-ja":1,"lk-en":2,"nz-en":30,"sea-bh":1,"sea":3}
+default-content  ghost                    → default-content        inst=   44 pg=  26 patterns=  1 variants=1  {"americas":8,"cn-en":10,"cn-zh":1,"eu-en":10,"jp-en":6,"lk-en":3,"sea-bh":1,"sea":5}
+default-content  profileBadge             → default-content        inst=   22 pg=  20 patterns=  1 variants=1  {"americas":1,"cn-en":1,"cn-zh":1,"eu-en":1,"jp-en":1,"jp-ja":1,"lk-en":1,"nz-en":13,"sea-bh":1,"sea":1}
+default-content  richText                 → default-content        inst=    7 pg=   5 patterns=  1 variants=1  {"nz-en":7}
+default-content  responsiveimage          → default-content        inst=    3 pg=   2 patterns=  1 variants=1  {"nz-en":3}
+section          gridLayout               → section                inst= 6278 pg=1704 patterns=131 variants=95  {"americas":199,"au-en":122,"cn-en":176,"cn-zh":150,"other":18,"eu-en":186,"jp-en":167,"jp-ja":137,"lk-en":146,"nz-en":4669,"sea-bh":159,"sea":149}
+section          responsivegrid           → section                inst=    5 pg=   4 patterns=  4 variants=4  {"cn-zh":1,"nz-en":4}
+chrome           header                   → header                 inst= 1736 pg=1736 patterns=  3 variants=3  {"americas":52,"au-en":38,"cn-en":47,"cn-zh":47,"other":10,"eu-en":49,"jp-en":46,"jp-ja":41,"lk-en":39,"nz-en":1285,"sea-bh":43,"sea":39}
+chrome           footer                   → footer                 inst= 1736 pg=1736 patterns=  6 variants=3  {"americas":52,"other":10,"lk-en":39,"nz-en":1285,"sea-bh":43,"sea":39,"cn-en":47,"cn-zh":47,"jp-en":46,"jp-ja":41,"eu-en":49,"au-en":38}
+layout families: 12 (592 signatures)

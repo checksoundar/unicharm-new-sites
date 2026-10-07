@@ -1,0 +1,141 @@
+{
+  "_about": "nutiani.com \u2014 site overrides on top of fonterra-shared-block-mapping.json (evidence: dump-variants + review-sheet.jpg). Sitemap still lists 4 /nz/en/admin-only/component-testing pages (404) and 20 internal links are broken.",
+  "download-cta": {
+    "eds": "gated-download",
+    "category": "custom",
+    "complexity": "Complex",
+    "rationale": "Gated asset download on 54 pages (95 instances): locked card ('Download now') that expands an AEM Forms email form (country select with ~225 options, consent checkbox, reCAPTCHA) and then releases the PDF. Needs a custom block + form submission / asset-gating integration. v2 = un-gated direct download card."
+  },
+  "input": {
+    "eds": "gated-download",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "AEM Forms hidden input field inside the gated-download / newsletter forms \u2014 part of the custom form block, not a block on its own."
+  },
+  "hidden": {
+    "eds": "gated-download",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "AEM Forms hidden field wrapper inside the gated-download form \u2014 part of the custom form block."
+  },
+  "options": {
+    "eds": "gated-download",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "AEM Forms checkbox / combobox field (consent, country, interests) inside the gated-download form \u2014 part of the custom form block."
+  },
+  "button": {
+    "eds": "gated-download",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "AEM Forms submit button with reCAPTCHA (on all 91 pages via the footer newsletter / gated forms) \u2014 part of the custom form block."
+  },
+  "article-listing": {
+    "eds": "article-listing",
+    "category": "custom",
+    "complexity": "Complex",
+    "rationale": "Innovation Hub listing: category tag nav, featured article, card grid and 'Load more' (AJAX) \u2192 query-index listing block with filters."
+  },
+  "filter-panel": {
+    "eds": "product-filter",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Faceted checkbox filter (Wellbeing dimension, Consumer type, Product format, Ingredient type) with counts, driving the solutions product-listing."
+  },
+  "product-listing": {
+    "eds": "product-listing",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Solution/product tiles (image, title, copy, tag chips) filtered by filter-panel (hidden filter state input) \u2192 query-index driven listing block."
+  },
+  "sub-benefit-hotspots": {
+    "eds": "image-hotspots",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Central graphic with radially positioned benefit hotspots ('Backed by science', 'Technical expertise'\u2026) that expand detail copy (aria-expanded) \u2192 custom image-hotspots block."
+  },
+  "key-benefits": {
+    "eds": "image-hotspots",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "'Consumer opportunity' product image with linked hotspot callouts (expandable) \u2192 image-hotspots block (product variant)."
+  },
+  "inpagenavigation": {
+    "eds": "in-page-navigation",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "Sticky in-page section navigation (link list) beside long-form content columns with scroll-spy \u2192 small custom block."
+  },
+  "homepageherobanner": {
+    "eds": "carousel",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "Home hero slider of wellbeing concepts (background videos, product imagery, headline, CTA) \u2192 Carousel (hero slides, video backgrounds)."
+  },
+  "homepageheroslide": {
+    "eds": "carousel",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Individual slide of the home hero carousel \u2192 Carousel slide row."
+  },
+  "featured-solutions": {
+    "eds": "carousel",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "'Featured wellbeing concepts' slider of product-concept panels with prev/next arrows \u2192 Carousel."
+  },
+  "solution-header": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Solution page header: breadcrumb, eyebrow, title, tag chips, product image, 'Enquire' CTA \u2192 Hero (product variant); tags from page metadata."
+  },
+  "product-header": {
+    "eds": "columns",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "Ingredient header: product image beside title, copy, claim icons, Enquire / Download buttons and an expandable About / Key features / Applications list \u2192 Columns with a nested Accordion."
+  },
+  "quote-card": {
+    "eds": "quote",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Expert quote on a gradient background with name/title \u2192 Quote."
+  },
+  "biography": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Scientist profile (portrait, name, title) opening a bio modal with publications \u2192 Cards (profile variant) + modal."
+  },
+  "search-results": {
+    "eds": "search",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "Search results page (solutions tiles + all-results list, paging) \u2192 Block Collection Search on the query index."
+  },
+  "navigation-links": {
+    "eds": "header",
+    "category": "chrome",
+    "complexity": "Medium",
+    "rationale": "Mega-menu link groups (Innovation Hub \u203a Articles, Resources, Webcasts\u2026) inside the header XF \u2192 EDS header nav."
+  },
+  "social-icons": {
+    "eds": "footer",
+    "category": "chrome",
+    "complexity": "Simple",
+    "rationale": "Social icon link in the footer XF \u2192 EDS footer."
+  },
+  "body-rte": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Rich text \u2192 default content."
+  },
+  "product-card": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Single product tile (image, title, copy) \u2192 Cards item."
+  }
+}

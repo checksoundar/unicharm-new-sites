@@ -1,0 +1,27 @@
+{
+ "captured": "2026-10-07T05:44:50.795Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>section",
+   "estPop": 15,
+   "url": "https://www.nzagbiz.co.nz/nz/en/about-us/research-and-development/nzagbiz-recycling-information.html",
+   "file": "t00_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 1,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>section>newsletter-signup",
+   "estPop": 9,
+   "url": "https://www.nzagbiz.co.nz/nz/en/animals/calves/assessing-calf-health.html",
+   "file": "t01_site·no-template.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

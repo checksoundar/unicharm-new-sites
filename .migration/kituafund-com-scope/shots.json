@@ -1,0 +1,49 @@
+{
+ "captured": "2026-10-07T05:33:45.208Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·kituafund-article-template",
+   "family": "site · kituafund-article-template",
+   "signature": "[kituafund-article-template] header>breadcrumbs>article-header>text>related-articles>footer",
+   "estPop": 3,
+   "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+   "file": "t00_site·kituafund-article-template.jpg",
+   "captured": true,
+   "bytes": 425954
+  },
+  {
+   "idx": 1,
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>footer",
+   "estPop": 2,
+   "url": "https://www.kituafund.com/global/en/footer-links.html",
+   "file": "t01_site·kituafund-standard-template.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 2,
+   "name": "site·kituafund-standard-template",
+   "family": "site · kituafund-standard-template",
+   "signature": "[kituafund-standard-template] header>breadcrumbs>hero>article-listing>footer",
+   "estPop": 1,
+   "url": "https://www.kituafund.com/global/en/news.html",
+   "file": "t02_site·kituafund-standard-template.jpg",
+   "captured": true,
+   "bytes": 188045
+  },
+  {
+   "idx": 3,
+   "name": "site·kituafund-article-template",
+   "family": "site · kituafund-article-template",
+   "signature": "[kituafund-article-template] header>breadcrumbs>article-header>text>video>related-articles>footer",
+   "estPop": 1,
+   "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html",
+   "file": "t03_site·kituafund-article-template.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

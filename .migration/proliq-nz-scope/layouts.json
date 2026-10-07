@@ -1,0 +1,128 @@
+{
+ "captured": "2026-10-07T05:27:22.513Z",
+ "renderedPages": 7,
+ "distinctSignatures": 7,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>columns>table>text>hero>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en/about.html"
+   ],
+   "sections": {
+    "text": 3,
+    "columns": 1,
+    "table": 1,
+    "hero": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>hero>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en/benefits.html"
+   ],
+   "sections": {
+    "text": 2,
+    "hero": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>columns>hero>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en.html"
+   ],
+   "sections": {
+    "text": 2,
+    "columns": 1,
+    "hero": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>accordion>text>accordion>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en/specifications.html"
+   ],
+   "sections": {
+    "text": 3,
+    "accordion": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] columns>text>contact-form>table",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en/contact-us.html"
+   ],
+   "sections": {
+    "columns": 1,
+    "text": 1,
+    "contact-form": 1,
+    "table": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] text>accordion>text>columns>hero>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en/processes.html"
+   ],
+   "sections": {
+    "text": 3,
+    "accordion": 1,
+    "columns": 1,
+    "hero": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] columns>hero>text",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://proliq.nz/nz/en/timeline.html"
+   ],
+   "sections": {
+    "columns": 1,
+    "hero": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

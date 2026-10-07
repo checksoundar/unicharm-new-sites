@@ -1,0 +1,136 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/nzagbiz-co-nz-scope
+▶ site: https://www.nzagbiz.co.nz/nz/en.html
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 86, already done: 18, todo: 68
+  [w2] 20/68 done (ok=20 fail=0) last=https://www.nzagbiz.co.nz/nz/en/campaigns/ancalf-payback-old.html
+  [w2] 40/68 done (ok=38 fail=0) last=https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/nzagbiz-recog
+  [w0] 60/68 done (ok=60 fail=0) last=https://www.nzagbiz.co.nz/nz/en/products/supplements/biosupport.html
+DONE rendering. ok=68 fail=0 total_processed=68
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 86
+Distinct layout signatures: 8
+
+=== Layout templates (est. full-population pages) ===
+   28 pp  rendered= 28   form-page        text>text>form>text                            |  nz(28)
+   19 pp  rendered= 19   card-grid        text>text>cards>text                           |  nz(19)
+   15 pp  rendered= 15   article-text     text>text>text>text                            |  nz(15)
+   14 pp  rendered= 14   data-table       text>text>table>text                           |  nz(14)
+    3 pp  rendered=  3   article-text     text>text>text                                 |  nz(3)
+    3 pp  rendered=  3   form-page        text>form>text                                 |  nz(3)
+    2 pp  rendered=  2   card-grid        text>cards>text                                |  nz(2)
+    2 pp  rendered=  2   embed-page       text>text>iframe-embed>text                    |  nz(2)
+
+=== Third-party integrations detected ===
+  259 Google Tag Manager
+  172 Meta (Facebook) Pixel
+  172 Google Ads/DoubleClick
+  126 Google (reCAPTCHA / APIs)
+   87 Adobe RUM (Helix)
+   86 CDN/JS libs
+   14 YouTube embed
+
+=== Global objects ===
+  86 dataLayer
+  86 google_tag_manager
+  86 fbq
+▶ [5/12] capture block instances (resumable)
+Render set 86, pages already captured 0, todo 86
+  [w0] 20/86 pages (blocks captured=59) https://www.nzagbiz.co.nz/nz/en/animals/calves/identifying-i
+  [w1] 40/86 pages (blocks captured=112) https://www.nzagbiz.co.nz/nz/en/campaigns/calfrearingqanda.h
+  [w1] 60/86 pages (blocks captured=167) https://www.nzagbiz.co.nz/nz/en/news-and-events/articles/who
+  [w1] 80/86 pages (blocks captured=227) https://www.nzagbiz.co.nz/nz/en/products/supplements/novolyt
+DONE. pages=86 blocks=241
+▶ [6/12] consolidate block variants
+Total block instances: 241
+Total variants: 24
+
+=== Base type -> variants / instances ===
+  88 inst    5 variants   text
+  86 inst    1 variants   unknown
+  26 inst    8 variants   form
+  21 inst    4 variants   cards
+  13 inst    2 variants   table
+   7 inst    4 variants   video
+
+=== Top 20 variants ===
+  86 x   unknown       pages= 86   footer|div1|img,aN,iN
+  73 x   text          pages= 71   div|div1|hd,aN,iN
+  14 x   form          pages= 14   div|div1|img,lst,frm,ifr,hd,aN,iN
+  13 x   cards         pages= 13   div|div1|img,hd,aN,iN
+  11 x   table         pages= 11   div|div1|img,tbl,lst,hd,aN,iN
+  10 x   text          pages= 10   div|div1|img,hd,aN,iN
+   4 x   cards         pages=  4   div|div1|img,lst,hd,aN,iN
+   3 x   form          pages=  3   div|div1|lst,frm,ifr,hd,aN,iN
+   3 x   form          pages=  3   div|div1|lst,frm,hd,aN,iN
+   2 x   cards         pages=  2   div|div1|img,aN,iN
+   2 x   cards         pages=  2   div|div1|aN,iN
+   2 x   form          pages=  2   div|div1|img,frm,ifr,hd,aN,iN
+   2 x   table         pages=  2   div|div1|img,tbl,lst,aN,iN
+   2 x   text          pages=  2   div|div1|img,lst,hd,aN,iN
+   2 x   text          pages=  2   div|div1|aN,iN
+   2 x   video         pages=  2   div|div1|img,ifr,hd,aN,iN
+   2 x   video         pages=  2   div|div1|img,tbl,lst,frm,ifr,hd,aN,iN
+   2 x   video         pages=  2   div|div1|img,frm,ifr,hd,aN,iN
+   1 x   form          pages=  1   div|div1|frm,ifr,hd,aN,iN
+   1 x   form          pages=  1   div|div1|img,tbl,lst,frm,ifr,hd,aN,iN
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 86, done 0, todo 86
+  [w2] 20/86 pages, shots=90
+  [w0] 40/86 pages, shots=117
+  [w0] 60/86 pages, shots=151
+  [w1] 80/86 pages, shots=169
+DONE pages=86 shots=177
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 45 pages, 80 variants
+  20/45 pages ok=41 miss=0
+  40/45 pages ok=73 miss=0
+DONE reshoot ok=80 miss=0
+▶ [7/12] capture template screenshots
+✓ t00_site·no-template.jpg  (457KB)  https://www.nzagbiz.co.nz/nz/en/about-us/research-and-develo
+✓ t01_site·no-template.jpg  (90KB)  https://www.nzagbiz.co.nz/nz/en/404.html
+DONE shots: 2/2
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A second standard type (Table)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 9 template groups | full: 3 sampled: 4 excluded: 2
+pages — inspected: 86 skipped: 10 non-200: 10 of 96 urls
+
+=== Template groups (by size) ===
+  G00    44  full      /{locale}/{section}/{page}/{path…}/{path…}  Locale deep pages
+  G01    21  sampled   /{locale}/{section}/{page}/{path…}  Locale deep pages
+  G02    10  sampled   /{locale}/{section}/{page}/{slug}  Locale deep pages
+  G03    10  sampled   /{locale}/{section}/{page}        Locale sub-pages
+  G04     5  sampled   /{locale}/{section}/{slug}        Locale sub-pages
+  G05     3  full      /{locale}/{section}/{page}/{id}/{path…}  Locale deep pages
+  G06     1  full      /{locale}/{section}               Locale section / landing pages
+  G07     1  excluded  /{page}                           Root-level product & marketing pages
+  G08     1  excluded  /{locale}/{slug}                  Locale section / landing pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 18, already done 0, todo 18
+  10/18 (ok=10 empty-fail=0)
+DONE backend capture. pages=18 ok=18
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 18 | first-party domain: co.nz
+Probable backend integrations: 3 | unclassified hosts: 2
+
+=== By category ===
+  1 Advertising
+  1 Analytics
+  1 Security / bot
+
+=== Services (by page coverage) ===
+ 18pg  Advertising                 Google Ads / DoubleClick
+ 18pg  Analytics                   Google Analytics (GA4)
+  3pg  Security / bot              Bot / security
+▶ [11/12] compute supplementary data
+compute-data: live pages 86 | structure groups 5 | docs 3 | url groups 2 | layout heatmap rows 1 | block heatmap rows 3 | integrations 7
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/nzagbiz-co-nz-site-analysis-dashboard.html 9.38 MB
+templates: 1 galleries: Cards:1, Table:10, Video:3
+IMAGES: 80 TEMPLATE_SHOTS: 1
+✅ done.
+exit=0

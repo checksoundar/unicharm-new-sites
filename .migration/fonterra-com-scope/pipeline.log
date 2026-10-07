@@ -1,0 +1,182 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/fonterra-com-scope
+▶ site: https://www.fonterra.com/nz/en.html
+CJK font: NotoSansCJKjp-Regular.otf: "Noto Sans CJK JP" "Regular"
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 1746, already done: 1746, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 1741
+Distinct layout signatures: 32
+
+=== Layout templates (est. full-population pages) ===
+ 1109 pp  rendered=1109   form-page        form>list>list>text                            |  nz(1062) cn(13) americas(9)
+  187 pp  rendered=187   form-page        form>list>text>text                            |  nz(146) cn(22) ja(16)
+   59 pp  rendered= 59   form-page        form>list>list>text>text                       |  sea(23) cn(11) au(10)
+   54 pp  rendered= 54   form-page        form>list>text>text>text                       |  cn(16) americas(11) sea(11)
+   43 pp  rendered= 43   form-page        form>list>text>text>text>text                  |  eu(13) en(11) sea(7)
+   36 pp  rendered= 36   form-page        form>list>list>text>text>text                  |  en(11) eu(9) sea(6)
+   34 pp  rendered= 34   form-page        form>text>text>text                            |  nz(17) cn(6) ja(5)
+   25 pp  rendered= 25   form-page        form>text>text>text>text                       |  sea(6) americas(5) cn(5)
+   23 pp  rendered= 23   form-page        form>text>text>text>text>text                  |  lk(6) sea(6) eu(4)
+   19 pp  rendered= 19   form-page        form>text>text                                 |  nz(16) cn(2) ja(1)
+   19 pp  rendered= 19   form-page        form>list>table>text                           |  nz(19)
+   17 pp  rendered= 17   form-page        form>text>list>text>text                       |  sea(5) cn(4) americas(2)
+   17 pp  rendered= 17   form-page        form>text>list>text>text>text                  |  sea(4) lk(3) americas(2)
+   17 pp  rendered= 17   form-page        form>text>list>text                            |  nz(9) cn(4) ja(4)
+   14 pp  rendered= 14   form-page        form>text>form>text>text                       |  sea(3) americas(2) au(2)
+   11 pp  rendered= 11   minimal-page     (empty)                                        |  cn(2) sea(2) americas(1)
+    9 pp  rendered=  9   form-page        form>text>list                                 |  cn(2) sea(2) americas(1)
+    8 pp  rendered=  8   form-page        form>list>form>text                            |  nz(4) americas(1) cn(1)
+    8 pp  rendered=  8   form-page        form>list>form>text>text                       |  sea(2) americas(1) au(1)
+    8 pp  rendered=  8   form-page        form>text>form>text                            |  nz(3) cn(2) ja(2)
+    4 pp  rendered=  4   article-text     text>text>text                                 |  content(3) americas(1)
+    4 pp  rendered=  4   form-page        form>list>iframe-embed>text>text               |  americas(1) cn(1) eu(1)
+    4 pp  rendered=  4   form-page        form>list>form>text>text>text                  |  au(1) eu(1) lk(1)
+    4 pp  rendered=  4   form-page        form>list>iframe-embed>text                    |  nz(4)
+    1 pp  rendered=  1   form-page        form>list>table>text>text                      |  au(1)
+    1 pp  rendered=  1   form-page        form>text>form>text>text>text                  |  eu(1)
+    1 pp  rendered=  1   form-page        form>text>table>text>text>text                 |  eu(1)
+    1 pp  rendered=  1   form-page        form>media>text                                |  nz(1)
+    1 pp  rendered=  1   form-page        form>text>iframe-embed>text                    |  nz(1)
+    1 pp  rendered=  1   article-text     text>text                                      |  nz(1)
+
+=== Third-party integrations detected ===
+ 6809 Google Tag Manager
+ 5025 Meta (Facebook) Pixel
+ 3432 Microsoft Clarity
+ 3314 Google Ads/DoubleClick
+ 1831 Google Maps
+ 1760 Adobe RUM (Helix)
+ 1747 reCAPTCHA
+ 1736 CDN/JS libs
+ 1459 Other third-party: staticcdn.co.nz
+   96 Twitter/X Pixel
+   27 YouTube embed
+   27 Other third-party: view.publitas.com
+   14 Vimeo
+    6 Other third-party: api.swiftype.com
+    6 Adobe Analytics/Experience Cloud
+    3 Other third-party: dokumfe7mps0i.cloudfront.net
+
+=== Global objects ===
+1736 dataLayer
+1719 google_tag_manager
+1719 fbq
+▶ [5/12] generic block capture skipped (AEM mode)
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 1746, done 1662, todo 84
+  [w0] 20/84 pages, shots=8
+  [w5] 40/84 pages, shots=16
+  [w5] 60/84 pages, shots=22
+  [w2] 80/84 pages, shots=22
+DONE pages=84 shots=23
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 153 pages, 254 variants
+  20/153 pages ok=47 miss=0
+  40/153 pages ok=79 miss=0
+  60/153 pages ok=124 miss=0
+  80/153 pages ok=154 miss=0
+  100/153 pages ok=191 miss=0
+  120/153 pages ok=216 miss=0
+  140/153 pages ok=237 miss=0
+DONE reshoot ok=254 miss=0
+▶ [7/12] capture template screenshots
+✓ t00_nz-en·no-template.jpg  (269KB)  https://www.fonterra.com/nz/en/our-stories/articles/2019-yea
+✓ t01_nz-en·no-template.jpg  (425KB)  https://www.fonterra.com/nz/en/our-stories/articles/22-years
+✓ t24_other·no-template.jpg  (87KB)  https://www.fonterra.com/content/fonterra/americas/en/campai
+✓ t30_cn-zh·no-template.jpg  (104KB)  https://www.fonterra.com/cn/zh/404.html
+✓ t31_jp-ja·no-template.jpg  (80KB)  https://www.fonterra.com/jp/ja/404.html
+✓ t35_americas·no-template.jpg  (140KB)  https://www.fonterra.com/americas/en/cookies-statement.html
+✓ t36_au-en·no-template.jpg  (142KB)  https://www.fonterra.com/au/en/cookies-statement.html
+✓ t37_cn-en·no-template.jpg  (125KB)  https://www.fonterra.com/cn/en/cookies-statement.html
+✓ t38_eu-en·no-template.jpg  (143KB)  https://www.fonterra.com/eu/en/cookies-statement.html
+✓ t39_jp-en·no-template.jpg  (137KB)  https://www.fonterra.com/jp/en/cookies-statement.html
+✓ t40_lk-en·no-template.jpg  (138KB)  https://www.fonterra.com/lk/en/cookies-statement.html
+✓ t45_sea-bh·no-template.jpg  (175KB)  https://www.fonterra.com/sea/bh/404.html
+✓ t46_sea·no-template.jpg  (139KB)  https://www.fonterra.com/sea/en/cookies-statement.html
+✓ t47_americas·no-template.jpg  (87KB)  https://www.fonterra.com/americas/en/404.html
+✓ t48_au-en·no-template.jpg  (287KB)  https://www.fonterra.com/au/en/dairy-nutrition-hub/learn-and
+✓ t49_cn-zh·no-template.jpg  (216KB)  https://www.fonterra.com/cn/zh/our-stories/articles/ready-to
+✓ t51_other·no-template.jpg  (21KB)  https://www.fonterra.com/content/fonterra/lk/en/redirection/
+✓ t52_jp-en·no-template.jpg  (440KB)  https://www.fonterra.com/jp/en/our-stories/media/fonterra-fr
+✓ t53_jp-ja·no-template.jpg  (141KB)  https://www.fonterra.com/jp/ja/cookies-statement.html
+✓ t55_lk-en·no-template.jpg  (85KB)  https://www.fonterra.com/lk/en/404.html
+✓ t71_sea-bh·no-template.jpg  (383KB)  https://www.fonterra.com/sea/bh/our-stories/media/fonterra-m
+✓ t79_cn-en·no-template.jpg  (73KB)  https://www.fonterra.com/cn/en/404.html
+✓ t88_eu-en·no-template.jpg  (213KB)  https://www.fonterra.com/eu/en/about-us/governance-and-manag
+✓ t128_sea·no-template.jpg  (406KB)  https://www.fonterra.com/sea/en/our-stories/media/fonterra-d
+DONE shots: 24/24
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A second standard type (Table)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 26 template groups | full: 3 sampled: 14 excluded: 9
+pages — inspected: 1742 skipped: 9294 non-200: 778 of 11036 urls
+
+=== Template groups (by size) ===
+  G00  7367  sampled   /{locale}/{section}/{page}/{path…}/{path…}  Locale deep pages
+  G01  1901  sampled   /sea/{section}/{page}/{path…}     Sea deep pages
+  G02   981  sampled   /americas/{section}/{page}/{path…}  Americas deep pages
+  G03   180  sampled   /{locale}/{section}/{page}/{path…}  Locale deep pages
+  G04   140  sampled   /{locale}/{section}/{page}/{slug}  Locale deep pages
+  G05   140  sampled   /{locale}/{section}/{page}        Locale sub-pages
+  G06    89  sampled   /{locale}/{section}/{page}/{id}/{path…}  Locale deep pages
+  G07    56  sampled   /{locale}/{section}/{slug}        Locale sub-pages
+  G08    35  sampled   /sea/{section}/{page}             Sea sub-pages
+  G09    33  sampled   /content/{section}/{page}/{path…}  Content deep pages
+  G10    23  sampled   /{locale}/{section}/{id}/{path…}/{path…}  Locale deep pages
+  G11    18  sampled   /americas/{section}/{page}        Americas sub-pages
+  G12    14  sampled   /sea/{section}/{slug}             Sea sub-pages
+  G13    12  excluded  /{page}                           Root-level product & marketing pages
+  G14    12  excluded  /{page}/{section}/{page}/{path…}  Root-level product & marketing pages
+  G15     8  full      /{locale}/{section}               Locale section / landing pages
+  G16     7  sampled   /americas/{section}/{slug}        Americas sub-pages
+  G17     5  excluded  /{locale}/{section}/{id}/{path…}  Locale deep pages
+  G18     4  excluded  /{locale}/{section}/{id}/{slug}   Locale deep pages
+  G19     3  excluded  /{page}/{section}/{page}          Root-level product & marketing pages
+  G20     2  full      /sea/{section}                    Sea section pages
+  G21     2  excluded  /sea/{section}/{id}/{path…}       Sea deep pages
+  G22     1  full      /americas/{section}               Americas section pages
+  G23     1  excluded  /                                 Homepage & root
+  G24     1  excluded  /{page}/{section}/{id}/{path…}    Root-level product & marketing pages
+  G25     1  excluded  /americas/{section}/{id}/{path…}  Americas deep pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 40, already done 0, todo 40
+  10/40 (ok=10 empty-fail=0)
+  20/40 (ok=20 empty-fail=0)
+  30/40 (ok=30 empty-fail=0)
+  40/40 (ok=40 empty-fail=0)
+DONE backend capture. pages=40 ok=40
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 40 | first-party domain: fonterra.com
+Probable backend integrations: 8 | unclassified hosts: 4
+
+=== By category ===
+  2 Advertising
+  1 Analytics
+  1 Maps
+  1 Session replay / analytics
+  1 First-party platform
+  1 Analytics / experience
+  1 Video
+
+=== Services (by page coverage) ===
+ 40pg  Analytics                   Google Analytics (GA4)
+ 40pg  Advertising                 Google Ads / DoubleClick
+ 40pg  Maps                        Google Maps API
+ 40pg  Session replay / analytics  Digital-experience analytics
+ 34pg  First-party platform        Www: Other first-party API
+  1pg  Analytics / experience      Adobe Experience Cloud
+  1pg  Advertising                 Meta Conversions
+  1pg  Video                       Video platform API
+▶ [11/12] compute supplementary data
+compute-data: live pages 10258 | structure groups 13 | docs 363 | url groups 10 | layout heatmap rows 11 | block heatmap rows 6 | integrations 16
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/fonterra-com-site-analysis-dashboard.html 24.86 MB
+templates: 12 galleries: Cards:52, Carousel:32, Accordion:20, Tabs:17, Table:13, Video:5
+IMAGES: 254 TEMPLATE_SHOTS: 12
+✅ done.
+exit=0

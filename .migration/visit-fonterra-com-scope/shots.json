@@ -1,0 +1,27 @@
+{
+ "captured": "2026-10-07T05:30:18.851Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] hero>text>fast-facts>text>cards>text>did-you-know>text>image-hotspots>text>timeline>stage-navigation",
+   "estPop": 2,
+   "url": "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+   "file": "t00_site·spa-page-template.jpg",
+   "captured": true,
+   "skipped": true
+  },
+  {
+   "idx": 1,
+   "name": "site·spa-page-template",
+   "family": "site · spa-page-template",
+   "signature": "[spa-page-template] stage-menu",
+   "estPop": 1,
+   "url": "https://www.visit.fonterra.com/global/en/home.html",
+   "file": "t01_site·spa-page-template.jpg",
+   "captured": true,
+   "skipped": true
+  }
+ ]
+}

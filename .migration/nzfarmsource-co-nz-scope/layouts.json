@@ -1,0 +1,3115 @@
+{
+ "captured": "2026-10-07T09:15:51.637Z",
+ "renderedPages": 1055,
+ "distinctSignatures": 156,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>fragment",
+   "rendered": 493,
+   "estPop": 493,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/10-handy-tips-to-support-milk-quality-this-calving-season.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/2024-new-zealand-dairy-industry-awards-keep-getting-sweeter.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/2-degrees-and-farm-source-giving-you-the-best-connectivity-deals.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/2024-fonterra-dairy-woman-of-the-year-talks-farmer-vet-advisory-relationships.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/2022-farm-insights-report-now-available.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/a-closer-look-at-foodservice-and-its-growth-potential.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/a-consistent-approach-provides-repro-success-for-co-op-farmers.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/a-farming-trinity-of-sustainability.html"
+   ],
+   "sections": {
+    "fragment": 986,
+    "article-header": 493,
+    "text": 493
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] ",
+   "rendered": 142,
+   "estPop": 142,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/",
+    "https://nzfarmsource.co.nz/advice-and-support/help-and-support/animal-support/zinccheck",
+    "https://nzfarmsource.co.nz/advice-and-support/help-and-support/milk-support/milk-quality-service-visit",
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance/cs-co-operative-difference",
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance/cs-farm-dairy-assessments",
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance/cs-data-connections",
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance/cs-farm-dairy-records",
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance1/cs-co-operative-difference"
+   ],
+   "sections": {},
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>fragment",
+   "rendered": 80,
+   "estPop": 80,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/5-reasons-to-herd-test-at-peak-production.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/a-successful-calf-rearing-season-starts-before-calving.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/behind-75-million-breakfasts-and-counting.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/body-condition-score-what-it-reveals-before-calving.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/building-our-own-pipeline-of-rural-governors.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/calf-feeding-systems-put-to-the-test-at-net-zero-pilot-dairy-farm.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/china-tour-delights-co-op-farmers.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/china-tour-takes-farmer-from-piopio-to-mongolia.html"
+   ],
+   "sections": {
+    "fragment": 160,
+    "article-header": 80,
+    "text": 80
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>fragment",
+   "rendered": 35,
+   "estPop": 35,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/farm-source-card.html",
+    "https://nzfarmsource.co.nz/archive/supplying-fonterra-organic/support-network/fonterra-organic-farmer-advisory-group.html",
+    "https://nzfarmsource.co.nz/archive/tcs.html",
+    "https://nzfarmsource.co.nz/archive/tcs/earn-bonus-fs-on-selected-cropping-seed.html",
+    "https://nzfarmsource.co.nz/archive/tcs/earn-bonus-fs-on-selected-agchem.html",
+    "https://nzfarmsource.co.nz/legal-and-disclaimers/interest-rates.html",
+    "https://nzfarmsource.co.nz/legal-and-disclaimers/terms-and-conditions.html",
+    "https://nzfarmsource.co.nz/legal-and-disclaimers/privacy-statement.html"
+   ],
+   "sections": {
+    "fragment": 70,
+    "hero": 35,
+    "text": 35
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>fragment>text>fragment",
+   "rendered": 19,
+   "estPop": 19,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/all-nutrients-great-and-small.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/better-bedding-leads-to-healthier-calves.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/calf-rearing-performance-starts-at-the-teat.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/cross-suckling-in-calves-why-it-happens-and-how-to-prevent-it.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/creating-confidence-in-the-calf-shed.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/early-calf-growth-pays-dividends-for-years-to-come.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/increased-efficiency-and-fewer-physical-strains.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/keeping-it-simple-with-the-right-weighing-solution.html"
+   ],
+   "sections": {
+    "fragment": 57,
+    "article-header": 19,
+    "text": 38
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment",
+   "rendered": 17,
+   "estPop": 17,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/related-articles-and-podcasts.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/resources.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/upcoming-events-and-webinars.html",
+    "https://nzfarmsource.co.nz/farming-jobs/jobs-resources.html",
+    "https://nzfarmsource.co.nz/footer-navigation.html",
+    "https://nzfarmsource.co.nz/footer-navigation/primary-navigation.html"
+   ],
+   "sections": {
+    "fragment": 17
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>quote>text>fragment",
+   "rendered": 16,
+   "estPop": 16,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/always-a-warm-welcome-from-smash.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/boost-home-grown-feed-with-smarter-new-pasture-weed-control.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/dairy-wages-rising-but-momentum-has-slowed.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/evolving-farm-workwear-for-women.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/expert-tips-for-autumn-pasture-growth.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/farm-insights-help-with-breeding-decisions.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/first-farm-award-helps-canterbury-couple-turn-persistence-into-ownership.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/fonterra-partners-with-side-to-support-innovation-and-inspire-dairy-leaders.html"
+   ],
+   "sections": {
+    "fragment": 32,
+    "article-header": 16,
+    "text": 32,
+    "quote": 16
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>cards>fragment",
+   "rendered": 12,
+   "estPop": 12,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/are-you-losing-milk-solids-to-facial-eczema.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/body-condition-scores-not-too-heavy-not-too-light-just-right.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/get-ready-people-expos-are-back.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/get-to-know-danielle-harvey.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/how-do-your-calf-rearing-practices-stack-up.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/milk-quality-visit-provides-numerous-benefits.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/optimise-your-farms-nutrient-inputs.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/spotlight-on-your-coop-innovating-to-meet-the-chinese-market.html"
+   ],
+   "sections": {
+    "fragment": 24,
+    "article-header": 12,
+    "text": 12,
+    "cards": 12
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>video>text>fragment",
+   "rendered": 11,
+   "estPop": 11,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/dairy-holdings-ltd-leads-the-way-in-sustainable-milk-chilling-with-coolcare.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/fonterra-farmers-making-the-most-of-milk-chilling-partnerships-one-year-on.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/fonterras-nzmp-launches-an-industry-first-tool.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/how-one-waikato-farmer-uses-data-to-improve-farm-performance.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/how-to-size-a-farm-culvert-the-right-way.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/milk-chilling-live-qa-with-coolsense.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/putting-the-best-foot-forward-and-mitigating-lameness.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/rearing-calves-for-a-productive-future-herd.html"
+   ],
+   "sections": {
+    "fragment": 22,
+    "article-header": 11,
+    "text": 22,
+    "video": 11
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>fragment>text>fragment",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/increase-clover-in-your-pasture-increase-production.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/its-not-just-about-weight-its-about-reassurance.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/make-every-summer-grazing-count-with-better-feed-and-smarter-effluent-use.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/maximise-pasture-performance-this-spring.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/maximising-growth-in-your-calves.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/protect-milk-quality-with-the-right-shed-maintenance.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/quality-nutrition-for-a-great-mating-season.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/stay-connected-to-your-water-supply-this-summer.html"
+   ],
+   "sections": {
+    "fragment": 30,
+    "article-header": 10,
+    "text": 20
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>tabs>hero>columns>related-articles>fragment",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/manage-effluent.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/imported-feed.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/managing-environmental-stress.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/focus-your-planting.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/maximise-herd-health.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/optimise-milk-quality.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/optimise-nitrogen-fertiliser.html",
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/optimise-pasture-and-crop.html"
+   ],
+   "sections": {
+    "fragment": 30,
+    "hero": 20,
+    "columns": 20,
+    "text": 10,
+    "tabs": 10,
+    "related-articles": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment",
+   "rendered": 8,
+   "estPop": 8,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/disperse-effluent-with-confidence.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/enrich-farm-and-community-news.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/new-dairy-basics-milking-course-launched-by-primary-ito.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/plenty-to-chew-on-at-side-2024.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/the-co-op-boosts-efficiency-with-ai.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/us-study-tour-helps-farmers-understand-role-in-global-dairy.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/whats-going-on-in-the-states.html",
+    "https://nzfarmsource.co.nz/content/farmsource/archive/organic-milk-price"
+   ],
+   "sections": {
+    "fragment": 16,
+    "hero": 8
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>columns>text>cards>hero>text>cards>text>fragment",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/customer-incentives.html",
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/te-puku.html",
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/te-putake-26-27.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/customer-incentives.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/te-puku.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/te-putake-26-27.html"
+   ],
+   "sections": {
+    "fragment": 18,
+    "hero": 12,
+    "columns": 12,
+    "text": 24,
+    "cards": 18
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>video>fragment",
+   "rendered": 5,
+   "estPop": 5,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/efficiency-visits-offer-a-fresh-set-of-eyes-on-farm.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/farmers-low-cost-efficiency-plans.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/farming-for-generations.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/revolutionising-pasture-management.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/south-island-drone-planting-trial-a-hit.html"
+   ],
+   "sections": {
+    "fragment": 10,
+    "article-header": 5,
+    "text": 5,
+    "video": 5
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>cards>text>fragment",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/aimer-puts-farmers-in-control-of-pasture-management.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/hoofcare-guide.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/prevent-lameness-to-improve-6-week-in-calf-rate.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/spotlight-on-your-coop-big-in-japan.html"
+   ],
+   "sections": {
+    "fragment": 8,
+    "article-header": 4,
+    "text": 8,
+    "cards": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>columns>hero>fragment",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference.html",
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/the-co-operative-difference-26-27.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/the-co-operative-difference-26-27.html"
+   ],
+   "sections": {
+    "fragment": 12,
+    "hero": 8,
+    "columns": 8,
+    "text": 4,
+    "cards": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>cards>columns>text>cards>fragment",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance/cs-co-operative-difference.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance/cs-data-connections.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance/cs-farm-dairy-assessments.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance/cs-farm-dairy-records.html"
+   ],
+   "sections": {
+    "fragment": 8,
+    "hero": 4,
+    "cards": 8,
+    "columns": 4,
+    "text": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>related-articles>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/cleaner-forage-crops.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/summer-milk-solutions.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/super-charge-your-insecticides-with-flume.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "article-header": 3,
+    "text": 3,
+    "related-articles": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>columns>embed>text>embed>text>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/bactoscan-factsheet.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/freezing-point-factsheet.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/senses-organoleptic-assessment-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 3,
+    "text": 9,
+    "cards": 3,
+    "columns": 3,
+    "embed": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>columns>embed>text>embed>qualtrics-feedback>text>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/chlorates-factsheet.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/coliform-factsheet.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/milk-cooling-temp-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 3,
+    "text": 9,
+    "cards": 3,
+    "columns": 3,
+    "embed": 6,
+    "qualtrics-feedback": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>hero>related-articles>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub/support-network.html",
+    "https://nzfarmsource.co.nz/archive/supplying-fonterra-organic/support-network.html",
+    "https://nzfarmsource.co.nz/milk/supplying-fonterra-organic/support-network.html"
+   ],
+   "sections": {
+    "fragment": 9,
+    "hero": 6,
+    "text": 9,
+    "columns": 6,
+    "related-articles": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>related-articles>text>hero>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub/tools-and-resources.html",
+    "https://nzfarmsource.co.nz/archive/supplying-fonterra-organic/tools-and-resources.html",
+    "https://nzfarmsource.co.nz/milk/supplying-fonterra-organic/tools-and-resources.html"
+   ],
+   "sections": {
+    "fragment": 9,
+    "hero": 6,
+    "text": 9,
+    "columns": 6,
+    "related-articles": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>columns>text>cards>hero>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/emissions/what-counts-towards-my-emission-number.html",
+    "https://nzfarmsource.co.nz/campaigns/emissions/why-are-we-updating-our-emissions-calculations.html",
+    "https://nzfarmsource.co.nz/campaigns/emissions/why-do-i-report-my-emissions-numbers.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "columns": 3,
+    "text": 3,
+    "cards": 3,
+    "hero": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>tabs>embed>text>article-listing>text>cards>text>fragment",
+   "rendered": 3,
+   "estPop": 3,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials.html",
+    "https://nzfarmsource.co.nz/land-and-feed.html",
+    "https://nzfarmsource.co.nz/milk.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 3,
+    "text": 15,
+    "cards": 6,
+    "tabs": 3,
+    "embed": 3,
+    "article-listing": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>embed>text>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/change-of-season-checklist.html",
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/dairy-diary-app.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "text": 4,
+    "accordion": 2,
+    "embed": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/about-farm-source.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/the-co-operative-difference-honour-roll.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 2,
+    "columns": 4,
+    "cards": 2,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>video>text>fragment>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/a-farmers-approach-to-autumn-weed-control.html",
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/sprayout-delivers-results.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "article-header": 2,
+    "text": 6,
+    "video": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>fragment>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/cropping-seed.html",
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/cropping-seed.html"
+   ],
+   "sections": {
+    "fragment": 8,
+    "hero": 4,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>columns>text>columns>cards>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/cs-one-workspace.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance/cs-one-workspace.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 2,
+    "columns": 6,
+    "text": 6,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>columns>embed>text>embed>text>embed>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/dde-management-factsheet.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/fei-management-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "text": 10,
+    "cards": 2,
+    "columns": 2,
+    "embed": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>columns>embed>text>embed>text>embed>qualtrics-feedback>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/inhib-factsheet.html",
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/thermoduric-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "text": 10,
+    "cards": 2,
+    "columns": 2,
+    "embed": 6,
+    "qualtrics-feedback": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>columns>related-articles>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/on-farm-support.html",
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/on-farm-support.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 4,
+    "columns": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>columns>text>hero>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub/optimising-an-organic-system.html",
+    "https://nzfarmsource.co.nz/milk/supplying-fonterra-organic/optimising-an-organic-system.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 4,
+    "columns": 2,
+    "text": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>text>hero>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub.html",
+    "https://nzfarmsource.co.nz/milk/supplying-fonterra-organic.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "cards": 2,
+    "text": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>columns>text>columns>text>hero>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub/milk-price-and-financial-information.html",
+    "https://nzfarmsource.co.nz/milk/supplying-fonterra-organic/milk-price-and-financial-information.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "columns": 6,
+    "text": 6,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>hero>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub/whats-involved.html",
+    "https://nzfarmsource.co.nz/milk/supplying-fonterra-organic/whats-involved.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "columns": 2,
+    "text": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>columns>fragment>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/pasture-seed.html",
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/pasture-seed.html"
+   ],
+   "sections": {
+    "fragment": 8,
+    "hero": 4,
+    "text": 6,
+    "columns": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>fragment>cards>hero>cards>text>cards>text>cards>text>columns>fragment>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/seasonal-offers/2026/october.html",
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/seasonal-offers.html"
+   ],
+   "sections": {
+    "fragment": 10,
+    "hero": 6,
+    "cards": 10,
+    "text": 6,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>text>columns>cards>hero>text>cards>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance1.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 6,
+    "columns": 6,
+    "cards": 6,
+    "text": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>columns>text>hero>columns>text>cards>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/spring/2026-v2.html",
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/spring.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 6,
+    "text": 10,
+    "columns": 8,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>hero>text>cards>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/te-putake-25-26.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/te-putake-25-26.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "columns": 2,
+    "text": 6,
+    "cards": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>text>cards>hero>text>cards>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/te-tihi.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/te-tihi.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "columns": 4,
+    "cards": 6,
+    "text": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>related-articles>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/farm-emissions-made-simple.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/farm-emissions-made-simple.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "text": 4,
+    "columns": 4,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/the-co-operative-difference-honour-roll.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/shareholding/aml-requirements1.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 2,
+    "columns": 2,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>text>cards>columns>hero>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/the-co-operative-difference/the-co-operative-difference-25-26.html",
+    "https://nzfarmsource.co.nz/co-op-and-financials/the-co-operative-difference/the-co-operative-difference-25-26.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 4,
+    "columns": 4,
+    "text": 4,
+    "cards": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>columns>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/2degrees.html",
+    "https://nzfarmsource.co.nz/no-access.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>cards>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/telco.html",
+    "https://nzfarmsource.co.nz/legal-and-disclaimers/terms-and-conditions/rewards-terms-and-conditions.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/applications-and-forms.html",
+    "https://nzfarmsource.co.nz/retail/applications-and-forms.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "text": 4,
+    "accordion": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>columns>text>tabs>columns>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/farming-jobs/support-for-employers.html",
+    "https://nzfarmsource.co.nz/farming-jobs/support-for-jobseekers.html"
+   ],
+   "sections": {
+    "fragment": 6,
+    "hero": 2,
+    "columns": 6,
+    "text": 4,
+    "tabs": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/focus-your-planting.html",
+    "https://nzfarmsource.co.nz/land-and-feed/optimise-nitrogen-fertiliser.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "text": 20,
+    "accordion": 6,
+    "embed": 10,
+    "columns": 2,
+    "related-articles": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>cards>text>fragment>text>cards>columns>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "text": 5,
+    "cards": 4,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>video>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/dairy-diary-4-app.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "video": 1,
+    "embed": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·homepage",
+   "family": "site · homepage",
+   "signature": "[homepage] fragment>hero>text>cards>text>tabs>embed>text>article-listing>text>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 5,
+    "cards": 2,
+    "tabs": 1,
+    "embed": 1,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>text>embed>text>cards>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 4,
+    "columns": 1,
+    "embed": 2,
+    "cards": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/updating-your-mobile-devices-operating-system.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "text": 3,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>video>text>columns>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/my-co-op-app.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "video": 1,
+    "columns": 1,
+    "embed": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>article-listing>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/on-farm-app.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 2,
+    "columns": 1,
+    "embed": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>cards>text>cards>text>cards>text>cards>text>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/a-spotlight-on-your-co-op-foodservice-products.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 6,
+    "cards": 5
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/archive-folder-enrich.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>embed>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/are-you-making-the-most-of-your-pasture.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "embed": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>accordion>text>accordion>text>accordion>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/autumn-weed-management.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 4,
+    "accordion": 3,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>cards>text>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/best-in-class-co-op-farmers-praised-by-mars.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 3,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>accordion>text>accordion>text>accordion>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/best-practice-pasture-nutrition.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 3,
+    "accordion": 3,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>embed>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/best-practices-for-ensuring-milk-quality-during-the-challenging-summer-months.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "embed": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>accordion>text>columns>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/co-op-on-track-to-meet-climate-targets.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "accordion": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>columns>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/exciting-new-perennial-ryegrass-options.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>accordion>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/fonterra-goes-coal-free-in-the-north-island.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 1,
+    "accordion": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>video>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/less-nitrogen-same-milk-solids-better-bottom-line.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 1,
+    "video": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>video>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/partnership-harnesses-the-power-of-our-protein-rich-milk.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "video": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>accordion>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/sow-right-this-autumn-for-better-homegrown-feed-results.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "accordion": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>quote>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/strive-for-five-to-make-your-whole-herd-thrive.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 2,
+    "quote": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>cards>text>fragment>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/the-right-sowing-date-could-offer-you-more-feed.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "article-header": 1,
+    "text": 3,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>columns>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/enrich/why-wagyu.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "article-header": 1,
+    "text": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/farm-dairy-records.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "accordion": 1,
+    "embed": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>embed>text>video>embed>text>video>embed>text>video>embed>text>accordion>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/farm-dairy-assessment.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 7,
+    "accordion": 2,
+    "embed": 5,
+    "video": 3,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>video>text>columns>embed>text>cards>embed>text>accordion>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/advice-and-support/on-farm-efficiency-service.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 5,
+    "video": 1,
+    "columns": 1,
+    "embed": 3,
+    "cards": 1,
+    "accordion": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>cards>embed>text>article-listing>text>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 5,
+    "cards": 3,
+    "embed": 1,
+    "article-listing": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/cow-and-calf-wellbeing.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 13,
+    "cards": 1,
+    "accordion": 5,
+    "embed": 6,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>accordion>embed>text>accordion>text>embed>qualtrics-feedback>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/join-beef-on-dairy-team.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 7,
+    "embed": 4,
+    "accordion": 2,
+    "qualtrics-feedback": 1,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/maximise-herd-health.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 12,
+    "accordion": 4,
+    "embed": 6,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/optimise-reproduction.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 14,
+    "accordion": 5,
+    "embed": 7,
+    "columns": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>embed>text>columns>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/understanding-biosecurity.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 6,
+    "embed": 4,
+    "columns": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>video>embed>text>accordion>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/zinccheck.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "video": 1,
+    "embed": 2,
+    "accordion": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>embed>text>embed>text>embed>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/animals/performance-beef-sires.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 9,
+    "embed": 7,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>cards>hero>columns>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/advice-and-support.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 2,
+    "text": 2,
+    "cards": 2,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>columns>embed>text>embed>text>embed>text>embed>text>accordion>embed>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/aflatoxin-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 8,
+    "cards": 1,
+    "columns": 1,
+    "embed": 6,
+    "accordion": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>columns>text>columns>text>columns>text>columns>text>columns>text>columns>text>columns>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/digital-tools.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "text": 9,
+    "columns": 9
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>columns>embed>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/effective-detergent-rinsing-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "cards": 1,
+    "columns": 1,
+    "embed": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>columns>embed>qualtrics-feedback>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/grades-and-alerts/milk-filters-factsheet.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "cards": 1,
+    "columns": 1,
+    "embed": 1,
+    "qualtrics-feedback": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>fragment>text>columns>text>columns>text>hero>columns>related-articles>fragment>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/organic-hub/considering-organic.html"
+   ],
+   "sections": {
+    "fragment": 5,
+    "hero": 2,
+    "columns": 4,
+    "text": 5,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>cards>text>cards>columns>text>cards>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/season-planner.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "text": 5,
+    "cards": 5,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>fragment>cards>hero>cards>text>cards>text>cards>text>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/seasonal-offers.html"
+   ],
+   "sections": {
+    "fragment": 5,
+    "hero": 3,
+    "text": 4,
+    "cards": 5
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>text>columns>cards>hero>text>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 3,
+    "columns": 2,
+    "cards": 3,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>cards>columns>cards>columns>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance/cs-one-workspace.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 4,
+    "cards": 4,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>columns>text>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/spring.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "columns": 2,
+    "text": 2,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>cards>columns>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/archive/simplifying-compliance1/cs-one-workspace.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 3,
+    "cards": 3,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/emissions.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 2,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>columns>text>columns>text>columns>text>columns>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/digital-tools.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "text": 6,
+    "columns": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>text>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/fuel.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "cards": 2,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>columns>hero>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub/farm-insights-report.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "text": 1,
+    "cards": 1,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>text>columns>text>tabs>columns>text>video>related-articles>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/on-farm-efficiency-hub.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "cards": 1,
+    "text": 4,
+    "columns": 2,
+    "tabs": 1,
+    "video": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/on-farm-fuel.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 1,
+    "cards": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>cards>embed>text>accordion>text>embed>text>columns>text>embed>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/planting-grant.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 8,
+    "embed": 5,
+    "cards": 1,
+    "accordion": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>columns>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/power.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "text": 2,
+    "cards": 2,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>fragment>text>columns>text>columns>text>hero>columns>related-articles>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/organic-milk.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "columns": 4,
+    "text": 5,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>text>columns>hero>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/pay-as-you-save-programme.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "columns": 2,
+    "text": 3,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>fragment>text>cards>columns>text>cards>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/season-planner.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 1,
+    "text": 5,
+    "cards": 4,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>cards>text>fragment>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/spreadwise.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 1,
+    "columns": 1,
+    "text": 3,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>text>cards>text>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/seed.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "cards": 2,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/campaigns/summer-deals.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>embed>text>cards>text>embed>text>accordion>cards>text>embed>text>cards>text>embed>text>cards>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/mental-health-and-wellbeing-support.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 9,
+    "columns": 1,
+    "embed": 4,
+    "cards": 4,
+    "accordion": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>embed>text>cards>text>embed>text>accordion>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/helping-you-to-resolve-issues.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 5,
+    "columns": 1,
+    "embed": 2,
+    "cards": 1,
+    "accordion": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>columns>text>columns>text>cards>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/milk-financials.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "text": 4,
+    "columns": 2,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>accordion>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/milk-financials/advance-rates.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 4,
+    "embed": 2,
+    "accordion": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>text>accordion>text>accordion>text>accordion>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/shareholding/aml-requirements.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 5,
+    "columns": 1,
+    "accordion": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>columns>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/rural-professionals/rproadshow.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "columns": 1,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/simplifying-compliance/understanding-data-connections.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>columns>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/shareholding/sharesies.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 2,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>cards>columns>cards>columns>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/co-op-and-financials/rural-professionals.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "columns": 4,
+    "cards": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>text>columns>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/farming-jobs/advice-for-jobseekers.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 3,
+    "columns": 2,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>columns>text>columns>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/farming-jobs/advice-for-employers.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 2,
+    "columns": 2,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/farming-jobs/cybersecurity.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 1,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/footer-navigation/legal-and-disclaimers.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/image-specifications.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/image-specifications/tools.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "text": 2,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>columns>text>columns>text>cards>text>cards>text>cards>text>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/image-specifications/card.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "text": 7,
+    "cards": 5,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>hero>text>hero>text>hero>text>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/image-specifications/banners-and-headers.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 5,
+    "text": 4,
+    "cards": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/imported-feed.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 6,
+    "accordion": 1,
+    "embed": 3,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/manage-effluent.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 8,
+    "accordion": 2,
+    "embed": 4,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/managing-environmental-stress.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 12,
+    "accordion": 4,
+    "embed": 6,
+    "columns": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>accordion>embed>text>cards>embed>text>accordion>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/join-the-pasture-quality-pilot.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 9,
+    "embed": 6,
+    "accordion": 2,
+    "cards": 1,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/optimise-pasture-and-crop.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 10,
+    "accordion": 3,
+    "embed": 5,
+    "columns": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/land-and-feed/unlock-nutrition-efficiency.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 16,
+    "accordion": 6,
+    "embed": 8,
+    "columns": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>cards>text>embed>text>cards>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/milk/milk-vat-monitoring.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 6,
+    "embed": 3,
+    "cards": 2,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>text>columns>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/milk/food-safety.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 11,
+    "embed": 6,
+    "accordion": 3,
+    "columns": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>accordion>text>embed>text>accordion>text>embed>text>accordion>text>embed>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/milk/optimise-milk-quality.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 8,
+    "accordion": 3,
+    "embed": 4,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>embed>text>embed>text>accordion>text>embed>text>embed>text>embed>text>columns>text>embed>qualtrics-feedback>text>related-articles>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/milk/specialty-milks.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "text": 9,
+    "embed": 6,
+    "accordion": 1,
+    "columns": 1,
+    "qualtrics-feedback": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>cards>text>columns>hero>columns>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 2,
+    "text": 3,
+    "cards": 1,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>cards>text>cards>text>cards>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/farm-source-rewards/earn/fuel.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 1,
+    "cards": 3,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>cards>text>cards>columns>cards>text>cards>columns>cards>accordion>columns>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/agritech.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 2,
+    "columns": 5,
+    "cards": 7,
+    "text": 2,
+    "accordion": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>hero>text>columns>cards>columns>cards>text>columns>cards>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/farm-source-rewards/earn/partnerships.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 3,
+    "columns": 4,
+    "text": 2,
+    "cards": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>cards>columns>text>columns>cards>columns>text>columns>text>columns>text>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/farm-source-rewards.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 6,
+    "cards": 2,
+    "text": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/farm-source-rewards/farm-source-rewards-faqs.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>columns>text>columns>text>columns>text>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/join-farm-source.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "hero": 2,
+    "columns": 3,
+    "text": 3
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>columns>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub.html"
+   ],
+   "sections": {
+    "fragment": 3,
+    "hero": 1,
+    "text": 1,
+    "cards": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>columns>text>columns>hero>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/autumn.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 3,
+    "columns": 2,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>text>columns>cards>text>columns>cards>text>columns>cards>text>columns>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/best-practice-pasture-renewal.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "cards": 4,
+    "text": 4,
+    "columns": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>hero>text>cards>text>columns>text>cards>text>cards>hero>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/autumn/on-farm-advice.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 4,
+    "text": 5,
+    "cards": 4,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>hero>cards>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/calving.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 3,
+    "cards": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>fragment>related-articles>hero>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/maize.html"
+   ],
+   "sections": {
+    "fragment": 5,
+    "hero": 3,
+    "text": 2,
+    "cards": 1,
+    "related-articles": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>hero>text>cards>text>cards>columns>text>cards>text>cards>columns>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/calving/on-farm-focus.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 3,
+    "text": 6,
+    "cards": 5,
+    "columns": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>text>cards>text>cards>text>columns>cards>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/moving-farms.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 2,
+    "text": 3,
+    "cards": 3,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>text>cards>hero>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/summer.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 3,
+    "cards": 2,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>text>search>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/search-results.html"
+   ],
+   "sections": {
+    "fragment": 2,
+    "text": 1,
+    "search": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>fragment>cards>columns>text>cards>hero>text>cards>hero>fragment>hero>fragment",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://nzfarmsource.co.nz/retail/seasonal-hub/summer/on-farm-advice.html"
+   ],
+   "sections": {
+    "fragment": 4,
+    "hero": 4,
+    "cards": 3,
+    "columns": 1,
+    "text": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

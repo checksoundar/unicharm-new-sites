@@ -1,0 +1,66 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/lactanol-com-scope
+▶ site: https://www.lactanol.com/
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 1, already done: 1, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 1
+Distinct layout signatures: 1
+
+=== Layout templates (est. full-population pages) ===
+    1 pp  rendered=  1   minimal-page     (empty)                                        |  (home)(1)
+
+=== Third-party integrations detected ===
+    1 Adobe RUM (Helix)
+
+=== Global objects ===
+▶ [5/12] capture block instances (resumable)
+Render set 1, pages already captured 1, todo 0
+DONE. pages=0 blocks=0
+▶ [6/12] consolidate block variants
+Total block instances: 1
+Total variants: 1
+
+=== Base type -> variants / instances ===
+   1 inst    1 variants   unknown
+
+=== Top 20 variants ===
+   1 x   unknown       pages=  1   div|article1.div1|img,hd,aN,iN
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 1, done 0, todo 1
+DONE pages=1 shots=8
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 1 pages, 7 variants
+DONE reshoot ok=7 miss=0
+▶ [7/12] capture template screenshots
+✓ t00_site·no-template.jpg  (657KB)  https://www.lactanol.com/
+DONE shots: 1/1
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 1 template groups | full: 0 sampled: 0 excluded: 1
+pages — inspected: 0 skipped: 1 non-200: 0 of 1 urls
+
+=== Template groups (by size) ===
+  G00     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 1, already done 0, todo 1
+DONE backend capture. pages=1 ok=1
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 1 | first-party domain: lactanol.com
+Probable backend integrations: 0 | unclassified hosts: 0
+
+=== By category ===
+
+=== Services (by page coverage) ===
+▶ [11/12] compute supplementary data
+compute-data: live pages 1 | structure groups 0 | docs 3 | url groups 1 | layout heatmap rows 1 | block heatmap rows 1 | integrations 1
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/lactanol-com-site-analysis-dashboard.html 1.87 MB
+templates: 1 galleries: Cards:6
+IMAGES: 7 TEMPLATE_SHOTS: 1
+✅ done.
+exit=0

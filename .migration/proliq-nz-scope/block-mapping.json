@@ -1,0 +1,20 @@
+{
+  "_about": "proliq.nz — evidence-reviewed classification (dump-variants + review-sheet.jpg).",
+  "gridLayout": { "eds": "section", "category": "section", "complexity": "Simple",
+    "rationale": "Layout component (article-grid / vertical-standard) → EDS section; bgCerulean / blueShade / minimal-padded → section-metadata styles." },
+  "heroBanner": { "eds": "hero", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Background image (desktop + mobile <img>) with heading, copy and optional CTA overlaid → Hero." },
+  "text-image-with-zoom": { "eds": "columns", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Image beside heading + copy (imageTextLeft / imageTextRight modifiers → Columns variant order); image opens a zoom modal (data-toggle) — use the boilerplate modal/lightbox enhancement." },
+  "accordionItem": { "eds": "accordion", "category": "boilerplate", "complexity": "Medium",
+    "rationale": "Expand/collapse items grouped by data-accordiongroup ('Show more') → Accordion. Specification panels nest richText + table components (Medium)." },
+  "contactus": { "eds": "contact-form", "category": "custom", "complexity": "Medium",
+    "rationale": "Enquiry form (location select, name, email, phone, comments) with reCAPTCHA (data-sitekey) posting to a Fonterra backend — no form block in the boilerplate library; needs a form block + submission integration." },
+  "table": { "eds": "table", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Specification table → Table. DEFECT: on the live site these 7 instances render the Granite/Coral authoring UI ('There is no item' / 'Loading more items', coral-wait) instead of data — re-author the spec data from the PDFs during migration." },
+  "subsection": { "eds": "default-content", "category": "default-content", "complexity": "Simple",
+    "rationale": "Headline (+ blue underline) and copy → default content (heading style via section metadata)." },
+  "richText": { "eds": "default-content", "category": "default-content", "complexity": "Simple", "rationale": "Rich text → default content." },
+  "downloadFile": { "eds": "default-content", "category": "default-content", "complexity": "Simple",
+    "rationale": "Short copy + single button (Contact us / PDF download) in a tinted strip → default-content text + button inside a styled section." }
+}

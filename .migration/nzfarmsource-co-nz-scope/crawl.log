@@ -1,0 +1,57 @@
+sitemap URLs in scope: 1328; seeds: 1
+  crawled 100, queue 1228
+  crawled 200, queue 1217
+  crawled 300, queue 1132
+  crawled 400, queue 1038
+  crawled 500, queue 942
+  crawled 600, queue 853
+  crawled 700, queue 760
+  crawled 800, queue 668
+  crawled 900, queue 572
+  crawled 1000, queue 493
+  crawled 1100, queue 425
+  crawled 1200, queue 342
+  crawled 1300, queue 260
+  crawled 1400, queue 171
+  crawled 1500, queue 75
+total 1530 (+45 component endpoints), sitemap 1328
+670	advice-and-support/enrich 200
+118	content/dam 200
+85	myaccount/co-op-and-financials 200
+76	campaigns/on-farm-efficiency-hub 301
+57	campaigns/on-farm-efficiency-hub 200
+28	legal-and-disclaimers/terms-and-conditions 200
+15	retail/seasonal-hub 200
+13	archive/grades-and-alerts 200
+13	content/farmsource 404
+11	co-op-and-financials/the-co-operative-difference 200
+11	farming-jobs/jobs-resources 301
+11	archive/the-co-operative-difference 200
+10	content/farmsource 200
+10	footer-navigation/primary-navigation 200
+9	co-op-and-financials/shareholding 200
+9	content/farmsource 403
+7	co-op-and-financials/simplifying-compliance 200
+7	advice-and-support/enrich 404
+7	footer-navigation/primary-navigation 301
+6	retail/farm-source-rewards 200
+6	archive/organic-hub 200
+5	milk/supplying-fonterra-organic 200
+5	advice-and-support/digital-tools-and-services 200
+5	campaigns/start-of-season 200
+4	myaccount/milk 200
+4	myaccount/digital-product-support 200
+4	co-op-and-financials/milk-financials 200
+4	footer-navigation/secondary-navigation 200
+4	advice-and-support/help-and-support 404
+3	myaccount/retail 200
+3	co-op-and-financials/events 200
+3	co-op-and-financials/co-operative-council 200
+3	milk/organic-milk 301
+3	campaigns/emissions 200
+3	footer-navigation/legal-and-disclaimers 200
+3	archive/supplying-fonterra-organic 200
+3	myaccount/shareholding 200
+3	farm-source-rewards/earn 200
+2	co-op-and-financials/your-contacts 200
+2	farming-jobs/jobs-resources 200

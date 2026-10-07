@@ -1,0 +1,114 @@
+{
+ "captured": "2026-10-07T06:04:48.231Z",
+ "locales": [
+  "nz"
+ ],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 8,
+  "totalLive": 91,
+  "totalUrls": 131,
+  "selectedTotal": 90,
+  "skippedTotal": 41,
+  "non200Total": 40,
+  "nonRrendered": 2,
+  "nonRtotal": 2,
+  "fullGroups": 2,
+  "rRendered": 88,
+  "rTotal": 121,
+  "rGroups": 4,
+  "exclTotal": 8,
+  "exclGroups": 2,
+  "nonEnExcluded": 8
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{page}/{path…}/{path…}",
+   "label": "Locale deep pages",
+   "total": 75,
+   "selected": 59,
+   "skipped": 16,
+   "non200": 16,
+   "category": "sampled",
+   "example": "/nz/en/ingredients/probiotics/nutiani-hn019.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}/{section}/{page}/{slug}",
+   "label": "Locale deep pages",
+   "total": 18,
+   "selected": 12,
+   "skipped": 6,
+   "non200": 5,
+   "category": "sampled",
+   "example": "/nz/en/wellbeing-areas/test0.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{locale}/{section}/{page}/{path…}",
+   "label": "Locale deep pages",
+   "total": 17,
+   "selected": 9,
+   "skipped": 8,
+   "non200": 8,
+   "category": "sampled",
+   "example": "/nz/en/wellbeing-areas/test.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{locale}/{section}/{page}",
+   "label": "Locale sub-pages",
+   "total": 11,
+   "selected": 8,
+   "skipped": 3,
+   "non200": 3,
+   "category": "sampled",
+   "example": "/nz/en/wellbeing-areas.html"
+  },
+  {
+   "groupId": "G04",
+   "template": "/{page}/{section}/{page}/{path…}",
+   "label": "Root-level product & marketing pages",
+   "total": 7,
+   "selected": 0,
+   "skipped": 7,
+   "non200": 7,
+   "category": "excluded",
+   "example": "/content/nutiani/content/nz/en/wellbeing-areas/physical-wellbeing"
+  },
+  {
+   "groupId": "G05",
+   "template": "/{locale}/{section}",
+   "label": "Locale section / landing pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/nz/en.html"
+  },
+  {
+   "groupId": "G06",
+   "template": "/{page}",
+   "label": "Root-level product & marketing pages",
+   "total": 1,
+   "selected": 0,
+   "skipped": 1,
+   "non200": 1,
+   "category": "excluded",
+   "example": "/nz.html"
+  },
+  {
+   "groupId": "G07",
+   "template": "/{locale}/{section}/{slug}",
+   "label": "Locale sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/nz/en/404.html"
+  }
+ ]
+}

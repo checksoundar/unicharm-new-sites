@@ -1,0 +1,48 @@
+{
+ "captured": "2026-10-07T05:30:19.084Z",
+ "sampledPages": 2,
+ "firstPartyDomain": "fonterra.com",
+ "totalServices": 1,
+ "categories": [
+  {
+   "category": "Analytics",
+   "count": 1
+  }
+ ],
+ "services": [
+  {
+   "name": "Google Analytics (GA4)",
+   "category": "Analytics",
+   "note": "GA4 collect beacons",
+   "hosts": [
+    "www.google-analytics.com",
+    "www.google.com"
+   ],
+   "hostCount": 2,
+   "endpoints": [
+    "POST www.google-analytics.com/g/collect",
+    "POST www.google-analytics.com/j/collect",
+    "POST www.google.com/g/collect"
+   ],
+   "pages": 2,
+   "coverage": "100%"
+  }
+ ],
+ "otherHosts": [
+  {
+   "host": "api-widget.soundcloud.com",
+   "pages": 2,
+   "sample": "GET api-widget.soundcloud.com/resolve"
+  },
+  {
+   "host": "dwt.soundcloud.com",
+   "pages": 2,
+   "sample": "POST dwt.soundcloud.com/js"
+  },
+  {
+   "host": "playback.media-streaming.soundcloud.cloud",
+   "pages": 1,
+   "sample": "GET playback.media-streaming.soundcloud.cloud/QYtyNKGMPIYE/aac_:nk/:id/playlist.m3u8"
+  }
+ ]
+}

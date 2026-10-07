@@ -1,0 +1,14 @@
+{
+  "_about": "lactanol.com — single-page legacy AEM (foundation parsys) site. Component boundaries via config.componentSelector (section.nav, section.page-section, .comp__footer). Evidence: tag patterns + screenshots (review-sheet.jpg).",
+  "nav": { "eds": "header", "category": "chrome", "complexity": "Simple",
+    "rationale": "Fixed top bar: logo + 3 in-page jump links (data-jump-to / data-jump-item) to #about-us, #process, #contact → EDS header (nav fragment with anchor links). The page also has a fixed side 'pagination' (section dots) driven by the same jump script — reproduce as a small header enhancement, not a block." },
+  "page-section": { "eds": "columns", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Full-viewport content section: heading + copy on one side, imagery / diagram / spec sheet on the other → Columns (one EDS section per page-section, section id kept for the anchor nav).",
+    "variantRules": [
+      { "pattern": "^section\\(div\\(section\\(div\\(rte\\)\\+\\)\\)\\)$", "eds": "hero", "category": "boilerplate", "note": "Full-bleed background image with overlaid heading + 'Get in touch' CTA (#home, #distilled) → Hero." },
+      { "pattern": "div\\(a\\(img\\)\\)", "eds": "columns", "category": "boilerplate", "note": "Specifications: copy + spec-table image linking to the specification PDF ('See more') → Columns; consider re-authoring the spec image as a real Table block." },
+      { "pattern": "div\\(div\\(img\\),div\\(rte\\)\\)", "eds": "columns", "category": "boilerplate", "note": "Contact: address / phone details + logo → Columns (or default content)." }
+    ] },
+  "comp__footer": { "eds": "footer", "category": "chrome", "complexity": "Simple",
+    "rationale": "Empty footer container (0px) — terms link lives in the contact section; EDS footer fragment with the terms-of-supply PDF link." }
+}

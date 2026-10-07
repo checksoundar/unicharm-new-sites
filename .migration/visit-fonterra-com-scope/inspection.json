@@ -1,0 +1,48 @@
+{
+ "captured": "2026-10-07T05:30:18.976Z",
+ "locales": [],
+ "sections": [
+  "global"
+ ],
+ "selInspect": {
+  "totalGroups": 2,
+  "totalLive": 6,
+  "totalUrls": 6,
+  "selectedTotal": 6,
+  "skippedTotal": 0,
+  "non200Total": 0,
+  "nonRrendered": 6,
+  "nonRtotal": 6,
+  "fullGroups": 2,
+  "rRendered": 0,
+  "rTotal": 0,
+  "rGroups": 0,
+  "exclTotal": 0,
+  "exclGroups": 0,
+  "nonEnExcluded": 0
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/global/{section}/{page}/{path…}",
+   "label": "Global deep pages",
+   "total": 5,
+   "selected": 5,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/global/en/home/manufacturing.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/global/{section}/{page}",
+   "label": "Global sub-pages",
+   "total": 1,
+   "selected": 1,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/global/en/home.html"
+  }
+ ]
+}

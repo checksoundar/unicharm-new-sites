@@ -1,0 +1,13 @@
+pages=7 instances=155 components=11 exactPatterns=27 variants=24
+custom           contactus                → contact-form           inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      text-image-with-zoom     → columns                inst=   25 pg=   5 patterns=  3 variants=3  {"site":25}
+boilerplate      accordionItem            → accordion              inst=   12 pg=   2 patterns=  4 variants=2  {"site":12}
+boilerplate      table                    → table                  inst=    7 pg=   3 patterns=  1 variants=1  {"site":7}
+boilerplate      heroBanner               → hero                   inst=    5 pg=   5 patterns=  2 variants=2  {"site":5}
+default-content  subsection               → default-content        inst=   27 pg=   6 patterns=  3 variants=3  {"site":27}
+default-content  richText                 → default-content        inst=    9 pg=   3 patterns=  1 variants=1  {"site":9}
+default-content  downloadFile             → default-content        inst=    9 pg=   6 patterns=  1 variants=1  {"site":9}
+section          gridLayout               → section                inst=   46 pg=   7 patterns=  9 variants=8  {"site":46}
+chrome           header                   → header                 inst=    7 pg=   7 patterns=  1 variants=1  (heuristic)  {"site":7}
+chrome           footer                   → footer                 inst=    7 pg=   7 patterns=  1 variants=1  (heuristic)  {"site":7}
+layout families: 1 (7 signatures)

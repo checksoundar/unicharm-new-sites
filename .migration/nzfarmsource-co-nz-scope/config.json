@@ -1,0 +1,34 @@
+{
+  "siteUrl": "https://nzfarmsource.co.nz/",
+  "siteOrigin": "https://nzfarmsource.co.nz",
+  "site": "nzfarmsource.co.nz",
+  "scope": "Entire domain — every page rendered (no sampling)",
+  "eyebrow": "NZ Farm Source (Fonterra) · Site Analysis",
+  "heroTitle": "Structural analysis of nzfarmsource.co.nz",
+  "heroSub": "",
+  "brandLine": "nzfarmsource.co.nz<br>Migration Console",
+  "accountName": "Fonterra — NZ Farm Source",
+  "locale": "en-NZ (single)",
+  "multiLocale": false,
+  "discovery": "sitemap + scoped link crawl",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/nzfarmsource-co-nz-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": "",
+  "blockStrategy": "aem",
+  "sharedMapping": "/backups/checksoundar/unicharm-new-sites/repo/.migration/fonterra-shared-block-mapping.json",
+  "crawl": {
+    "sitemaps": [
+      "https://nzfarmsource.co.nz/sitemap.xml"
+    ],
+    "concurrency": 6
+  },
+  "properties": [
+    {
+      "key": "site",
+      "label": "Farm Source",
+      "prefix": "/"
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+ "captured": "2026-10-07T05:22:06.084Z",
+ "jaccard": 0.8,
+ "pages": 1,
+ "componentInstances": 9,
+ "components": 3,
+ "exactPatterns": 8,
+ "structuralVariants": 8,
+ "byCategory": {
+  "boilerplate": {
+   "components": [
+    "page-section"
+   ],
+   "edsBlocks": [
+    "hero",
+    "columns"
+   ],
+   "variants": 6,
+   "instances": 7
+  },
+  "chrome": {
+   "components": [
+    "nav",
+    "comp__footer"
+   ],
+   "edsBlocks": [
+    "header",
+    "footer"
+   ],
+   "variants": 2,
+   "instances": 2
+  }
+ },
+ "inventory": [
+  {
+   "cmp": "page-section",
+   "aemComponent": "page-section",
+   "instances": 7,
+   "pages": 1,
+   "exactPatterns": 6,
+   "variants": 6,
+   "properties": {
+    "site": 7
+   },
+   "eds": "columns",
+   "category": "boilerplate",
+   "complexity": "Simple",
+   "rationale": "Full-viewport content section: heading + copy on one side, imagery / diagram / spec sheet on the other → Columns (one EDS section per page-section, section id kept for the anchor nav).",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "page-section-v1",
+     "pattern": "section(div(section(div(rte)+)))",
+     "hashes": [
+      {
+       "hash": "01812c254b",
+       "instances": 2,
+       "pattern": "section(div(section(div(rte)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 2,
+     "pages": 1,
+     "properties": {
+      "site": 2
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "page-section_01812c254b_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 1,
+      "li": 0,
+      "h": 4,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "Sustainable high",
+     "eds": "hero",
+     "category": "boilerplate",
+     "note": "Full-bleed background image with overlaid heading + 'Get in touch' CTA (#home, #distilled) → Hero."
+    },
+    {
+     "id": "page-section-v2",
+     "pattern": "section(div(div(div(rte)+),div,div(div(img)+)))",
+     "hashes": [
+      {
+       "hash": "2e995cf693",
+       "instances": 1,
+       "pattern": "section(div(div(div(rte)+),div,div(div(img)+)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "page-section_2e995cf693_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [
+      "js-roll-ups(1)"
+     ],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 3,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "About us",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "page-section-v3",
+     "pattern": "section(div(div(div(rte)+,div(img)),div(rte),div(img)))",
+     "hashes": [
+      {
+       "hash": "50d3851081",
+       "instances": 1,
+       "pattern": "section(div(div(div(rte)+,div(img)),div(rte),div(img)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "page-section_50d3851081_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 2,
+      "a": 0,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Consistent quality",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "page-section-v4",
+     "pattern": "section(div(div(div(rte)+),div,div(img)))",
+     "hashes": [
+      {
+       "hash": "baf939f3bc",
+       "instances": 1,
+       "pattern": "section(div(div(div(rte)+),div,div(img)))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "page-section_baf939f3bc_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 1,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Our process",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": ""
+    },
+    {
+     "id": "page-section-v5",
+     "pattern": "section(div(div(div(rte)+),div,div(a(img))))",
+     "hashes": [
+      {
+       "hash": "03296f3690",
+       "instances": 1,
+       "pattern": "section(div(div(div(rte)+),div,div(a(img))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "page-section_03296f3690_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 2,
+      "li": 0,
+      "h": 1,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "Specifications and applications",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": "Specifications: copy + spec-table image linking to the specification PDF ('See more') → Columns; consider re-authoring the spec image as a real Table block."
+    },
+    {
+     "id": "page-section-v6",
+     "pattern": "section(div(div(div(rte)+),div(div(img),div(rte))))",
+     "hashes": [
+      {
+       "hash": "6a60b8caea",
+       "instances": 1,
+       "pattern": "section(div(div(div(rte)+),div(div(img),div(rte))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "page-section_6a60b8caea_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 2,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext"
+     ],
+     "topLabel": "",
+     "eds": "columns",
+     "category": "boilerplate",
+     "note": "Contact: address / phone details + logo → Columns (or default content)."
+    }
+   ]
+  },
+  {
+   "cmp": "nav",
+   "aemComponent": "nav",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "header",
+   "category": "chrome",
+   "complexity": "Simple",
+   "rationale": "Fixed top bar: logo + 3 in-page jump links (data-jump-to / data-jump-item) to #about-us, #process, #contact → EDS header (nav fragment with anchor links). The page also has a fixed side 'pagination' (section dots) driven by the same jump script — reproduce as a small header enhancement, not a block.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "nav",
+     "pattern": "section(div(img),div(section(div(a+))))",
+     "hashes": [
+      {
+       "hash": "5b8550332c",
+       "instances": 1,
+       "pattern": "section(div(img),div(section(div(a+))))"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "nav_5b8550332c_1.jpg",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [
+      "image(1)",
+      "parbase(1)",
+      "cq-dd-image(1)"
+     ],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 1,
+      "a": 3,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [
+      "data-emptytext",
+      "data-jump-to",
+      "data-jump-item"
+     ],
+     "topLabel": "",
+     "eds": "header",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  },
+  {
+   "cmp": "comp__footer",
+   "aemComponent": "comp__footer",
+   "instances": 1,
+   "pages": 1,
+   "exactPatterns": 1,
+   "variants": 1,
+   "properties": {
+    "site": 1
+   },
+   "eds": "footer",
+   "category": "chrome",
+   "complexity": "Simple",
+   "rationale": "Empty footer container (0px) — terms link lives in the contact section; EDS footer fragment with the terms-of-supply PDF link.",
+   "mapped": true,
+   "variantList": [
+    {
+     "id": "comp__footer",
+     "pattern": "div",
+     "hashes": [
+      {
+       "hash": "c9b2d6e0b6",
+       "instances": 1,
+       "pattern": "div"
+      }
+     ],
+     "jaccardMerged": [],
+     "instances": 1,
+     "pages": 1,
+     "properties": {
+      "site": 1
+     },
+     "sampleUrls": [
+      "/"
+     ],
+     "repFile": "",
+     "repUrl": "https://www.lactanol.com/",
+     "modifiers": [],
+     "styles": [],
+     "parents": [
+      "(page)"
+     ],
+     "counts": {
+      "img": 0,
+      "a": 0,
+      "li": 0,
+      "h": 0,
+      "btn": 0,
+      "input": 0,
+      "iframe": 0,
+      "video": 0
+     },
+     "flags": {
+      "slick": false,
+      "tablist": false,
+      "modal": false,
+      "expanded": 0
+     },
+     "dataAttrs": [],
+     "topLabel": "",
+     "eds": "footer",
+     "category": "chrome",
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

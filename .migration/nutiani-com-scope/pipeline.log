@@ -1,0 +1,146 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/nutiani-com-scope
+▶ site: https://www.nutiani.com/nz/en.html
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 91, already done: 91, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 91
+Distinct layout signatures: 20
+
+=== Layout templates (est. full-population pages) ===
+   46 pp  rendered= 46   article-text     text                                           |  nz(46)
+   10 pp  rendered= 10   section-nav-list list                                           |  nz(10)
+    6 pp  rendered=  6   form-page        form                                           |  nz(6)
+    6 pp  rendered=  6   card-grid        cards                                          |  nz(6)
+    3 pp  rendered=  3   accordion-page   text>text>accordion                            |  nz(3)
+    3 pp  rendered=  3   minimal-page     (empty)                                        |  nz(3)
+    3 pp  rendered=  3   columns          columns                                        |  nz(3)
+    2 pp  rendered=  2   data-table       table                                          |  nz(2)
+    1 pp  rendered=  1   article-text     text>text>text>text>text>text>text>text>text>t |  nz(1)
+    1 pp  rendered=  1   hero-page        hero>text                                      |  nz(1)
+    1 pp  rendered=  1   article-text     text>text>text>text>text>text>text>text>text>t |  nz(1)
+    1 pp  rendered=  1   accordion-page   text>accordion>text>text>accordion             |  nz(1)
+    1 pp  rendered=  1   embed-page       text>iframe-embed>cards>text                   |  nz(1)
+    1 pp  rendered=  1   data-table       table>table>table>table>table>table>table>tabl |  nz(1)
+    1 pp  rendered=  1   data-table       table>table>table>table>table>table            |  nz(1)
+    1 pp  rendered=  1   embed-page       iframe-embed                                   |  nz(1)
+    1 pp  rendered=  1   carousel-page    text>carousel>text                             |  nz(1)
+    1 pp  rendered=  1   article-text     text>text>text                                 |  nz(1)
+    1 pp  rendered=  1   hero-page        hero>text>text>text>text>text>text             |  nz(1)
+    1 pp  rendered=  1   article-text     text>text>text>text                            |  nz(1)
+
+=== Third-party integrations detected ===
+  389 Google (reCAPTCHA / APIs)
+  186 YouTube embed
+  182 Snapchat Pixel
+  182 Google Tag Manager
+   93 Vimeo
+   91 Microsoft Clarity
+   91 CDN/JS libs
+   91 Adobe RUM (Helix)
+   91 Consent / GDPR service
+
+=== Global objects ===
+  91 dataLayer
+  91 google_tag_manager
+  91 YT
+  91 Vimeo
+▶ [5/12] capture block instances (resumable)
+Render set 91, pages already captured 90, todo 1
+DONE. pages=1 blocks=0
+▶ [6/12] consolidate block variants
+Total block instances: 156
+Total variants: 27
+
+=== Base type -> variants / instances ===
+  78 inst    6 variants   text
+  55 inst    6 variants   accordion
+  13 inst    9 variants   unknown
+   4 inst    1 variants   video
+   3 inst    2 variants   cards
+   1 inst    1 variants   carousel
+   1 inst    1 variants   hero
+   1 inst    1 variants   table
+
+=== Top 20 variants ===
+  72 x   text          pages= 69   div|div1|aN,iN
+  49 x   accordion     pages= 49   div|div1|img,lst,frm,ifr,hd,aN,iN
+   4 x   video         pages=  4   div|div1|img,lst,frm,ifr,hd,aN,iN
+   3 x   unknown       pages=  3   div|div1|img,hd,aN,iN
+   2 x   accordion     pages=  2   div|div1|aN,iN
+   2 x   cards         pages=  2   div|div1|img,aN,iN
+   2 x   text          pages=  1   p||aN,iN
+   2 x   unknown       pages=  2   div|div2|img,lst,aN,iN
+   2 x   unknown       pages=  2   div|div1|img,lst,aN,iN
+   1 x   accordion     pages=  1   div|div2|aN,iN
+   1 x   accordion     pages=  1   div|div1|img,tbl,lst,frm,ifr,hd,aN,iN
+   1 x   accordion     pages=  1   div|div1|img,hd,aN,iN
+   1 x   accordion     pages=  1   div|div1|img,lst,frm,ifr,aN,iN
+   1 x   cards         pages=  1   div|aN.div1.input1|lst,frm,aN,iN
+   1 x   carousel      pages=  1   div|section1|img,aN,iN
+   1 x   hero          pages=  1   div|section1|aN,iN
+   1 x   table         pages=  1   div|div1|img,tbl,lst,hd,aN,iN
+   1 x   text          pages=  1   div|div1|hd,aN,iN
+   1 x   text          pages=  1   div|div1|lst,aN,iN
+   1 x   text          pages=  1   h5||aN,iN
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 91, done 51, todo 40
+  [w3] 20/40 pages, shots=16
+  [w1] 40/40 pages, shots=43
+DONE pages=40 shots=43
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 42 pages, 99 variants
+  20/42 pages ok=48 miss=0
+  40/42 pages ok=95 miss=0
+DONE reshoot ok=99 miss=0
+▶ [7/12] capture template screenshots
+✓ t00_site·nutiani-standard-page.jpg  (76KB)  https://www.nutiani.com/nz/en/company/contact-us/form-error.
+✓ t01_site·nutiani-article-page.jpg  (740KB)  https://www.nutiani.com/nz/en/innovation-hub/articles/consum
+✓ t02_site·nutiani-article-page.jpg  (757KB)  https://www.nutiani.com/nz/en/innovation-hub/articles/import
+✓ t05_site·nutiani-standard-page.jpg  (262KB)  https://www.nutiani.com/nz/en/innovation-hub/resources/healt
+✓ t06_site·nutiani-product-page.jpg  (384KB)  https://www.nutiani.com/nz/en/solutions/probiotic-supplement
+✓ t14_site·nutiani-home-page.jpg  (420KB)  https://www.nutiani.com/nz/en.html
+✓ t56_site·nutiani-product-page.jpg  (77KB)  https://www.nutiani.com/nz/en/wellbeing-areas/test.html
+DONE shots: 7/7
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A second standard type (Table)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 8 template groups | full: 2 sampled: 4 excluded: 2
+pages — inspected: 90 skipped: 41 non-200: 40 of 131 urls
+
+=== Template groups (by size) ===
+  G00    75  sampled   /{locale}/{section}/{page}/{path…}/{path…}  Locale deep pages
+  G01    18  sampled   /{locale}/{section}/{page}/{slug}  Locale deep pages
+  G02    17  sampled   /{locale}/{section}/{page}/{path…}  Locale deep pages
+  G03    11  sampled   /{locale}/{section}/{page}        Locale sub-pages
+  G04     7  excluded  /{page}/{section}/{page}/{path…}  Root-level product & marketing pages
+  G05     1  full      /{locale}/{section}               Locale section / landing pages
+  G06     1  excluded  /{page}                           Root-level product & marketing pages
+  G07     1  full      /{locale}/{section}/{slug}        Locale sub-pages
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 14, already done 0, todo 14
+  10/14 (ok=10 empty-fail=0)
+DONE backend capture. pages=14 ok=14
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 14 | first-party domain: nutiani.com
+Probable backend integrations: 2 | unclassified hosts: 3
+
+=== By category ===
+  1 Analytics
+  1 Advertising
+
+=== Services (by page coverage) ===
+ 14pg  Analytics                   Google Analytics (GA4)
+ 14pg  Advertising                 LinkedIn Ads
+▶ [11/12] compute supplementary data
+compute-data: live pages 91 | structure groups 6 | docs 0 | url groups 2 | layout heatmap rows 4 | block heatmap rows 7 | integrations 9
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/nutiani-com-site-analysis-dashboard.html 8.24 MB
+templates: 4 galleries: Hero:8, Cards:18, Columns:4, Accordion:22, Table:1, Video:5, Breadcrumbs:1
+IMAGES: 99 TEMPLATE_SHOTS: 4
+✅ done.
+exit=0

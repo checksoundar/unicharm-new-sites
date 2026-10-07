@@ -1,0 +1,9 @@
+{
+ "captured": "2026-10-07T04:56:18.463Z",
+ "strategy": "pattern-groups(>=2) sampled to 100000; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 1,
+ "renderCount": 1,
+ "urls": [
+  "https://www.lactanol.com/"
+ ]
+}

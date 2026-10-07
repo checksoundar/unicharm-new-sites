@@ -1,0 +1,45 @@
+pages=91 instances=4594 components=43 exactPatterns=267 variants=199
+custom           options                  → gated-download         inst=  231 pg=  91 patterns=  7 variants=4  {"site":231}
+custom           input                    → gated-download         inst=  146 pg=  91 patterns=  1 variants=1  {"site":146}
+custom           button                   → gated-download         inst=  146 pg=  91 patterns=  2 variants=1  {"site":146}
+custom           hidden                   → gated-download         inst=   98 pg=  91 patterns=  1 variants=1  {"site":98}
+custom           download-cta             → gated-download         inst=   95 pg=  54 patterns=  5 variants=2  {"site":95}
+custom           related-articles         → related-articles       inst=   71 pg=  57 patterns= 10 variants=6  {"site":71}
+custom           article-header           → article-header         inst=   54 pg=  54 patterns=  3 variants=3  {"site":54}
+custom           sub-benefit-hotspots     → image-hotspots         inst=    6 pg=   6 patterns=  2 variants=2  {"site":6}
+custom           product-listing          → product-listing        inst=    6 pg=   6 patterns=  2 variants=2  {"site":6}
+custom           key-benefits             → image-hotspots         inst=    3 pg=   3 patterns=  1 variants=1  {"site":3}
+custom           article-listing          → article-listing        inst=    2 pg=   2 patterns=  2 variants=1  {"site":2}
+custom           inpagenavigation         → in-page-navigation     inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+custom           filter-panel             → product-filter         inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      breadcrumb               → breadcrumbs            inst=   91 pg=  91 patterns=  2 variants=2  {"site":91}
+boilerplate      accordion                → accordion              inst=   80 pg=  42 patterns= 22 variants=14  {"site":80}
+boilerplate      card                     → cards                  inst=   71 pg=  44 patterns= 15 variants=14  {"site":71}
+boilerplate      multicolumngrid          → columns                inst=   16 pg=   5 patterns=  7 variants=5  {"site":16}
+boilerplate      quote-card               → quote                  inst=   14 pg=  14 patterns=  1 variants=1  {"site":14}
+boilerplate      secondary-hero-banner    → hero                   inst=   10 pg=  10 patterns=  5 variants=5  {"site":10}
+boilerplate      featured-tile            → accordion              inst=    8 pg=   8 patterns=  3 variants=2  {"site":8}
+boilerplate      video-embedded           → video                  inst=    7 pg=   7 patterns=  5 variants=3  {"site":7}
+boilerplate      primary-hero-banner      → hero                   inst=    5 pg=   5 patterns=  3 variants=3  {"site":5}
+boilerplate      product-header           → columns                inst=    4 pg=   4 patterns=  1 variants=1  {"site":4}
+boilerplate      biography                → cards                  inst=    4 pg=   4 patterns=  1 variants=1  {"site":4}
+boilerplate      solution-header          → hero                   inst=    4 pg=   4 patterns=  2 variants=2  {"site":4}
+boilerplate      homepageheroslide        → carousel               inst=    2 pg=   1 patterns=  2 variants=2  {"site":2}
+boilerplate      featured-solutions       → carousel               inst=    2 pg=   2 patterns=  1 variants=1  {"site":2}
+boilerplate      homepageherobanner       → carousel               inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      search-results           → search                 inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+boilerplate      product-card             → cards                  inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+default-content  text                     → default-content        inst= 1214 pg=  91 patterns= 10 variants=9  {"site":1214}
+default-content  image                    → default-content        inst=  281 pg=  91 patterns=  2 variants=2  {"site":281}
+default-content  title                    → default-content        inst=   48 pg=  29 patterns=  1 variants=1  {"site":48}
+default-content  anchor                   → default-content        inst=   46 pg=  32 patterns=  1 variants=1  {"site":46}
+default-content  cta-button               → default-content        inst=   36 pg=  28 patterns=  2 variants=2  {"site":36}
+default-content  body-rte                 → default-content        inst=    1 pg=   1 patterns=  1 variants=1  {"site":1}
+section          container                → section                inst= 1057 pg=  91 patterns=109 variants=71  {"site":1057}
+section          experiencefragment       → fragment               inst=  182 pg=  91 patterns=  2 variants=2  {"site":182}
+section          responsivegrid           → section                inst=   93 pg=  91 patterns= 24 variants=21  {"site":93}
+chrome           navigation-links         → header                 inst=  182 pg=  91 patterns=  1 variants=1  {"site":182}
+chrome           header                   → header                 inst=   91 pg=  91 patterns=  1 variants=1  {"site":91}
+chrome           footer                   → footer                 inst=   91 pg=  91 patterns=  1 variants=1  {"site":91}
+chrome           social-icons             → footer                 inst=   91 pg=  91 patterns=  1 variants=1  {"site":91}
+layout families: 4 (58 signatures)

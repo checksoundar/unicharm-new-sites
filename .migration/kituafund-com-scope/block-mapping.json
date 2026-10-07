@@ -1,0 +1,7 @@
+{
+  "_about": "kituafund.com — site overrides on top of fonterra-shared-block-mapping.json (evidence: dump-variants + review-sheet.jpg). Note: 14 of the 30 sitemap URLs are team/board 'pages' that 301 straight to LinkedIn profiles.",
+  "related-articles": { "eds": "related-articles", "category": "custom", "complexity": "Complex",
+    "rationale": "Query-driven article rail (minimal-card, 'Related Articles' on news pages) and the 'Our Team' masonry grid with LinkedIn icons on the home page (data-slidetype/perpage, prev/next buttons). Cards come from tagged pages at runtime — query-index driven custom block with two variants." },
+  "card": { "eds": "cards", "category": "boilerplate", "complexity": "Simple",
+    "rationale": "Partner/team card (logo or photo, name, copy, 'Read more') placed in carousel/panel containers (13 instances on Partners/Team) → Cards; the partner grid is filtered by card-filter-panel." }
+}

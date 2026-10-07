@@ -1,0 +1,14 @@
+{
+ "captured": "2026-10-07T04:56:18.173Z",
+ "strategy": "pattern-groups(>=2) sampled to 100000; all long-tail pages rendered; attachments/images excluded",
+ "totalLivePages": 6,
+ "renderCount": 6,
+ "urls": [
+  "https://www.visit.fonterra.com/global/en/home.html",
+  "https://www.visit.fonterra.com/global/en/home/distribution.html",
+  "https://www.visit.fonterra.com/global/en/home/export.html",
+  "https://www.visit.fonterra.com/global/en/home/manufacturing.html",
+  "https://www.visit.fonterra.com/global/en/home/milk-collection.html",
+  "https://www.visit.fonterra.com/global/en/home/on-farm.html"
+ ]
+}

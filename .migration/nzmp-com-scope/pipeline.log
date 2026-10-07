@@ -1,0 +1,161 @@
+▶ catalog: /backups/checksoundar/unicharm-new-sites/repo/.migration/nzmp-com-scope
+▶ site: https://www.nzmp.com/global/en.html
+▶ [1/12] urls-all.json exists — skip crawl
+▶ [3/12] render + fingerprint (resumable)
+Render set: 664, already done: 664, todo: 0
+DONE rendering. ok=0 fail=0 total_processed=0
+▶ [4/12] cluster layouts + detect front-end integrations
+Rendered pages clustered: 659
+Distinct layout signatures: 21
+
+=== Layout templates (est. full-population pages) ===
+  310 pp  rendered=310   form-page        form>form>text                                 |  global(310)
+  183 pp  rendered=183   form-page        columns>form>text                              |  global(183)
+   72 pp  rendered= 72   form-page        iframe-embed>form>text                         |  global(71) mynzmp-request-supply(1)
+   29 pp  rendered= 29   form-page        text>form>text                                 |  global(29)
+   14 pp  rendered= 14   form-page        table>form>text                                |  global(14)
+   10 pp  rendered= 10   form-page        list>form>text                                 |  global(10)
+   10 pp  rendered= 10   form-page        form>form>text>text>text                       |  global(10)
+    7 pp  rendered=  7   form-page        form>form>form                                 |  global(7)
+    4 pp  rendered=  4   form-page        form>form>text>text                            |  global(4)
+    3 pp  rendered=  3   article-text     text>text                                      |  global(3)
+    3 pp  rendered=  3   form-page        columns>form>form>text                         |  global(3)
+    3 pp  rendered=  3   form-page        form>form>form>text                            |  global(3)
+    2 pp  rendered=  2   form-page        iframe-embed>form>form                         |  global(2)
+    2 pp  rendered=  2   form-page        list>form>form                                 |  global(2)
+    1 pp  rendered=  1   form-page        columns>form>text>text                         |  global(1)
+    1 pp  rendered=  1   article-text     text>text>list                                 |  global(1)
+    1 pp  rendered=  1   form-page        form                                           |  global(1)
+    1 pp  rendered=  1   form-page        iframe-embed>form>text>text>text>text          |  global(1)
+    1 pp  rendered=  1   form-page        form>text                                      |  global(1)
+    1 pp  rendered=  1   form-page        columns>form>form                              |  global(1)
+    1 pp  rendered=  1   form-page        iframe-embed>form>text>text                    |  global(1)
+
+=== Third-party integrations detected ===
+ 2625 CDN/JS libs
+ 2138 YouTube embed
+ 1682 Other third-party: service.mtcaptcha.com
+ 1310 Google Tag Manager
+ 1308 Snapchat Pixel
+ 1308 Meta (Facebook) Pixel
+ 1307 Microsoft Clarity
+  732 Other third-party: service2.mtcaptcha.com
+  661 reCAPTCHA
+  658 Adobe RUM (Helix)
+  656 Font Awesome kit
+  654 Google Analytics
+  654 Consent / GDPR service
+  291 Other third-party: s7.addthis.com
+   12 Other third-party: view.publitas.com
+    7 Google Maps
+    3 Adobe Analytics/Experience Cloud
+
+=== Global objects ===
+ 656 dataLayer
+ 654 ga
+ 654 google_tag_manager
+ 654 fbq
+ 651 YT
+▶ [5/12] generic block capture skipped (AEM mode)
+▶ [5b] AEM component tag-pattern capture (resumable)
+Render set 664, done 93, todo 571
+  [w4] 20/571 pages, shots=45
+  [w4] 40/571 pages, shots=74
+  [w5] 60/571 pages, shots=96
+  [w3] 80/571 pages, shots=118
+  [w3] 100/571 pages, shots=142
+  [w4] 120/571 pages, shots=153
+  [w4] 140/571 pages, shots=165
+  [w4] 160/571 pages, shots=194
+  [w4] 180/571 pages, shots=205
+  [w5] 200/571 pages, shots=224
+  [w5] 220/571 pages, shots=253
+  [w0] 240/571 pages, shots=263
+  [w4] 260/571 pages, shots=274
+  [w2] 280/571 pages, shots=281
+  [w0] 300/571 pages, shots=285
+  [w2] 320/571 pages, shots=291
+  [w0] 340/571 pages, shots=296
+  [w4] 360/571 pages, shots=300
+  [w3] 380/571 pages, shots=306
+  [w3] 400/571 pages, shots=313
+  [w1] 420/571 pages, shots=319
+  [w0] 440/571 pages, shots=320
+  [w5] 460/571 pages, shots=331
+  [w0] 480/571 pages, shots=337
+  [w2] 500/571 pages, shots=343
+  [w3] 520/571 pages, shots=369
+  [w5] 540/571 pages, shots=401
+  [w1] 560/571 pages, shots=465
+DONE pages=571 shots=505
+▶ [6b] consolidate + classify AEM components
+▶ [6c] re-shoot representative crops (overlays hidden)
+reshoot: 195 pages, 374 variants
+  20/195 pages ok=43 miss=0
+  40/195 pages ok=83 miss=0
+  60/195 pages ok=123 miss=0
+  80/195 pages ok=177 miss=11
+  100/195 pages ok=219 miss=11
+  120/195 pages ok=256 miss=11
+  140/195 pages ok=290 miss=11
+  160/195 pages ok=319 miss=11
+  180/195 pages ok=344 miss=11
+DONE reshoot ok=363 miss=11
+▶ [7/12] capture template screenshots
+✓ t00_site·no-template.jpg  (328KB)  https://www.nzmp.com/global/en/ingredients/cheese/cheddar-ch
+✓ t01_site·no-template.jpg  (554KB)  https://www.nzmp.com/global/en/about-nzmp/global-ingredients
+✓ t74_site·nutiani-standard-page.jpg  (314KB)  https://www.nzmp.com/global/en/ingredients/specialty/probiot
+✓ t76_site·nutiani-standard-page.jpg  (318KB)  https://www.nzmp.com/global/en/ingredients/specialty/probiot
+DONE shots: 4/4
+▶ [8/12] build methodology diagrams
+diagram: cards-diagram.jpg ← A block that IS a standard type (Cards)
+diagram: unknown-diagram.jpg ← A second standard type (Table)
+done
+▶ [9/12] compute URL-coverage categorisation
+inspection.json: 9 template groups | full: 3 sampled: 3 excluded: 3
+pages — inspected: 664 skipped: 427 non-200: 427 of 1091 urls
+
+=== Template groups (by size) ===
+  G00  1036  sampled   /global/{section}/{page}/{path…}  Global deep pages
+  G01    15  sampled   /global/{section}/{slug}          Global sub-pages
+  G02    13  sampled   /global/{section}/{page}          Global sub-pages
+  G03    13  excluded  /{page}/{section}/{page}/{path…}  Root-level product & marketing pages
+  G04     6  excluded  /global/{id}/{page}/{path…}       Global deep pages
+  G05     5  full      /etc/{section}/{page}/{path…}     Etc deep pages
+  G06     1  full      /global/{section}                 Global section pages
+  G07     1  full      /{page}                           Root-level product & marketing pages
+  G08     1  excluded  /                                 Homepage & root
+▶ [10/12] capture backend API calls (sample=40, resumable)
+Backend sample 40, already done 0, todo 40
+  10/40 (ok=9 empty-fail=1)
+  20/40 (ok=19 empty-fail=1)
+  30/40 (ok=29 empty-fail=1)
+  40/40 (ok=39 empty-fail=1)
+DONE backend capture. pages=40 ok=39
+▶ [10b] consolidate backend integrations -> backend.json
+Sampled pages: 40 | first-party domain: nzmp.com
+Probable backend integrations: 7 | unclassified hosts: 5
+
+=== By category ===
+  2 First-party platform
+  2 Advertising
+  1 Analytics
+  1 Session replay / analytics
+  1 Video
+
+=== Services (by page coverage) ===
+ 39pg  Analytics                   Google Analytics (GA4)
+ 38pg  First-party platform        Www: Other first-party API
+ 38pg  First-party platform        Www: Content / App API
+ 38pg  Session replay / analytics  Digital-experience analytics
+ 38pg  Advertising                 LinkedIn Ads
+ 20pg  Video                       Video platform API
+ 13pg  Advertising                 Google Ads / DoubleClick
+▶ [11/12] compute supplementary data
+compute-data: live pages 664 | structure groups 2 | docs 127 | url groups 4 | layout heatmap rows 2 | block heatmap rows 8 | integrations 17
+▶ [12/12] build dashboard
+written: /backups/checksoundar/unicharm-new-sites/repo/reports/nzmp-com-site-analysis-dashboard.html 35.68 MB
+templates: 2 galleries: Hero:16, Cards:24, Columns:54, Carousel:28, Accordion:23, Tabs:12, Table:4, Video:8
+IMAGES: 374 TEMPLATE_SHOTS: 2
+✅ done.
+exit=0

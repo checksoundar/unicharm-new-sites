@@ -1,0 +1,751 @@
+{
+ "captured": "2026-10-07T05:33:36.861Z",
+ "method": "AEM component tag-pattern analysis",
+ "jaccard": 0.8,
+ "totalInstances": 411,
+ "contentInstances": 231,
+ "totalVariants": 22,
+ "baseSummary": [
+  {
+   "base": "default-content",
+   "variants": 5,
+   "instances": 144,
+   "category": "default-content"
+  },
+  {
+   "base": "footer",
+   "variants": 2,
+   "instances": 22,
+   "category": "chrome"
+  },
+  {
+   "base": "cards",
+   "variants": 1,
+   "instances": 13,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:related-articles",
+   "variants": 2,
+   "instances": 6,
+   "category": "custom"
+  },
+  {
+   "base": "columns",
+   "variants": 4,
+   "instances": 5,
+   "category": "boilerplate"
+  },
+  {
+   "base": "custom:article-header",
+   "variants": 1,
+   "instances": 4,
+   "category": "custom"
+  },
+  {
+   "base": "hero",
+   "variants": 3,
+   "instances": 4,
+   "category": "boilerplate"
+  },
+  {
+   "base": "section",
+   "variants": 2,
+   "instances": 3,
+   "category": "section"
+  },
+  {
+   "base": "custom:article-listing",
+   "variants": 1,
+   "instances": 1,
+   "category": "custom"
+  },
+  {
+   "base": "accordion",
+   "variants": 1,
+   "instances": 1,
+   "category": "boilerplate"
+  }
+ ],
+ "variants": [
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::a331f7de08",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "related-articles_a331f7de08_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(rte),div(a(div(rte),div(div(rte)+,div))+))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-related-articles(4)",
+    "cmp-related-articles--minimal-card(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "related-articles-v1"
+  },
+  {
+   "base": "custom:related-articles",
+   "key": "related-articles::ffae9ea6af",
+   "cmp": "related-articles",
+   "category": "custom",
+   "eds": "related-articles",
+   "instances": 2,
+   "pagesFound": 1,
+   "repFile": "related-articles_ffae9ea6af_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    }
+   ],
+   "topLabel": "Our Team",
+   "pattern": "div(div(rte),div(div(button(svg)+),div(a(div,div(div(rte)+,div))+),rte))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-related-articles(2)",
+    "cmp-related-articles--masonary(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "related-articles-v2"
+  },
+  {
+   "base": "custom:article-header",
+   "key": "article-header::49d15c42e5",
+   "cmp": "article-header",
+   "category": "custom",
+   "eds": "article-header",
+   "instances": 4,
+   "pagesFound": 4,
+   "repFile": "article-header_49d15c42e5_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+    }
+   ],
+   "topLabel": "Ki Tua Fund invests in Fermeate to unlock next-generation control of m",
+   "pattern": "div(section(div(div(rte,div(rte)+,div(rte,div),div),div)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-article-banner(4)",
+    "cmp-article-banner--text(4)"
+   ],
+   "properties": {
+    "site": 4
+   },
+   "id": "article-header"
+  },
+  {
+   "base": "custom:article-listing",
+   "key": "article-listing-with-filter::45bc0eb18c",
+   "cmp": "article-listing-with-filter",
+   "category": "custom",
+   "eds": "article-listing",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "article-listing-with-filter_45bc0eb18c_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/news.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/news.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(div(div(rte),div(div(button),div(rte,button),div(div(a),div(div(input[checkbox],label)+)),div(button+))),div(div(div(a(div(img),div(div(rte)+)))+),div(button)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-article-listing-with-filter(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "article-listing-with-filter"
+  },
+  {
+   "base": "cards",
+   "key": "card::e44b89a7c9",
+   "cmp": "card",
+   "category": "boilerplate",
+   "eds": "cards",
+   "instances": 13,
+   "pagesFound": 3,
+   "repFile": "card_45f9bfb43b_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/team.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/partners.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/team.html"
+    }
+   ],
+   "topLabel": "Our Partners",
+   "pattern": "div(section[group](div(div(img),div(div(rte)+,div(a)))))",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cmp-card--single-column(11)",
+    "cmp-card--three-column(2)"
+   ],
+   "properties": {
+    "site": 13
+   },
+   "id": "card"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::2d97f804d0",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "multicolumngrid_2d97f804d0_2.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/partners.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/partners.html"
+    }
+   ],
+   "topLabel": "We invest in and partner with innovative start-ups to develop real sol",
+   "pattern": "div(div(rte)+)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 2
+   },
+   "id": "multicolumngrid-v1"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::60782d5e67",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "multicolumngrid_60782d5e67_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    }
+   ],
+   "topLabel": "Beyond what we can see, to a place of limitless possibilities.",
+   "pattern": "div(div(rte),div)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "multicolumngrid-v2"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::45672a6c67",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "multicolumngrid_45672a6c67_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    }
+   ],
+   "topLabel": "Beyond the expected, to support the extraordinary.",
+   "pattern": "div(div,div(div(rte),div))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "multicolumngrid-v3"
+  },
+  {
+   "base": "columns",
+   "key": "multicolumngrid::3fbfc8440a",
+   "cmp": "multicolumngrid",
+   "category": "boilerplate",
+   "eds": "columns",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "multicolumngrid_3fbfc8440a_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    }
+   ],
+   "topLabel": "Prolific Machines to Harness Light to Deliver Unprecedented Cellular C",
+   "pattern": "div(div(section[group](div(div(img),div(div(rte)+,div(a))))),div(section[group](div(div,div(div(rte)+,div,div(a))))))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 1
+   },
+   "id": "multicolumngrid-v4"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::8b8003cacc",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "secondary-hero-banner_8b8003cacc_2.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/partners.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/news.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/partners.html"
+    }
+   ],
+   "topLabel": "News",
+   "pattern": "div(section(div(div(rte),div)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "secondary-hero-banner-v1"
+  },
+  {
+   "base": "hero",
+   "key": "secondary-hero-banner::b484196ddb",
+   "cmp": "secondary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "secondary-hero-banner_b484196ddb_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/team.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/team.html"
+    }
+   ],
+   "topLabel": "Team",
+   "pattern": "div(section(div(div(rte)+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "secondary-hero-banner(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "secondary-hero-banner-v2"
+  },
+  {
+   "base": "hero",
+   "key": "primary-hero-banner::3586612a7f",
+   "cmp": "primary-hero-banner",
+   "category": "boilerplate",
+   "eds": "hero",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "primary-hero-banner_3586612a7f_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    }
+   ],
+   "topLabel": "Video",
+   "pattern": "div(section(div(button+,video(source)+),div(div(div(rte)+),div(div+))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-primary-hero-banner(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "primary-hero-banner"
+  },
+  {
+   "base": "accordion",
+   "key": "featured-tile::23d52de74a",
+   "cmp": "featured-tile",
+   "category": "boilerplate",
+   "eds": "accordion",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "featured-tile_23d52de74a_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    }
+   ],
+   "topLabel": "What we offer",
+   "pattern": "div(section[group](div(div(rte),div(rte,div(div(div(rte),div),div(div,div(img))))+)))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-featured-tile(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "featured-tile"
+  },
+  {
+   "base": "default-content",
+   "key": "text::9024a9aa0d",
+   "cmp": "text",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 112,
+   "pagesFound": 11,
+   "repFile": "text_9024a9aa0d_2.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/footer-links.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/board-and-investment-committee.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    }
+   ],
+   "topLabel": "Ki Tua is to go beyond.",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 112
+   },
+   "id": "text"
+  },
+  {
+   "base": "default-content",
+   "key": "image::1f3eb00b42",
+   "cmp": "image",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 11,
+   "pagesFound": 11,
+   "repFile": "image_1f3eb00b42_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/footer-links.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/board-and-investment-committee.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(a(img))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 11
+   },
+   "id": "image-v1"
+  },
+  {
+   "base": "default-content",
+   "key": "image::0e4ad988db",
+   "cmp": "image",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 8,
+   "pagesFound": 5,
+   "repFile": "image_0e4ad988db_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/the-ki-tua-fund-invests-in-kanvas-biosciences-series-a-round.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(img)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 8
+   },
+   "id": "image-v2"
+  },
+  {
+   "base": "default-content",
+   "key": "title::605a8a777e",
+   "cmp": "title",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 7,
+   "pagesFound": 3,
+   "repFile": "title_605a8a777e_2.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/team.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/terms-and-conditions.html"
+    }
+   ],
+   "topLabel": "News",
+   "pattern": "div(rte)",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 7
+   },
+   "id": "title"
+  },
+  {
+   "base": "default-content",
+   "key": "cta-button::f6d8bd3fde",
+   "cmp": "cta-button",
+   "category": "default-content",
+   "eds": "default-content",
+   "instances": 6,
+   "pagesFound": 3,
+   "repFile": "cta-button_f6d8bd3fde_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/partners.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/terms-and-conditions.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(a)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "cmp-button__icon--default(6)"
+   ],
+   "properties": {
+    "site": 6
+   },
+   "id": "cta-button"
+  },
+  {
+   "base": "section",
+   "key": "container::d5d0c7d767",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 2,
+   "pagesFound": 2,
+   "repFile": "layout_9c4e7f0638_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/terms-and-conditions.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/terms-and-conditions.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(@cta-button)",
+   "exactPatterns": 2,
+   "modifiers": [
+    "cta-button(2)",
+    "button(2)"
+   ],
+   "properties": {
+    "site": 2
+   },
+   "id": "container-v15"
+  },
+  {
+   "base": "section",
+   "key": "container::5d26fbed14",
+   "cmp": "container",
+   "category": "section",
+   "eds": "section",
+   "instances": 1,
+   "pagesFound": 1,
+   "repFile": "layout_5d26fbed14_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/partners.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/partners.html"
+    }
+   ],
+   "topLabel": "BioLumic",
+   "pattern": "div(@card+)",
+   "exactPatterns": 1,
+   "modifiers": [
+    "card(1)",
+    "carousel(1)",
+    "panelcontainer(1)",
+    "card-partner-style(1)"
+   ],
+   "properties": {
+    "site": 1
+   },
+   "id": "container-v22"
+  },
+  {
+   "base": "footer",
+   "key": "footer::3d5b0cd5d7",
+   "cmp": "footer",
+   "category": "chrome",
+   "eds": "footer",
+   "instances": 11,
+   "pagesFound": 11,
+   "repFile": "footer_3d5b0cd5d7_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/footer-links.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/board-and-investment-committee.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(section(div(button),div(div(@container),div(@image))))",
+   "exactPatterns": 1,
+   "modifiers": [
+    "footer(11)"
+   ],
+   "properties": {
+    "site": 11
+   },
+   "id": "footer"
+  },
+  {
+   "base": "footer",
+   "key": "navigation::a1fba95db8",
+   "cmp": "navigation",
+   "category": "chrome",
+   "eds": "footer",
+   "instances": 11,
+   "pagesFound": 11,
+   "repFile": "navigation_a1fba95db8_1.jpg",
+   "repUrl": "https://www.kituafund.com/global/en/footer-links.html",
+   "samples": [
+    {
+     "url": "https://www.kituafund.com/global/en/footer-links.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/board-and-investment-committee.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-fermeate-to-unlock-next-generation-control-of-microbial-fermentation.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/ki-tua-fund-invests-in-nz-pasture-productivity-startup.html"
+    },
+    {
+     "url": "https://www.kituafund.com/global/en/news/articles/prolific-machines-to-harness-light-to-deliver-unprecedented-cellular-control.html"
+    }
+   ],
+   "topLabel": "",
+   "pattern": "div(nav(rte))",
+   "exactPatterns": 1,
+   "modifiers": [],
+   "properties": {
+    "site": 11
+   },
+   "id": "navigation"
+  }
+ ]
+}

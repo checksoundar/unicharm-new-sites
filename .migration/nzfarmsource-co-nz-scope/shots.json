@@ -1,0 +1,93 @@
+{
+ "captured": "2026-10-07T09:09:48.156Z",
+ "shots": [
+  {
+   "idx": 0,
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>fragment",
+   "estPop": 493,
+   "url": "https://nzfarmsource.co.nz/advice-and-support/enrich/10-handy-tips-to-support-milk-quality-this-calving-season.html",
+   "file": "t00_site·article-page.jpg",
+   "captured": true,
+   "bytes": 467584
+  },
+  {
+   "idx": 1,
+   "name": "site·no-template",
+   "family": "site · no-template",
+   "signature": "[-] ",
+   "estPop": 142,
+   "url": "https://nzfarmsource.co.nz/advice-and-support/digital-tools-and-services/",
+   "file": "t01_site·no-template.jpg",
+   "captured": true,
+   "bytes": 25145
+  },
+  {
+   "idx": 2,
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>fragment",
+   "estPop": 80,
+   "url": "https://nzfarmsource.co.nz/advice-and-support/enrich/5-reasons-to-herd-test-at-peak-production.html",
+   "file": "t02_site·vendor-article-page.jpg",
+   "captured": true,
+   "bytes": 319055
+  },
+  {
+   "idx": 3,
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment>hero>text>fragment",
+   "estPop": 35,
+   "url": "https://nzfarmsource.co.nz/archive/farm-source-card.html",
+   "file": "t03_site·standard-page.jpg",
+   "captured": true,
+   "bytes": 283582
+  },
+  {
+   "idx": 4,
+   "name": "site·vendor-article-page",
+   "family": "site · vendor-article-page",
+   "signature": "[vendor-article-page] fragment>article-header>text>fragment>text>fragment",
+   "estPop": 19,
+   "url": "https://nzfarmsource.co.nz/advice-and-support/enrich/all-nutrients-great-and-small.html",
+   "file": "t04_site·vendor-article-page.jpg",
+   "captured": true,
+   "bytes": 444532
+  },
+  {
+   "idx": 5,
+   "name": "site·standard-page",
+   "family": "site · standard-page",
+   "signature": "[standard-page] fragment",
+   "estPop": 17,
+   "url": "https://nzfarmsource.co.nz/archive.html",
+   "file": "t05_site·standard-page.jpg",
+   "captured": true,
+   "bytes": 76294
+  },
+  {
+   "idx": 7,
+   "name": "site·article-page",
+   "family": "site · article-page",
+   "signature": "[article-page] fragment>article-header>text>cards>fragment",
+   "estPop": 12,
+   "url": "https://nzfarmsource.co.nz/advice-and-support/enrich/are-you-losing-milk-solids-to-facial-eczema.html",
+   "file": "t07_site·article-page.jpg",
+   "captured": true,
+   "bytes": 330455
+  },
+  {
+   "idx": 52,
+   "name": "site·homepage",
+   "family": "site · homepage",
+   "signature": "[homepage] fragment>hero>text>cards>text>tabs>embed>text>article-listing>text>cards>text>fragment",
+   "estPop": 1,
+   "url": "https://nzfarmsource.co.nz/",
+   "file": "t52_site·homepage.jpg",
+   "captured": true,
+   "bytes": 700637
+  }
+ ]
+}
