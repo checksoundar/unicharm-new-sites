@@ -1,0 +1,71 @@
+{
+  "siteUrl": "https://www.mallesons.com/au/en/home.html",
+  "siteOrigin": "https://www.mallesons.com",
+  "site": "mallesons.com",
+  "scope": "Sample analysis of 293 live pages across 78 template groups (AU + SG) \u2014 manually captured in a real browser (live site is Cloudflare-protected)",
+  "eyebrow": "Mallesons (formerly KWM) \u00b7 Site Analysis",
+  "heroTitle": "Structural analysis of mallesons.com \u2014 live-capture sample (AU + SG)",
+  "heroSub": "The live site sits behind a Cloudflare bot challenge, so pages were captured manually in a real browser: the rendered DOM of each page plus full-page desktop and mobile screenshots. The rendered DOM was analysed with the AEM component tag-pattern pipeline (block crops re-rendered locally with the site stylesheets served from the Internet Archive); page-template previews use the original desktop/mobile captures.",
+  "brandLine": "mallesons.com<br>Migration Console",
+  "accountName": "Mallesons (formerly King & Wood Mallesons)",
+  "locale": "en-AU + en-SG",
+  "multiLocale": true,
+  "discovery": "agreed sample list (295 URLs, 44 template groups) \u2014 manual live captures; live sitemaps blocked by Cloudflare",
+  "cjk": false,
+  "catalogFolder": "/backups/checksoundar/unicharm-new-sites/repo/.migration/mallesons-com-scope",
+  "reportsDir": "/backups/checksoundar/unicharm-new-sites/repo/reports",
+  "templateHtml": "/backups/checksoundar/unicharm-new-sites/repo/.claude/skills/site-analysis-dashboard/templates/dashboard-template.html",
+  "outFile": "",
+  "blockStrategy": "aem",
+  "assetSource": "wayback",
+  "source": "manual-capture",
+  "hideSelectors": [
+    "[id^=\"_hj\"]",
+    "[class*=\"_hj-\"]",
+    ".hotjar",
+    "#hotjar-survey"
+  ],
+  "properties": [
+    {
+      "key": "au-en",
+      "label": "AU (en)",
+      "prefix": "/au/en"
+    },
+    {
+      "key": "sg-en",
+      "label": "SG (en)",
+      "prefix": "/sg/en"
+    }
+  ],
+  "familyDescriptions": {
+    "au-en\u00b7commonBannerPage": "General content pages (about us, careers, alumni, media centre, legal notices, contact): common banner + text-and-title sections, promo boxes, cards.",
+    "sg-en\u00b7commonBannerPage": "General content pages (about us, careers, alumni, media centre, legal notices, contact): common banner + text-and-title sections, promo boxes, cards.",
+    "sg-en\u00b7latestThinkingPage": "Insight articles: article header (type, title, date, authors, tags), share/progress bar, AI summary, body text/tables/embeds, publication download, key contacts, latest-thinking rail.",
+    "au-en\u00b7latestThinkingPage": "Insight articles: article header (type, title, date, authors, tags), share/progress bar, AI summary, body text/tables/embeds, publication download, key contacts, latest-thinking rail.",
+    "au-en\u00b7mediumTopicPage": "Insight topic hubs: topic banner, featured publication, featured insights, article listings by topic, key contact.",
+    "au-en\u00b7newsPage": "Media-centre news article: common banner, body text, related news.",
+    "au-en\u00b7newSubPractisePage": "Sub-practice pages: sub-practice banner/title, description, article displays, contacts.",
+    "au-en\u00b7newPractisePage": "Practice landing pages: practice banner, two-column description + aside (Meet our team, sub-practice links), latest news/publications, awards & rankings, testimonials, team contacts.",
+    "au-en\u00b7newSubSectorPage": "Sub-sector pages: sub-sector banner title, description, related insights, contacts.",
+    "au-en\u00b7peoplePage": "Lawyer profile pages: profile header (name, title, office, contacts, portrait), two-column biography + expertise/sectors/location aside, related news, key contacts.",
+    "sg-en\u00b7page-content": "Careers content pages (graduate / qualified-lawyer programmes, agency terms): banner + text sections, promo boxes.",
+    "sg-en\u00b7newsPage": "Media-centre news article: common banner, body text, related news.",
+    "sg-en\u00b7newPractisePage": "Practice landing pages: practice banner, two-column description + aside (Meet our team, sub-practice links), latest news/publications, awards & rankings, testimonials, team contacts.",
+    "sg-en\u00b7newSectorPage": "Sector landing pages: sector banner, description, featured insight, awards, testimonials, contacts.",
+    "sg-en\u00b7peoplePage": "Lawyer profile pages: profile header (name, title, office, contacts, portrait), two-column biography + expertise/sectors/location aside, related news, key contacts.",
+    "au-en\u00b7newSectorPage": "Sector landing pages: sector banner, description, featured insight, awards, testimonials, contacts.",
+    "au-en\u00b7practisePage": "Solution / practice pages: practice banner, lead + body, CTA buttons, crisis-hotline / find-out-more promo, key-contact & recent-work aside, related articles, Meet our team people-finder.",
+    "au-en\u00b7officePage": "Office / locations pages: banner, office cards with addresses and maps.",
+    "sg-en\u00b7officePage": "Office / locations pages: banner, office cards with addresses and maps.",
+    "au-en\u00b7page-content": "Careers content pages (graduate / qualified-lawyer programmes, agency terms): banner + text sections, promo boxes.",
+    "au-en\u00b7basicTopicPage": "Basic topic page: topic banner + article list.",
+    "au-en\u00b7largeTopicPage": "Large insight topic hub: topic banner, featured insights, several topic listings.",
+    "au-en\u00b7homePage": "Home: hero carousel, trending insights, latest thinking, star partner, latest news/publications, promo boxes.",
+    "au-en\u00b7searchPage": "Site search results with type facets.",
+    "sg-en\u00b7subPractisePage": "Sub-practice page (older template): banner, description, contacts.",
+    "sg-en\u00b7newSubPractisePage": "Sub-practice pages: sub-practice banner/title, description, article displays, contacts.",
+    "sg-en\u00b7homePage": "Home: hero carousel, trending insights, latest thinking, star partner, latest news/publications, promo boxes.",
+    "sg-en\u00b7basicTopicPage": "Basic topic page: topic banner + article list.",
+    "sg-en\u00b7searchPage": "Site search results with type facets."
+  }
+}

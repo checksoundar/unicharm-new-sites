@@ -1,0 +1,628 @@
+{
+ "captured": "2026-10-08T11:25:30.691Z",
+ "renderedPages": 291,
+ "distinctSignatures": 29,
+ "method": "AEM page template meta + component sequence",
+ "templates": [
+  {
+   "name": "au-en·commonBannerPage",
+   "family": "au-en · commonBannerPage",
+   "signature": "[commonBannerPage] section",
+   "rendered": 51,
+   "estPop": 51,
+   "urls": [
+    "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+    "https://www.mallesons.com/au/en/about-us/alumni.html",
+    "https://www.mallesons.com/au/en/about-us.html",
+    "https://www.mallesons.com/au/en/about-us/alumni/mallesons-connexion.html",
+    "https://www.mallesons.com/au/en/about-us/media-center.html",
+    "https://www.mallesons.com/au/en/about-us/responsible-business/mallesons-explore.html",
+    "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+    "https://www.mallesons.com/au/en/aml-ctf-statement.html"
+   ],
+   "sections": {
+    "section": 51
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·commonBannerPage",
+   "family": "sg-en · commonBannerPage",
+   "signature": "[commonBannerPage] section",
+   "rendered": 42,
+   "estPop": 42,
+   "urls": [
+    "https://www.mallesons.com/sg/en/about-us.html",
+    "https://www.mallesons.com/sg/en/about-us/alumni.html",
+    "https://www.mallesons.com/sg/en/about-us/alumni/kwm-connexion.html",
+    "https://www.mallesons.com/sg/en/about-us/alumni/alumni-stories.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center.html",
+    "https://www.mallesons.com/sg/en/about-us/responsible-business.html",
+    "https://www.mallesons.com/sg/en/careers.html",
+    "https://www.mallesons.com/sg/en/careers/graduates/graduates-australia.html"
+   ],
+   "sections": {
+    "section": 42
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·latestThinkingPage",
+   "family": "sg-en · latestThinkingPage",
+   "signature": "[latestThinkingPage] section>article-header>breadcrumbs>section",
+   "rendered": 20,
+   "estPop": 20,
+   "urls": [
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/dabus-dismissed-again-united-states-supreme-court-declines-to-consider-whether-ai-can-be-an-inventor.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/kwm-south-southeast-asia-data-centre-briefing.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-indonesia.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-singapore.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-south-korea.html",
+    "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate.html"
+   ],
+   "sections": {
+    "section": 40,
+    "article-header": 20,
+    "breadcrumbs": 20
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·latestThinkingPage",
+   "family": "au-en · latestThinkingPage",
+   "signature": "[latestThinkingPage] section>article-header>breadcrumbs>section",
+   "rendered": 18,
+   "estPop": 18,
+   "urls": [
+    "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/asic-starts-work-on-easing-the-burden-of-regulation.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/in-the-crosshairs-product-design-for-superannuation-trustees-and-life-insurers.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/navigating-the-net-zero-transition-chapter-2-indonesia.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/pillars-of-strength.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+    "https://www.mallesons.com/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html"
+   ],
+   "sections": {
+    "section": 36,
+    "article-header": 18,
+    "breadcrumbs": 18
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·mediumTopicPage",
+   "family": "au-en · mediumTopicPage",
+   "signature": "[mediumTopicPage] section>hero>breadcrumbs>section",
+   "rendered": 12,
+   "estPop": 12,
+   "urls": [
+    "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+    "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
+    "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+    "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+    "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
+    "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
+    "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/green-and-social-capital.html",
+    "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
+   ],
+   "sections": {
+    "section": 24,
+    "hero": 12,
+    "breadcrumbs": 12
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·newsPage",
+   "family": "au-en · newsPage",
+   "signature": "[newsPage] section>article-header>breadcrumbs>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-nsw-roadmap-tender-5-for-long-duration-storage-infrastructure.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-scp-on-acquisition-of-ten-shopping-centres-across-the-country.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-brings-well-respected-construction-partner-from-corrs-chambers-westgarth.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html",
+    "https://www.mallesons.com/au/en/about-us/media-center/kwm-launches-inaugural-contemporary-atsi-art-prize.html"
+   ],
+   "sections": {
+    "section": 20,
+    "article-header": 10,
+    "breadcrumbs": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·newSubPractisePage",
+   "family": "au-en · newSubPractisePage",
+   "signature": "[newSubPractisePage] section>hero>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+    "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust/consumer-protection.html",
+    "https://www.mallesons.com/au/en/expertise/practices/dispute-resolution-and-litigation/administrative-and-public-law.html",
+    "https://www.mallesons.com/au/en/expertise/practices/energy-resources-and-infrastructure/oil-and-gas.html",
+    "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/carbon-and-natural-capital-offering.html",
+    "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
+    "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
+    "https://www.mallesons.com/au/en/expertise/practices/international-trade/international-sanctions.html"
+   ],
+   "sections": {
+    "section": 20,
+    "hero": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·newPractisePage",
+   "family": "au-en · newPractisePage",
+   "signature": "[newPractisePage] section>hero>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+    "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+    "https://www.mallesons.com/au/en/expertise/practices/digital-economy.html",
+    "https://www.mallesons.com/au/en/expertise/practices/dispute-resolution-and-litigation.html",
+    "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance.html",
+    "https://www.mallesons.com/au/en/expertise/practices/insurance.html",
+    "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime.html",
+    "https://www.mallesons.com/au/en/expertise/practices/native-title.html"
+   ],
+   "sections": {
+    "section": 20,
+    "hero": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·newSubSectorPage",
+   "family": "au-en · newSubSectorPage",
+   "signature": "[newSubSectorPage] section>hero>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/au/en/expertise/sectors/energy-resources-and-infrastructure/oil-and-gas.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/financial-services/banks.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/financial-services/fintech.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/financial-services/investment-banks.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/healthcare-and-pharmaceuticals/health-insurance.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/healthcare-and-pharmaceuticals/medical-devices.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/real-estate/student-accommodation.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/real-estate/data-centres.html"
+   ],
+   "sections": {
+    "section": 20,
+    "hero": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·peoplePage",
+   "family": "au-en · peoplePage",
+   "signature": "[peoplePage] section>text>people-profile>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+    "https://www.mallesons.com/au/en/people/larissa-buriak.html",
+    "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+    "https://www.mallesons.com/au/en/people/john-tuck.html",
+    "https://www.mallesons.com/au/en/people/matthew-carr.html",
+    "https://www.mallesons.com/au/en/people/mikkeli-godfree.html",
+    "https://www.mallesons.com/au/en/people/olivia-doray.html",
+    "https://www.mallesons.com/au/en/people/sharon-travers.html"
+   ],
+   "sections": {
+    "section": 20,
+    "text": 10,
+    "people-profile": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·page-content",
+   "family": "sg-en · page-content",
+   "signature": "[page-content] section>text>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/sg/en/about-us/locations.html",
+    "https://www.mallesons.com/sg/en/about-us/locations/cloud-offices.html",
+    "https://www.mallesons.com/sg/en/about-us/locations/offices.html",
+    "https://www.mallesons.com/sg/en/careers/graduates.html",
+    "https://www.mallesons.com/sg/en/careers/other-professionals.html",
+    "https://www.mallesons.com/sg/en/careers/qualified-lawyers.html",
+    "https://www.mallesons.com/sg/en/expertise/practices.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors.html"
+   ],
+   "sections": {
+    "section": 20,
+    "text": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·newsPage",
+   "family": "sg-en · newsPage",
+   "signature": "[newsPage] section>article-header>breadcrumbs>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/sg/en/about-us/media-center/king-and-wood-mallesons-wins-austcham-singapore-business-excellence-award.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/king-and-wood-mallesons-china-and-australia-partnerships-announce-formal-separation.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/kwm-advises-brisbane-airport-on-its-500m-secured-bond-issuance.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/kwm-advises-bdx-on-joint-venture-in-indonesia.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/kwm-australia-promotes-six-to-partnership.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/kwm-advises-sembcorp-on-new-cross-border-gas-sales-agreement.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/kwm-australia-extends-lead-in-latest-chambers-rankings-after-8-years-at-the-top.html",
+    "https://www.mallesons.com/sg/en/about-us/media-center/kwm-bolsters-singapore-and-hong-kong-offices.html"
+   ],
+   "sections": {
+    "section": 20,
+    "article-header": 10,
+    "breadcrumbs": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·newPractisePage",
+   "family": "sg-en · newPractisePage",
+   "signature": "[newPractisePage] section>hero>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/sg/en/expertise/practices/banking-and-finance.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/construction.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/customary-land-rights.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/digital-economy.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/energy-resources-and-infrastructure.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/international-trade.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/labour-and-employment.html",
+    "https://www.mallesons.com/sg/en/expertise/practices/investment-funds-asset-and-management.html"
+   ],
+   "sections": {
+    "section": 20,
+    "hero": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·newSectorPage",
+   "family": "sg-en · newSectorPage",
+   "signature": "[newSectorPage] section>hero>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/sg/en/expertise/sectors/automotive-manufacturing-and-industrials.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/consumer-and-retail.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/energy-resources-and-infrastructure.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/financial-services.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/government-and-public.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/healthcare-and-pharmaceuticals.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/food-and-agribusiness.html",
+    "https://www.mallesons.com/sg/en/expertise/sectors/real-estate.html"
+   ],
+   "sections": {
+    "section": 20,
+    "hero": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·peoplePage",
+   "family": "sg-en · peoplePage",
+   "signature": "[peoplePage] section>text>people-profile>columns>section",
+   "rendered": 10,
+   "estPop": 10,
+   "urls": [
+    "https://www.mallesons.com/sg/en/people/angus-jamieson.html",
+    "https://www.mallesons.com/sg/en/people/chris-mcalinden.html",
+    "https://www.mallesons.com/sg/en/people/anthony-boogert.html",
+    "https://www.mallesons.com/sg/en/people/luke-hawthorne.html",
+    "https://www.mallesons.com/sg/en/people/mark-beaufoy.html",
+    "https://www.mallesons.com/sg/en/people/moira-saville.html",
+    "https://www.mallesons.com/sg/en/people/matthew-carr.html",
+    "https://www.mallesons.com/sg/en/people/niro-ananda.html"
+   ],
+   "sections": {
+    "section": 20,
+    "text": 10,
+    "people-profile": 10,
+    "columns": 10
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·newSectorPage",
+   "family": "au-en · newSectorPage",
+   "signature": "[newSectorPage] section>hero>columns>section",
+   "rendered": 9,
+   "estPop": 9,
+   "urls": [
+    "https://www.mallesons.com/au/en/expertise/sectors/automotive-manufacturing-and-industrials.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/consumer-and-retail.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/energy-resources-and-infrastructure.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/food-and-agribusiness.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/financial-services.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/healthcare-and-pharmaceuticals.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/government-and-public.html",
+    "https://www.mallesons.com/au/en/expertise/sectors/real-estate.html"
+   ],
+   "sections": {
+    "section": 18,
+    "hero": 9,
+    "columns": 9
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·practisePage",
+   "family": "au-en · practisePage",
+   "signature": "[practisePage] section>hero>columns>section",
+   "rendered": 9,
+   "estPop": 9,
+   "urls": [
+    "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/corporate-crime-and-misconduct.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/regulatory-investigations-and-dawn-raids.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/environmental-incidents.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/agm-assistance.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/corporate-governance-health-check.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/esg-due-diligence.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/far-implementation---getting-ready.html",
+    "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/workplace-compliance-review---respect-work.html"
+   ],
+   "sections": {
+    "section": 18,
+    "hero": 9,
+    "columns": 9
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·officePage",
+   "family": "au-en · officePage",
+   "signature": "[officePage] section",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://www.mallesons.com/au/en/locations/australia/canberra.html",
+    "https://www.mallesons.com/au/en/locations/australia/brisbane.html",
+    "https://www.mallesons.com/au/en/locations/australia/melbourne.html",
+    "https://www.mallesons.com/au/en/locations/australia/perth.html",
+    "https://www.mallesons.com/au/en/locations/australia/sydney.html",
+    "https://www.mallesons.com/au/en/locations/singapore.html"
+   ],
+   "sections": {
+    "section": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·officePage",
+   "family": "sg-en · officePage",
+   "signature": "[officePage] section",
+   "rendered": 6,
+   "estPop": 6,
+   "urls": [
+    "https://www.mallesons.com/sg/en/locations/australia/brisbane.html",
+    "https://www.mallesons.com/sg/en/locations/australia/canberra.html",
+    "https://www.mallesons.com/sg/en/locations/australia/melbourne.html",
+    "https://www.mallesons.com/sg/en/locations/australia/perth.html",
+    "https://www.mallesons.com/sg/en/locations/australia/sydney.html",
+    "https://www.mallesons.com/sg/en/locations/singapore.html"
+   ],
+   "sections": {
+    "section": 6
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·page-content",
+   "family": "au-en · page-content",
+   "signature": "[page-content] section>text>section",
+   "rendered": 5,
+   "estPop": 5,
+   "urls": [
+    "https://www.mallesons.com/au/en/careers/graduates.html",
+    "https://www.mallesons.com/au/en/careers/qualified-lawyers.html",
+    "https://www.mallesons.com/au/en/expertise/practices.html",
+    "https://www.mallesons.com/au/en/expertise/sectors.html",
+    "https://www.mallesons.com/au/en/insights.html"
+   ],
+   "sections": {
+    "section": 10,
+    "text": 5
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·basicTopicPage",
+   "family": "au-en · basicTopicPage",
+   "signature": "[basicTopicPage] section>hero>breadcrumbs>section",
+   "rendered": 4,
+   "estPop": 4,
+   "urls": [
+    "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth.html",
+    "https://www.mallesons.com/au/en/insights/topic/the-new-workplace-people-law-culture.html",
+    "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-generation-and-storage.html",
+    "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html"
+   ],
+   "sections": {
+    "section": 8,
+    "hero": 4,
+    "breadcrumbs": 4
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·largeTopicPage",
+   "family": "au-en · largeTopicPage",
+   "signature": "[largeTopicPage] section>hero>breadcrumbs>section",
+   "rendered": 2,
+   "estPop": 2,
+   "urls": [
+    "https://www.mallesons.com/au/en/insights/topic/reimagining-productivity.html",
+    "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/decarbonisation.html"
+   ],
+   "sections": {
+    "section": 4,
+    "hero": 2,
+    "breadcrumbs": 2
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·homePage",
+   "family": "au-en · homePage",
+   "signature": "[homePage] section>text>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/au/en/home.html"
+   ],
+   "sections": {
+    "section": 2,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "au-en·searchPage",
+   "family": "au-en · searchPage",
+   "signature": "[searchPage] section>text>search>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/au/en/search.html"
+   ],
+   "sections": {
+    "section": 2,
+    "text": 1,
+    "search": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·subPractisePage",
+   "family": "sg-en · subPractisePage",
+   "signature": "[subPractisePage] section>hero>columns>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/sg/en/expertise/archive/practices/private-capital/venture-capital.html"
+   ],
+   "sections": {
+    "section": 2,
+    "hero": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·newSubPractisePage",
+   "family": "sg-en · newSubPractisePage",
+   "signature": "[newSubPractisePage] section>hero>columns>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/sg/en/expertise/practices/private-capital/venture-capital.html"
+   ],
+   "sections": {
+    "section": 2,
+    "hero": 1,
+    "columns": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·homePage",
+   "family": "sg-en · homePage",
+   "signature": "[homePage] section>text>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/sg/en/home.html"
+   ],
+   "sections": {
+    "section": 2,
+    "text": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·basicTopicPage",
+   "family": "sg-en · basicTopicPage",
+   "signature": "[basicTopicPage] section>hero>breadcrumbs>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/sg/en/insights/topic/view-from-asia.html"
+   ],
+   "sections": {
+    "section": 2,
+    "hero": 1,
+    "breadcrumbs": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  },
+  {
+   "name": "sg-en·searchPage",
+   "family": "sg-en · searchPage",
+   "signature": "[searchPage] section>text>search>section",
+   "rendered": 1,
+   "estPop": 1,
+   "urls": [
+    "https://www.mallesons.com/sg/en/search.html"
+   ],
+   "sections": {
+    "section": 2,
+    "text": 1,
+    "search": 1
+   },
+   "locales": {},
+   "blockCountMode": {}
+  }
+ ]
+}

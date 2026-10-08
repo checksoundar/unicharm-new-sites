@@ -1,0 +1,71 @@
+{
+ "captured": "2026-10-08T11:25:31.108Z",
+ "locales": [
+  "au",
+  "sg"
+ ],
+ "sections": [],
+ "selInspect": {
+  "totalGroups": 4,
+  "totalLive": 2608,
+  "totalUrls": 2610,
+  "selectedTotal": 291,
+  "skippedTotal": 2319,
+  "non200Total": 2,
+  "nonRrendered": 24,
+  "nonRtotal": 24,
+  "fullGroups": 1,
+  "rRendered": 267,
+  "rTotal": 2586,
+  "rGroups": 3,
+  "exclTotal": 0,
+  "exclGroups": 0,
+  "nonEnExcluded": 0
+ },
+ "rows": [
+  {
+   "groupId": "G00",
+   "template": "/{locale}/{section}/{page}/{path…}/{path…}",
+   "label": "Locale deep pages",
+   "total": 2128,
+   "selected": 212,
+   "skipped": 1916,
+   "non200": 2,
+   "category": "sampled",
+   "example": "/au/en/about-us/alumni/alumni-stories.html"
+  },
+  {
+   "groupId": "G01",
+   "template": "/{locale}/{section}/{page}/{path…}",
+   "label": "Locale deep pages",
+   "total": 450,
+   "selected": 50,
+   "skipped": 400,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/au/en/about-us/alumni.html"
+  },
+  {
+   "groupId": "G02",
+   "template": "/{locale}/{section}/{page}",
+   "label": "Locale sub-pages",
+   "total": 24,
+   "selected": 24,
+   "skipped": 0,
+   "non200": 0,
+   "category": "full",
+   "example": "/au/en/about-us.html"
+  },
+  {
+   "groupId": "G03",
+   "template": "/{locale}/{section}/{page}/{slug}",
+   "label": "Locale deep pages",
+   "total": 8,
+   "selected": 5,
+   "skipped": 3,
+   "non200": 0,
+   "category": "sampled",
+   "example": "/au/en/about-us/responsible-business.html"
+  }
+ ]
+}

@@ -1,0 +1,519 @@
+{
+  "_about": "mallesons.com \u2014 classified from MANUAL LIVE CAPTURES (rendered DOM + desktop/mobile screenshots of the agreed 295-URL sample, AU + SG; the live site is Cloudflare-protected). First reviewed on Internet Archive snapshots, re-validated on the live captures. Evidence: dump-variants + review-sheet.jpg + the user's desktop/mobile screenshots.",
+  "cmp-container": {
+    "eds": "section",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Page root grid (24-column aem-Grid) \u2192 EDS page body."
+  },
+  "dynamicContainer": {
+    "eds": "section",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Dynamic container holding embeds / cookie banner / promo boxes / XFs \u2192 EDS section."
+  },
+  "container": {
+    "eds": "section",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Layout container (pc_fixed_width / margin modifiers) \u2192 EDS section + section-metadata style."
+  },
+  "customer-container": {
+    "eds": "section",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Page shell container (XFs + content container) \u2192 EDS page body."
+  },
+  "ex-second-part2": {
+    "eds": "section",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Expertise-page content container (article displays, awards, testimonials, people contacts) \u2192 EDS section."
+  },
+  "ex-second-box": {
+    "eds": "section",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Right-hand / lower content container of people and expertise pages (related news, 'Meet our team', contacts) \u2192 EDS section."
+  },
+  "experiencefragment": {
+    "eds": "fragment",
+    "category": "section",
+    "complexity": "Simple",
+    "rationale": "Experience fragment (header/footer/promos) \u2192 EDS fragment."
+  },
+  "ex-first-box": {
+    "eds": "columns",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "Two-column people/expertise body: breadcrumb + lead + body copy on the left, a dark aside (key contact slider, 'Examples of recent work', Chambers/Legal500 testimonials) on the right; on mobile the aside drops below the body \u2192 Columns (content + aside)."
+  },
+  "sideBar": {
+    "eds": "columns",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Article aside: highlighted callout ('Who has to report?') beside copy, plus related-insight links \u2192 Columns (aside variant)."
+  },
+  "header": {
+    "eds": "header",
+    "category": "chrome",
+    "complexity": "Complex",
+    "rationale": "Header XF: burger + mega-menu navigation (Expertise / Insights / Our People / Careers panels), search, region switcher (AU | EN) \u2192 EDS header (nav fragment)."
+  },
+  "footer": {
+    "eds": "footer",
+    "category": "chrome",
+    "complexity": "Simple",
+    "rationale": "Footer XF (About / Expertise / Offices / Insights link columns, social icons, legal links) \u2192 EDS footer fragment."
+  },
+  "breadcrumb": {
+    "eds": "breadcrumbs",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Breadcrumb nav with home icon \u2192 Block Collection Breadcrumbs."
+  },
+  "carousel": {
+    "eds": "carousel",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "Home hero carousel (role=group / tabpanel slides with CTA) \u2192 Carousel."
+  },
+  "banner": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Common page banner (image + masked title) \u2192 Hero."
+  },
+  "practise-banner": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Practice / solution banner (full-width image or colour, letter-spaced title between rules) \u2192 Hero (practice variant)."
+  },
+  "sector-banner": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Sector page banner \u2192 Hero (sector variant)."
+  },
+  "topic-banner": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Insight topic banner (article type, title) \u2192 Hero (topic variant)."
+  },
+  "promoBox": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Dark promo box ('Find out more' / '24/7 support & emergency advice hotline') with heading, copy and CTA \u2192 Hero (promo variant)."
+  },
+  "homePromobox": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Home promo tiles (image, title, link) \u2192 Cards."
+  },
+  "trendingInsights": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "'Trending insights' topic tiles (image, title, copy, 'Discover now') \u2192 Cards (author-curated)."
+  },
+  "topicsHome": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "'Explore our topics' tile grid \u2192 Cards (tile variant)."
+  },
+  "columnDisplay": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Linked card grid (cards / cards4 modifiers) \u2192 Cards."
+  },
+  "featureInsightWithImage": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Featured insight (image, title, link) \u2192 Cards (featured variant)."
+  },
+  "awardsAndRanking": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Awards & rankings list (award logos + descriptions) \u2192 Cards."
+  },
+  "location": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Office locations (Australia / Singapore offices, address, phone, map link) \u2192 Cards."
+  },
+  "article-pub-download": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Publication download card (cover image, title, size, Download link) \u2192 Cards (download variant)."
+  },
+  "article-publication-download": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Publication download wrapper \u2192 Cards (download variant)."
+  },
+  "testimonialQuote": {
+    "eds": "quote",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Client testimonial quote (Chambers & Partners / Legal500 attribution) \u2192 Quote."
+  },
+  "quote": {
+    "eds": "quote",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Pull quote on a background \u2192 Quote."
+  },
+  "table": {
+    "eds": "table",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Data table (tableContainer) \u2192 Table."
+  },
+  "newTable": {
+    "eds": "table",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Data table (newTable) \u2192 Table."
+  },
+  "accordion": {
+    "eds": "accordion",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Expandable panels (expand buttons, role=region) with image + text \u2192 Accordion."
+  },
+  "videoWithText": {
+    "eds": "video",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Video with text (Viostream player) \u2192 Video."
+  },
+  "embed": {
+    "eds": "embed",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Embed (Flourish charts, third-party widgets) \u2192 Embed."
+  },
+  "text": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Rich text \u2192 default content."
+  },
+  "title": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Heading \u2192 default content."
+  },
+  "textAndTitle": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Title + text (large title / subtitle / background-image modifiers) \u2192 default content with section styles."
+  },
+  "image": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Image (e.g. 'How we can help' diagrams) \u2192 default-content picture."
+  },
+  "separator": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Separator \u2192 section break."
+  },
+  "multi-button": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Button(s) with optional icon ('Open the tracker', 'Meet contact') \u2192 default-content buttons."
+  },
+  "alumniNav": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Alumni section link list \u2192 default content list."
+  },
+  "subPractiseBanner_title": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Sub-practice title with back link \u2192 default content."
+  },
+  "starPartner": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Star partner rich text \u2192 default content."
+  },
+  "article-reference": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Article references/footnotes container \u2192 default content."
+  },
+  "article-reference-title": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "References heading \u2192 default content."
+  },
+  "banner-image-authors": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Author line inside article/topic banners \u2192 part of the hero / article-header content."
+  },
+  "ex-head-title": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Banner title text \u2192 part of the hero content."
+  },
+  "test": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Common banner title (component named 'test') \u2192 part of the hero content."
+  },
+  "article-type": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Article-type link in topic banners \u2192 part of the hero / page metadata."
+  },
+  "header-mask": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Decorative banner mask (empty) \u2192 not migrated."
+  },
+  "hidden-h1": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Visually hidden H1 \u2192 default-content heading."
+  },
+  "ghost": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Spacer/ghost (empty) \u2192 not migrated."
+  },
+  "loading": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Loading spinner for client-rendered listings \u2192 not migrated (block handles its own loading state)."
+  },
+  "imageAndText": {
+    "eds": "columns",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Image and text \u2192 Columns."
+  },
+  "par_header": {
+    "eds": "people-profile",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "People profile header on lawyer pages: name, title, office, phone/mobile/email, vCard and portrait \u2014 structured profile data (typically fed from the firm's people directory). Custom people-profile block (auto-populated from profile metadata)."
+  },
+  "pc_fixed_width": {
+    "eds": "people-profile",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "Inner layout of the people profile header \u2192 part of the people-profile block."
+  },
+  "keyContact": {
+    "eds": "key-contacts",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Key contact slider (photo, name, title, office, 'Meet contact', pager dots) in the aside of expertise / insight pages, selected by practice/tag \u2192 query-driven custom block over the people index."
+  },
+  "peopleContact": {
+    "eds": "key-contacts",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Practice team contacts \u2192 part of the key-contacts block."
+  },
+  "article-banner": {
+    "eds": "article-header",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Insight article header: type, title, date, authors, hero image and tag links from page metadata \u2192 custom article-header auto-block."
+  },
+  "categories": {
+    "eds": "article-header",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "Article category tags (from page tags) \u2192 part of the article-header / metadata block."
+  },
+  "topics": {
+    "eds": "article-header",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "Article topic tags (client-rendered) \u2192 part of the article-header / metadata block."
+  },
+  "share": {
+    "eds": "share-progress",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "Social share bar (LinkedIn, email, print\u2026) with a reading-progress indicator on insight articles \u2192 small custom block."
+  },
+  "aiSummary": {
+    "eds": "ai-summary",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "AI-generated article summary on insight pages (rendered client-side from a summary service) \u2192 custom block + API integration."
+  },
+  "homeLatestThinking": {
+    "eds": "article-listing",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "'Latest thinking' rail of the newest insights (type, title, date, summary, 'Explore latest thinking') \u2192 query-index listing block."
+  },
+  "article-display": {
+    "eds": "article-listing",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "'Latest news' / 'Latest publications' / 'Related articles' lists filtered by practice/topic \u2192 query-index listing block."
+  },
+  "relatedNews": {
+    "eds": "article-listing",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "'<Person> in the news' list on people pages \u2014 articles mentioning the lawyer \u2192 query-index listing block (related variant)."
+  },
+  "exploreArticle": {
+    "eds": "insights-search",
+    "category": "custom",
+    "complexity": "Complex",
+    "rationale": "Insights finder: keyword search, type/topic/sector/practice filters, sort and paging (client-rendered results) \u2192 custom search block over the query index."
+  },
+  "meetOurPeople": {
+    "eds": "people-finder",
+    "category": "custom",
+    "complexity": "Complex",
+    "rationale": "People directory search: keyword, A\u2013Z index, role/office/practice filters, sort and paging \u2192 custom people-finder block over a people index."
+  },
+  "meetOurTeam": {
+    "eds": "people-finder",
+    "category": "custom",
+    "complexity": "Complex",
+    "rationale": "'Meet our team' on practice/solution pages: Regions / Sectors / Practices / Surname filters, keyword search, sort, region chip ('Australia'), 6-up people cards with 'Meet contact', pagination; single column on mobile \u2192 people-finder block (team variant)."
+  },
+  "meetOurTeamManual": {
+    "eds": "people-finder",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Manually curated team list with paging \u2192 people-finder block (manual variant)."
+  },
+  "quickLookUp": {
+    "eds": "quick-lookup",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Quick look-up panel (people / practices / sectors / offices selectors) \u2192 custom block."
+  },
+  "cookieComponent": {
+    "eds": "cookie-consent",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Bespoke cookie-consent manager on every page (category checkboxes, accept/reject/save) \u2192 custom consent block, or replace with a consent-management platform loaded via delayed.js."
+  },
+  "exploreExpertiseSearch": {
+    "eds": "expertise-explorer",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "'Explore our expertise' search box that live-filters the Practices and Sectors directories on /expertise \u2192 custom expertise-explorer block (search + filtered directory)."
+  },
+  "exploreExpertisePractices": {
+    "eds": "expertise-explorer",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Practices directory: two-column list of practices with expandable sub-practice links and 'Expand all', filtered by the expertise search \u2192 part of the expertise-explorer block."
+  },
+  "exploreExpertiseSectors": {
+    "eds": "expertise-explorer",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "Sectors directory (same pattern as practices) \u2192 part of the expertise-explorer block."
+  },
+  "homeFeatureInsights": {
+    "eds": "article-listing",
+    "category": "custom",
+    "complexity": "Medium",
+    "rationale": "'Featured insights' list on home / topic hubs (title, summary, date, 'Read more', 'Explore more') \u2192 query-index listing block (featured variant)."
+  },
+  "singleStarPartner": {
+    "eds": "key-contacts",
+    "category": "custom",
+    "complexity": "Simple",
+    "rationale": "Single key-contact card in a topic-page aside (name, bio, photo, contact button) \u2192 key-contacts block (single variant)."
+  },
+  "search-page": {
+    "eds": "search",
+    "category": "boilerplate",
+    "complexity": "Medium",
+    "rationale": "Site search results page: query box plus type facets (All / Insights / News / People / Expertise \u2026) and paged results \u2192 Block Collection Search on the query index, with a facet-tab variant."
+  },
+  "stats": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Stat tiles over a background image ('190 partners', '1,100+ lawyers', '200 years') \u2192 Cards (stat variant)."
+  },
+  "timeline": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Numbered principles list (1\u20136, heading + copy), e.g. '6 key principles that shape the way we use AI' \u2192 Cards (numbered variant) or a styled ordered list."
+  },
+  "newNormal": {
+    "eds": "cards",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Featured publication card on topic hubs (type/date, title, summary, 'Read more') \u2192 Cards (featured variant, author-curated)."
+  },
+  "testimonial": {
+    "eds": "quote",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "List of attributed testimonials ('What our CPD attendees said') \u2192 Quote (multi-quote variant)."
+  },
+  "subSectorBanner_title": {
+    "eds": "hero",
+    "category": "boilerplate",
+    "complexity": "Simple",
+    "rationale": "Sub-sector banner title (back link + title on a dark band) \u2192 Hero (sub-sector variant)."
+  },
+  "button": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Home-icon button (breadcrumb home link on careers pages) \u2192 default content / part of breadcrumbs."
+  },
+  "padding": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Spacer component (empty) \u2192 not migrated; section spacing styles."
+  },
+  "test-center": {
+    "eds": "default-content",
+    "category": "default-content",
+    "complexity": "Simple",
+    "rationale": "Centred banner title text (component named 'test-center') \u2192 part of the hero content."
+  }
+}

@@ -11,3 +11,7 @@ helix-importer-ui
 # Ensure these files are tracked
 !CLAUDE.md
 !AGENTS.md
+
+# raw manual captures (large; analysed into the scope folder, not committed)
+.migration/*/manual/
+.migration/*/asset-cache/

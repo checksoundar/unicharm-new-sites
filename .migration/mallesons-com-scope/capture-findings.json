@@ -1,0 +1,28 @@
+{
+ "findings": [
+  {
+   "sampleUrl": "https://www.mallesons.com/au/en/careers/other-professionals.html",
+   "canonical": "https://www.mallesons.com/au/en/careers/other-professionals/other-professionals-australia.html",
+   "kind": "canonical differs (alias / duplicate path)"
+  },
+  {
+   "sampleUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
+   "canonical": "https://www.mallesons.com/au/en/expertise/practices/dispute-resolution-and-litigation/climate-change-litigation.html",
+   "kind": "canonical differs (alias / duplicate path)"
+  },
+  {
+   "sampleUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/crypto-litigation-risk-heats-up-promoters-VCs-on-notice.html",
+   "canonical": "https://www.mallesons.com/au/en/insights/latest-thinking.html",
+   "kind": "article removed → falls back to listing"
+  },
+  {
+   "sampleUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/the-european-deforestation-regulation-set-to-impact-Australian-exports-now-expected-to-be-deferred.html",
+   "canonical": "https://www.mallesons.com/au/en/insights/latest-thinking.html",
+   "kind": "article removed → falls back to listing"
+  }
+ ],
+ "problems": [
+  "no canonical: au-en/sitemap__depth2/au_en_sitemap_sitemap-au.rendered.html",
+  "no canonical: index.html"
+ ]
+}
