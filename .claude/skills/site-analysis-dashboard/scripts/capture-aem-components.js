@@ -31,6 +31,8 @@ const fs = require('fs');
 const path = require('path');
 const crypto = require('crypto');
 const { chromium } = require('playwright-core');
+const { loadFetchMap, installAssetRoutes } = require('./fetch-map.js');
+
 
 
 // ---------------- runs in the browser ----------------
@@ -233,6 +235,7 @@ async function main() {
   fs.mkdirSync(BLOCKS_DIR, { recursive: true });
   const OUT_C = path.join(CF, 'aem-components.jsonl');
   const OUT_P = path.join(CF, 'aem-pages.jsonl');
+  const FETCH = loadFetchMap(CF);
   const done = new Set();
   const shotCount = {};
   if (fs.existsSync(OUT_P)) for (const l of fs.readFileSync(OUT_P, 'utf8').split('\n')) { try { const r = JSON.parse(l); if (r.status === 'ok') done.add(r.url); } catch (e) { /* skip */ } }
@@ -248,10 +251,11 @@ async function main() {
   async function worker(wid) {
     const ctx = await browser.newContext({ viewport: { width: 1440, height: 1000 }, userAgent: process.env.SCOPE_UA || undefined, ignoreHTTPSErrors: true });
     const page = await ctx.newPage(); page.setDefaultTimeout(45000);
+    await installAssetRoutes(page, CF);
     while (queue.length) {
       const url = queue.shift(); const i = ++n;
       try {
-        await page.goto(url, { waitUntil: 'load', timeout: 60000 });
+        await page.goto(FETCH(url), { waitUntil: 'load', timeout: 90000 });
         await page.waitForTimeout(800); await autoScroll(page); await page.waitForTimeout(600);
         // dismiss cookie banners that would overlay crops
         await page.evaluate(() => { document.querySelectorAll('#onetrust-consent-sdk,.cookie-banner,#CybotCookiebotDialog').forEach((e) => e.remove()); }).catch(() => {});

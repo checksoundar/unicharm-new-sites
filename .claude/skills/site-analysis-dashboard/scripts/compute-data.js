@@ -101,7 +101,7 @@ fs.writeFileSync(path.join(CF, 'block-heatmap.json'), JSON.stringify({ integrati
 
 // --- integrations summary (site-wide) ---
 const hostHits = {};
-function host(u) { try { return new URL(u).hostname; } catch (e) { return null; } }
+function host(u) { try { const h = new URL(u).hostname; return /^(localhost|127\.0\.0\.1)$/.test(h) ? null : h; } catch (e) { return null; } } // capture-tool / dev hosts are not site integrations
 for (const p of pages) for (const s of (p.scripts || []).concat(p.iframeSrcs || [])) { const h = host(s); if (h) hostHits[h] = (hostHits[h] || 0) + 1; }
 // Comprehensive third-party classification: [regex, name, category].
 const KNOWN = [

@@ -20,6 +20,8 @@
 const fs = require('fs');
 const path = require('path');
 const { chromium } = require('playwright-core');
+const { loadFetchMap, installAssetRoutes } = require('./fetch-map.js');
+
 
 const CF = process.argv[2] || __dirname;
 const arg = (f, d) => { const i = process.argv.indexOf(f); return i >= 0 ? process.argv[i + 1] : d; };
@@ -32,6 +34,7 @@ let urls = renderSet.urls;
 if (LIMIT > 0) urls = urls.slice(0, LIMIT);
 
 const OUT = path.join(CF, 'pages.jsonl');
+const FETCH = loadFetchMap(CF);
 // resume: skip URLs already rendered
 const done = new Set();
 if (fs.existsSync(OUT)) {
@@ -153,12 +156,13 @@ async function autoScroll(page) {
     const ctx = await browser.newContext({ locale: 'ja-JP', viewport: { width: 1440, height: 900 }, userAgent: process.env.SCOPE_UA || 'Mozilla/5.0 (compatible; site-scope/1.0; +layout-discovery)', ignoreHTTPSErrors: true });
     const page = await ctx.newPage();
     page.setDefaultTimeout(NAV_TIMEOUT);
+    await installAssetRoutes(page, CF);
     while (queue.length) {
       const url = queue.shift();
       const n = ++idx;
       const rec = { url };
       try {
-        await page.goto(url, { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
+        await page.goto(FETCH(url), { waitUntil: 'domcontentloaded', timeout: NAV_TIMEOUT });
         await page.waitForTimeout(600);
         await autoScroll(page);
         await page.waitForTimeout(300);
