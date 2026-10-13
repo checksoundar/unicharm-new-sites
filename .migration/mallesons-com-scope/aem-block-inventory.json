@@ -1,5 +1,5 @@
 {
- "captured": "2026-10-08T11:25:30.863Z",
+ "captured": "2026-10-13T13:10:45.063Z",
  "jaccard": 0.8,
  "pages": 291,
  "componentInstances": 8573,
@@ -206,6 +206,7 @@
      ],
      "repFile": "cookieComponent_8ea568e7c0_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/applicant-privacy-notice.html",
+     "repSource": "render",
      "modifiers": [
       "cookie-mask(291)"
      ],
@@ -292,8 +293,9 @@
       "/au/en/expertise/practices/private-capital.html",
       "/au/en/expertise/sectors/energy-resources-and-infrastructure.html"
      ],
-     "repFile": "article-display_7f29e2a779_1.jpg",
+     "repFile": "cap_article-display_7f29e2a779.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(40)",
       "article-title(40)",
@@ -370,8 +372,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html"
      ],
-     "repFile": "article-display_ddc50e148b_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_article-display_25276d7d41.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(39)",
       "article-three(39)",
@@ -454,8 +457,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
       "/au/en/expertise/practices/tax/real-estate-tax.html"
      ],
-     "repFile": "article-display_70ee4c9bdd_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repFile": "cap_article-display_70ee4c9bdd.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(28)",
       "article-three(28)",
@@ -519,8 +523,9 @@
       "/au/en/expertise/sectors/healthcare-and-pharmaceuticals/medical-devices.html",
       "/sg/en/about-us/alumni/alumni-stories.html"
      ],
-     "repFile": "article-display_f29c252bf4_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/construction.html",
+     "repFile": "cap_article-display_f29c252bf4.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(11)",
       "article-title(11)",
@@ -589,8 +594,9 @@
       "/au/en/locations/australia/melbourne.html",
       "/au/en/locations/australia/sydney.html"
      ],
-     "repFile": "article-display_94368dcfa7_1.jpg",
+     "repFile": "cap_article-display_94368dcfa7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(9)",
       "article-three(9)",
@@ -652,8 +658,9 @@
       "/au/en/locations/australia/perth.html",
       "/sg/en/contact-us/thank-you.html"
      ],
-     "repFile": "article-display_23748b92a5_1.jpg",
+     "repFile": "cap_article-display_23748b92a5.jpg",
      "repUrl": "https://www.mallesons.com/au/en/contact-us/thank-you.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(6)",
       "article-three(6)",
@@ -712,6 +719,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/carbon-and-natural-capital-offering.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -764,6 +772,7 @@
      ],
      "repFile": "article-display_0fb15a496e_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/corporate-governance-health-check.html",
+     "repSource": "render",
      "modifiers": [
       "article-container(4)",
       "article-three(4)",
@@ -819,8 +828,9 @@
      "sampleUrls": [
       "/au/en/home.html"
      ],
-     "repFile": "article-display_8a9a1dc8a7_1.jpg",
+     "repFile": "cap_article-display_8a9a1dc8a7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-container(1)",
       "article-three(1)",
@@ -900,8 +910,9 @@
       "/au/en/about-us/media-center/kwm-advises-scp-on-acquisition-of-ten-shopping-centres-across-the-country.html",
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html"
      ],
-     "repFile": "keyContact_f1cce6ef96_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center.html",
+     "repFile": "cap_keyContact_f1cce6ef96.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "keyContact_container(44)",
       "keyContact_title(44)"
@@ -970,6 +981,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "marginBottom_0(2)",
@@ -1025,8 +1037,9 @@
       "/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
       "/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html"
      ],
-     "repFile": "keyContact_23ae4ead4f_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_keyContact_23ae4ead4f.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "keyContact_container(25)",
       "keyContact_title(25)"
@@ -1092,8 +1105,9 @@
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
       "/au/en/insights/topic/esg-enabling-sustainable-growth/carbon-and-nature.html"
      ],
-     "repFile": "keyContact_66c13787c7_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/asic-starts-work-on-easing-the-burden-of-regulation.html",
+     "repFile": "cap_keyContact_66c13787c7.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/carbon-and-nature.html",
+     "repSource": "live-capture",
      "modifiers": [
       "keyContact_container(11)",
       "keyContact_title(11)"
@@ -1178,8 +1192,9 @@
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html"
      ],
-     "repFile": "article-banner_b5ae0033e4_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_article-banner_b5ae0033e4.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-banner(54)",
       "ex-header(54)"
@@ -1233,8 +1248,9 @@
       "/au/en/insights/latest-thinking/pillars-of-strength.html",
       "/sg/en/insights/latest-thinking/kwm-south-southeast-asia-data-centre-briefing.html"
      ],
-     "repFile": "article-banner_42594b0f48_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/pillars-of-strength.html",
+     "repFile": "cap_article-banner_42594b0f48.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/kwm-south-southeast-asia-data-centre-briefing.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-banner(2)",
       "ex-header(2)"
@@ -1285,8 +1301,9 @@
       "/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
       "/sg/en/insights/latest-thinking/publication/navigating-the-net-zero-transition-spotlight-on-southeast-asia-japan-and-the-republic-of-korea.html"
      ],
-     "repFile": "article-banner_1febf04af9_1.jpg",
+     "repFile": "cap_article-banner_1febf04af9.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-banner(2)",
       "articleBanner(2)",
@@ -1364,8 +1381,9 @@
       "/au/en/about-us/media-center/kwm-brings-well-respected-construction-partner-from-corrs-chambers-westgarth.html",
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html"
      ],
-     "repFile": "categories_c4702f4de3_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_categories_c4702f4de3.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "categories-box(42)",
       "categories-title(42)"
@@ -1423,6 +1441,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -1496,6 +1515,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -1586,8 +1606,9 @@
       "/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html",
       "/au/en/insights/latest-thinking/publication/its-public.html"
      ],
-     "repFile": "share_b99e46d261_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_share_b99e46d261.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "share-icon(38)",
       "progress-box(38)"
@@ -1666,6 +1687,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/in-the-crosshairs-product-design-for-superannuation-trustees-and-life-insurers.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -1725,8 +1747,9 @@
       "/au/en/insights/latest-thinking/publication/next-business-purpose-future-edition-8.html",
       "/au/en/insights/latest-thinking/publication/onboard-march-2025.html"
      ],
-     "repFile": "aiSummary_b9ddb7d1ce_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_aiSummary_b9ddb7d1ce.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -1778,8 +1801,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html"
      ],
-     "repFile": "aiSummary_faff6d3ce3_1.jpg",
+     "repFile": "cap_aiSummary_faff6d3ce3.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -1856,8 +1880,9 @@
       "/au/en/insights/latest-thinking/pillars-of-strength.html",
       "/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html"
      ],
-     "repFile": "homeLatestThinking_985bd99359_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_homeLatestThinking_985bd99359.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "home-latest-thinking(34)",
       "pc-width(34)",
@@ -1910,8 +1935,9 @@
       "/au/en/home.html",
       "/sg/en/home.html"
      ],
-     "repFile": "homeLatestThinking_0aa08d6004_1.jpg",
+     "repFile": "cap_homeLatestThinking_0aa08d6004.jpg",
      "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repSource": "live-capture",
      "modifiers": [
       "home-latest-thinking(2)",
       "pc-width(2)",
@@ -1987,8 +2013,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "parheader_d591f36776_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_parheader_d591f36776.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [
       "aem-GridColumn--default--none(20)",
       "aem-GridColumn(20)",
@@ -2068,8 +2095,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "pcfixedwidth_2621a127cf_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_pcfixedwidth_2621a127cf.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [
       "header_text(19)",
       "wordMiddle(19)"
@@ -2121,8 +2149,9 @@
      "sampleUrls": [
       "/sg/en/people/urszula-mccormack.html"
      ],
-     "repFile": "pcfixedwidth_213c1a0a7a_1.jpg",
+     "repFile": "cap_pcfixedwidth_213c1a0a7a.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/people/urszula-mccormack.html",
+     "repSource": "live-capture",
      "modifiers": [
       "header_text(1)",
       "wordMiddle(1)"
@@ -2201,6 +2230,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "pc_fixed_width(16)"
@@ -2259,8 +2289,9 @@
       "/au/en/people/tim-edwards.html",
       "/au/en/people/john-tuck.html"
      ],
-     "repFile": "relatedNews_22c2c8c106_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_relatedNews_22c2c8c106.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/john-tuck.html",
+     "repSource": "live-capture",
      "modifiers": [
       "related_Con(4)",
       "relatedNews_Con(4)",
@@ -2336,8 +2367,9 @@
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/corporate-governance-health-check.html",
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/esg-due-diligence.html"
      ],
-     "repFile": "meetOurTeam_d92c74d8be_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/the-new-workplace-people-law-culture.html",
+     "repFile": "cap_meetOurTeam_d92c74d8be.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "meet-our-team(17)",
       "title(17)"
@@ -2416,8 +2448,9 @@
       "/au/en/locations/australia/perth.html",
       "/au/en/locations/australia/sydney.html"
      ],
-     "repFile": "peopleContact_ac7b4b0969_1.jpg",
+     "repFile": "cap_peopleContact_ac7b4b0969.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "peopleContact_container(12)"
      ],
@@ -2493,8 +2526,9 @@
       "/sg/en/insights/topic/view-from-asia.html",
       "/sg/en/locations/singapore.html"
      ],
-     "repFile": "meetOurTeamManual_76cf399346_1.jpg",
+     "repFile": "cap_meetOurTeamManual_76cf399346.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "meet-our-team-manual(6)",
       "meet-our-team-manual-wrapper(6)",
@@ -2576,8 +2610,9 @@
       "/sg/en/about-us/media-center.html",
       "/sg/en/insights/latest-thinking.html"
      ],
-     "repFile": "exploreArticle_ffcb083dae_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/about-us/media-center.html",
+     "repFile": "cap_exploreArticle_ffcb083dae.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html",
+     "repSource": "live-capture",
      "modifiers": [
       "max-explore-article(4)",
       "explore-article(4)"
@@ -2651,8 +2686,9 @@
       "/au/en/expertise.html",
       "/sg/en/expertise.html"
      ],
-     "repFile": "exploreExpertiseSearch_eeb679eb5d_1.jpg",
+     "repFile": "cap_exploreExpertiseSearch_eeb679eb5d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise.html",
+     "repSource": "live-capture",
      "modifiers": [
       "exp-ex-search-title(2)"
      ],
@@ -2722,8 +2758,9 @@
       "/au/en/expertise.html",
       "/sg/en/expertise.html"
      ],
-     "repFile": "exploreExpertisePractices_cf5f10c82e_1.jpg",
+     "repFile": "cap_exploreExpertisePractices_cf5f10c82e.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise.html",
+     "repSource": "live-capture",
      "modifiers": [
       "exp-practices-container(2)",
       "exp-practices(2)"
@@ -2796,8 +2833,9 @@
       "/au/en/expertise.html",
       "/sg/en/expertise.html"
      ],
-     "repFile": "exploreExpertiseSectors_204fc208e1_1.jpg",
+     "repFile": "cap_exploreExpertiseSectors_204fc208e1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise.html",
+     "repSource": "live-capture",
      "modifiers": [
       "exp-sectors-container(2)",
       "exp-sectors(2)"
@@ -2870,8 +2908,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "homeFeatureInsights_954558d4b1_1.jpg",
+     "repFile": "cap_homeFeatureInsights_954558d4b1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "home-feature-insights(2)",
       "pc-width(2)",
@@ -2943,8 +2982,9 @@
       "/au/en/people.html",
       "/sg/en/people.html"
      ],
-     "repFile": "meetOurPeople_e867b59735_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people.html",
+     "repFile": "cap_meetOurPeople_e867b59735.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/people.html",
+     "repSource": "live-capture",
      "modifiers": [
       "meet-our-people(2)",
       "title(2)"
@@ -3017,8 +3057,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "singleStarPartner_36245d5f23_1.jpg",
+     "repFile": "cap_singleStarPartner_36245d5f23.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "sidebar_person(1)",
       "sp-title(1)"
@@ -3086,8 +3127,9 @@
      "sampleUrls": [
       "/au/en/people.html"
      ],
-     "repFile": "quickLookUp_26e8d0ce4e_1.jpg",
+     "repFile": "cap_quickLookUp_26e8d0ce4e.jpg",
      "repUrl": "https://www.mallesons.com/au/en/people.html",
+     "repSource": "live-capture",
      "modifiers": [
       "quick-look-up(1)",
       "title(1)"
@@ -3166,6 +3208,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -3220,8 +3263,9 @@
       "/au/en/locations/australia/sydney.html",
       "/au/en/locations/singapore.html"
      ],
-     "repFile": "embed_b8e9d991f6_1.jpg",
+     "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia/canberra.html",
+     "repSource": "blank",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -3274,8 +3318,9 @@
       "/au/en/insights/topic/the-new-workplace-people-law-culture.html",
       "/au/en/insights/topic/transitioning-to-future-energy.html"
      ],
-     "repFile": "embed_335b98ad20_1.jpg",
+     "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/the-review-class-actions-in-australia-2023-2024.html",
+     "repSource": "blank",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -3326,8 +3371,9 @@
       "/au/en/contact-us.html",
       "/sg/en/contact-us.html"
      ],
-     "repFile": "embed_1cc3a1dcb7_1.jpg",
+     "repFile": "cap_embed_1cc3a1dcb7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/contact-us.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -3380,6 +3426,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -3451,8 +3498,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance.html",
       "/au/en/expertise/practices/insurance.html"
      ],
-     "repFile": "ex-first-box_143e9cbb06_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_ex-first-box_143e9cbb06.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-box(48)",
       "aem-GridColumn--default--none(48)",
@@ -3583,8 +3631,9 @@
       "/au/en/expertise/practices/private-capital.html",
       "/au/en/expertise/sectors/energy-resources-and-infrastructure.html"
      ],
-     "repFile": "ex-first-box_e29c271205_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology/technology.html",
+     "repFile": "cap_ex-first-box_65eee5bedf.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(29)",
       "breadcrumb(29)"
@@ -3657,8 +3706,9 @@
       "/sg/en/expertise/practices/international-trade.html",
       "/sg/en/expertise/practices/investment-funds-asset-and-management.html"
      ],
-     "repFile": "ex-first-box_a30c2e012f_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/banking-and-finance.html",
+     "repFile": "cap_ex-first-box_a30c2e012f.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(23)",
       "breadcrumb(23)"
@@ -3716,8 +3766,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "ex-first-box_ae1b666d62_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_ex-first-box_ae1b666d62.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(10)",
       "breadcrumb(10)"
@@ -3774,8 +3825,9 @@
       "/sg/en/people/mark-beaufoy.html",
       "/sg/en/people/moira-saville.html"
      ],
-     "repFile": "ex-first-box_81ced62ade_1.jpg",
+     "repFile": "cap_ex-first-box_81ced62ade.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/people/angus-jamieson.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(10)",
       "breadcrumb(10)"
@@ -3851,8 +3903,9 @@
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/agm-assistance.html",
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/far-implementation---getting-ready.html"
      ],
-     "repFile": "ex-first-box_bd89cf0a51_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/regulatory-investigations-and-dawn-raids.html",
+     "repFile": "cap_ex-first-box_bd89cf0a51.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/corporate-governance-health-check.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(6)",
       "breadcrumb(6)"
@@ -3924,8 +3977,9 @@
       "/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
       "/au/en/expertise/sectors/financial-services/banks.html"
      ],
-     "repFile": "ex-first-box_d4de69166e_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/financial-services/banks.html",
+     "repFile": "cap_ex-first-box_6abc534a58.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(3)",
       "breadcrumb(3)"
@@ -3994,8 +4048,9 @@
       "/au/en/expertise/solutions/crisis-management/environmental-incidents.html",
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/tax-governance.html"
      ],
-     "repFile": "ex-first-box_94bab55255_1.jpg",
+     "repFile": "cap_ex-first-box_2fc79979e6.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/environmental-incidents.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(3)",
       "breadcrumb(3)"
@@ -4058,8 +4113,9 @@
       "/sg/en/expertise/practices/customary-land-rights.html",
       "/sg/en/expertise/practices/labour-and-employment.html"
      ],
-     "repFile": "ex-first-box_e30b50a9f4_1.jpg",
+     "repFile": "cap_ex-first-box_e30b50a9f4.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/customary-land-rights.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(2)",
       "breadcrumb(2)"
@@ -4111,8 +4167,9 @@
      "sampleUrls": [
       "/au/en/expertise/sectors/food-and-agribusiness.html"
      ],
-     "repFile": "ex-first-box_fb2a34e23c_1.jpg",
+     "repFile": "cap_ex-first-box_fb2a34e23c.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/food-and-agribusiness.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(1)",
       "breadcrumb(1)"
@@ -4166,6 +4223,7 @@
      ],
      "repFile": "ex-first-box_0236f6c1e1_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/expertise/archive/practices/private-capital/venture-capital.html",
+     "repSource": "render",
      "modifiers": [
       "ex-first-left(1)",
       "breadcrumb(1)"
@@ -4227,8 +4285,9 @@
      "sampleUrls": [
       "/sg/en/expertise/practices/private-capital.html"
      ],
-     "repFile": "ex-first-box_f0fa741b0c_1.jpg",
+     "repFile": "cap_ex-first-box_f0fa741b0c.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/private-capital.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-first-left(1)",
       "breadcrumb(1)"
@@ -4282,6 +4341,7 @@
      ],
      "repFile": "ex-first-box_8fcb24a4e5_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/private-capital/venture-capital.html",
+     "repSource": "render",
      "modifiers": [
       "ex-first-left(1)",
       "breadcrumb(1)"
@@ -4364,8 +4424,9 @@
       "/au/en/about-us/media-center/kwm-advises-scp-on-acquisition-of-ten-shopping-centres-across-the-country.html",
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html"
      ],
-     "repFile": "breadcrumb_7250dff912_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repFile": "cap_breadcrumb_7250dff912.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "breadcrumb-nav(111)",
       "kwm-icon--home(111)"
@@ -4444,8 +4505,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repFile": "cap_banner_a776706ee5.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "commonBanner(104)",
       "header-mask(104)"
@@ -4500,8 +4562,9 @@
      "sampleUrls": [
       "/au/en/expertise/solutions/innovation-at-mallesons.html"
      ],
-     "repFile": "",
+     "repFile": "cap_banner_b4d94bcecf.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "live-capture",
      "modifiers": [
       "commonBanner(1)",
       "header-mask(1)"
@@ -4580,6 +4643,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "noImage(12)"
@@ -4634,8 +4698,9 @@
       "/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html",
       "/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html"
      ],
-     "repFile": "article-publication-download_6b3c1682ab_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repFile": "cap_article-publication-download_6b3c1682ab.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-publication-download-container(25)",
       "article-pub-download(25)",
@@ -4722,8 +4787,9 @@
       "/au/en/expertise/sectors/financial-services.html",
       "/au/en/expertise/sectors/government-and-public.html"
      ],
-     "repFile": "promoBox_e515052723_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/careers.html",
+     "repFile": "cap_promoBox_e515052723.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "promoBox_Container(36)",
       "promoBox_bg(36)"
@@ -4791,8 +4857,9 @@
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/corporate-governance-health-check.html",
       "/au/en/expertise/solutions/governance-solutions-for-todays-world/esg-due-diligence.html"
      ],
-     "repFile": "promoBox_f44f3ed4ca_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/energy-resources-and-infrastructure/oil-and-gas.html",
+     "repFile": "cap_promoBox_f44f3ed4ca.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/locations/australia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "promoBox_Container(19)",
       "promoBox_bg(19)"
@@ -4848,8 +4915,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
       "/au/en/insights/topic/transitioning-to-future-energy/energy-generation-and-storage.html"
      ],
-     "repFile": "promoBox_67a6030980_1.jpg",
+     "repFile": "cap_promoBox_67a6030980.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "promoBox_Container(2)",
       "promoBox_bg(2)"
@@ -4927,8 +4995,9 @@
       "/sg/en/careers/graduates/graduates-australia/graduates.html",
       "/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "videoWithText_372f0bf3bc_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/graduates.html",
+     "repFile": "cap_videoWithText_372f0bf3bc.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "con-wapper(12)"
      ],
@@ -4992,6 +5061,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/other-professionals.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "video-black(9)",
@@ -5045,8 +5115,9 @@
       "/au/en/insights/topic/reimagining-productivity.html",
       "/au/en/insights/topic/transitioning-to-future-energy/decarbonisation.html"
      ],
-     "repFile": "videoWithText_68c5d137f2_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repFile": "cap_videoWithText_68c5d137f2.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/decarbonisation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "con-wapper(5)"
      ],
@@ -5115,8 +5186,9 @@
       "/sg/en/about-us/alumni/alumni-stories.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html"
      ],
-     "repFile": "videoWithText_8b08d85eb6_1.jpg",
+     "repFile": "cap_videoWithText_8b08d85eb6.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "con-wapper(5)",
       "bottomBorder(2)"
@@ -5177,8 +5249,9 @@
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
       "/sg/en/about-us.html"
      ],
-     "repFile": "videoWithText_3868171bd1_1.jpg",
+     "repFile": "cap_videoWithText_3868171bd1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "live-capture",
      "modifiers": [
       "con-wapper(4)"
      ],
@@ -5241,6 +5314,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia.html",
+     "repSource": "none",
      "modifiers": [
       "con-wapper(4)"
      ],
@@ -5292,8 +5366,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "videoWithText_6d228fc83f_1.jpg",
+     "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/the-new-workplace-people-law-culture.html",
+     "repSource": "blank",
      "modifiers": [
       "con-wapper(3)"
      ],
@@ -5376,8 +5451,9 @@
       "/au/en/expertise/solutions/governance-solutions-for-todays-world.html",
       "/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html"
      ],
-     "repFile": "columnDisplay_5f293a4994_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repFile": "cap_columnDisplay_5f293a4994.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/our-benefits.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cards(40)",
       "cards3(23)",
@@ -5435,6 +5511,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "none",
      "modifiers": [
       "cards(2)"
      ],
@@ -5508,8 +5585,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance.html",
       "/au/en/expertise/practices/insurance.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_practise-banner_53331f2d87.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "practise-banner(29)",
       "header-mask(29)"
@@ -5565,8 +5643,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance/carbon-and-natural-capital-offering.html",
       "/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html"
      ],
-     "repFile": "practise-banner_889cca2216_1.jpg",
+     "repFile": "cap_practise-banner_889cca2216.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+     "repSource": "live-capture",
      "modifiers": [
       "practise-banner(12)",
       "subPractise-banner(12)",
@@ -5661,8 +5740,9 @@
       "/au/en/careers/graduates/graduates-singapore/penultimate-year-law-students/clerkship-program.html",
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "trendingInsights_b0dc666fad_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repFile": "cap_trendingInsights_3e87f55b5c.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "trending-insights(22)",
       "trending-insights-items(16)",
@@ -5732,8 +5812,9 @@
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
       "/sg/en/careers.html"
      ],
-     "repFile": "trendingInsights_06d5e1e3d1_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repFile": "cap_trendingInsights_56c243c441.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "trending-insights(12)",
       "trending-insights-items(12)"
@@ -5810,8 +5891,9 @@
       "/au/en/expertise/practices/energy-resources-and-infrastructure/oil-and-gas.html",
       "/au/en/expertise/practices/environmental-social-and-governance.html"
      ],
-     "repFile": "testimonialQuote_4f855785a9_1.jpg",
+     "repFile": "cap_testimonialQuote_4f855785a9.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "testimonialQuote_container(33)"
      ],
@@ -5888,8 +5970,9 @@
       "/au/en/expertise/sectors/financial-services.html",
       "/au/en/expertise/sectors/healthcare-and-pharmaceuticals.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/automotive-manufacturing-and-industrials.html",
+     "repFile": "cap_sector-banner_685d7a7f49.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology.html",
+     "repSource": "live-capture",
      "modifiers": [
       "sector-banner(19)",
       "header-mask(19)",
@@ -5949,6 +6032,7 @@
      ],
      "repFile": "sector-banner_6bc86bb4f7_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/energy-resources-and-infrastructure/oil-and-gas.html",
+     "repSource": "render",
      "modifiers": [
       "sector-banner(10)",
       "subSector-banner(10)",
@@ -6024,8 +6108,9 @@
       "/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
       "/au/en/insights/latest-thinking/publication/next-business-purpose-future-edition-8.html"
      ],
-     "repFile": "article-pub-download_f8bc5c87da_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repFile": "cap_article-pub-download_f8bc5c87da.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-pub-download-left(22)"
      ],
@@ -6079,8 +6164,9 @@
       "/au/en/expertise/solutions/crisis-management/regulatory-investigations-and-dawn-raids.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "article-pub-download_90f5e9a51d_1.jpg",
+     "repFile": "cap_article-pub-download_90f5e9a51d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-pub-download-left(3)"
      ],
@@ -6152,8 +6238,9 @@
       "/au/en/expertise/practices/insurance.html",
       "/au/en/expertise/practices/native-title.html"
      ],
-     "repFile": "awardsAndRanking_06b944b54f_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_awardsAndRanking_06b944b54f.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "awardsAndRanking_container(19)"
      ],
@@ -6231,8 +6318,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html"
      ],
-     "repFile": "topic-banner_848cb3d23d_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repFile": "cap_topic-banner_848cb3d23d.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "topic-banner(19)",
       "ex-header(19)",
@@ -6315,8 +6403,9 @@
       "/au/en/insights/publications.html",
       "/au/en/insights/sprint-to-the-finish-cpd-program.html"
      ],
-     "repFile": "homePromobox_c8200a1f75_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia.html",
+     "repFile": "cap_homePromobox_c8200a1f75.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/our-benefits.html",
+     "repSource": "live-capture",
      "modifiers": [
       "home-promobox(14)",
       "promobox-items(14)",
@@ -6371,8 +6460,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html"
      ],
-     "repFile": "homePromobox_5faa1e3338_1.jpg",
+     "repFile": "cap_homePromobox_5faa1e3338.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html",
+     "repSource": "live-capture",
      "modifiers": [
       "home-promobox(1)",
       "promobox-items(1)"
@@ -6447,8 +6537,9 @@
       "/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
       "/sg/en/about-us/alumni/kwm-connexion.html"
      ],
-     "repFile": "imageAndText_ed8ba2fb9d_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/mallesons-connexion.html",
+     "repFile": "cap_imageAndText_ed8ba2fb9d.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
+     "repSource": "live-capture",
      "modifiers": [
       "imageAndText_container(6)"
      ],
@@ -6503,6 +6594,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repSource": "blank",
      "modifiers": [
       "imageAndText_container(5)"
      ],
@@ -6554,8 +6646,9 @@
       "/au/en/expertise/solutions/innovation-at-mallesons.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "imageAndText_8a99335ea9_1.jpg",
+     "repFile": "cap_imageAndText_8a99335ea9.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "imageAndText_container(3)"
      ],
@@ -6629,6 +6722,7 @@
      ],
      "repFile": "subSectorBannertitle_1d3f997d96_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/energy-resources-and-infrastructure/oil-and-gas.html",
+     "repSource": "render",
      "modifiers": [
       "title_tOne(10)"
      ],
@@ -6703,8 +6797,9 @@
       "/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
       "/sg/en/insights/latest-thinking/publication/navigating-the-net-zero-transition-spotlight-on-southeast-asia-japan-and-the-republic-of-korea.html"
      ],
-     "repFile": "sideBar_ebb4c830c0_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/navigating-the-net-zero-transition-chapter-2-indonesia.html",
+     "repFile": "cap_sideBar_ebb4c830c0.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "description(8)"
      ],
@@ -6776,8 +6871,9 @@
       "/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
       "/sg/en/careers/graduates/graduates-singapore/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "accordion_743fe05420_1.jpg",
+     "repFile": "cap_accordion_743fe05420.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "expandBtn(4)",
       "btn-expand(4)"
@@ -6832,8 +6928,9 @@
       "/au/en/expertise/solutions/innovation-at-mallesons.html",
       "/au/en/insights/sprint-to-the-finish-cpd-program.html"
      ],
-     "repFile": "accordion_f8c9c916b5_1.jpg",
+     "repFile": "cap_accordion_f8c9c916b5.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "live-capture",
      "modifiers": [
       "expandBtn(2)",
       "btn-expand(2)"
@@ -6890,8 +6987,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html"
      ],
-     "repFile": "accordion_298b5dc6bf_1.jpg",
+     "repFile": "cap_accordion_298b5dc6bf.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "expandBtn(1)",
       "btn-expand(1)"
@@ -6970,8 +7068,9 @@
       "/sg/en/about-us/media-center.html",
       "/sg/en/insights/latest-thinking.html"
      ],
-     "repFile": "newNormal_0b3a8ddaeb_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth.html",
+     "repFile": "cap_newNormal_0b3a8ddaeb.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/climate-risk-governance-and-litigation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "max-new-normal(6)",
       "new-normal(6)"
@@ -7042,8 +7141,9 @@
       "/au/en/expertise/solutions/crisis-management/regulatory-investigations-and-dawn-raids.html",
       "/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html"
      ],
-     "repFile": "table_bb9c452e52_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/regulatory-investigations-and-dawn-raids.html",
+     "repFile": "cap_table_bb9c452e52.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "tableContainer(2)",
       "table-content(2)",
@@ -7101,8 +7201,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/public-private-partnerships-in-vietnam.html"
      ],
-     "repFile": "table_1dc712a4f5_1.jpg",
+     "repFile": "cap_table_947e1bcc1b.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/public-private-partnerships-in-vietnam.html",
+     "repSource": "live-capture",
      "modifiers": [
       "tableContainer(2)",
       "table-content(2)",
@@ -7153,8 +7254,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/wind-farms-in-queensland-regulatory-changes-set-to-have-a-big-impact.html"
      ],
-     "repFile": "table_4c84094791_1.jpg",
+     "repFile": "cap_table_4c84094791.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/wind-farms-in-queensland-regulatory-changes-set-to-have-a-big-impact.html",
+     "repSource": "live-capture",
      "modifiers": [
       "tableContainer(1)",
       "table-content(1)",
@@ -7228,8 +7330,9 @@
       "/au/en/insights/topic/esg-enabling-sustainable-growth.html",
       "/sg/en/about-us.html"
      ],
-     "repFile": "stats_5bc47e0c0e_1.jpg",
+     "repFile": "cap_stats_5bc47e0c0e.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "live-capture",
      "modifiers": [
       "stats-container(4)",
       "hasBgImg(4)",
@@ -7308,8 +7411,9 @@
       "/au/en/home.html",
       "/sg/en/home.html"
      ],
-     "repFile": "carousel_ffdd28f41d_1.jpg",
+     "repFile": "cap_carousel_8fbce6e683.jpg",
      "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [
       "panelcontainer(4)"
@@ -7382,8 +7486,9 @@
       "/au/en/expertise/practices/insurance.html",
       "/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology/space.html"
      ],
-     "repFile": "featureInsightWithImage_f3fc305c35_1.jpg",
+     "repFile": "cap_featureInsightWithImage_f3fc305c35.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/insurance.html",
+     "repSource": "live-capture",
      "modifiers": [
       "featureInsightWithImage_container(2)"
      ],
@@ -7434,6 +7539,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/financial-services.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -7505,8 +7611,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html"
      ],
-     "repFile": "newTable_d342b2751c_1.jpg",
+     "repFile": "cap_newTable_d342b2751c.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "newTableContainer(2)",
       "newTable-content(2)"
@@ -7558,8 +7665,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html"
      ],
-     "repFile": "",
+     "repFile": "cap_newTable_9dffabf34b.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "newTableContainer(1)",
       "newTable-content(1)"
@@ -7628,8 +7736,9 @@
       "/au/en/expertise/solutions/crisis-management.html",
       "/au/en/insights/topic/the-new-workplace-people-law-culture.html"
      ],
-     "repFile": "",
+     "repFile": "cap_quote_29de092b44.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management.html",
+     "repSource": "live-capture",
      "modifiers": [
       "quote_Container(2)",
       "quote_bg(2)"
@@ -7710,8 +7819,9 @@
       "/au/en/insights/topic.html",
       "/sg/en/insights/topic.html"
      ],
-     "repFile": "topicsHome_9213ab081b_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic.html",
+     "repFile": "cap_topicsHome_9213ab081b.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/topic.html",
+     "repSource": "live-capture",
      "modifiers": [
       "exp-container(2)",
       "title(2)"
@@ -7782,8 +7892,9 @@
       "/au/en/locations.html",
       "/sg/en/locations.html"
      ],
-     "repFile": "location_c0e20a66d6_1.jpg",
+     "repFile": "cap_location_c0e20a66d6.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations.html",
+     "repSource": "live-capture",
      "modifiers": [
       "location-container(2)",
       "con(2)"
@@ -7854,8 +7965,9 @@
       "/au/en/search.html",
       "/sg/en/search.html"
      ],
-     "repFile": "search-page_14b3d1257d_1.jpg",
+     "repFile": "cap_search-page_14b3d1257d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/search.html",
+     "repSource": "live-capture",
      "modifiers": [
       "search-page-top(2)",
       "top-input-box(2)"
@@ -7923,8 +8035,9 @@
      "sampleUrls": [
       "/au/en/expertise/solutions/innovation-at-mallesons/our-approach-to-generative-ai.html"
      ],
-     "repFile": "timeline_d0dab5c96d_1.jpg",
+     "repFile": "cap_timeline_d0dab5c96d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons/our-approach-to-generative-ai.html",
+     "repSource": "live-capture",
      "modifiers": [
       "timeline-container(1)",
       "timeline-box(1)"
@@ -7996,6 +8109,7 @@
      ],
      "repFile": "testimonial_e1661b627f_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/sprint-to-the-finish-cpd-program.html",
+     "repSource": "render",
      "modifiers": [
       "testimonial_container(1)",
       "tes-title(1)"
@@ -8074,8 +8188,9 @@
       "/au/en/about-us/media-center/kwm-advises-scp-on-acquisition-of-ten-shopping-centres-across-the-country.html",
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html"
      ],
-     "repFile": "text_9024a9aa0d_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_text_9024a9aa0d.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "content(437)"
      ],
@@ -8140,8 +8255,9 @@
       "/au/en/insights/latest-thinking/navigating-the-net-zero-transition-chapter-2-indonesia.html",
       "/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html"
      ],
-     "repFile": "text_5a93bf77bf_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/private-capital/venture-capital.html",
+     "repFile": "cap_text_5a93bf77bf.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/in-the-crosshairs-product-design-for-superannuation-trustees-and-life-insurers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "content(29)"
      ],
@@ -8201,6 +8317,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/recruitment-agency-terms-australia-and-singapore.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "textDefault(1)"
@@ -8262,8 +8379,9 @@
       "/au/en/careers/qualified-lawyers/qualified-lawyers-australia/schedule-singapore-2021.html",
       "/au/en/careers/qualified-lawyers/qualified-lawyers-singapore/schedule-singapore-2021.html"
      ],
-     "repFile": "text_544f0a67ab_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/schedule-australia-2021.html",
+     "repFile": "cap_text_544f0a67ab.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/schedule-singapore-2021.html",
+     "repSource": "live-capture",
      "modifiers": [
       "content(8)"
      ],
@@ -8316,8 +8434,9 @@
       "/sg/en/careers/qualified-lawyers/qualified-lawyers-australia/recruitment-agency-terms-australia-and-singapore.html",
       "/sg/en/careers/qualified-lawyers/qualified-lawyers-singapore/recruitment-agency-terms-australia-and-singapore.html"
      ],
-     "repFile": "text_c477ed8ff8_1.jpg",
+     "repFile": "cap_text_c477ed8ff8.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/recruitment-agency-terms-australia-and-singapore.html",
+     "repSource": "live-capture",
      "modifiers": [
       "content(4)"
      ],
@@ -8367,8 +8486,9 @@
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html",
       "/au/en/about-us/media-center/kwm-launches-inaugural-contemporary-atsi-art-prize.html"
      ],
-     "repFile": "text_49acbc94c3_1.jpg",
+     "repFile": "cap_text_49acbc94c3.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html",
+     "repSource": "live-capture",
      "modifiers": [
       "content(2)"
      ],
@@ -8444,6 +8564,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -8499,6 +8620,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -8572,8 +8694,9 @@
       "/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
       "/au/en/careers/graduates/graduates-singapore.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/careers.html",
+     "repFile": "cap_textAndTitle_e0adcc8ed1.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/other-professionals.html",
+     "repSource": "live-capture",
      "modifiers": [
       "textAndTitle-container(83)",
       "textAndTitle-container-title(83)"
@@ -8641,8 +8764,9 @@
       "/au/en/careers.html",
       "/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html"
      ],
-     "repFile": "textAndTitle_1390042ee9_1.jpg",
+     "repFile": "cap_textAndTitle_1390042ee9.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "textAndTitle-container(54)",
       "textAndTitle-container-title(54)"
@@ -8708,8 +8832,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
       "/sg/en/about-us.html"
      ],
-     "repFile": "textAndTitle_e835cea76c_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repFile": "cap_textAndTitle_e835cea76c.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "textAndTitle-container(13)",
       "textAndTitle-container-title(13)"
@@ -8768,8 +8893,9 @@
       "/au/en/about-us/responsible-business.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "textAndTitle_871cf8a4d0_1.jpg",
+     "repFile": "cap_textAndTitle_871cf8a4d0.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "textAndTitle-container(10)",
       "bg-img(10)"
@@ -8830,6 +8956,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "text-black(2)"
@@ -8903,8 +9030,9 @@
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html"
      ],
-     "repFile": "ex-head-title_c5645952b6_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_ex-head-title_c5645952b6.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-type(58)"
      ],
@@ -8963,8 +9091,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance.html",
       "/au/en/expertise/practices/insurance.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_ex-head-title_456f649834.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -9037,8 +9166,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
+     "repFile": "cap_test_6bfa2ab823.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "commonBanner-title(104)"
      ],
@@ -9112,8 +9242,9 @@
       "/au/en/careers/graduates/graduates-singapore.html",
       "/au/en/careers/graduates/graduates-singapore/first-second-third-year-law-students/insight-program.html"
      ],
-     "repFile": "image_0e4ad988db_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
+     "repFile": "cap_image_0e4ad988db.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "image-item(71)",
       "visibility-hidden(5)"
@@ -9185,8 +9316,9 @@
       "/sg/en/expertise/archive/practices/private-capital/venture-capital.html",
       "/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/private-capital/venture-capital.html",
+     "repFile": "cap_image_93e152669c.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "image-item(20)",
       "hasBigImg(20)",
@@ -9253,8 +9385,9 @@
       "/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
       "/sg/en/insights/latest-thinking/publication/navigating-the-net-zero-transition-spotlight-on-southeast-asia-japan-and-the-republic-of-korea.html"
      ],
-     "repFile": "image_2eb7a33f13_1.jpg",
+     "repFile": "cap_image_2eb7a33f13.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "image-item(4)",
       "hasBigImg(4)"
@@ -9315,6 +9448,7 @@
      ],
      "repFile": "image_eee456229e_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-nsw-roadmap-tender-5-for-long-duration-storage-infrastructure.html",
+     "repSource": "render",
      "modifiers": [
       "image-item(1)"
      ],
@@ -9372,6 +9506,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -9420,6 +9555,7 @@
      ],
      "repFile": "image_69a688bd2b_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
+     "repSource": "render",
      "modifiers": [
       "image-item(1)",
       "float-layout(1)",
@@ -9501,8 +9637,9 @@
       "/au/en/careers/other-professionals/other-professionals-australia.html",
       "/au/en/careers/other-professionals/other-professionals-singapore.html"
      ],
-     "repFile": "multi-button_10d54de1ed_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/reimagining-productivity.html",
+     "repFile": "cap_multi-button_10d54de1ed.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-button-normal(55)",
       "cmp-button-hasIcon(35)"
@@ -9564,8 +9701,9 @@
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html",
       "/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html"
      ],
-     "repFile": "multi-button_f37acff8d3_1.jpg",
+     "repFile": "cap_multi-button_f37acff8d3.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-button-download(20)",
       "download-img(20)"
@@ -9628,6 +9766,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/graduates.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "button(6)",
@@ -9705,6 +9844,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -9757,8 +9897,9 @@
       "/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
       "/sg/en/insights/latest-thinking/public-private-partnerships-in-bangladesh.html"
      ],
-     "repFile": "article-reference_ed7ae83801_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_article-reference_ed7ae83801.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/in-the-crosshairs-product-design-for-superannuation-trustees-and-life-insurers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "aem-GridColumn(8)",
       "aem-GridColumn--default--16(8)",
@@ -9837,8 +9978,9 @@
       "/au/en/about-us/responsible-business.html",
       "/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html"
      ],
-     "repFile": "alumniNav_5836fa4552_1.jpg",
+     "repFile": "cap_alumniNav_5836fa4552.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "alumniNav-cont(40)",
       "cont(40)"
@@ -9911,8 +10053,9 @@
       "/au/en/expertise/practices/dispute-resolution-and-litigation.html",
       "/au/en/expertise/practices/energy-resources-and-infrastructure/oil-and-gas.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_title_605a8a777e.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -9985,8 +10128,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "padding_fa0fe0c382_1.jpg",
+     "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "blank",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -10065,8 +10209,9 @@
       "/au/en/expertise/sectors/healthcare-and-pharmaceuticals.html",
       "/au/en/expertise/sectors/government-and-public.html"
      ],
-     "repFile": "starPartner_430f9f48fe_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
+     "repFile": "cap_starPartner_430f9f48fe.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "partner_container(14)",
       "swiper-container(14)",
@@ -10133,8 +10278,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
       "/au/en/insights/topic/reimagining-productivity.html"
      ],
-     "repFile": "starPartner_fe4e43c3a2_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repFile": "cap_starPartner_fe4e43c3a2.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "partner_container(8)",
       "swiper-container(8)",
@@ -10216,8 +10362,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "header-mask_a231d5a21f_1.jpg",
+     "repFile": "cap_header-mask_a231d5a21f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -10291,6 +10438,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -10362,8 +10510,9 @@
       "/au/en/insights.html",
       "/sg/en/about-us/locations.html"
      ],
-     "repFile": "button_f5431f8964_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices.html",
+     "repFile": "",
+     "repUrl": "https://www.mallesons.com/au/en/careers/graduates.html",
+     "repSource": "blank",
      "modifiers": [
       "cmp-button-hasIcon(15)",
       "cmp-button-icon(15)",
@@ -10439,8 +10588,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance/carbon-and-natural-capital-offering.html",
       "/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html"
      ],
-     "repFile": "subPractiseBannertitle_8b9ad2600d_1.jpg",
+     "repFile": "cap_subPractiseBannertitle_8b9ad2600d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+     "repSource": "live-capture",
      "modifiers": [
       "title_tOne(11)"
      ],
@@ -10494,6 +10644,7 @@
      ],
      "repFile": "subPractiseBannertitle_5a2c287f98_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/expertise/archive/practices/private-capital/venture-capital.html",
+     "repSource": "render",
      "modifiers": [
       "title_tTwo(1)"
      ],
@@ -10566,8 +10717,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
       "/au/en/insights/topic/reimagining-productivity.html"
      ],
-     "repFile": "separator_7d0a3f3c1f_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/reimagining-productivity.html",
+     "repFile": "",
+     "repUrl": "https://www.mallesons.com/au/en/insights/sprint-to-the-finish-cpd-program.html",
+     "repSource": "blank",
      "modifiers": [],
      "styles": [
       "marginTop_0(5)",
@@ -10644,6 +10796,7 @@
      ],
      "repFile": "loading_b87a4e4f22_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/search.html",
+     "repSource": "render",
      "modifiers": [
       "loading-box(8)",
       "content(6)",
@@ -10720,8 +10873,9 @@
       "/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
       "/sg/en/insights/latest-thinking/public-private-partnerships-in-bangladesh.html"
      ],
-     "repFile": "article-reference-title_50f4de07ef_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_article-reference-title_50f4de07ef.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/in-the-crosshairs-product-design-for-superannuation-trustees-and-life-insurers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "article-reference-title(8)"
      ],
@@ -10797,6 +10951,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -10866,6 +11021,7 @@
      ],
      "repFile": "hidden-h1_2ff7625339_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repSource": "render",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -10932,6 +11088,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "none",
      "modifiers": [
       "commonBanner-title-center(1)"
      ],
@@ -11007,6 +11164,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "blank",
      "modifiers": [
       "cmp-container_common(177)",
       "aem-Grid(139)",
@@ -11090,8 +11248,9 @@
       "/au/en/expertise/practices/dispute-resolution-and-litigation/administrative-and-public-law.html",
       "/au/en/expertise/practices/digital-economy.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+     "repFile": "cap_container_142ccb7de3.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(171)",
       "aem-Grid(171)",
@@ -11171,8 +11330,9 @@
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_container_ce70d934ca.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(127)",
       "aem-Grid(113)",
@@ -11259,8 +11419,9 @@
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/mallesons-connexion.html",
+     "repFile": "cap_container_53943790ef.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(123)",
       "text(69)",
@@ -11338,8 +11499,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repFile": "cap_container_dd9d523c7f.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(93)",
       "aem-Grid(93)",
@@ -11419,8 +11581,9 @@
       "/au/en/about-us/media-center/kwm-brings-well-respected-construction-partner-from-corrs-chambers-westgarth.html",
       "/au/en/about-us/media-center/kwm-launches-inaugural-contemporary-atsi-art-prize.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_container_268730096e.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-scp-on-acquisition-of-ten-shopping-centres-across-the-country.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(42)",
       "aem-Grid(42)",
@@ -11492,8 +11655,9 @@
       "/au/en/insights/latest-thinking/pillars-of-strength.html",
       "/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_container_99d522c8be.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(38)",
       "aem-Grid(38)",
@@ -11566,8 +11730,9 @@
       "/au/en/careers.html",
       "/au/en/careers/qualified-lawyers/qualified-lawyers-australia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_55ce1ac18b.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(37)",
       "aem-Grid(31)",
@@ -11639,8 +11804,9 @@
       "/au/en/insights/latest-thinking/navigating-the-net-zero-transition-chapter-2-indonesia.html",
       "/au/en/insights/latest-thinking/pillars-of-strength.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repFile": "cap_container_239435d12f.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(35)",
       "aem-Grid(34)",
@@ -11703,8 +11869,9 @@
       "/au/en/insights/latest-thinking/publication/its-public.html",
       "/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_45d88c384a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(27)",
       "aem-Grid(16)",
@@ -11777,8 +11944,9 @@
       "/au/en/careers/graduates/graduates-australia.html",
       "/au/en/careers/graduates/graduates-singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_156d624cba.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(25)",
       "alumniNav(17)",
@@ -11853,8 +12021,9 @@
       "/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html",
       "/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_container_02b153ae44.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(25)",
       "aem-Grid(25)",
@@ -11934,8 +12103,9 @@
       "/sg/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
       "/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "layout_27b69e1170_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
+     "repFile": "cap_container_27b69e1170.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(25)",
       "image(17)",
@@ -12011,8 +12181,9 @@
       "/au/en/about-us/media-center/kwm-best-law-firm-afr-client-choice.html",
       "/au/en/about-us/media-center/kwm-launches-inaugural-contemporary-atsi-art-prize.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_container_d0678fc685.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-scp-on-acquisition-of-ten-shopping-centres-across-the-country.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(17)",
       "aem-Grid(17)",
@@ -12080,6 +12251,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(15)",
       "aem-Grid(15)",
@@ -12152,8 +12324,9 @@
       "/au/en/locations/australia/sydney.html",
       "/au/en/locations/singapore.html"
      ],
-     "repFile": "layout_9ba55f4b7d_1.jpg",
+     "repFile": "cap_container_9ba55f4b7d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia/canberra.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(15)",
       "embed(12)",
@@ -12217,8 +12390,9 @@
       "/au/en/locations/australia/sydney.html",
       "/au/en/locations/singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_1c20a543ad.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia/canberra.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(12)",
       "banner(12)",
@@ -12290,8 +12464,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repFile": "cap_container_e8afa46d9b.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(11)",
       "aem-Grid(6)",
@@ -12357,8 +12532,9 @@
       "/au/en/insights/topic/esg-enabling-sustainable-growth/green-and-social-capital.html",
       "/au/en/insights/topic/esg-enabling-sustainable-growth/climate-risk-governance-and-litigation.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center.html",
+     "repFile": "cap_container_c99bfdf208.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(11)",
       "aem-Grid(6)",
@@ -12429,8 +12605,9 @@
       "/au/en/insights/latest-thinking/publication/its-public.html",
       "/au/en/insights/topic/esg-enabling-sustainable-growth/climate-risk-governance-and-litigation.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/mallesons-connexion.html",
+     "repFile": "cap_container_9a882928a8.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/climate-risk-governance-and-litigation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(10)",
       "textAndTitle(8)",
@@ -12500,8 +12677,9 @@
       "/au/en/careers/qualified-lawyers/qualified-lawyers-singapore/applicant-privacy-notice.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repFile": "cap_container_5753054577.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/applicant-privacy-notice.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(10)",
       "aem-Grid(10)",
@@ -12570,8 +12748,9 @@
       "/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
       "/sg/en/careers/graduates/graduates-singapore/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6c3a62b8fa.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(10)",
       "aem-Grid(10)",
@@ -12654,8 +12833,9 @@
       "/sg/en/careers/other-professionals/other-professionals-australia.html",
       "/au/en/careers/qualified-lawyers/qualified-lawyers-australia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_ec3034dd28.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/other-professionals.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(10)",
       "responsivegrid(10)",
@@ -12729,8 +12909,9 @@
       "/au/en/careers/graduates/graduates-australia.html",
       "/au/en/careers/graduates/graduates-singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_1550cf8980.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(10)",
       "responsivegrid(10)",
@@ -12797,8 +12978,9 @@
       "/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-indonesia.html",
       "/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_8adfe8a8c7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(9)",
       "aem-Grid(9)",
@@ -12867,8 +13049,9 @@
       "/au/en/careers/qualified-lawyers/qualified-lawyers-singapore.html",
       "/sg/en/careers/other-professionals/other-professionals-singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_d616e0eb22.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/other-professionals.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(9)",
       "Root-Container(9)",
@@ -12931,8 +13114,9 @@
       "/au/en/careers/qualified-lawyers/qualified-lawyers-singapore.html",
       "/sg/en/careers/other-professionals/other-professionals-singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_4e0dbbb86a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/other-professionals.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(9)",
       "aem-Grid(9)",
@@ -13000,8 +13184,9 @@
       "/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
       "/au/en/careers/graduates/graduates-singapore/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/graduates.html",
+     "repFile": "cap_container_065dc6d474.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(8)",
       "text(4)",
@@ -13068,8 +13253,9 @@
       "/sg/en/about-us/alumni/alumni-stories.html",
       "/sg/en/careers/graduates/graduates-australia/graduates.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_f519a8ba7a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(7)",
       "videoWithText(6)",
@@ -13144,8 +13330,9 @@
       "/sg/en/insights/latest-thinking/publication/guide-to-doing-business-in-australia.html",
       "/au/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_a0b4603a99.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(7)",
       "aem-Grid(7)",
@@ -13218,6 +13405,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(6)",
       "image(6)",
@@ -13278,8 +13466,9 @@
       "/au/en/expertise/solutions/crisis-management.html",
       "/au/en/expertise/solutions/governance-solutions-for-todays-world.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_cb7dac9b57.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "keyContact(5)",
@@ -13343,8 +13532,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
       "/au/en/insights/topic/transitioning-to-future-energy.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/esg-due-diligence.html",
+     "repFile": "cap_container_30bd738809.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "meetOurTeam(3)",
@@ -13404,6 +13594,7 @@
      ],
      "repFile": "layout_3d18247f30_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/reimagining-productivity.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(5)",
       "image(5)",
@@ -13468,8 +13659,9 @@
       "/au/en/locations/australia/perth.html",
       "/au/en/locations/australia/sydney.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_a8bc2e8908.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia/canberra.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "Root-Container(5)",
@@ -13541,8 +13733,9 @@
       "/sg/en/careers/graduates/graduates-singapore/graduates.html",
       "/au/en/insights/latest-thinking/publication/onboard-march-2025.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_ce7144a647.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/graduates.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "image(4)",
@@ -13615,8 +13808,9 @@
       "/sg/en/locations/australia.html",
       "/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html"
      ],
-     "repFile": "layout_7440740233_1.jpg",
+     "repFile": "cap_container_7440740233.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "promoBox(5)",
@@ -13681,8 +13875,9 @@
       "/sg/en/locations/australia/perth.html",
       "/sg/en/locations/australia/sydney.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/sg/en/locations/australia/brisbane.html",
+     "repFile": "cap_container_3973a2b3fc.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/locations/australia/canberra.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "Root-Container(5)",
@@ -13753,6 +13948,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/corporate-governance-health-check.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(5)",
       "embed(3)",
@@ -13817,8 +14013,9 @@
       "/au/en/insights/latest-thinking/publication/public-private-partnerships-in-asia-2023.html",
       "/sg/en/insights/latest-thinking/publication/public-private-partnerships-in-asia-2023.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c47d643b25.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(5)",
       "aem-Grid(5)",
@@ -13877,8 +14074,9 @@
       "/sg/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
       "/sg/en/careers/graduates/graduates-singapore/first-second-third-year-law-students/insight-program.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c04e1b8599.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "Root-Container(4)",
@@ -13944,8 +14142,9 @@
       "/sg/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
       "/sg/en/careers/graduates/graduates-singapore/first-second-third-year-law-students/insight-program.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_9ee455bc46.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/first-second-third-year-law-students/insight-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "textAndTitle(4)",
@@ -14005,8 +14204,9 @@
       "/sg/en/careers/graduates/graduates-australia/graduates.html",
       "/sg/en/careers/graduates/graduates-singapore/graduates.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_3cb7d59bbc.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/graduates.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "trendingInsights(4)",
@@ -14066,6 +14266,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(4)",
       "homePromobox(4)"
@@ -14129,6 +14330,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(4)",
       "videoWithText(4)"
@@ -14184,8 +14386,9 @@
       "/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
       "/sg/en/careers/graduates/graduates-singapore/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_76c1bad01d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "text(4)"
@@ -14244,8 +14447,9 @@
       "/sg/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
       "/sg/en/careers/graduates/graduates-singapore/penultimate-year-law-students/clerkship-program.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c563b351bb.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates/graduates-australia/penultimate-year-law-students/clerkship-program.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "textAndTitle(4)",
@@ -14301,8 +14505,9 @@
       "/au/en/insights/topic/esg-enabling-sustainable-growth/climate-risk-governance-and-litigation.html",
       "/au/en/insights/topic/esg-enabling-sustainable-growth/carbon-and-nature.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth.html",
+     "repFile": "cap_container_47520abaed.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/climate-risk-governance-and-litigation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "newNormal(4)"
@@ -14361,6 +14566,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-indonesia.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(4)",
       "aem-Grid(4)",
@@ -14431,8 +14637,9 @@
       "/au/en/insights/topic/reimagining-productivity.html",
       "/au/en/insights/latest-thinking/publication/onboard-april-2026.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html",
+     "repFile": "cap_container_628dfd9798.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/onboard-april-2026.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "text(4)",
@@ -14500,8 +14707,9 @@
       "/au/en/careers.html",
       "/sg/en/careers.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repFile": "cap_container_b09df31f89.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/careers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(4)",
       "responsivegrid(4)",
@@ -14566,8 +14774,9 @@
       "/au/en/insights/topic/esg-enabling-sustainable-growth.html",
       "/sg/en/about-us.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_5e9733fb41.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "aem-Grid(2)",
@@ -14624,8 +14833,9 @@
       "/au/en/about-us/media-center/kwm-alumnus-stephen-ridgeway-appointed-to-accc.html",
       "/au/en/about-us/media-center/kwm-wins-at-the-australasian-law-awards.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_4d5f653ba4.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-innovative-wall-as-a-service-joint-venture0.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "aem-Grid(3)",
@@ -14688,8 +14898,9 @@
       "/au/en/expertise/solutions/innovation-at-mallesons.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_07745dd8c7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "imageAndText(3)"
@@ -14743,8 +14954,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
       "/au/en/insights/topic/reimagining-productivity.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6de487ebaa.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "aem-Grid(3)",
@@ -14811,8 +15023,9 @@
       "/au/en/term-of-use.html",
       "/sg/en/term-of-use.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/carbon-and-nature.html",
+     "repFile": "cap_container_56ef997e9d.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/term-of-use.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "experiencefragment(3)"
@@ -14867,8 +15080,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-generation-and-storage.html",
+     "repFile": "cap_container_431a00ec1c.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "aem-Grid(3)",
@@ -14923,8 +15137,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_45504a9517.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "multi-button(3)",
@@ -14988,8 +15203,9 @@
       "/au/en/insights/latest-thinking/publication/the-review-class-actions-in-australia-2023-2024.html",
       "/au/en/insights/latest-thinking/publication/next-business-purpose-future-edition-8.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/its-public.html",
+     "repFile": "cap_container_24de7716d8.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/the-review-class-actions-in-australia-2023-2024.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "aem-Grid(3)",
@@ -15061,8 +15277,9 @@
       "/sg/en/term-of-use/fraudulent-scams-alert.html",
       "/au/en/about-us/responsible-business/mallesons-explore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_816b2b4e66.jpg",
      "repUrl": "https://www.mallesons.com/au/en/term-of-use/fraudulent-scams-alert.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "aem-Grid(3)",
@@ -15119,8 +15336,9 @@
       "/au/en/about-us.html",
       "/sg/en/about-us.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_df3c010ee2.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "alumniNav(2)"
@@ -15176,8 +15394,9 @@
       "/au/en/about-us/alumni.html",
       "/sg/en/about-us/alumni.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_e57b34eaaf.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "videoWithText(2)",
@@ -15234,8 +15453,9 @@
       "/au/en/about-us/alumni/mallesons-connexion.html",
       "/sg/en/about-us/alumni/kwm-connexion.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6dd91de32c.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/mallesons-connexion.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "Root-Container(2)",
@@ -15294,6 +15514,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-on-nsw-roadmap-tender-5-for-long-duration-storage-infrastructure.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(1)",
@@ -15359,8 +15580,9 @@
       "/au/en/about-us/responsible-business.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_705c2aed3b.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "alumniNav(2)"
@@ -15421,8 +15643,9 @@
       "/au/en/about-us/responsible-business.html",
       "/sg/en/about-us/responsible-business.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_09e95473d6.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "Root-Container(2)",
@@ -15488,6 +15711,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/responsible-business.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(2)",
       "textAndTitle(2)",
@@ -15542,8 +15766,9 @@
       "/au/en/careers.html",
       "/sg/en/careers.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_fd0f24e8c1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -15599,8 +15824,9 @@
       "/au/en/careers.html",
       "/sg/en/careers.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_cfb4c16dc4.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "promoBox(2)",
@@ -15655,8 +15881,9 @@
       "/au/en/careers/our-benefits.html",
       "/sg/en/careers/our-benefits.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6816230316.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/our-benefits.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -15714,8 +15941,9 @@
       "/au/en/contact-us/thank-you.html",
       "/sg/en/contact-us/thank-you.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_b9c6527cf6.jpg",
      "repUrl": "https://www.mallesons.com/au/en/contact-us/thank-you.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -15774,8 +16002,9 @@
       "/au/en/expertise.html",
       "/sg/en/expertise.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6eab4b604a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "responsivegrid(2)",
@@ -15833,8 +16062,9 @@
       "/au/en/expertise.html",
       "/sg/en/expertise.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_f8d908e970.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "Root-Container(2)",
@@ -15892,8 +16122,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
       "/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
+     "repFile": "cap_container_e0074a050f.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "padding(2)"
@@ -15947,8 +16178,9 @@
       "/au/en/expertise/practices/insurance.html",
       "/au/en/expertise/sectors/financial-services.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/insurance.html",
+     "repFile": "cap_container_64b0992aaf.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/financial-services.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16003,8 +16235,9 @@
       "/au/en/home.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repFile": "cap_container_369d797f32.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "homePromobox(2)"
@@ -16058,8 +16291,9 @@
       "/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html",
       "/sg/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-3.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_204a637568.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16118,8 +16352,9 @@
       "/au/en/insights/publications.html",
       "/sg/en/insights/publications.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_7864a7f00f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/publications.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16179,8 +16414,9 @@
       "/au/en/insights/topic.html",
       "/sg/en/insights/topic.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic.html",
+     "repFile": "cap_container_2f0751c495.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/topic.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "topicsHome(2)"
@@ -16236,6 +16472,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(2)",
       "topics(2)"
@@ -16288,8 +16525,9 @@
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
+     "repFile": "cap_container_f5ef073046.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16351,8 +16589,9 @@
       "/au/en/insights/topic/esg-enabling-sustainable-growth.html",
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c4b5436567.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "textAndTitle(2)"
@@ -16409,8 +16648,9 @@
       "/au/en/insights/topic/esg-enabling-sustainable-growth.html",
       "/au/en/insights/topic/transitioning-to-future-energy.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth.html",
+     "repFile": "cap_container_194098990b.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16468,6 +16708,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/reimagining-productivity.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(2)",
       "responsivegrid(1)",
@@ -16535,8 +16776,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_16734fa73a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16593,8 +16835,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_21ff2b4e71.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16660,8 +16903,9 @@
       "/au/en/locations.html",
       "/sg/en/locations.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_339662e389.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16717,8 +16961,9 @@
       "/au/en/locations/australia.html",
       "/sg/en/locations/australia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_9a81115619.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/australia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16778,8 +17023,9 @@
       "/au/en/people.html",
       "/sg/en/people.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/people.html",
+     "repFile": "cap_container_9818861ac0.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/people.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16840,8 +17086,9 @@
       "/au/en/locations/singapore.html",
       "/sg/en/locations/singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_59db076ffc.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/singapore.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -16906,8 +17153,9 @@
       "/au/en/locations/singapore.html",
       "/sg/en/locations/singapore.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_98bae737b7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/locations/singapore.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "meetOurTeamManual(2)"
@@ -16971,6 +17219,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-singapore.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17035,6 +17284,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-singapore.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17103,8 +17353,9 @@
       "/au/en/expertise/solutions/crisis-management.html",
       "/au/en/expertise/solutions/governance-solutions-for-todays-world.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_342f93960f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17175,6 +17426,7 @@
      ],
      "repFile": "layout_d6ed4a6b63_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/tokenised-securities-hk-sfc-issues-important-guidance-for-intermediaries.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17244,8 +17496,9 @@
       "/au/en/insights/latest-thinking/publication/its-public.html",
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/its-public.html",
+     "repFile": "cap_container_e1aeb0aacf.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17314,8 +17567,9 @@
       "/au/en/people.html",
       "/sg/en/people.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/people.html",
+     "repFile": "cap_container_12580b5c50.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/people.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17382,8 +17636,9 @@
       "/sg/en/about-us/media-center.html",
       "/sg/en/insights/latest-thinking.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/sg/en/about-us/media-center.html",
+     "repFile": "cap_container_faf2e99313.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "aem-Grid(2)",
@@ -17440,8 +17695,9 @@
      "sampleUrls": [
       "/au/en/about-us/media-center.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_76d4193a1f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/media-center.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -17498,8 +17754,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/environmental-social-and-governance.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6373aec2c2.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "padding(1)"
@@ -17554,8 +17811,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/investigations-and-white-collar-crime.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_b1bb6e5c2a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "Root-Container(1)",
@@ -17611,8 +17869,9 @@
      "sampleUrls": [
       "/au/en/expertise/solutions/crisis-management.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_3e9f3bac46.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "quote(1)",
@@ -17668,6 +17927,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/corporate-crime-and-misconduct.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "embed(1)"
@@ -17721,6 +17981,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/regulatory-investigations-and-dawn-raids.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "embed(1)"
@@ -17774,6 +18035,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/environmental-incidents.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "embed(1)"
@@ -17833,6 +18095,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/tax-governance.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "title(1)"
@@ -17886,6 +18149,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -17948,6 +18212,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "accordion(1)",
@@ -18006,8 +18271,9 @@
      "sampleUrls": [
       "/au/en/expertise/solutions/innovation-at-mallesons/our-approach-to-generative-ai.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_23888af900.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons/our-approach-to-generative-ai.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18063,6 +18329,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)"
@@ -18116,6 +18383,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/innovation-at-mallesons.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "responsivegrid(1)",
@@ -18172,8 +18440,9 @@
      "sampleUrls": [
       "/au/en/home.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_b571005b0f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18235,8 +18504,9 @@
      "sampleUrls": [
       "/au/en/home.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_4fbe07ee95.jpg",
      "repUrl": "https://www.mallesons.com/au/en/home.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "carousel(1)",
@@ -18294,8 +18564,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_0d75128c8b.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18352,8 +18623,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_ef4e803b84.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18412,6 +18684,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/navigating-the-net-zero-transition-chapter-2-indonesia.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18472,8 +18745,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_324c2a6bd4.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18537,8 +18811,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_22cf79b10f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18596,8 +18871,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_51275b6c4e.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18656,8 +18932,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_e4b697927d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/australian-federal-budget-may-2024-25.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18719,8 +18996,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c4ad95b425.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18777,8 +19055,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_041a9871cd.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-4.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "promoBox(1)",
@@ -18832,8 +19111,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/next-business-purpose-future-edition-8.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c263347d40.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/next-business-purpose-future-edition-8.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18892,8 +19172,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/onboard-april-2026.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_352b9f17f7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/onboard-april-2026.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -18954,6 +19235,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/onboard-march-2025.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19017,8 +19299,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/publication/the-review-class-actions-in-australia-2023-2024.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_ae2a2b6d82.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/the-review-class-actions-in-australia-2023-2024.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19075,8 +19358,9 @@
      "sampleUrls": [
       "/au/en/insights/latest-thinking/wind-farms-in-queensland-regulatory-changes-set-to-have-a-big-impact.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_8874086625.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/wind-farms-in-queensland-regulatory-changes-set-to-have-a-big-impact.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19133,6 +19417,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/sprint-to-the-finish-cpd-program.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "text(1)"
@@ -19188,6 +19473,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/sprint-to-the-finish-cpd-program.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19253,6 +19539,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/sprint-to-the-finish-cpd-program.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "text(1)"
@@ -19313,6 +19600,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/sprint-to-the-finish-cpd-program.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "responsivegrid(1)",
@@ -19367,8 +19655,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_cb14d50c44.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "text(1)",
@@ -19421,8 +19710,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_939de1cfdc.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19490,8 +19780,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_dae97feb6b.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "newTable(1)"
@@ -19545,8 +19836,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/australian-merger-control-a-new-regime.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_5a9dfa43a8.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/australian-merger-control-a-new-regime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "text(1)"
@@ -19599,8 +19891,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_77e3fa0f83.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19656,8 +19949,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c072d4ba66.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19715,8 +20009,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_d647498196.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19771,8 +20066,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_0acea7bd27.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/cyber-security-and-critical-infrastructure.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "padding(1)"
@@ -19824,8 +20120,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_ff1c875e0a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19882,8 +20179,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_3c21747eb8.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19941,8 +20239,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_5db73bebf5.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -19996,8 +20295,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_efa7e8db51.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20059,8 +20359,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_b85ad68b72.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20114,8 +20415,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_f8ea63ce0e.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/artificial-intelligence.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20172,8 +20474,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_7c499ce067.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world/data-and-privacy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20229,8 +20532,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/esg-enabling-sustainable-growth.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_7ec2b41ada.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "experiencefragment(1)"
@@ -20285,8 +20589,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_4bfd1c09f7.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20345,6 +20650,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "blank",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20399,8 +20705,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_d26aa8ab96.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20457,8 +20764,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_af7acc3dcd.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "padding(1)"
@@ -20510,8 +20818,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6af032b2a8.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20565,8 +20874,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_e623153917.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "padding(1)"
@@ -20621,8 +20931,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_1429feaaaa.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "singleStarPartner(1)"
@@ -20674,8 +20985,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_f74a8b3c42.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20734,8 +21046,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_ae940a7685.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/financial-services-innovation-resilience-and-responsibility.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20792,6 +21105,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/reimagining-productivity.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20853,8 +21167,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/the-new-workplace-people-law-culture.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c02f2b770d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/the-new-workplace-people-law-culture.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "quote(1)"
@@ -20906,8 +21221,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/the-new-workplace-people-law-culture.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_b2f50a7c00.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/the-new-workplace-people-law-culture.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -20967,8 +21283,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/the-new-workplace-people-law-culture.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_7bd972f5fb.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/the-new-workplace-people-law-culture.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21027,8 +21344,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/esg-enabling-sustainable-growth/carbon-and-nature.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_480e27318d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/esg-enabling-sustainable-growth/carbon-and-nature.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "article-display(1)"
@@ -21083,8 +21401,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/transitioning-to-future-energy/decarbonisation.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_17cc76e598.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/decarbonisation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21142,8 +21461,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/transitioning-to-future-energy/energy-generation-and-storage.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_5e6c5ff5cc.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-generation-and-storage.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "article-display(1)"
@@ -21198,8 +21518,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_264b5eb0bb.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21257,8 +21578,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_672560e38a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/transitioning-to-future-energy/energy-regulation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21317,6 +21639,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/people.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "quickLookUp(1)"
@@ -21372,6 +21695,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/about-us/media-center/kwm-australia-promotes-six-to-partnership.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21432,8 +21756,9 @@
      "sampleUrls": [
       "/sg/en/home.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_c9158d5f0e.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/home.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21494,6 +21819,7 @@
      ],
      "repFile": "layout_bd9a03e2fb_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/europes-ai-regulation-gets-real-what-to-know-and-do-about-the-eu-ai-act-as-it-nears-finalisation.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21557,6 +21883,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-indonesia.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21620,6 +21947,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21681,8 +22009,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_18f8b04525.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21737,8 +22066,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/public-private-partnerships-in-vietnam.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_3976fa56b7.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/public-private-partnerships-in-vietnam.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21793,8 +22123,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_00cd63ae5a.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21851,8 +22182,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_dd8f6b66dd.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/a-guide-to-taking-security-in-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21907,8 +22239,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/guide-to-doing-business-in-australia-2025.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_7954e35cb3.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/guide-to-doing-business-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -21965,8 +22298,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-3.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_2a85c56053.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-3.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -22025,8 +22359,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-3.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_3ffe13d32c.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/move-fast-and-make-things-ed-3.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -22086,8 +22421,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_4d98fd4d09.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -22149,8 +22485,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_351065e7c2.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -22212,8 +22549,9 @@
      "sampleUrls": [
       "/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html"
      ],
-     "repFile": "",
+     "repFile": "cap_container_6753b9ba26.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -22270,6 +22608,7 @@
      ],
      "repFile": "layout_6b351e18d9_1.jpg",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/navigating-the-net-zero-transition-spotlight-on-southeast-asia-japan-and-the-republic-of-korea.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(1)",
       "aem-Grid(1)",
@@ -22359,6 +22698,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repSource": "none",
      "modifiers": [
       "embed(582)"
      ],
@@ -22419,6 +22759,7 @@
      ],
      "repFile": "dynamicContainer_18232f4eab_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/careers/qualified-lawyers/qualified-lawyers-australia/applicant-privacy-notice.html",
+     "repSource": "render",
      "modifiers": [
       "cookieComponent(291)"
      ],
@@ -22476,8 +22817,9 @@
       "/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology/technology.html",
       "/au/en/insights/latest-thinking/publication/onboard-march-2025.html"
      ],
-     "repFile": "dynamicContainer_edb9bb8cff_1.jpg",
+     "repFile": "cap_dynamicContainer_edb9bb8cff.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "promoBox(12)"
      ],
@@ -22532,8 +22874,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "dynamicContainer_e5e3372e88_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
+     "repFile": "cap_dynamicContainer_e5e3372e88.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "experiencefragment(3)"
      ],
@@ -22589,6 +22932,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [
       "container(3)",
@@ -22641,8 +22985,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "dynamicContainer_b145782d63_1.jpg",
+     "repFile": "cap_dynamicContainer_b145782d63.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "starPartner(2)"
      ],
@@ -22721,6 +23066,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "none",
      "modifiers": [
       "xf-content-height(305)",
       "cmp-experiencefragment--cookie(291)",
@@ -22788,8 +23134,9 @@
       "/au/en/insights/latest-thinking/pillars-of-strength.html",
       "/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_experiencefragment_eb822c5be8.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/a-guide-to-investing-in-australian-real-estate-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--share(38)",
       "xf-content-height(38)"
@@ -22847,8 +23194,9 @@
       "/au/en/insights/latest-thinking/pillars-of-strength.html",
       "/au/en/insights/latest-thinking/net-zero-developments-opportunities-and-risks-for-the-agriculture-and-land-sector.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/equity-derivatives-collateral-damage.html",
+     "repFile": "cap_experiencefragment_3d15d41d6b.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/kwms-guide-to-takeovers-and-schemes-in-australia-2025.html",
+     "repSource": "live-capture",
      "modifiers": [
       "xf-content-height(36)",
       "cmp-experiencefragment--latest-thinking(34)",
@@ -22907,6 +23255,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -22962,6 +23311,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/careers/graduates.html",
+     "repSource": "none",
      "modifiers": [],
      "styles": [],
      "parents": [
@@ -23014,8 +23364,9 @@
       "/sg/en/insights/latest-thinking/navigating-data-centre-opportunities-across-apac-singapore.html",
       "/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/financial-services.html",
+     "repFile": "cap_experiencefragment_3542720616.jpg",
+     "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/publication/navigating-net-zero-apac-climate-guide.html",
+     "repSource": "live-capture",
      "modifiers": [
       "xf-content-height(10)",
       "cmp-experiencefragment--view-from-asia-promo-banner(5)",
@@ -23074,8 +23425,9 @@
       "/sg/en/insights/latest-thinking/publication/public-private-partnerships-in-asia-2023.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/insights/latest-thinking/publication/public-private-partnerships-in-asia-2023.html",
+     "repFile": "cap_experiencefragment_6fa543d1b7.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "xf-content-height(5)",
       "cmp-experiencefragment--ppp-landing-page-directory(2)",
@@ -23129,8 +23481,9 @@
       "/au/en/insights/topic/view-from-asia.html",
       "/sg/en/insights/topic/view-from-asia.html"
      ],
-     "repFile": "",
+     "repFile": "cap_experiencefragment_b71fff9402.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/view-from-asia.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--vfa-home-feature-insight(2)",
       "xf-content-height(2)"
@@ -23180,8 +23533,9 @@
      "sampleUrls": [
       "/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html"
      ],
-     "repFile": "",
+     "repFile": "cap_experiencefragment_cc92ff048b.jpg",
      "repUrl": "https://www.mallesons.com/au/en/insights/topic/data-and-tech-navigating-a-connected-world.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--digital-future-summit-register-banner(1)",
       "xf-content-height(1)"
@@ -23233,6 +23587,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/insights/latest-thinking/navigating-net-zero-apac-climate-guide-japan.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-experiencefragment--net-zero-guide-2025---nav(1)",
       "xf-content-height(1)"
@@ -23309,6 +23664,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(49)",
       "practiseTeamButton(8)",
@@ -23371,8 +23727,9 @@
       "/au/en/expertise/practices/environmental-social-and-governance/carbon-and-natural-capital-offering.html",
       "/au/en/expertise/practices/environmental-social-and-governance.html"
      ],
-     "repFile": "ex-second-part2_9230b3bd9d_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repFile": "cap_ex-second-part2_9230b3bd9d.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(62)",
       "article-display(62)"
@@ -23436,8 +23793,9 @@
       "/au/en/expertise/practices/dispute-resolution-and-litigation/administrative-and-public-law.html",
       "/au/en/expertise/practices/digital-economy.html"
      ],
-     "repFile": "ex-second-part2_350f748146_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+     "repFile": "cap_ex-second-part2_350f748146.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "peopleContact(57)",
       "peopleContact_container(57)",
@@ -23500,8 +23858,9 @@
       "/au/en/expertise/practices/dispute-resolution-and-litigation/administrative-and-public-law.html",
       "/au/en/expertise/practices/digital-economy.html"
      ],
-     "repFile": "ex-second-part2_e202990511_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/expertise/practices/energy-resources-and-infrastructure.html",
+     "repFile": "cap_ex-second-part2_e202990511.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "practiseTeamButton(49)",
       "meetOurTeamButton(49)",
@@ -23561,8 +23920,9 @@
       "/sg/en/expertise/practices/energy-resources-and-infrastructure.html",
       "/sg/en/expertise/practices/investment-funds-asset-and-management.html"
      ],
-     "repFile": "ex-second-part2_b3ab80e147_1.jpg",
+     "repFile": "cap_ex-second-part2_b3ab80e147.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(13)",
       "testimonialQuote(13)"
@@ -23623,6 +23983,7 @@
      ],
      "repFile": "ex-second-part2_750645ca58_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/dispute-resolution-and-litigation.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(5)",
       "awardsAndRanking(5)",
@@ -23680,8 +24041,9 @@
       "/au/en/expertise/practices/native-title.html",
       "/au/en/expertise/sectors/government-and-public.html"
      ],
-     "repFile": "ex-second-part2_85920838a2_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/carbon-and-natural-capital-offering.html",
+     "repFile": "cap_ex-second-part2_85920838a2.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/native-title.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "text(3)",
@@ -23747,8 +24109,9 @@
       "/au/en/expertise/practices/planning-and-environment.html",
       "/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html"
      ],
-     "repFile": "ex-second-part2_ca4e91c861_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
+     "repFile": "cap_ex-second-part2_ca4e91c861.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime/corporate-investigations.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(3)",
       "responsivegrid(3)",
@@ -23807,8 +24170,9 @@
       "/au/en/expertise/practices/digital-economy.html",
       "/au/en/expertise/sectors/financial-services.html"
      ],
-     "repFile": "ex-second-part2_46ef94d4b0_1.jpg",
+     "repFile": "cap_ex-second-part2_46ef94d4b0.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/digital-economy.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "awardsAndRanking(2)",
@@ -23865,8 +24229,9 @@
       "/au/en/expertise/practices/native-title.html",
       "/au/en/expertise/sectors/real-estate.html"
      ],
-     "repFile": "ex-second-part2_2cdd10f7d1_1.jpg",
+     "repFile": "cap_ex-second-part2_2cdd10f7d1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/native-title.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(2)",
       "awardsAndRanking(2)"
@@ -23921,8 +24286,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/competition-and-antitrust.html"
      ],
-     "repFile": "",
+     "repFile": "cap_ex-second-part2_94599f92b2.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/competition-and-antitrust.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)"
@@ -23979,6 +24345,7 @@
      ],
      "repFile": "ex-second-part2_c9afa1aac2_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/energy-resources-and-infrastructure/oil-and-gas.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(1)",
       "testimonialQuote(1)"
@@ -24033,8 +24400,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/environmental-social-and-governance.html"
      ],
-     "repFile": "ex-second-part2_ef0e809510_1.jpg",
+     "repFile": "cap_ex-second-part2_ef0e809510.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)",
@@ -24088,8 +24456,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/environmental-social-and-governance.html"
      ],
-     "repFile": "ex-second-part2_01217e086a_1.jpg",
+     "repFile": "cap_ex-second-part2_01217e086a.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "responsivegrid(1)",
@@ -24147,8 +24516,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html"
      ],
-     "repFile": "ex-second-part2_4671f6ac2f_1.jpg",
+     "repFile": "cap_ex-second-part2_4671f6ac2f.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/environmental-social-and-governance/climate-change-litigation.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "experiencefragment(1)"
@@ -24203,6 +24573,7 @@
      ],
      "repFile": "ex-second-part2_76ec9bcce9_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/insurance.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)"
@@ -24257,8 +24628,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/investigations-and-white-collar-crime.html"
      ],
-     "repFile": "ex-second-part2_9f0e230d72_1.jpg",
+     "repFile": "cap_ex-second-part2_9f0e230d72.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/investigations-and-white-collar-crime.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "responsivegrid(1)",
@@ -24314,8 +24686,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/private-capital.html"
      ],
-     "repFile": "ex-second-part2_1a80ad2663_1.jpg",
+     "repFile": "cap_ex-second-part2_1a80ad2663.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/private-capital.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "article-display(1)"
@@ -24371,8 +24744,9 @@
      "sampleUrls": [
       "/au/en/expertise/practices/private-capital.html"
      ],
-     "repFile": "",
+     "repFile": "cap_ex-second-part2_354702bd12.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/practices/private-capital.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "article-display(1)"
@@ -24431,6 +24805,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/energy-resources-and-infrastructure.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)"
@@ -24485,8 +24860,9 @@
      "sampleUrls": [
       "/au/en/expertise/sectors/financial-services.html"
      ],
-     "repFile": "ex-second-part2_d887766ebe_1.jpg",
+     "repFile": "cap_ex-second-part2_d887766ebe.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/financial-services.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "featureInsightWithImage(1)"
@@ -24542,8 +24918,9 @@
      "sampleUrls": [
       "/au/en/expertise/sectors/healthcare-and-pharmaceuticals.html"
      ],
-     "repFile": "ex-second-part2_7a7c49783d_1.jpg",
+     "repFile": "cap_ex-second-part2_7a7c49783d.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/healthcare-and-pharmaceuticals.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "article-display(1)"
@@ -24599,8 +24976,9 @@
      "sampleUrls": [
       "/au/en/expertise/sectors/government-and-public.html"
      ],
-     "repFile": "",
+     "repFile": "cap_ex-second-part2_5ddfa8a1fe.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/government-and-public.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "promoBox(1)"
@@ -24655,8 +25033,9 @@
      "sampleUrls": [
       "/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology.html"
      ],
-     "repFile": "",
+     "repFile": "cap_ex-second-part2_109fc82ae2.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)",
@@ -24714,6 +25093,7 @@
      ],
      "repFile": "ex-second-part2_36b2fdf8cb_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/sectors/telecommunications-media-entertainment-and-technology/space.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(1)",
       "awardsAndRanking(1)",
@@ -24801,8 +25181,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html"
      ],
-     "repFile": "customer-container_f4aafec062_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html",
+     "repFile": "cap_customer-container_f4aafec062.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(276)",
       "experiencefragment(276)"
@@ -24892,6 +25273,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "none",
      "modifiers": [
       "aem-Grid(276)",
       "aem-Grid--24(276)",
@@ -24974,8 +25356,9 @@
       "/au/en/expertise/practices/dispute-resolution-and-litigation/administrative-and-public-law.html",
       "/au/en/expertise/practices/digital-economy.html"
      ],
-     "repFile": "ex-second-box_9efdd7f4bb_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/banking-and-finance/trade-finance.html",
+     "repFile": "cap_ex-second-box_9efdd7f4bb.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/expertise/practices/corporate-and-commercial.html",
+     "repSource": "live-capture",
      "modifiers": [
       "ex-second-part2(60)",
       "aem-GridColumn--default--none(60)",
@@ -25042,8 +25425,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "ex-second-box_e28fa48a20_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_ex-second-box_e28fa48a20.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [
       "relatedNews(20)",
       "aem-GridColumn--default--none(20)",
@@ -25111,8 +25495,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "ex-second-box_6c7a85ca73_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_ex-second-box_6c7a85ca73.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-container_common(11)"
      ],
@@ -25171,6 +25556,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/people/olivia-doray.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(9)"
      ],
@@ -25226,6 +25612,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/crisis-management/corporate-crime-and-misconduct.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(4)"
      ],
@@ -25282,6 +25669,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/agm-assistance.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(4)"
      ],
@@ -25337,6 +25725,7 @@
      ],
      "repFile": "ex-second-box_9f7aa44f20_1.jpg",
      "repUrl": "https://www.mallesons.com/au/en/expertise/solutions/governance-solutions-for-todays-world/esg-due-diligence.html",
+     "repSource": "render",
      "modifiers": [
       "cmp-container_common(1)"
      ],
@@ -25390,6 +25779,7 @@
      ],
      "repFile": "",
      "repUrl": "https://www.mallesons.com/sg/en/expertise/archive/practices/private-capital/venture-capital.html",
+     "repSource": "none",
      "modifiers": [
       "cmp-container_common(1)"
      ],
@@ -25470,8 +25860,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html"
      ],
-     "repFile": "header_0b6e603061_1.jpg",
-     "repUrl": "https://www.mallesons.com/sg/en/about-us.html",
+     "repFile": "cap_header_a7c66c49b4.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--header(276)",
       "xf-content-height(276)"
@@ -25547,8 +25938,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html"
      ],
-     "repFile": "header_c07d3f2a68_1.jpg",
+     "repFile": "cap_header_c07d3f2a68.jpg",
      "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--header-navigation(276)",
       "xf-content-height(276)"
@@ -25617,8 +26009,9 @@
       "/au/en/people/matthew-carr.html",
       "/au/en/people/mikkeli-godfree.html"
      ],
-     "repFile": "",
-     "repUrl": "https://www.mallesons.com/au/en/people/francesca-giorlando.html",
+     "repFile": "cap_header_0cfc364483.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/people/luke-hawthorne.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--header-config(20)",
       "xf-content-height(20)"
@@ -25700,8 +26093,9 @@
       "/au/en/about-us/media-center.html",
       "/au/en/about-us/media-center/kwm-advises-financiers-on-the-project-financing-of-wambo-wind-farm-stage-1-and-stage-2.html"
      ],
-     "repFile": "footer_520b5a7b52_1.jpg",
-     "repUrl": "https://www.mallesons.com/au/en/about-us.html",
+     "repFile": "cap_footer_520b5a7b52.jpg",
+     "repUrl": "https://www.mallesons.com/au/en/about-us/alumni/alumni-stories.html",
+     "repSource": "live-capture",
      "modifiers": [
       "cmp-experiencefragment--footer(276)",
       "xf-content-height(276)"

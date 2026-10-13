@@ -44,6 +44,9 @@ for (const f of files.filter((x) => x.endsWith('.html'))) {
   // localise: freeze the captured DOM (inert scripts), resolve relative URLs against the live page
   let l = h.replace(/<script\b(?![^>]*application\/ld\+json)([^>]*)>/gi, (m, a) => `<script type="text/x-inert"${a.replace(/\stype="[^"]*"/i, '')}>`);
   l = l.replace(/<base\b[^>]*>/gi, '').replace(/<head([^>]*)>/i, `<head$1><base href="${url}">`);
+  // the capture tool's DOM snapshot includes the Hotjar survey widget appended to <body> (~187px);
+  // it is not page content — drop it so the local layout matches the live screenshot pixel-for-pixel
+  l = l.replace(/<div\b(?=[^>]*_hj-widget-container)[^>]*>[\s\S]*?(?=<\/body>)/i, '');
   const lf = path.join(LOCAL, path.relative(MAN, f));
   fs.mkdirSync(path.dirname(lf), { recursive: true });
   fs.writeFileSync(lf, l);

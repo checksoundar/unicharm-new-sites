@@ -1,0 +1,12 @@
+parity: 211/293 pages within ±3%
+variants: 327 with a parity page, 67 without one (keep re-rendered crop)
+  round 1: 20/90 pages ok=103
+  round 1: 40/90 pages ok=188
+  round 1: 60/90 pages ok=242
+  round 1: 80/90 pages ok=276
+round 1: 289 variants cropped so far
+  round 2: 20/26 pages ok=291
+round 2: 292 variants cropped so far
+round 3: 292 variants cropped so far
+round 4: 292 variants cropped so far
+DONE crops from captures: 292 written, 35 variants not visible on any parity page, 67 without a parity page
