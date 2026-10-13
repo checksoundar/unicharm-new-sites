@@ -269,7 +269,7 @@ function wireAemClass(){
   const draw=q=>{
     const rs=rows.filter(r=>(cat==='all'||r.cat===cat)&&(!q||(r.cmp+' '+r.id+' '+r.eds+' '+r.pattern+' '+r.label+' '+(r.mods||[]).join(' ')).toLowerCase().includes(q)));
     body.innerHTML=rs.map((r,i)=>{const c=AEM_CAT[r.cat]||AEM_CAT.custom;
-      const th=r.img&&img(r.img)?'<img src="'+img(r.img)+'" data-i="'+rows.indexOf(r)+'" class="aem-th" style="width:120px;max-height:70px;object-fit:cover;object-position:top;border-radius:4px;cursor:zoom-in;border:1px solid #e3e5e8">':'<span style="color:#aaa;font-size:10px">hidden / layout</span>';
+      const th=r.img&&img(r.img)?'<img src="'+img(r.img)+'" data-i="'+rows.indexOf(r)+'" class="aem-th" style="width:120px;max-height:70px;object-fit:cover;object-position:top;border-radius:4px;cursor:zoom-in;border:1px solid #e3e5e8">':'<span style="color:#aaa;font-size:10px">no visual (empty / client-rendered)</span>';
       return '<tr style="background:'+c.bg+'"><td>'+th+'</td>'
        +'<td><span style="display:inline-block;padding:1px 8px;border-radius:10px;font-size:10.5px;font-weight:600;color:#fff;background:'+c.c+'">'+c.l+'</span>'+(r.complexity?'<div class="cap" style="margin-top:3px">'+esc(r.complexity)+'</div>':'')+'</td>'
        +'<td class="name-cell" style="font-size:12.5px">'+esc(r.cmp)+'<div class="mono" style="font-size:10.5px;color:var(--muted)">'+esc(r.id)+'</div>'+(r.label?'<div style="font-size:10.5px;color:var(--muted)">“'+esc(r.label.slice(0,40))+'”</div>':'')+(r.url?'<div><a href="'+esc(abs(r.url))+'" target="_blank" rel="noopener" style="font-size:10.5px">source ↗</a></div>':'')+'</td>'

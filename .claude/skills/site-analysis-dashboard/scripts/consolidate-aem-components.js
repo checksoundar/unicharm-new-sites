@@ -35,6 +35,8 @@ const CFG = JSON.parse(fs.readFileSync(path.join(CF, 'config.json'), 'utf8'));
 const ORIGIN = CFG.siteOrigin;
 const rdl = (f) => fs.readFileSync(path.join(CF, f), 'utf8').split('\n').filter(Boolean).map((l) => JSON.parse(l));
 // de-duplicate: a capture interrupted mid-page and resumed re-records that page's components
+const AUDIT = fs.existsSync(path.join(CF, 'crop-audit.json')) ? JSON.parse(fs.readFileSync(path.join(CF, 'crop-audit.json'), 'utf8')) : {};
+const OVERRIDES = fs.existsSync(path.join(CF, 'crop-overrides.json')) ? JSON.parse(fs.readFileSync(path.join(CF, 'crop-overrides.json'), 'utf8')) : {};
 const comps = (() => {
   const seen = new Set();
   return rdl('aem-components.jsonl').filter((c) => {
@@ -105,13 +107,20 @@ for (const [cmp, insts] of Object.entries(byCmp)) {
     const med = (k) => { const a = all.map((i) => i.counts[k]).sort((x, y) => x - y); return a[Math.floor(a.length / 2)]; };
     // per-variant override: variantRules [{ pattern|style|mod: regex, eds, category, note }] (first match wins)
     const styleStr = Object.keys(style).join(' '); const modStr = Object.keys(mods).join(' ');
+    // crop-overrides.json (crops-from-captures.js): reference image cut from the user's live screenshot
+    const ov = OVERRIDES[cmp + '|' + v.hashes[0].hash];
+    let repF = ov && fs.existsSync(path.join(CF, 'blocks', ov.file)) ? { file: ov.file, url: ov.url } : rep;
+    // crop-audit.json (audit-crops.js): a blank image (empty / not-yet-loaded / client-rendered block) is
+    // not shown; the variant stays in the classification table as "no visual"
+    const blankImg = repF && AUDIT[repF.file] && AUDIT[repF.file].blank;
+    if (blankImg) repF = null;
     const vmap = (mapping.variantRules || []).find((r) => (!r.pattern || new RegExp(r.pattern).test(v.hashes[0].pattern))
       && (!r.style || new RegExp(r.style).test(styleStr)) && (!r.mod || new RegExp(r.mod).test(modStr))) || {};
     return {
       id: `${cmp}${variants.length > 1 ? '-v' + (vi + 1) : ''}`,
       pattern: v.hashes[0].pattern, hashes: v.hashes.map((h) => ({ hash: h.hash, instances: h.insts.length, pattern: h.pattern })),
       jaccardMerged: v.sim, instances: all.length, pages: pages.size, properties: props,
-      sampleUrls: [...pages].slice(0, 6).map((u) => u.replace(ORIGIN, '')), repFile: rep ? rep.file : '', repUrl: rep ? rep.url : all[0].pageUrl,
+      sampleUrls: [...pages].slice(0, 6).map((u) => u.replace(ORIGIN, '')), repFile: repF ? repF.file : '', repUrl: repF ? repF.url : all[0].pageUrl, repSource: repF && String(repF.file).startsWith('cap_') ? 'live-capture' : repF ? 'render' : (blankImg ? 'blank' : 'none'),
       modifiers: Object.entries(mods).sort((a, b) => b[1] - a[1]).map(([k, n]) => `${k}(${n})`).slice(0, 10),
       styles: Object.entries(style).sort((a, b) => b[1] - a[1]).map(([k, n]) => `${k}(${n})`).slice(0, 10),
       parents: [...new Set(all.map((i) => i.parent || '(page)'))],
