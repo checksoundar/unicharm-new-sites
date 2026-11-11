@@ -1,0 +1,1033 @@
+[
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/annual/",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/finance/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/finance/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/finance/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/annual/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/en/ir/library/asahikasei_report/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/en/ir/library/asahikasei_report/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/asahikasei_report/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/asahikasei_report/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/asahikasei_report/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision0812e.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision0904e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0904e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0904e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision0904e_2.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0904e_2.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0904e_2.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision0910e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0910e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0910e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision0911e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0911e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision0911e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1002e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1002e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1002e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1004e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1004e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1004e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1008e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1008e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1008e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1010e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1010e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1010e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1011e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1011e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1011e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1102e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1102e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1102e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1111e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1111e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1111e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1202e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1202e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1202e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1402e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1402e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1402e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1403e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1403e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1403e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1404e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1404e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1404e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/financial_briefing/pdf/revision1411e.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1411e.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/financial_briefing/pdf/revision1411e.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/initiative/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/initiative/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/initiative/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/initiative/pdf/120326eng.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/initiative/pdf/e110517_plan.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/initiative/pdf/e120521en.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/presentation/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/presentation/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/presentation/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/presentation/090604eng.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/presentation/120312eng.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/presentation/pdf/120312eng.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/presentation/pdf/120312eng.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/presentation/140225eng.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/presentation/pdf/140225eng.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/presentation/pdf/140225eng.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/library/presentation/150223eng.pdf",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/ir/library/presentation/pdf/150223eng.pdf",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/ir/library/presentation/pdf/150223eng.pdf"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/news/notice20060703.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/ir/stock_information/meeting/",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/news/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/news/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2006/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2007/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2008/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2009/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2010/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2011/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2012/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2013/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2014/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "listing tab does not exist (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2014/pdf/e140509_1.pdf",
+    "status": 404,
+    "reason": "broken document link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2014/pdf/e140509_2.pdf",
+    "status": 404,
+    "reason": "broken document link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2015/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/news/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/news/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2015/ir.html",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/news/2015/index.html",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/news/2015/index.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2015/press.html",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/news/2015/index.html",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/news/2015/index.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2016/ir.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2016/press.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/cm/ihi/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/asahikasei-brands/ihi/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/asahikasei-brands/ihi/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/070405_plan.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/070927_planj.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/080404_planj.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/090604jpn.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/100604jpn.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/110517_plan.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/strategy/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/company/strategy/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/company/strategy/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.co.jp/asahi/jp/sustainability/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.co.jp/asahi/jp/sustainability/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/library/report/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.co.jp/asahi/jp/sustainability/basic_information/library/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.co.jp/asahi/jp/sustainability/basic_information/library/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/index.html",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/news/2006/csr.html",
+    "reason": "redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2006/csr.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/index.html",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/news/2007/csr.html",
+    "reason": "redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2007/csr.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/index.html",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/news/2008/csr.html",
+    "reason": "redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2008/csr.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/index.html",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/news/2009/csr.html",
+    "reason": "redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2009/csr.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/index.html",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/news/2010/csr.html",
+    "reason": "redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2010/csr.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/independent/caution_110405.html",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/investor/2008.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/other/070207j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/pdf/070528j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/pdf/070612j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/pdf/080606j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/pdf/081203j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/event/pdf/090216j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/finance/ho_info/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/finance/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/finance/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/investment/for_shareholder0711.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/investment/for_shareholders0603.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/investment/for_shareholders0611.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/investment/for_shareholders0703.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/investment/for_shareholders0803.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/investment/for_shareholders0809.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/ir/library/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/ir/library/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/annual/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/asahikasei_report/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/asahikasei_report/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/business/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/business/120312.pdf",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/business/140225.pdf",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/business/150223.pdf",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/business/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/initiative/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/initiative/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/initiative/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/initiative/pdf/120521jpn.pdf",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/initiative/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/initiative/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/investor/2014.html",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/investor/2014.html",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/investor/2014.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/other/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/other/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/other/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/events/supplement/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/financial_briefing/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/financial_briefing/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/financial_report/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/ir/library/financial_report/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/ir/library/financial_report/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/shareholders/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/ir/stock_information/meeting/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/ir/stock_information/meeting/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/library/summary/",
+    "status": 301,
+    "location": "http://www.asahi-kasei.co.jp/asahi/jp/ir/library/financial_briefing/",
+    "reason": "outside news section; redirects to http://www.asahi-kasei.co.jp/asahi/jp/ir/library/financial_briefing/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/20060703.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/20070403.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0606_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0612_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/063_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/069_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/06j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0703_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0706_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0710_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0712_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0803_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0806_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0809_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0812_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/0903_analyst.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200603_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200603_nn_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200606_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200609_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200609_nn_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200612_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200703_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200706_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200710_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200710_cnsldtd_revised.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200712_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200803_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200806_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200809_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200812_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200903_cnsldtd.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200904_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200904_cnsldtd_oshirase2.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200910_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/200911_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201002_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201004_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201008_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201010_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201011_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201102_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201111_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201202_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201312_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201403_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201404_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/201411_cnsldtd_oshirase.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/agm2006j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/agm2006results_j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/news/pdf/revision0812j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/annual/07jp.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/060713j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/060927j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/061211jp.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/070223j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/070308j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/116_half_0727.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/presentation/pdf/116j_0727.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/stock_information/meeting/",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/stock_information/pdf/agm2007results_j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/ir/stock_information/pdf/agm2008results_j.pdf",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/koukoku/",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/news/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/news/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2008/index.html",
+    "status": 200,
+    "reason": "duplicate alias of https://www.asahi-kasei.co.jp/asahi/jp/news/2008/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2011/CSR.html",
+    "status": 404,
+    "location": null,
+    "reason": "broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2011/index.html",
+    "status": 200,
+    "reason": "duplicate alias of https://www.asahi-kasei.co.jp/asahi/jp/news/2011/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2012/index.html",
+    "status": 200,
+    "reason": "duplicate alias of https://www.asahi-kasei.co.jp/asahi/jp/news/2012/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2013/index.html",
+    "status": 200,
+    "reason": "duplicate alias of https://www.asahi-kasei.co.jp/asahi/jp/news/2013/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2014/index.html",
+    "status": 200,
+    "reason": "duplicate alias of https://www.asahi-kasei.co.jp/asahi/jp/news/2014/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2015/",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/news/",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/news/"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2015/csr.html",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/news/2015/index.html",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/news/2015/index.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2015/ir.html",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/news/2015/index.html",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/news/2015/index.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2015/press.html",
+    "status": 301,
+    "location": "https://www.asahi-kasei.com/jp/news/2015/index.html",
+    "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/news/2015/index.html"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2016/csr.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2016/ir.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  },
+  {
+    "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2016/press.html",
+    "status": 404,
+    "location": null,
+    "reason": "outside news section; broken link (404)"
+  }
+]

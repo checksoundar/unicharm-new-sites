@@ -1,0 +1,499 @@
+{
+  "site": "https://www.asahi-kasei.co.jp",
+  "section": "/asahi/{jp,en}/news/2006/ … /2014/ (fiscal years; FY2014 runs Apr 2014–Mar 2015)",
+  "captured": "2026-11-11T12:35:49Z",
+  "method": "crawl",
+  "crawl": {
+    "seeds": "72 listing URLs (2 locales x 9 years x {index, press, ir, csr})",
+    "depth": "listing -> article -> article attachments until no new in-scope URL",
+    "fetched": 1548,
+    "sitemap": null,
+    "robotsTxt": null,
+    "notes": "No sitemap.xml/robots.txt on host; directory roots /csr/news/{yyyy}/ return 403 so CSR articles are only discoverable via listing links."
+  },
+  "totals": {
+    "pagesInScope": 1178,
+    "documentsInScope": 155,
+    "optionalRelatedPages": 41,
+    "excluded": 173,
+    "jp": {
+      "index": 36,
+      "newsArticles": 616,
+      "csrArticles": 244,
+      "pdf": 108
+    },
+    "en": {
+      "index": 27,
+      "newsArticles": 255,
+      "csrArticles": 0,
+      "pdf": 47
+    }
+  },
+  "byYear": [
+    {
+      "locale": "jp",
+      "year": 2006,
+      "news-index": 4,
+      "news-article": 65,
+      "csr-news-article": 4,
+      "pdf": 0
+    },
+    {
+      "locale": "jp",
+      "year": 2007,
+      "news-index": 4,
+      "news-article": 65,
+      "csr-news-article": 25,
+      "pdf": 0
+    },
+    {
+      "locale": "jp",
+      "year": 2008,
+      "news-index": 4,
+      "news-article": 66,
+      "csr-news-article": 26,
+      "pdf": 4
+    },
+    {
+      "locale": "jp",
+      "year": 2009,
+      "news-index": 4,
+      "news-article": 59,
+      "csr-news-article": 21,
+      "pdf": 0
+    },
+    {
+      "locale": "jp",
+      "year": 2010,
+      "news-index": 4,
+      "news-article": 62,
+      "csr-news-article": 31,
+      "pdf": 44
+    },
+    {
+      "locale": "jp",
+      "year": 2011,
+      "news-index": 4,
+      "news-article": 71,
+      "csr-news-article": 30,
+      "pdf": 31
+    },
+    {
+      "locale": "jp",
+      "year": 2012,
+      "news-index": 4,
+      "news-article": 73,
+      "csr-news-article": 34,
+      "pdf": 9
+    },
+    {
+      "locale": "jp",
+      "year": 2013,
+      "news-index": 4,
+      "news-article": 81,
+      "csr-news-article": 32,
+      "pdf": 11
+    },
+    {
+      "locale": "jp",
+      "year": 2014,
+      "news-index": 4,
+      "news-article": 74,
+      "csr-news-article": 41,
+      "pdf": 9
+    },
+    {
+      "locale": "en",
+      "year": 2006,
+      "news-index": 3,
+      "news-article": 24,
+      "csr-news-article": 0,
+      "pdf": 0
+    },
+    {
+      "locale": "en",
+      "year": 2007,
+      "news-index": 3,
+      "news-article": 27,
+      "csr-news-article": 0,
+      "pdf": 0
+    },
+    {
+      "locale": "en",
+      "year": 2008,
+      "news-index": 3,
+      "news-article": 19,
+      "csr-news-article": 0,
+      "pdf": 1
+    },
+    {
+      "locale": "en",
+      "year": 2009,
+      "news-index": 3,
+      "news-article": 24,
+      "csr-news-article": 0,
+      "pdf": 0
+    },
+    {
+      "locale": "en",
+      "year": 2010,
+      "news-index": 3,
+      "news-article": 36,
+      "csr-news-article": 0,
+      "pdf": 26
+    },
+    {
+      "locale": "en",
+      "year": 2011,
+      "news-index": 3,
+      "news-article": 40,
+      "csr-news-article": 0,
+      "pdf": 17
+    },
+    {
+      "locale": "en",
+      "year": 2012,
+      "news-index": 3,
+      "news-article": 27,
+      "csr-news-article": 0,
+      "pdf": 1
+    },
+    {
+      "locale": "en",
+      "year": 2013,
+      "news-index": 3,
+      "news-article": 32,
+      "csr-news-article": 0,
+      "pdf": 2
+    },
+    {
+      "locale": "en",
+      "year": 2014,
+      "news-index": 3,
+      "news-article": 26,
+      "csr-news-article": 0,
+      "pdf": 0
+    }
+  ],
+  "templates": [
+    {
+      "name": "news-index",
+      "urls": 63,
+      "note": "Same markup 2006-2014: h1.hdg-l1-01, ul.navi-pagelink-01 tabs, table.tbl-news-01 date/title rows, ul.lyt-image-06 prev/next year. Script: import-index.js. EN has no CSR tab. Mostly date+title link tables; candidate for an EDS query-index driven list instead of static migration."
+    },
+    {
+      "name": "article-legacy (FY2006-2010)",
+      "urls": 554,
+      "note": "Layout-table markup: div.innerSection/.subsection (JP) or div.outsideSection (EN), <font class=hdg> or div.newsTitle as title, no <h1>, date and body inside <table>. Needs its own import script (import-article-legacy.js)."
+    },
+    {
+      "name": "article-modern (FY2011-2014)",
+      "urls": 561,
+      "note": "Semantic classes: h1.hdg-l1-03 title, p.ar date, p.text-type-01/02 body, p.lyt-image-01 + span.caption images, div.column2 / div.lyt-block-01 image+text, table.list-other-01 attachment/contact tables, ul.list-notice-01 notes, p.backlink. Script: import-article.js."
+    }
+  ],
+  "importerNotes": [
+    "jp/news/2013/li130801.html is served as UTF-16 while declaring UTF-8: the importer must sniff the BOM before parsing.",
+    "EN FY2006–FY2010 article <title>s are generic (\"Fiscal 2006 / Press Releases - Asahi Kasei\"): take the page title from the article heading, not <title>.",
+    "Year roots also answer at /index.html (duplicate aliases, excluded). /csr/news/{yyyy}/index.html 301 to /news/{yyyy}/csr.html.",
+    "Listing tabs link to many old IR PDFs under /asahi/jp/ir/news/pdf/ and /asahi/en/ir/... that now 404 or 301 to asahi-kasei.com: rewrite or drop these links during import (see excluded.json)."
+  ],
+  "recommendation": "Use the EDS Importer (bulk import script over the URL list) rather than EMA page-by-page analysis: ~1,100 near-identical, text-first legacy pages with a single layout; content is static and needs only cleanup (remove global nav/aside/footer, keep title, date, body, tables, images, PDF links).",
+  "layoutSample": [
+    {
+      "key": "jp|news|2006|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2006/li070330.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2006|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2006/me070326.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2006|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20070302.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2006|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20060631.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2007|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2007/fi080331.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2007|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze080326.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2007|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080321.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2007|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080317.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2008|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze090331.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2008|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2008/fi090330.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2008|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090330.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2008|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090325.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2009|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2009/fi100331.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2009|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ch100325.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2009|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100325.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2009|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100310.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2010|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ho110331.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2010|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ze110323.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2010|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110325.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|csr/news|2010|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110121.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,wapper,container,main-contents,column-aside"
+    },
+    {
+      "key": "jp|news|2011|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ho120330_2.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2011|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ho120330_1.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2011|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120329.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2011|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120326.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2012|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2012/fi130329_1.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2012|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ze130328.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2012|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130325.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2012|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130319.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2013|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2013/fi140331.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2013|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2013/ch140331_2.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2013|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140327.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2013|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140324.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2014|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2014/fi150331.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2014|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2014/ze150319_2.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2014|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150327.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|csr/news|2014|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150326.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2006|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2006/e070313.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2006|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2006/e070326.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2007|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2007/e080319.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2007|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2007/e080311.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2008|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2008/e090326.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2008|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2008/e090311.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2009|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2009/e100325.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2009|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2009/e100121.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2010|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2010/e110323_2.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2010|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2010/e110323_1.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,main-contents-news,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2011|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2011/e120326.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2011|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2011/e120312.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2012|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2012/e130325.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2012|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2012/e130329.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2013|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2013/e140331.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2013|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2013/e140328.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2014|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2014/e150331.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "en|news|2014|detail",
+      "url": "https://www.asahi-kasei.co.jp/asahi/en/news/2014/e150327.html",
+      "containers": "globalHead,siteUtilityLang,searchField,contents,column-article,column-aside,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2008|index",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2008/index.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2011|index",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2011/index.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2012|index",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2012/index.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2013|index",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2013/index.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    },
+    {
+      "key": "jp|news|2014|index",
+      "url": "https://www.asahi-kasei.co.jp/asahi/jp/news/2014/index.html",
+      "containers": "globalHead,siteUtility,siteUtilityLang,searchField,header,globalNav,contents,column-article,column-aside,footer,footerLogo,footerUtility"
+    }
+  ]
+}
