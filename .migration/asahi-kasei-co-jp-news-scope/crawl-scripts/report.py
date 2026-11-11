@@ -1,4 +1,4 @@
-"""Render the Asahi Kasei news-archive migration scope + estimate as one self-contained HTML report."""
+"""Render the Asahi Kasei news-archive migration scope as one self-contained HTML report."""
 import json, sys, os, base64, html, collections, datetime
 
 SCOPE, RAW, LOGO, OUT = sys.argv[1:5]
@@ -65,7 +65,7 @@ def tiles():
         ('Pages to import', f'{n_pages:,}', f'JP {jp_pages:,} · EN {en_pages:,}'),
         ('PDF attachments', f'{n_docs:,}', f'{pdf_mb:.1f} MB in total'),
         ('Import scripts', '3', 'listing · modern · legacy'),
-        ('Estimated effort', '40–47 h', 'deck baseline 35–40 h'),
+        ('Excluded links', f'{n_exc}', 'broken or already redirected'),
     ]
     return ''.join(f'<div class="tile"><div class="tile-label">{a}</div><div class="tile-value">{b}</div><div class="tile-sub">{c}</div></div>' for a, b, c in items)
 
@@ -214,7 +214,7 @@ cat_rows = sorted(cat.items(), key=lambda kv: -kv[1])
 CSS = r'''
 :root{--adobe-red:#eb1000;--bg:#f8f8f8;--surface:#fff;--surface-2:#f3f3f3;--border:#e1e1e1;--border-2:#cacaca;--text:#222;--text-2:#505050;--muted:#6e6e6e;--accent:#1473e6;--accent-d:#0d66d0;
 --good:#12805c;--good-bg:#e6f4ee;--warn:#b35c00;--warn-bg:#fdf1e3;--crit:#c9252d;--crit-bg:#fbe9ea;--info-bg:#e9f1fd;
---s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--grid:#ececec;--radius:8px;--font:"adobe-clean","Adobe Clean","Source Sans 3","Source Sans Pro",-apple-system,BlinkMacSystemFont,"Segoe UI","Hiragino Sans","Hiragino Kaku Gothic ProN","Noto Sans JP","Yu Gothic",Meiryo,sans-serif;color-scheme:light}
+--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--grid:#ececec;--radius:8px;--font:"adobe-clean","Adobe Clean","Source Sans 3","Source Sans Pro",-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans JP","Hiragino Sans","Hiragino Kaku Gothic ProN","Yu Gothic",Meiryo,sans-serif;color-scheme:light}
 *{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:76px}
 body{margin:0;font-family:var(--font);font-size:15px;line-height:1.55;color:var(--text);background:var(--bg)}
 a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
@@ -414,9 +414,9 @@ def eff_bars():
                    f'<span class="muted">{b} → <b style="color:var(--text)">{p}</b></span></div>')
     return ''.join(out)
 
-NAV = [('Summary', [('overview', 'Overview'), ('fit', 'Importer fit')]),
+NAV = [('Summary', [('overview', 'Overview')]),
        ('Scope', [('method', 'How the scope was built'), ('volume', 'Volume by fiscal year'), ('templates', 'Templates & scripts'), ('mapping', 'Block mapping')]),
-       ('Plan', [('prereq', 'Prerequisites'), ('estimate', 'Effort estimate'), ('risks', 'Risks & importer notes'), ('next', 'Next steps')]),
+       ('Plan', [('prereq', 'Prerequisites'), ('risks', 'Risks & importer notes'), ('next', 'Next steps')]),
        ('Data', [('inventory', 'URL inventory'), ('files', 'Deliverables')])]
 nav_html = ''.join(f'<div class="grp">{g}</div>' + ''.join(f'<a href="#{i}">{n}</a>' for i, n in items) for g, items in NAV)
 
@@ -432,16 +432,16 @@ year_tbl = ('<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Fiscal year
             f'<th class="n">EN PDFs</th></tr></thead><tbody>{year_rows}</tbody><tfoot>{year_foot}</tfoot></table></div>')
 legend3 = ''.join(f'<span><i style="background:{c}"></i>{n}</span>' for n, c in (('JP press &amp; IR articles', 'var(--s1)'), ('JP CSR articles', 'var(--s2)'), ('EN articles', 'var(--s3)')))
 doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Asahi Kasei news archive FY2006–2014 · EDS migration scope &amp; estimate</title>
-<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&family=Source+Code+Pro:wght@400&display=swap">
+<title>Asahi Kasei news archive FY2006–2014 · EDS migration scope</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&family=Noto+Sans+JP:wght@400;700&family=Source+Code+Pro:wght@400&display=swap">
 <style>{CSS}</style></head><body>
 <header class="topbar"><img src="data:image/png;base64,{logo64}" alt="Adobe"><div class="sep"></div><span class="prod">Edge Delivery Services</span><span class="proj">Migration scope · Asahi Kasei news archive</span>
 <span class="date">Prepared {today}</span><button class="menu" aria-label="Open sections">☰ Sections</button></header>
 <div class="layout"><nav class="side" aria-label="Report sections">{nav_html}</nav><main>
 
-<div class="hero" id="overview"><div class="eyebrow">Migration scope &amp; estimate · EDS Importer</div>
+<div class="hero" id="overview"><div class="eyebrow">Migration scope · EDS Importer</div>
 <h1>Asahi Kasei news archive, FY2006–FY2014 (Japanese &amp; English)</h1>
-<p>We crawled both news sections and checked {fetched:,} URLs one by one. {n_pages:,} pages and {n_docs} PDF attachments belong in the migration scope. Three import scripts are needed, and the work is estimated at <b style="color:#fff">40–47 hours</b> of importer development.</p>
+<p>We crawled both news sections and checked {fetched:,} URLs one by one. {n_pages:,} pages and {n_docs} PDF attachments belong in the migration scope. The content follows three page patterns, so three import scripts are needed.</p>
 <div class="chips"><span class="chip">JP: <a href="{H}/asahi/jp/news/2014/" target="_blank" rel="noopener">/asahi/jp/news/{{2006…2014}}/</a></span><span class="chip">EN: <a href="{H}/asahi/en/news/2014/" target="_blank" rel="noopener">/asahi/en/news/{{2006…2014}}/</a></span><span class="chip">Fiscal year = April – March</span><span class="chip">Recommended tool: EDS Importer</span></div></div>
 <div class="tiles">{tiles()}</div>
 <div class="grid2" style="margin-top:16px">
@@ -459,11 +459,8 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 </div>
 <div class="callout good"><div class="ic">✓</div><div><b>Recommendation: use the EDS Importer, not page-by-page migration.</b><br>{esc(S['recommendation'].split(': ',1)[-1])}</div></div>
 
-<section id="fit"><h2><span class="num">01</span>Is the EDS Importer the right tool?</h2>
-<p class="lead">Checked against the “when (and when not) to use the Importer” criteria from the EDS Importer study (SoftBank case). Every reason to use it applies, and none of the reasons against it does.</p>
-<div class="fit">{fit_html}</div></section>
 
-<section id="method"><h2><span class="num">02</span>How the scope was built</h2>
+<section id="method"><h2><span class="num">01</span>How the scope was built</h2>
 <p class="lead">The host has no sitemap.xml or robots.txt, and the CSR article folders return 403. The scope was therefore built by crawling the listing pages and following every link until no new URL turned up. Each URL was fetched, and its status, content type and title recorded.</p>
 <div class="flow">{flow_html}</div>
 <div class="grid3" style="margin-top:16px">
@@ -474,7 +471,7 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <h4>Why URLs were excluded</h4>{tbl(['Reason', 'URLs'], exc_rows, 'compact')}
 </section>
 
-<section id="volume"><h2><span class="num">03</span>Volume by fiscal year</h2>
+<section id="volume"><h2><span class="num">02</span>Volume by fiscal year</h2>
 <p class="lead">Articles to import per fiscal year. Hover a column for the breakdown and PDF counts, or switch to the table.</p>
 <div class="card"><div class="chart-head"><div class="legend chart-legend">{legend3}</div>
 <div class="seg-toggle" role="tablist"><button class="on" data-v="chart">Chart</button><button data-v="table">Table</button></div></div>
@@ -489,36 +486,29 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <li>“Notice” = articles that appear only on the “All” listing, not under a Press / IR / CSR tab.</li></ul></div></div>
 </section>
 
-<section id="templates"><h2><span class="num">04</span>Templates &amp; import scripts</h2>
+<section id="templates"><h2><span class="num">03</span>Templates &amp; import scripts</h2>
 <p class="lead">Every page shares the same header, side column and footer, but the article content inside comes in two very different forms. As the deck recommends, each pattern gets its own script, and a few pages per pattern are tested in the Workbench first.</p>
 {template_cards()}</section>
 
-<section id="mapping"><h2><span class="num">05</span>Proposed block mapping</h2>
+<section id="mapping"><h2><span class="num">04</span>Proposed block mapping</h2>
 <p class="lead">A first draft of how source elements map to EDS blocks and default content. The block list and table structures must be confirmed before parser work starts (deck prerequisite).</p>
 {tbl(['Applies to', 'Source element', 'EDS target', 'Type'], [(f'<span class="pill">{a}</span>', f'<code>{b}</code>', c, d if d.startswith('<span') else f'<span class="pill">{d}</span>') for a, b, c, d in MAPPING])}
 </section>
 
-<section id="prereq"><h2><span class="num">06</span>Prerequisites before development</h2>
+<section id="prereq"><h2><span class="num">05</span>Prerequisites before development</h2>
 <p class="lead">The deck's checklist for starting importer development, and where this project stands.</p>
 {tbl(['Prerequisite', 'Status', 'Detail'], [(a, b, c) for a, b, c in PREREQ])}
 </section>
 
-<section id="estimate"><h2><span class="num">07</span>Effort estimate</h2>
-<p class="lead">Using the deck's time-estimation framework for a low-to-medium complexity project (SoftBank: &gt;700 pages, ~12 blocks, ~35 h), adjusted for three scripts, two languages and the legacy markup.</p>
-<div class="grid2"><div class="card"><div class="legend" style="margin-bottom:12px"><span><i style="background:#b9b9b9"></i>Deck baseline (upper bound)</span><span><i style="background:var(--s1)"></i>Asahi Kasei (upper bound)</span></div><div class="bars">{eff_bars()}</div></div>
-<div class="card" style="display:flex;flex-direction:column;justify-content:center;gap:6px"><div class="tile-label">Total importer effort</div><div style="font-size:48px;font-weight:700;line-height:1">40–47 h</div>
-<div class="muted">≈ 5–6 working days · deck baseline 35–40 h</div><div class="muted">Throughput: about 25–30 pages per hour of development</div></div></div>
-<div style="margin-top:16px">{tbl(['Task', 'Deck baseline', 'Asahi Kasei', 'Why'], [(a, b, f'<b>{c}</b>', d) for a, b, c, d in EFFORT] + [('<b>Total</b>', '<b>~35–40 h</b>', '<b>~40–47 h</b>', 'Covers importer development and import runs only. Block JS/CSS styling, navigation and footer are not included.')])}</div>
-</section>
 
-<section id="risks"><h2><span class="num">08</span>Risks &amp; importer notes</h2>
+<section id="risks"><h2><span class="num">06</span>Risks &amp; importer notes</h2>
 <p class="lead">Edge cases found during the crawl that the import scripts have to handle.</p>
 {risk_html}</section>
 
-<section id="next"><h2><span class="num">09</span>Next steps</h2>
+<section id="next"><h2><span class="num">07</span>Next steps</h2>
 <ol class="steps">{numbered(NEXT)}</ol></section>
 
-<section id="inventory"><h2><span class="num">10</span>URL inventory</h2>
+<section id="inventory"><h2><span class="num">08</span>URL inventory</h2>
 <p class="lead">Every URL found in the crawl. Search and filter the lists, then download what you see as CSV, or as a plain URL list for the Bulk importer.</p>
 <div class="card">
 <div class="inv-tabs" role="tablist"><button class="on" data-k="pages">Pages in scope<em>{n_pages:,}</em></button><button data-k="docs">PDF attachments<em>{n_docs}</em></button><button data-k="opt">Optional<em>{n_opt}</em></button><button data-k="exc">Excluded<em>{n_exc}</em></button></div>
@@ -531,7 +521,7 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <div class="pager"><span id="pg"></span><button class="btn" id="prev">‹ Previous</button><button class="btn" id="next">Next ›</button></div></div>
 </section>
 
-<section id="files"><h2><span class="num">11</span>Deliverables</h2>
+<section id="files"><h2><span class="num">09</span>Deliverables</h2>
 <p class="lead">Saved with this report in the project's migration folder (<code>asahi-kasei-co-jp-news-scope</code>).</p>
 <div class="files">{files_html}</div>
 <h4>Importer notes recorded in the scope summary</h4><ul style="font-size:14px;padding-left:18px;margin:0">{notes_html}</ul>
