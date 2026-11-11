@@ -358,18 +358,6 @@
     "reason": "outside news section; redirects to https://www.asahi-kasei.com/jp/company/strategy/"
   },
   {
-    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/",
-    "status": 301,
-    "location": "https://www.asahi-kasei.co.jp/asahi/jp/sustainability/",
-    "reason": "outside news section; redirects to https://www.asahi-kasei.co.jp/asahi/jp/sustainability/"
-  },
-  {
-    "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/library/report/",
-    "status": 301,
-    "location": "https://www.asahi-kasei.co.jp/asahi/jp/sustainability/basic_information/library/",
-    "reason": "outside news section; redirects to https://www.asahi-kasei.co.jp/asahi/jp/sustainability/basic_information/library/"
-  },
-  {
     "url": "https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/index.html",
     "status": 301,
     "location": "http://www.asahi-kasei.co.jp/asahi/jp/news/2006/csr.html",

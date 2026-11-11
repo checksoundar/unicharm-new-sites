@@ -13,9 +13,13 @@ DOC = re.compile(r'^/asahi/(jp|en)/(news|csr/news)/(20\d\d)/.+\.(pdf|docx?|xlsx?
 
 def year_ok(y): return 2006 <= int(y) <= 2014
 
+OOS = json.load(open(os.path.join(SRC, 'csr-out-of-scope.json')))
+OOS_URLS = {o['url'] for o in OOS}
 pages, docs, related, excluded = [], [], [], []
 for r in A:
     u = r['url']; p = urlparse(u).path; st = r['status']
+    if u in OOS_URLS:
+        continue
     title = r.get('title', '')
     m = IDX.match(p)
     if m and year_ok(m.group(2)):
@@ -71,7 +75,7 @@ summary = dict(
     captured=datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ'), method='crawl',
     crawl=dict(seeds='72 listing URLs (2 locales x 9 years x {index, press, ir, csr})', depth='listing -> article -> article attachments until no new in-scope URL',
                fetched=len(A), sitemap=None, robotsTxt=None, notes='No sitemap.xml/robots.txt on host; directory roots /csr/news/{yyyy}/ return 403 so CSR articles are only discoverable via listing links.'),
-    totals=dict(pagesInScope=len(pages), documentsInScope=len(docs), optionalRelatedPages=len(related), excluded=len(excluded),
+    totals=dict(pagesInScope=len(pages), documentsInScope=len(docs), optionalRelatedPages=len(related), excluded=len(excluded), outOfScopeCSR=len(OOS),
                 jp=dict(index=tot[('jp', 'news-index')], newsArticles=tot[('jp', 'news-article')], csrArticles=tot[('jp', 'csr-news-article')],
                         pdf=sum(1 for d in docs if d['locale'] == 'jp')),
                 en=dict(index=tot[('en', 'news-index')], newsArticles=tot[('en', 'news-article')], csrArticles=tot[('en', 'csr-news-article')],
@@ -79,7 +83,7 @@ summary = dict(
     byYear=by_year,
     templates=[
         dict(name='news-index', urls=sum(1 for p in pages if p['type'] == 'news-index'),
-             note='Same markup 2006-2014: h1.hdg-l1-01, ul.navi-pagelink-01 tabs, table.tbl-news-01 date/title rows, ul.lyt-image-06 prev/next year. Script: import-index.js. EN has no CSR tab. Mostly date+title link tables; candidate for an EDS query-index driven list instead of static migration.'),
+             note='Same markup 2006-2014: h1.hdg-l1-01, ul.navi-pagelink-01 tabs, table.tbl-news-01 date/title rows, ul.lyt-image-06 prev/next year. Script: import-index.js. JP CSR tab is out of scope; EN has no CSR tab. Mostly date+title link tables; candidate for an EDS query-index driven list instead of static migration.'),
         dict(name='article-legacy (FY2006-2010)', urls=sum(1 for p in pages if p['type'] != 'news-index' and p['year'] <= 2010),
              note='Layout-table markup: div.innerSection/.subsection (JP) or div.outsideSection (EN), <font class=hdg> or div.newsTitle as title, no <h1>, date and body inside <table>. Needs its own import script (import-article-legacy.js).'),
         dict(name='article-modern (FY2011-2014)', urls=sum(1 for p in pages if p['type'] != 'news-index' and p['year'] >= 2011),
@@ -88,6 +92,7 @@ summary = dict(
     importerNotes=[
         'jp/news/2013/li130801.html is served as UTF-16 while declaring UTF-8: the importer must sniff the BOM before parsing.',
         'EN FY2006–FY2010 article <title>s are generic ("Fiscal 2006 / Press Releases - Asahi Kasei"): take the page title from the article heading, not <title>.',
+        'CSR is out of scope (259 URLs, see out-of-scope-csr.json). JP “All” listings and some press releases still link to CSR articles: the listing script must drop those rows (or point them to the CSR content on asahi-kasei.com) so no links break.',
         'Year roots also answer at /index.html (duplicate aliases, excluded). /csr/news/{yyyy}/index.html 301 to /news/{yyyy}/csr.html.',
         'Listing tabs link to many old IR PDFs under /asahi/jp/ir/news/pdf/ and /asahi/en/ir/... that now 404 or 301 to asahi-kasei.com: rewrite or drop these links during import (see excluded.json).',
     ],
@@ -106,6 +111,8 @@ w('scope-summary.json', summary)
 w('urls-in-scope.json', dict(pages=pages, documents=docs, optionalRelated=related))
 w('url-groups.json', url_groups)
 w('excluded.json', excluded)
+w('out-of-scope-csr.json', dict(decision='CSR pages are out of scope (client sheet of CSR URLs, 259 rows).', urls=OOS))
+open(os.path.join(DST, 'out-of-scope-csr.txt'), 'w').write('\n'.join(o['url'] for o in OOS) + '\n')
 open(os.path.join(DST, 'import-urls-jp.txt'), 'w').write('\n'.join(p['url'] for p in pages if p['locale'] == 'jp') + '\n')
 open(os.path.join(DST, 'import-urls-en.txt'), 'w').write('\n'.join(p['url'] for p in pages if p['locale'] == 'en') + '\n')
 open(os.path.join(DST, 'documents.txt'), 'w').write('\n'.join(d['url'] for d in docs) + '\n')
@@ -117,6 +124,7 @@ with open(os.path.join(DST, 'migration-scope.csv'), 'w', newline='', encoding='u
     for d in docs: cw.writerow([d['url'], d['locale'], d['year'], 'document-' + d['type'], '', '', 'yes'])
     for r in related: cw.writerow([r['url'], 'jp', '', r['type'], '', r['title'], 'optional'])
     for e in excluded: cw.writerow([e['url'], '', '', 'excluded', '', e['reason'], 'no'])
+    for o in OOS: cw.writerow([o['url'], 'jp', o['fy'], 'out-of-scope: ' + o['kind'], '', o['title'], 'no (CSR out of scope)'])
 print(json.dumps(summary['totals'], indent=1))
 for r in by_year: print(r)
 print('excluded reasons:', collections.Counter(e['reason'].split(' (')[0].split(' to ')[0] for e in excluded))

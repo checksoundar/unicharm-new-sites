@@ -1,12 +1,7 @@
 ﻿url,locale,fiscal_year,type,tab,title,in_scope
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/,jp,2006,news-index,all,2006年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2006/csr.html,jp,2006,news-index,csr,CSRニュース | 2006年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ir.html,jp,2006,news-index,ir,IRニュース | 2006年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/press.html,jp,2006,news-index,press,プレスリリース | 2006年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20060425.html,jp,2006,csr-news-article,,「第15回地球環境大賞」において「大賞」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20060631.html,jp,2006,csr-news-article,,"ペットボトル換算で8,000万本分をポリエステル原料に再生 / CSR ［旭化成の社会的責任］ - 旭化成",yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20070302.html,jp,2006,csr-news-article,,"ペットボトル換算で8,000万本分をポリエステル原料に再生 / CSR ［旭化成の社会的責任］ - 旭化成",yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20070402.html,jp,2006,csr-news-article,,旭化成の森林保護活動 「あさひの森」植樹祭を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ch060403.html,jp,2006,news-article,,中国におけるHDI製造プラント起工式開催について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ch060515.html,jp,2006,news-article,,高機能化粧品原料「ペリセア」の開発・発売について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ch060615.html,jp,2006,news-article,,「オメガプロセス」商業運転開始について / プレスリリース - 旭化成,yes
@@ -67,40 +62,13 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze060718.html,jp,2006,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze060718_2.html,jp,2006,news-article,,“ 旭化成グループ ＣＳＲレポート２００６ ”の発行について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze061031.html,jp,2006,news-article,,旭化成ケミカルズ（株）と旭化成ライフ&amp;リビング（株）の統合について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze061109.html,jp,2006,news-article,,北海道佐呂間町の竜巻被害に対するお見舞について / プレスリリース - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze061121.html,jp,2006,news-article,,「地球温暖化防止活動環境大臣表彰」について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze070131_1.html,jp,2006,news-article,,2007年3月期（第116期）期末配当予想の修正に関するお知らせ / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze070131_2.html,jp,2006,news-article,,自己株式の消却に関するお知らせ（会社法第178条の規定に基づく自己株式の消却） / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze070215.html,jp,2006,news-article,,中国における現地法人の設立について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze070313.html,jp,2006,news-article,,役員等の異動について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/,jp,2007,news-index,all,2007年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2007/csr.html,jp,2007,news-index,csr,CSRニュース | 2007年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ir.html,jp,2007,news-index,ir,IRニュース | 2007年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/press.html,jp,2007,news-index,press,プレスリリース | 2007年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070402.html,jp,2007,csr-news-article,,旭化成の森林保護活動 「あさひの森」植樹祭を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070423.html,jp,2007,csr-news-article,,平成19年度科学技術分野の文部科学大臣表彰の受賞について / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070520.html,jp,2007,csr-news-article,,"「あさひ・いのちの森」植樹祭について ～ 1,900人でつくる約10,000本の植樹祭 ～ / CSR ［旭化成の社会的責任］ - 旭化成",yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070530.html,jp,2007,csr-news-article,,旭化成メタルズが、日化協・ＪＲＣＣ安全努力賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070604.html,jp,2007,csr-news-article,,旭化成メタルズが、優良危険物関係事業所として“ 消防庁長官表彰”を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070619.html,jp,2007,csr-news-article,,２００７年次世代認定マーク「くるみん」を取得しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070709.html,jp,2007,csr-news-article,,旭化成ケミカルズ鈴鹿事業場が、「安全衛生に係る厚生労働大臣表彰」の「奨励賞」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070809.html,jp,2007,csr-news-article,,教員歴10年目の東京都教職員の皆様をインターン生として受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070817.html,jp,2007,csr-news-article,,東京・文京学院大学女子高校で、「サランラップの科学」をテーマに出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070823.html,jp,2007,csr-news-article,,東京・芝中学校の「企業見学・環境学習」を受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070827.html,jp,2007,csr-news-article,,宮崎県延岡市にて、少年柔道教室を開催しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070920.html,jp,2007,csr-news-article,,旭化成ケミカルズが「夏休み子ども化学実験ショー」に出展 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071019.html,jp,2007,csr-news-article,,九州保健福祉大学臨床工学科の「企業見学」を受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071107.html,jp,2007,csr-news-article,,旭化成グループは今年も「エコプロダクツ２００７」に出展します / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071109.html,jp,2007,csr-news-article,,富士市立田子浦中学校の職場体験学習を受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071121.html,jp,2007,csr-news-article,,神奈川県立海老名高校で、「環境学習」を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071124.html,jp,2007,csr-news-article,,青少年のための科学の祭典２００７ 倉敷大会 に参加 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071127.html,jp,2007,csr-news-article,,第7回国際アビリンピックに旭化成アビリティから３名出場 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071215.html,jp,2007,csr-news-article,,「エコプロダクツ2007」に、旭化成グループとして総合出展いたしました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071220.html,jp,2007,csr-news-article,,旭化成メディカル（株）は日本赤十字社に、無医地区の医療確保のための巡回診療車を寄贈しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071231.html,jp,2007,csr-news-article,,宮崎県の400名の中学生が、当社の理科実験教室に参加 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080131.html,jp,2007,csr-news-article,,旭化成アビリティ所属の国際アビリンピック出場選手が福井県にてワード・プロセッサ技術を指導 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080208.html,jp,2007,csr-news-article,,東京都千代田区立九段中等教育学校の「総合学習」を受け入れ / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080317.html,jp,2007,csr-news-article,,第19回ゴールデンゲームズin のべおか大会要項 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080321.html,jp,2007,csr-news-article,,多摩工業高等学校で、環境講話の出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ch070515.html,jp,2007,news-article,,業務用ハンドクリーナー「ラッキーボーイ エコサーフ」新発売について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ch070525.html,jp,2007,news-article,,産業火薬事業の統合について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ch070604.html,jp,2007,news-article,,新規機能性モノマー、ビニルスルホン酸「ＶＳＡ－Ｈ」の工業化・発売について / プレスリリース - 旭化成,yes
@@ -159,7 +127,6 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze070522.html,jp,2007,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze070712.html,jp,2007,news-article,,中日国交３５周年記念「環境技術友好交流会」の開催について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze070717.html,jp,2007,news-article,,「知的財産報告書 2007年3月期」発刊について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze070720.html,jp,2007,news-article,,中日国交35周年記念「環境技術友好交流会」開催のご報告 / プレスリリース - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze070802.html,jp,2007,news-article,,「旭化成グループ ＣＳＲレポート2007」の発行について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze071219.html,jp,2007,news-article,,「旭化成新総合研究棟」の建設について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze080220.html,jp,2007,news-article,,米国Luminit社との光学電子材料分野での包括的技術提携締結について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze080311.html,jp,2007,news-article,,グループ経営体制の一部再編について / プレスリリース - 旭化成,yes
@@ -167,35 +134,8 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze080313.html,jp,2007,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze080317.html,jp,2007,news-article,,健康サービス事業の新会社設立について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze080326.html,jp,2007,news-article,,（お知らせ）東京本社事務所の移転について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/,jp,2008,news-index,all,2008年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2008/csr.html,jp,2008,news-index,csr,CSRニュース | 2008年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ir.html,jp,2008,news-index,ir,IRニュース | 2008年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/press.html,jp,2008,news-index,press,プレスリリース | 2008年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080429.html,jp,2008,csr-news-article,,二酸化炭素を原料とするポリカーボネート製法で、福岡伸典が紫綬褒章を受章 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080520.html,jp,2008,csr-news-article,,旭化成ネットワークスが、ASP・SaaS・ICTアウトソーシングアワード（IDC部門）で準グランプリを受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080613.html,jp,2008,csr-news-article,,旭化成アビリティの篠原加代子が「夢を目標にかえて」と題して講演 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080704.html,jp,2008,csr-news-article,,（株）旭化成アビリティが連島東小学校で出前授業を開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080725.html,jp,2008,csr-news-article,,京都議定書の基準年度（1990年度）の温室効果ガス排出量に対して53％削減 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080730.html,jp,2008,csr-news-article,,宮崎県延岡市にて、少年柔道教室を開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080818.html,jp,2008,csr-news-article,,国際アビリンピック出場選手が福井県でパソコン指導 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080820.html,jp,2008,csr-news-article,,体験学習と職場見学の会「オープン・オフィス・デイ」を開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080823.html,jp,2008,csr-news-article,,宮崎県にて小学生を対象とした“早起き工場見学と朝食会を”開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080824.html,jp,2008,csr-news-article,,旭化成ケミカルズが「夢・化学－21／夏休み子ども化学実験ショー」に出展 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080917.html,jp,2008,csr-news-article,,全国発明表彰にて“直メタ法MMA後段反応触媒の発明”が“発明賞”を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080928.html,jp,2008,csr-news-article,,旭化成陸上競技部が“小学生 陸上教室”を開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081024.html,jp,2008,csr-news-article,,日本プラントメンテナンス協会主催「2008ＴＰＭ賞」の受賞について / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081027.html,jp,2008,csr-news-article,,旭化成アビリティ社員がアビリンピック全国大会で金賞受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081028.html,jp,2008,csr-news-article,,大東文化大学でのＡＣＡＰコラボレーション講座に参画しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081121.html,jp,2008,csr-news-article,,ワーク・ライフ・バランス推進会議主催「ワークライフ・バランス大賞・優秀賞」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081127.html,jp,2008,csr-news-article,,旭化成陸上競技部が旭小学校で “陸上教室”を開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081205.html,jp,2008,csr-news-article,,旭化成アビリティ所属の車いすバスケット競技岡山県代表２名が倉敷市立中学校にて講演 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081213.html,jp,2008,csr-news-article,,「エコプロダクツ2008」に、旭化成グループとして総合出展 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090108.html,jp,2008,csr-news-article,,東西石油化学が大韓民国知識経済部長官賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090222.html,jp,2008,csr-news-article,,「科学の祭典」岡山大会にて、プラスチック処理促進協会と協働で、実験ブースを出展 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090310.html,jp,2008,csr-news-article,,���������׉��H�i��ʁj�����S���Y�W������Ɓi�񋉁j�ɔF�肳��� / CSR �m�������̎Љ�I�ӔC�n - ������,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090315.html,jp,2008,csr-news-article,,�X�ѕی슈���u�����Ђ̐X�v�̑�3��A���Ղ��J�� / CSR �m�������̎Љ�I�ӔC�n - ������,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090317.html,jp,2008,csr-news-article,,��R�x�ЂŁA�����َ�R���w�Z�̌��w���󂯓���A�u���C�t�X�|�b�g�v���Љ� / CSR �m�������̎Љ�I�ӔC�n - ������,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090325.html,jp,2008,csr-news-article,,���{�Ȋw�����فu�F�̉�v����̊F���񂪏Z����Z�p�����������w / CSR �m�������̎Љ�I�ӔC�n - ������,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090330.html,jp,2008,csr-news-article,,���{���w��w�Z�p�܂��u���ڃG�X�e�����@�ɂ�郁�^�N�����_���`���G�X�e��(MMA)�����p�G�}�Z�p�A�y�уv���Z�X�J���v����� / CSR �m�������̎Љ�I�ӔC�n - ������,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ch080415.html,jp,2008,news-article,,「廃水リサイクルサービス事業」の本格展開について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ch080618.html,jp,2008,news-article,,木質バイオマス発電への取り組みについて / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ch080703.html,jp,2008,news-article,,機能性モノマー、ビニルスルホン酸「ＶＳＡ－Ｓ」の工業化・発売について / プレスリリース - 旭化成,yes
@@ -257,36 +197,13 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze080715.html,jp,2008,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze080725.html,jp,2008,news-article,,会社分割によるグループ事業再編に関するお知らせ / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze080728.html,jp,2008,news-article,,「旭化成グループ ＣＳＲレポート2008」の発行について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze080916.html,jp,2008,news-article,,「知的財産報告書 2008年3月期」発刊について / プレスリリース - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze081113.html,jp,2008,news-article,,日本ＩＲ協議会主催“2008年度ＩＲ優良企業賞”を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze090105.html,jp,2008,news-article,,日本政策投資銀行の環境格付融資制度で最高ランクの格付と特別表彰を取得しての融資について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze090122.html,jp,2008,news-article,,「レオナ」繊維事業の移管について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze090217.html,jp,2008,news-article,,2009年「旭化成グループキャンペーンモデル」決定について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze090331.html,jp,2008,news-article,,商品科学研究所跡地の土壌調査結果と今後の対応について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/,jp,2009,news-index,all,2009年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2009/csr.html,jp,2009,news-index,csr,CSRニュース | 2009年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ir.html,jp,2009,news-index,ir,IRニュース | 2009年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/press.html,jp,2009,news-index,press,プレスリリース | 2009年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090515.html,jp,2009,csr-news-article,,旭化成延岡支社の食育推進活動の取り組みが「食と農の絆づくりコンクール」で最優秀賞を受賞！ / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090520.html,jp,2009,csr-news-article,,全国発明表彰にて「ノンフロン型高性能フェノールフォームの発明」が発明賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090527.html,jp,2009,csr-news-article,,旭化成延岡地区が第3回レスポンシブル・ケア（RC）賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090715.html,jp,2009,csr-news-article,,立命館守山中学で、出前授業を行いました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090802.html,jp,2009,csr-news-article,,『夢・化学－21／夏休みこども化学実験ショー』に出展 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090807.html,jp,2009,csr-news-article,,旭化成グループの国際アビリンピック出場選手が、福井県で、ワープロの技術指導を行いました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090807_2.html,jp,2009,csr-news-article,,「教員の民間企業研修」に協力しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090909.html,jp,2009,csr-news-article,,小学校で、理科の特別授業を実施～ろ過膜『マイクローザ』のしくみを楽しく学ぶ～ / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090927.html,jp,2009,csr-news-article,,守山支社で、守山市・近隣自治会とともに、災害時の応急給水訓練を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20091031.html,jp,2009,csr-news-article,,アビリンピック全国大会出場企業で最多の7人の選手が出場 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20091226.html,jp,2009,csr-news-article,,滋賀県守山市立 守山南中学で、出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20091231.html,jp,2009,csr-news-article,,宮崎県の障がい支援学校に、シューズやウェアなどを寄付 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100109.html,jp,2009,csr-news-article,,「びわ湖ヨシ刈りボランティア」に参加 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100113.html,jp,2009,csr-news-article,,「エコプロダクツ2009」に、旭化成グループとして出展いたしました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100129_1.html,jp,2009,csr-news-article,,千代田区立九段中等教育学校の総合学習に協力 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100129_2.html,jp,2009,csr-news-article,,滋賀県守山市立吉身小学校で、特別授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100202.html,jp,2009,csr-news-article,,岡山県倉敷市立本荘小学校で、環境学習を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100221.html,jp,2009,csr-news-article,,「子育ての悩み解決セミナー」を共催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100222.html,jp,2009,csr-news-article,,高校生「国際みずフォーラムin湖国・滋賀」に協賛、膜ろ過技術の展示や、工場見学を行いました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100310.html,jp,2009,csr-news-article,,立命館守山中学校の皆さんが、守山支社を見学 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100325.html,jp,2009,csr-news-article,,クライストチャーチ市（ニュージーランド）の障がい者親善大使と交流しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ch090401.html,jp,2009,news-article,,木質バイオマス発電設備の新設計画について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ch090422.html,jp,2009,news-article,,鈴鹿市との災害時飲料水等供給の協定締結について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ch090528.html,jp,2009,news-article,,導電性を飛躍的に向上させるビニルスルホン酸ポリマーの開発～従来の導電性高分子化合物に比べ、約100倍の導電率を達成～ / プレスリリース - 旭化成,yes
@@ -347,40 +264,8 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ze091204.html,jp,2009,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ze100114.html,jp,2009,news-article,,2010年「旭化成グループキャンペーンモデル」決定について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2009/ze100121.html,jp,2009,news-article,,代表取締役の異動について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/,jp,2010,news-index,all,2010年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2010/csr.html,jp,2010,news-index,csr,CSRニュース | 2010年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ir.html,jp,2010,news-index,ir,IRニュース | 2010年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/press.html,jp,2010,news-index,press,プレスリリース | 2010年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100401.html,jp,2010,csr-news-article,,富士常葉大学で、提供講座を開講 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100522.html,jp,2010,csr-news-article,,「あさひ・いのちの森」が、（財）都市緑化基金の『企業のみどり100選』に選定されました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100605.html,jp,2010,csr-news-article,,旭化成（株）富士支社で、「ホタルまつり」開催 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100607.html,jp,2010,csr-news-article,,旭化成マイクロシステム（株）延岡事業所が、環境省「地域環境美化功績者 環境大臣表彰」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100627.html,jp,2010,csr-news-article,,旭化成ファインケム（株）が、白川英樹博士が講師を務める実験教室に、素材提供で協力しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100701.html,jp,2010,csr-news-article,,旭化成グループの3部場が、厚生労働大臣表彰を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100715.html,jp,2010,csr-news-article,,旭化成（株）富士支社が、財団法人ヒートポンプ・蓄熱センターから、感謝状を受けました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100726.html,jp,2010,csr-news-article,,守山市立守山南中学校の科学部に出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100810.html,jp,2010,csr-news-article,,日本経団連・経済広報センター主催の「教員の民間企業研修」に協力しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100819.html,jp,2010,csr-news-article,,食の大切さや、人とのつながりを考える“ひろがれ！弁当の日”イベントに協力しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100827.html,jp,2010,csr-news-article,,東京・大阪で、従業員の子弟・子女が職場見学などを行う「オープン・オフィス・ディ」を開催しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100905.html,jp,2010,csr-news-article,,守山市の地震災害総合訓練に参加し、飲料水供給設備「ライフスポット」による給水訓練を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100910.html,jp,2010,csr-news-article,,「水島コンビナート環境体験ツアー」に協力 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101016.html,jp,2010,csr-news-article,,アビリンピック全国大会に出場 5大会連続で、入賞しました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101017.html,jp,2010,csr-news-article,,周辺地域の行事に協力、災害時の飲料水供給システムのしくみを紹介 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101022.html,jp,2010,csr-news-article,,「びわ湖環境ビジネスメッセ」に出展 テーマは、『水処理ソリューション』 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101029.html,jp,2010,csr-news-article,,富士支社で、職場体験学習を受け入れ / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101114.html,jp,2010,csr-news-article,,『青少年のための科学の祭典』倉敷大会に出展 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101117.html,jp,2010,csr-news-article,,朝日新聞「地球教室」に協賛、イベント協力や出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101117_2.html,jp,2010,csr-news-article,,広島県呉市立呉西小学校で、出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101118.html,jp,2010,csr-news-article,,消費生活アドバイザー・コンサルタント協会の「エコプロダクツ2010」事前授業に協力し、神田女学園高校で、環境をテーマにした出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101123.html,jp,2010,csr-news-article,,災害時の応急給水訓練を、継続的に実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101209.html,jp,2010,csr-news-article,,「企業のみどり100選」の認定式が、「エコプロダクツ2010」の会場で行われました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101210.html,jp,2010,csr-news-article,,旭化成イーマテリアルズの「ハイポア」が、『eco japan cup 2010 ビジネス部門 環境ビジネスアワード』を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101211.html,jp,2010,csr-news-article,,「エコプロダクツ2010」に、旭化成グループとして出展いたしました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101224.html,jp,2010,csr-news-article,,「第54回 日本学生科学賞」中央表彰式が行われました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110117.html,jp,2010,csr-news-article,,京都・龍谷大学で、地元の小学生の皆さんに、『災害時の水の重要性』についての特別授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110119.html,jp,2010,csr-news-article,,東京本社 社員食堂で、社会福祉法人のベーカリーによるパン販売をはじめました / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110120.html,jp,2010,csr-news-article,,沼津高専で、出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110121.html,jp,2010,csr-news-article,,千代田区立九段中等教育学校の総合学習に協力 / CSR ［旭化成の社会的責任］ - 旭化成,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110325.html,jp,2010,csr-news-article,,膜ろ過をテーマに、中学校の科学部で出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ch100402.html,jp,2010,news-article,,水島地区におけるコンビナート高度統合生産連携事業の実施について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ch100609.html,jp,2010,news-article,,旭化成水環保基金 「水環保シリーズ表彰活動2010表彰式」実施について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ch100629.html,jp,2010,news-article,,アジアの大型膜式浄水設備に中空糸ろ過膜「マイクローザ」採用拡大 / プレスリリース - 旭化成,yes
@@ -444,39 +329,8 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ze110314_1.html,jp,2010,news-ar
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ze110314_2.html,jp,2010,news-article,,東日本大震災の被災地・被災者の方々への支援について / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2010/ze110323.html,jp,2010,news-article,,東日本大震災による当社グループへの影響について（第2報） / プレスリリース - 旭化成,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/,jp,2011,news-index,all,2011年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2011/csr.html,jp,2011,news-index,csr,CSRニュース | 2011年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ir.html,jp,2011,news-index,ir,IRニュース | 2011年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/press.html,jp,2011,news-index,press,プレスリリース | 2011年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110527.html,jp,2011,csr-news-article,,旭化成グループの社会貢献活動をご紹介した『旭化成グループの社会貢献活動 ～社会との共生を目指して～』を発行いたしました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110603.html,jp,2011,csr-news-article,,第7回『JPCAアワード』を受賞 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110604.html,jp,2011,csr-news-article,,富士支社で、第4回「ホタルまつり」を開催 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110614.html,jp,2011,csr-news-article,,「ファームルーム」活動に特別協賛し、 東京都千代田区の小学校で、農園開きセレモニーに参加しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110706.html,jp,2011,csr-news-article,,&ldquo;節電の夏&rdquo;、暮らし方を見直して快適で健康に過ごすために、小冊子『しぜんごこちのくらし』を発行しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110708.html,jp,2011,csr-news-article,,かわさき市民アカデミーの講座で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110714.html,jp,2011,csr-news-article,,伊豆中央高校で、当社社員が「進路出前講義」の講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110805.html,jp,2011,csr-news-article,,愛知県豊明市の小学校の家庭科研究部会教諭を対象に、研修会を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110805_2.html,jp,2011,csr-news-article,,旭化成ケミカルズ（株）水島製造所が、献血活動で、厚生労働大臣表彰を受けました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110930.html,jp,2011,csr-news-article,,国際アビリンピックに出場、特別賞を受賞しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111003.html,jp,2011,csr-news-article,,相模原高校で、当社社員が「社会人講話」の講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111018.html,jp,2011,csr-news-article,,宮崎大学「ライフデザイン・キャリア入門」講演会で、当社社員が講話を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111026.html,jp,2011,csr-news-article,,愛知県豊明市の2つの小学校で、出前授業を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111028.html,jp,2011,csr-news-article,,富士支社で、職場体験学習を受け入れ | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111111.html,jp,2011,csr-news-article,,京都教育大学附属桃山中学校で、出前授業を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111119.html,jp,2011,csr-news-article,,朝日新聞「地球教室」に協賛、イベント協力や出前授業を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111120.html,jp,2011,csr-news-article,,『青少年のための科学の祭典』倉敷大会に出展 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111127.html,jp,2011,csr-news-article,,『子ども化学実験ショー2011』に出展 ～“ポリスチレンカップでキーホルダーづくり”を体験していただきました～ | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111204.html,jp,2011,csr-news-article,,宮崎県延岡市で、地域住民の方々への応急給水訓練を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111209.html,jp,2011,csr-news-article,,神奈川科学技術アカデミー「新産業分野人材養成講座」で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111216.html,jp,2011,csr-news-article,,「第8回 LCA日本フォーラム表彰」において、「奨励賞」を受賞しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111217.html,jp,2011,csr-news-article,,「エコプロダクツ2011」に、旭化成グループとして出展しました～“住まいの省エネ、くらしのエコ”をテーマに、技術力をアピール～ | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111224.html,jp,2011,csr-news-article,,「第55回 日本学生科学賞」中央表彰式が行われました～旭化成は、「日本学生科学賞」に単独協賛しています～ | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120125.html,jp,2011,csr-news-article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120126.html,jp,2011,csr-news-article,,沼津高専で、出前授業を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120215.html,jp,2011,csr-news-article,,東日本大震災の被災地・福島県いわき市で、出前授業を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120216.html,jp,2011,csr-news-article,,「EcoゾウさんClub」が、日本化学工業協会『民生部門での省エネ活動』において努力賞を受賞しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120313.html,jp,2011,csr-news-article,,野口研究所『野口遵研究助成金』に協賛しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120326.html,jp,2011,csr-news-article,,第1回『科学の甲子園』に協賛、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120329.html,jp,2011,csr-news-article,,守山支社正門前に、琵琶湖のヨシ（葦）を用いた「あずまや（タクシー待合所）」を設置しました | CSRニュース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ch110415.html,jp,2011,news-article,,高難燃性と高耐熱性を兼ね備えた変性PPE発泡ビーズの開発について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ch110427.html,jp,2011,news-article,,サウジアラビアにおけるアクリロニトリル事業化検討のための合弁会社設立について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ch110623.html,jp,2011,news-article,,シンガポールでの溶液重合法スチレンブタジエンゴムプラント起工式開催について | プレスリリース | 旭化成株式会社,yes
@@ -549,43 +403,8 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ze120312.html,jp,2011,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ze120326.html,jp,2011,news-article,,米国ZOLL Medical Corporationの株式公開買付け開始について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2011/ze120327.html,jp,2011,news-article,,本日の一部報道について | お知らせ | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/,jp,2012,news-index,all,2012年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2012/csr.html,jp,2012,news-index,csr,CSRニュース | 2012年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ir.html,jp,2012,news-index,ir,IRニュース | 2012年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/press.html,jp,2012,news-index,press,プレスリリース | 2012年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120410.html,jp,2012,csr-news-article,,中国・内モンゴルの砂漠に、8300本の植林を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120411.html,jp,2012,csr-news-article,,富士常葉大学で、今年度の提供講座を開講しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120506.html,jp,2012,csr-news-article,,『宮崎国際音楽祭』の開催に協賛、メイン&amp;スペシャルプログラムを提供 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120513.html,jp,2012,csr-news-article,,宮崎県高千穂町の「あさひの森・高千穂」で、植林を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120523.html,jp,2012,csr-news-article,,「電子コンパス」についての中学生の総合学習に、対応しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120602.html,jp,2012,csr-news-article,,旭化成（株）富士支社で、「ホタルまつり」を開催、約4000人の市民の皆様をお迎えしました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120622.html,jp,2012,csr-news-article,,川崎市地球温暖化防止活動推進センターの、「市民と事業者の環境への取り組み」意見交換会に参加しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120630.html,jp,2012,csr-news-article,,日本化学会九州支部「第23回 産学交流フォーラム」で、製品を紹介しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120702.html,jp,2012,csr-news-article,,宮崎県延岡市の「旭化成延岡展示センター」をリニューアルオープンしました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120711.html,jp,2012,csr-news-article,,岩手県立宮古高校での「社会人講話」に協力し、社員が講話を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120717.html,jp,2012,csr-news-article,,鴎友学園女子中学校の職業学習に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120723.html,jp,2012,csr-news-article,,倉敷南高校の職業学習に協力し、研究施設の見学を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120805.html,jp,2012,csr-news-article,,『子ども化学実験ショー2012』に出展しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120810.html,jp,2012,csr-news-article,,「教員の民間企業研修」に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120823.html,jp,2012,csr-news-article,,「未来のエコハウスをつくろう！」と題して、ワークショップを行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120914.html,jp,2012,csr-news-article,,カナダ・モントリオール大学の工場見学を受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120922.html,jp,2012,csr-news-article,,朝日新聞「かんきょう1日学校」で、くらしの中の省エネ活動について話をしました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120924.html,jp,2012,csr-news-article,,相模原高校の「社会人講話」で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121026.html,jp,2012,csr-news-article,,「びわ湖環境ビジネスメッセ2012」に出展『水環境ソリューション』をテーマに製品展示しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121028.html,jp,2012,csr-news-article,,水島製造所の体育館にて、当社主催の「ジュニアバレーボール大会」を開催しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121102.html,jp,2012,csr-news-article,,富士支社で、富士市立田子浦中学校の職場体験学習を受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121117.html,jp,2012,csr-news-article,,日本科学未来館の「サイエンティスト・トーク」に、当社社員が登場しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121118.html,jp,2012,csr-news-article,,『青少年のための科学の祭典』倉敷大会に出展 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121202.html,jp,2012,csr-news-article,,中国人大学生の日本視察団に協力し、当社社員がホームステイを受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121215.html,jp,2012,csr-news-article,,「エコプロダクツ2012」にグループとして出展しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121224.html,jp,2012,csr-news-article,,「第56回 日本学生科学賞」中央表彰式が行われました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121225.html,jp,2012,csr-news-article,,「いわき生徒会長サミット」リーダー講習会で、当社最高顧問の蛭田史郎が講話を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130118.html,jp,2012,csr-news-article,,朝日新聞「地球教室」に協賛し、東京・埼玉で出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130130.html,jp,2012,csr-news-article,,板橋有徳高校の「職業講話」で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130130_2.html,jp,2012,csr-news-article,,福島県いわき市の中学校・小学校で、出前授業を実施 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130201.html,jp,2012,csr-news-article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130314.html,jp,2012,csr-news-article,,富士支社内の「あさひ・いのちの森」で、ホタルの幼虫を放流 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130319.html,jp,2012,csr-news-article,,化学工学会「女性賞」を、当社社員が受賞 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130325.html,jp,2012,csr-news-article,,『科学の甲子園』に協賛し、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ch120525.html,jp,2012,news-article,,「サランラップ」新工場の竣工について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ch120703.html,jp,2012,news-article,,韓国大型下水MBR処理施設での「マイクローザ」稼動開始について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ch121003.html,jp,2012,news-article,,「グリーン・イノベーションEXPO2012」出展のご案内 | お知らせ | 旭化成株式会社,yes
@@ -660,41 +479,8 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ze130225.html,jp,2012,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ze130313.html,jp,2012,news-article,,「2013年旭化成グループキャンペーンモデル」決定について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2012/ze130328.html,jp,2012,news-article,,リチウムイオンキャパシタ事業合弁会社の増資および持株比率の変更について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/,jp,2013,news-index,all,2013年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2013/csr.html,jp,2013,news-index,csr,CSRニュース | 2013年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/ir.html,jp,2013,news-index,ir,IRニュース | 2013年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/press.html,jp,2013,news-index,press,プレスリリース | 2013年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130418.html,jp,2013,csr-news-article,,昨年に続き、中国・内モンゴル ホルチン砂漠での植樹活動に参加 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130526.html,jp,2013,csr-news-article,,宮崎県高千穂町の「あさひの森・高千穂」で、植林を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130531.html,jp,2013,csr-news-article,,大阪で開催中の『THE 世界一展』に、3つの製品・技術を出展しています | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130601.html,jp,2013,csr-news-article,,旭化成（株）富士支社で、「ホタルまつり」を開催、約3000人の市民の皆様をお迎えしました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130705.html,jp,2013,csr-news-article,,岡山県倉敷市の倉敷南小学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130709.html,jp,2013,csr-news-article,,日本女子大学、鴎友学園女子中学校の職業学習に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130726.html,jp,2013,csr-news-article,,「教員の民間企業研修」に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130804.html,jp,2013,csr-news-article,,『子ども化学実験ショー2013』に出展しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130901.html,jp,2013,csr-news-article,,『サザンオールスターズ茅ヶ崎公演・パブリックビューイング』において、プラスチック製飲料用カップのリサイクル活用（発電）に取り組みました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130926.html,jp,2013,csr-news-article,,川崎製造所にて、カナダの高校生の工場見学を受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130929.html,jp,2013,csr-news-article,,朝日新聞「かんきょう1日学校」で、くらしの中の省エネ活動について話をしました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131026.html,jp,2013,csr-news-article,,「びわ湖環境ビジネスメッセ2013」に出展、『水の保全』をテーマに、製品を展示しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131101.html,jp,2013,csr-news-article,,富士支社で、富士市立田子浦中学校の職場体験学習を受け入れ | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131108.html,jp,2013,csr-news-article,,朝日新聞「地球教室」に協賛し、東京・千葉で、出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131115.html,jp,2013,csr-news-article,,川崎製造所にて、前橋女子高等学校の企業訪問を受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131117.html,jp,2013,csr-news-article,,『青少年のための科学の祭典』倉敷大会に、今年も出展 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131121.html,jp,2013,csr-news-article,,大阪教育大学附属高校 池田校舎・平野校舎で、当社社員が、キャリア教育の講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131207.html,jp,2013,csr-news-article,,日本科学未来館で開催中の『THE 世界一展 ～極める日本！モノづくり～』に、3つの製品・技術を出展しています | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131211.html,jp,2013,csr-news-article,,旭化成グループは、今年も「エコプロダクツ2013」に出展します | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131215.html,jp,2013,csr-news-article,,「エコプロダクツ2013」で、グループの環境対応製品・技術を紹介しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131217.html,jp,2013,csr-news-article,,宮崎県延岡市の自社敷地内に、「津波避難タワー」を建設しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131224.html,jp,2013,csr-news-article,,「第57回 日本学生科学賞」中央表彰式が行われました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140109.html,jp,2013,csr-news-article,,静岡県伊豆の国市の当社大仁地区敷地において、静岡県警のヘリコプター離着陸訓練が行われました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140125.html,jp,2013,csr-news-article,,水島製造所の体育館にて、当社主催の「ジュニアバレーボール大会」を開催しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140129.html,jp,2013,csr-news-article,,板橋有徳高校の「職業講話」で当社社員が講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140214.html,jp,2013,csr-news-article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140221.html,jp,2013,csr-news-article,,福島県いわき市の小・中学校での出前授業が3年目を迎えました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140223.html,jp,2013,csr-news-article,,当社陸上部が、宮崎県延岡市で「小学生 陸上教室」を開催しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140226.html,jp,2013,csr-news-article,,宮崎県の当社延岡・日向地区の「津波避難タワー」の建設が完了しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140307.html,jp,2013,csr-news-article,,日本学生科学賞・静岡県知事賞の受賞者の皆さんが、富士支社を訪問、見学しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140324.html,jp,2013,csr-news-article,,第3回『科学の甲子園』に協賛、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140327.html,jp,2013,csr-news-article,,日本学生科学賞・旭化成賞受賞者の皆さんが、守山支社を訪問・見学しました | CSRニュース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/ch130411.html,jp,2013,news-article,,中国での「デュラネート」増設について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/ch130412.html,jp,2013,news-article,,「Pirelli Supplier Award 2013」受賞について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/ch130424.html,jp,2013,news-article,,タイでのPMMA製造技術のライセンスについて | プレスリリース | 旭化成株式会社,yes
@@ -777,50 +563,8 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2013/zo130724.html,jp,2013,news-arti
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/zo131209.html,jp,2013,news-article,,救急隊・医療機関向け除細動器「X Series」の製造販売承認の取得について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2013/zo131212.html,jp,2013,news-article,,ゾール基金の設立について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2014/,jp,2014,news-index,all,2014年度 | ニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/news/2014/csr.html,jp,2014,news-index,csr,CSRニュース | 2014年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2014/ir.html,jp,2014,news-index,ir,IRニュース | 2014年度 | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2014/press.html,jp,2014,news-index,press,プレスリリース | 2014年度 | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140413.html,jp,2014,csr-news-article,,中国・内モンゴルの砂漠での植林活動に参加、5500本を植樹しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140427.html,jp,2014,csr-news-article,,宮崎県高千穂町の「あさひの森・高千穂」で、2500本の植林を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140526.html,jp,2014,csr-news-article,,大阪府立泉陽高等学校で、当社社員が、「進路分野別セミナー」の講師を務めました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140601.html,jp,2014,csr-news-article,,『あさひ・いのちの森』で恒例の「ホタルまつり」を開催、約4000人の市民の皆様にお楽しみいただきました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140618.html,jp,2014,csr-news-article,,東京工業大学の学生の皆さんに向けて、当社社員による講義と、工場見学会を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140620.html,jp,2014,csr-news-article,,明治学院大学で、当社社員が、「CSRの推進」について講義しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140628.html,jp,2014,csr-news-article,,川崎市で開催された、市民と事業者による環境イベントで、環境への取り組みなどを紹介しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140701.html,jp,2014,csr-news-article,,岩手県立宮古高等学校の「社会人講話」に協力し、当社社員が講話を担当しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140702.html,jp,2014,csr-news-article,,日本科学未来館で開催中の『トイレ？ 行っトイレ！』展に、当社が開発した技術システムが紹介されています | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140711.html,jp,2014,csr-news-article,,岡山県倉敷市の倉敷南小学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140712.html,jp,2014,csr-news-article,,千葉工場社宅跡地の再開発で保育施設を設置、地域の待機児解消施策に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140729.html,jp,2014,csr-news-article,,「教員の民間企業研修」に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140730.html,jp,2014,csr-news-article,,川崎製造所にて、東京都の中学校の理科の先生方の工場見学を受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140803.html,jp,2014,csr-news-article,,『夏休み子ども化学実験ショー2014』に出展しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140830.html,jp,2014,csr-news-article,,中国人留学生のインターンシップを受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140905.html,jp,2014,csr-news-article,,「ふくしまマルシェ（福島県物産展）」を開催しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140921.html,jp,2014,csr-news-article,,朝日新聞「かんきょう1日学校」で、&ldquo;家族でいっしょに！&rdquo;楽しくエコ生活をするコツをご紹介しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140930.html,jp,2014,csr-news-article,,「シェアリングラボ」のサイトを開設しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141016.html,jp,2014,csr-news-article,,静岡県伊豆の国市の大仁中学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141019.html,jp,2014,csr-news-article,,『化学の日 子ども化学実験ショー2014＜大阪＞』に出展しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141024.html,jp,2014,csr-news-article,,「びわ湖環境ビジネスメッセ2014」に出展、『水の保全』をテーマに、製品を展示しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141123.html,jp,2014,csr-news-article,,第35回アビリンピック（全国障害者技能競技大会）に、12名の選手を派遣しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141125.html,jp,2014,csr-news-article,,朝日新聞「地球教室」に協賛し、東京・神奈川で、出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141207.html,jp,2014,csr-news-article,,『かわさき環境フォーラム』で、子ども向けの体験教室を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141208.html,jp,2014,csr-news-article,,旭化成グループは、「エコプロダクツ2014」に出展します | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141213_1.html,jp,2014,csr-news-article,,東西石油化学が、蔚山（ウルサン）で「キムチ祭り」を開催しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141213_2.html,jp,2014,csr-news-article,,「エコプロダクツ2014」で、グループの環境対応製品・技術を紹介しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141224.html,jp,2014,csr-news-article,,当社が協賛する「第58回 日本学生科学賞」の中央表彰式が行われました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150114_1.html,jp,2014,csr-news-article,,杭州日本人学校の職業体験学習に協力しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150114_2.html,jp,2014,csr-news-article,,救急時の心肺蘇生法実習のモデル授業に協力し、副読本とAEDを提供しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150116.html,jp,2014,csr-news-article,,今年も、福島県いわき市の小・中学校で出前授業を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150126.html,jp,2014,csr-news-article,,川崎製造所にて、化学工学会主催の高校生工場見学を受け入れました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150201.html,jp,2014,csr-news-article,,第3回「旭化成ジュニアバレーボール大会」を開催しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150210.html,jp,2014,csr-news-article,,神奈川県が実施する「かながわ環境教室」に協力し、相模原市の小学校で出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150213.html,jp,2014,csr-news-article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150223.html,jp,2014,csr-news-article,,静岡県伊豆の国市の大仁中学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150306.html,jp,2014,csr-news-article,,群馬県立中央中等教育学校の総合学習を受け入れ、救急医療と機器についての授業を行いました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150323.html,jp,2014,csr-news-article,,第4回『科学の甲子園』に協賛、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150324.html,jp,2014,csr-news-article,,日本学生科学賞・環境大臣賞の受賞者の皆さんが、富士支社を訪問、見学しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150326.html,jp,2014,csr-news-article,,日本学生科学賞「旭化成賞」受賞者の皆さんが、延岡地区を訪問・見学しました | CSRニュース | 旭化成株式会社,yes
-https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150327.html,jp,2014,csr-news-article,,被災地支援活動の一環として、東北3県の物産展「マルシェ」を開催しました | CSRニュース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2014/ch140520.html,jp,2014,news-article,,米国での樹脂コンパウンド第二工場の建設決定について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2014/ch140523.html,jp,2014,news-article,,中国・甘粛省での「旭化成水環保基金光彩生態林活動」の進捗状況について | プレスリリース | 旭化成株式会社,yes
 https://www.asahi-kasei.co.jp/asahi/jp/news/2014/ch140619.html,jp,2014,news-article,,光学用新規透明樹脂「AZP」の事業化について | プレスリリース | 旭化成株式会社,yes
@@ -1363,7 +1107,6 @@ https://www.asahi-kasei.co.jp/asahi/jp/sports/judo/result/2008/080810.html,jp,,s
 https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2008/080531.html,jp,,sports-result,,ゴールデンゲームズinのべおか/ 陸上部（スポーツ活動） - 旭化成,optional
 https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2010/100101.html,jp,,sports-result,,第54回全日本実業団駅伝（ニューイヤー駅伝2010） / 陸上部（スポーツ活動） - 旭化成,optional
 https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2009/091213_2.html,jp,,sports-result,,東アジア競技大会 / 陸上部（スポーツ活動） - 旭化成,optional
-https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2009/091213.html,jp,,sports-result,,第7回陸上教室 / 陸上部（スポーツ活動） - 旭化成,optional
 https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2009/090822.html,jp,,sports-result,,世界選手権男子マラソン / 陸上部（スポーツ活動） - 旭化成,optional
 https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2009/090821.html,jp,,sports-result,,世界陸上男子マラソン記者会見 / 陸上部（スポーツ活動） - 旭化成,optional
 https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2009/090815.html,jp,,sports-result,,ベルリン報告 / 陸上部（スポーツ活動） - 旭化成,optional
@@ -1433,8 +1176,6 @@ https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/090604jpn.pdf,,
 https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/100604jpn.pdf,,,excluded,,outside news section; broken link (404),no
 https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/initiative/pdf/110517_plan.pdf,,,excluded,,outside news section; broken link (404),no
 https://www.asahi-kasei.co.jp/asahi/jp/aboutasahi/strategy/,,,excluded,,outside news section; redirects to https://www.asahi-kasei.com/jp/company/strategy/,no
-https://www.asahi-kasei.co.jp/asahi/jp/csr/,,,excluded,,outside news section; redirects to https://www.asahi-kasei.co.jp/asahi/jp/sustainability/,no
-https://www.asahi-kasei.co.jp/asahi/jp/csr/library/report/,,,excluded,,outside news section; redirects to https://www.asahi-kasei.co.jp/asahi/jp/sustainability/basic_information/library/,no
 https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/index.html,,,excluded,,redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2006/csr.html,no
 https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/index.html,,,excluded,,redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2007/csr.html,no
 https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/index.html,,,excluded,,redirects to http://www.asahi-kasei.co.jp/asahi/jp/news/2008/csr.html,no
@@ -1546,3 +1287,262 @@ https://www.asahi-kasei.co.jp/asahi/jp/news/2015/press.html,,,excluded,,outside 
 https://www.asahi-kasei.co.jp/asahi/jp/news/2016/csr.html,,,excluded,,outside news section; broken link (404),no
 https://www.asahi-kasei.co.jp/asahi/jp/news/2016/ir.html,,,excluded,,outside news section; broken link (404),no
 https://www.asahi-kasei.co.jp/asahi/jp/news/2016/press.html,,,excluded,,outside news section; broken link (404),no
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20070302.html,jp,2006,out-of-scope: CSR article,,"ペットボトル換算で8,000万本分をポリエステル原料に再生 / CSR ［旭化成の社会的責任］ - 旭化成",no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2006/ze061121.html,jp,2006,out-of-scope: Press/IR release also on CSR tab,,「地球温暖化防止活動環境大臣表彰」について / プレスリリース - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20060631.html,jp,2006,out-of-scope: CSR article,,"ペットボトル換算で8,000万本分をポリエステル原料に再生 / CSR ［旭化成の社会的責任］ - 旭化成",no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20060425.html,jp,2006,out-of-scope: CSR article,,「第15回地球環境大賞」において「大賞」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080321.html,jp,2007,out-of-scope: CSR article,,多摩工業高等学校で、環境講話の出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080317.html,jp,2007,out-of-scope: CSR article,,第19回ゴールデンゲームズin のべおか大会要項 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080208.html,jp,2007,out-of-scope: CSR article,,東京都千代田区立九段中等教育学校の「総合学習」を受け入れ / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20080131.html,jp,2007,out-of-scope: CSR article,,旭化成アビリティ所属の国際アビリンピック出場選手が福井県にてワード・プロセッサ技術を指導 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071231.html,jp,2007,out-of-scope: CSR article,,宮崎県の400名の中学生が、当社の理科実験教室に参加 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071220.html,jp,2007,out-of-scope: CSR article,,旭化成メディカル（株）は日本赤十字社に、無医地区の医療確保のための巡回診療車を寄贈しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071215.html,jp,2007,out-of-scope: CSR article,,「エコプロダクツ2007」に、旭化成グループとして総合出展いたしました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071127.html,jp,2007,out-of-scope: CSR article,,第7回国際アビリンピックに旭化成アビリティから３名出場 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071124.html,jp,2007,out-of-scope: CSR article,,青少年のための科学の祭典２００７ 倉敷大会 に参加 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071121.html,jp,2007,out-of-scope: CSR article,,神奈川県立海老名高校で、「環境学習」を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071109.html,jp,2007,out-of-scope: CSR article,,富士市立田子浦中学校の職場体験学習を受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071107.html,jp,2007,out-of-scope: CSR article,,旭化成グループは今年も「エコプロダクツ２００７」に出展します / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20071019.html,jp,2007,out-of-scope: CSR article,,九州保健福祉大学臨床工学科の「企業見学」を受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070920.html,jp,2007,out-of-scope: CSR article,,旭化成ケミカルズが「夏休み子ども化学実験ショー」に出展 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070827.html,jp,2007,out-of-scope: CSR article,,宮崎県延岡市にて、少年柔道教室を開催しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070823.html,jp,2007,out-of-scope: CSR article,,東京・芝中学校の「企業見学・環境学習」を受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070817.html,jp,2007,out-of-scope: CSR article,,東京・文京学院大学女子高校で、「サランラップの科学」をテーマに出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070809.html,jp,2007,out-of-scope: CSR article,,教員歴10年目の東京都教職員の皆様をインターン生として受け入れました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2007/ze070802.html,jp,2007,out-of-scope: Press/IR release also on CSR tab,,「旭化成グループ ＣＳＲレポート2007」の発行について / プレスリリース - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070709.html,jp,2007,out-of-scope: CSR article,,旭化成ケミカルズ鈴鹿事業場が、「安全衛生に係る厚生労働大臣表彰」の「奨励賞」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070619.html,jp,2007,out-of-scope: CSR article,,２００７年次世代認定マーク「くるみん」を取得しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070604.html,jp,2007,out-of-scope: CSR article,,旭化成メタルズが、優良危険物関係事業所として“ 消防庁長官表彰”を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070530.html,jp,2007,out-of-scope: CSR article,,旭化成メタルズが、日化協・ＪＲＣＣ安全努力賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070520.html,jp,2007,out-of-scope: CSR article,,"「あさひ・いのちの森」植樹祭について ～ 1,900人でつくる約10,000本の植樹祭 ～ / CSR ［旭化成の社会的責任］ - 旭化成",no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070423.html,jp,2007,out-of-scope: CSR article,,平成19年度科学技術分野の文部科学大臣表彰の受賞について / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2007/20070402.html,jp,2007,out-of-scope: CSR article,,旭化成の森林保護活動 「あさひの森」植樹祭を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090330.html,jp,2008,out-of-scope: CSR article,,���{���w��w�Z�p�܂��u���ڃG�X�e�����@�ɂ�郁�^�N�����_���`���G�X�e��(MMA)�����p�G�}�Z�p�A�y�уv���Z�X�J���v����� / CSR �m�������̎Љ�I�ӔC�n - ������,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090325.html,jp,2008,out-of-scope: CSR article,,���{�Ȋw�����فu�F�̉�v����̊F���񂪏Z����Z�p�����������w / CSR �m�������̎Љ�I�ӔC�n - ������,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090317.html,jp,2008,out-of-scope: CSR article,,��R�x�ЂŁA�����َ�R���w�Z�̌��w���󂯓���A�u���C�t�X�|�b�g�v���Љ� / CSR �m�������̎Љ�I�ӔC�n - ������,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090315.html,jp,2008,out-of-scope: CSR article,,�X�ѕی슈���u�����Ђ̐X�v�̑�3��A���Ղ��J�� / CSR �m�������̎Љ�I�ӔC�n - ������,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090310.html,jp,2008,out-of-scope: CSR article,,���������׉��H�i��ʁj�����S���Y�W������Ɓi�񋉁j�ɔF�肳��� / CSR �m�������̎Љ�I�ӔC�n - ������,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090222.html,jp,2008,out-of-scope: CSR article,,「科学の祭典」岡山大会にて、プラスチック処理促進協会と協働で、実験ブースを出展 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20090108.html,jp,2008,out-of-scope: CSR article,,東西石油化学が大韓民国知識経済部長官賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081213.html,jp,2008,out-of-scope: CSR article,,「エコプロダクツ2008」に、旭化成グループとして総合出展 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081205.html,jp,2008,out-of-scope: CSR article,,旭化成アビリティ所属の車いすバスケット競技岡山県代表２名が倉敷市立中学校にて講演 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081127.html,jp,2008,out-of-scope: CSR article,,旭化成陸上競技部が旭小学校で “陸上教室”を開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081121.html,jp,2008,out-of-scope: CSR article,,ワーク・ライフ・バランス推進会議主催「ワークライフ・バランス大賞・優秀賞」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2008/ze081113.html,jp,2008,out-of-scope: Press/IR release also on CSR tab,,日本ＩＲ協議会主催“2008年度ＩＲ優良企業賞”を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081028.html,jp,2008,out-of-scope: CSR article,,大東文化大学でのＡＣＡＰコラボレーション講座に参画しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081027.html,jp,2008,out-of-scope: CSR article,,旭化成アビリティ社員がアビリンピック全国大会で金賞受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20081024.html,jp,2008,out-of-scope: CSR article,,日本プラントメンテナンス協会主催「2008ＴＰＭ賞」の受賞について / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080928.html,jp,2008,out-of-scope: CSR article,,旭化成陸上競技部が“小学生 陸上教室”を開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080917.html,jp,2008,out-of-scope: CSR article,,全国発明表彰にて“直メタ法MMA後段反応触媒の発明”が“発明賞”を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080824.html,jp,2008,out-of-scope: CSR article,,旭化成ケミカルズが「夢・化学－21／夏休み子ども化学実験ショー」に出展 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080823.html,jp,2008,out-of-scope: CSR article,,宮崎県にて小学生を対象とした“早起き工場見学と朝食会を”開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080820.html,jp,2008,out-of-scope: CSR article,,体験学習と職場見学の会「オープン・オフィス・デイ」を開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080818.html,jp,2008,out-of-scope: CSR article,,国際アビリンピック出場選手が福井県でパソコン指導 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080730.html,jp,2008,out-of-scope: CSR article,,宮崎県延岡市にて、少年柔道教室を開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080725.html,jp,2008,out-of-scope: CSR article,,京都議定書の基準年度（1990年度）の温室効果ガス排出量に対して53％削減 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080704.html,jp,2008,out-of-scope: CSR article,,（株）旭化成アビリティが連島東小学校で出前授業を開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080613.html,jp,2008,out-of-scope: CSR article,,旭化成アビリティの篠原加代子が「夢を目標にかえて」と題して講演 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080520.html,jp,2008,out-of-scope: CSR article,,旭化成ネットワークスが、ASP・SaaS・ICTアウトソーシングアワード（IDC部門）で準グランプリを受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2008/20080429.html,jp,2008,out-of-scope: CSR article,,二酸化炭素を原料とするポリカーボネート製法で、福岡伸典が紫綬褒章を受章 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100325.html,jp,2009,out-of-scope: CSR article,,クライストチャーチ市（ニュージーランド）の障がい者親善大使と交流しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100310.html,jp,2009,out-of-scope: CSR article,,立命館守山中学校の皆さんが、守山支社を見学 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100222.html,jp,2009,out-of-scope: CSR article,,高校生「国際みずフォーラムin湖国・滋賀」に協賛、膜ろ過技術の展示や、工場見学を行いました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100221.html,jp,2009,out-of-scope: CSR article,,「子育ての悩み解決セミナー」を共催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100202.html,jp,2009,out-of-scope: CSR article,,岡山県倉敷市立本荘小学校で、環境学習を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100129_2.html,jp,2009,out-of-scope: CSR article,,滋賀県守山市立吉身小学校で、特別授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100129_1.html,jp,2009,out-of-scope: CSR article,,千代田区立九段中等教育学校の総合学習に協力 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100109.html,jp,2009,out-of-scope: CSR article,,「びわ湖ヨシ刈りボランティア」に参加 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20091231.html,jp,2009,out-of-scope: CSR article,,宮崎県の障がい支援学校に、シューズやウェアなどを寄付 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20091226.html,jp,2009,out-of-scope: CSR article,,滋賀県守山市立 守山南中学で、出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/sports/rikujo/result/2009/091213.html,jp,2009,out-of-scope: Sports page linked from CSR tab,,第7回陸上教室 / 陸上部（スポーツ活動） - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20100113.html,jp,2009,out-of-scope: CSR article,,「エコプロダクツ2009」に、旭化成グループとして出展いたしました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20091031.html,jp,2009,out-of-scope: CSR article,,アビリンピック全国大会出場企業で最多の7人の選手が出場 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090927.html,jp,2009,out-of-scope: CSR article,,守山支社で、守山市・近隣自治会とともに、災害時の応急給水訓練を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090909.html,jp,2009,out-of-scope: CSR article,,小学校で、理科の特別授業を実施～ろ過膜『マイクローザ』のしくみを楽しく学ぶ～ / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090807_2.html,jp,2009,out-of-scope: CSR article,,「教員の民間企業研修」に協力しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090807.html,jp,2009,out-of-scope: CSR article,,旭化成グループの国際アビリンピック出場選手が、福井県で、ワープロの技術指導を行いました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090802.html,jp,2009,out-of-scope: CSR article,,『夢・化学－21／夏休みこども化学実験ショー』に出展 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090715.html,jp,2009,out-of-scope: CSR article,,立命館守山中学で、出前授業を行いました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090527.html,jp,2009,out-of-scope: CSR article,,旭化成延岡地区が第3回レスポンシブル・ケア（RC）賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090520.html,jp,2009,out-of-scope: CSR article,,全国発明表彰にて「ノンフロン型高性能フェノールフォームの発明」が発明賞を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2009/20090515.html,jp,2009,out-of-scope: CSR article,,旭化成延岡支社の食育推進活動の取り組みが「食と農の絆づくりコンクール」で最優秀賞を受賞！ / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110325.html,jp,2010,out-of-scope: CSR article,,膜ろ過をテーマに、中学校の科学部で出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110121.html,jp,2010,out-of-scope: CSR article,,千代田区立九段中等教育学校の総合学習に協力 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110120.html,jp,2010,out-of-scope: CSR article,,沼津高専で、出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110119.html,jp,2010,out-of-scope: CSR article,,東京本社 社員食堂で、社会福祉法人のベーカリーによるパン販売をはじめました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20110117.html,jp,2010,out-of-scope: CSR article,,京都・龍谷大学で、地元の小学生の皆さんに、『災害時の水の重要性』についての特別授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101224.html,jp,2010,out-of-scope: CSR article,,「第54回 日本学生科学賞」中央表彰式が行われました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101211.html,jp,2010,out-of-scope: CSR article,,「エコプロダクツ2010」に、旭化成グループとして出展いたしました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101210.html,jp,2010,out-of-scope: CSR article,,旭化成イーマテリアルズの「ハイポア」が、『eco japan cup 2010 ビジネス部門 環境ビジネスアワード』を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101209.html,jp,2010,out-of-scope: CSR article,,「企業のみどり100選」の認定式が、「エコプロダクツ2010」の会場で行われました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101123.html,jp,2010,out-of-scope: CSR article,,災害時の応急給水訓練を、継続的に実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101118.html,jp,2010,out-of-scope: CSR article,,消費生活アドバイザー・コンサルタント協会の「エコプロダクツ2010」事前授業に協力し、神田女学園高校で、環境をテーマにした出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101117_2.html,jp,2010,out-of-scope: CSR article,,広島県呉市立呉西小学校で、出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101117.html,jp,2010,out-of-scope: CSR article,,朝日新聞「地球教室」に協賛、イベント協力や出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101114.html,jp,2010,out-of-scope: CSR article,,『青少年のための科学の祭典』倉敷大会に出展 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101029.html,jp,2010,out-of-scope: CSR article,,富士支社で、職場体験学習を受け入れ / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101022.html,jp,2010,out-of-scope: CSR article,,「びわ湖環境ビジネスメッセ」に出展 テーマは、『水処理ソリューション』 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101017.html,jp,2010,out-of-scope: CSR article,,周辺地域の行事に協力、災害時の飲料水供給システムのしくみを紹介 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20101016.html,jp,2010,out-of-scope: CSR article,,アビリンピック全国大会に出場 5大会連続で、入賞しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100910.html,jp,2010,out-of-scope: CSR article,,「水島コンビナート環境体験ツアー」に協力 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100905.html,jp,2010,out-of-scope: CSR article,,守山市の地震災害総合訓練に参加し、飲料水供給設備「ライフスポット」による給水訓練を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100827.html,jp,2010,out-of-scope: CSR article,,東京・大阪で、従業員の子弟・子女が職場見学などを行う「オープン・オフィス・ディ」を開催しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100819.html,jp,2010,out-of-scope: CSR article,,食の大切さや、人とのつながりを考える“ひろがれ！弁当の日”イベントに協力しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100810.html,jp,2010,out-of-scope: CSR article,,日本経団連・経済広報センター主催の「教員の民間企業研修」に協力しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100726.html,jp,2010,out-of-scope: CSR article,,守山市立守山南中学校の科学部に出前授業を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100715.html,jp,2010,out-of-scope: CSR article,,旭化成（株）富士支社が、財団法人ヒートポンプ・蓄熱センターから、感謝状を受けました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100701.html,jp,2010,out-of-scope: CSR article,,旭化成グループの3部場が、厚生労働大臣表彰を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100627.html,jp,2010,out-of-scope: CSR article,,旭化成ファインケム（株）が、白川英樹博士が講師を務める実験教室に、素材提供で協力しました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100607.html,jp,2010,out-of-scope: CSR article,,旭化成マイクロシステム（株）延岡事業所が、環境省「地域環境美化功績者 環境大臣表彰」を受賞 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100605.html,jp,2010,out-of-scope: CSR article,,旭化成（株）富士支社で、「ホタルまつり」開催 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100522.html,jp,2010,out-of-scope: CSR article,,「あさひ・いのちの森」が、（財）都市緑化基金の『企業のみどり100選』に選定されました / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2010/20100401.html,jp,2010,out-of-scope: CSR article,,富士常葉大学で、提供講座を開講 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120329.html,jp,2011,out-of-scope: CSR article,,守山支社正門前に、琵琶湖のヨシ（葦）を用いた「あずまや（タクシー待合所）」を設置しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120326.html,jp,2011,out-of-scope: CSR article,,第1回『科学の甲子園』に協賛、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120313.html,jp,2011,out-of-scope: CSR article,,野口研究所『野口遵研究助成金』に協賛しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120216.html,jp,2011,out-of-scope: CSR article,,「EcoゾウさんClub」が、日本化学工業協会『民生部門での省エネ活動』において努力賞を受賞しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120215.html,jp,2011,out-of-scope: CSR article,,東日本大震災の被災地・福島県いわき市で、出前授業を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120126.html,jp,2011,out-of-scope: CSR article,,沼津高専で、出前授業を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20120125.html,jp,2011,out-of-scope: CSR article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111224.html,jp,2011,out-of-scope: CSR article,,「第55回 日本学生科学賞」中央表彰式が行われました～旭化成は、「日本学生科学賞」に単独協賛しています～ | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111217.html,jp,2011,out-of-scope: CSR article,,「エコプロダクツ2011」に、旭化成グループとして出展しました～“住まいの省エネ、くらしのエコ”をテーマに、技術力をアピール～ | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111216.html,jp,2011,out-of-scope: CSR article,,「第8回 LCA日本フォーラム表彰」において、「奨励賞」を受賞しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111209.html,jp,2011,out-of-scope: CSR article,,神奈川科学技術アカデミー「新産業分野人材養成講座」で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111204.html,jp,2011,out-of-scope: CSR article,,宮崎県延岡市で、地域住民の方々への応急給水訓練を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111127.html,jp,2011,out-of-scope: CSR article,,『子ども化学実験ショー2011』に出展 ～“ポリスチレンカップでキーホルダーづくり”を体験していただきました～ | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111120.html,jp,2011,out-of-scope: CSR article,,『青少年のための科学の祭典』倉敷大会に出展 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111119.html,jp,2011,out-of-scope: CSR article,,朝日新聞「地球教室」に協賛、イベント協力や出前授業を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111111.html,jp,2011,out-of-scope: CSR article,,京都教育大学附属桃山中学校で、出前授業を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111028.html,jp,2011,out-of-scope: CSR article,,富士支社で、職場体験学習を受け入れ | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111026.html,jp,2011,out-of-scope: CSR article,,愛知県豊明市の2つの小学校で、出前授業を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111018.html,jp,2011,out-of-scope: CSR article,,宮崎大学「ライフデザイン・キャリア入門」講演会で、当社社員が講話を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20111003.html,jp,2011,out-of-scope: CSR article,,相模原高校で、当社社員が「社会人講話」の講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110930.html,jp,2011,out-of-scope: CSR article,,国際アビリンピックに出場、特別賞を受賞しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110805_2.html,jp,2011,out-of-scope: CSR article,,旭化成ケミカルズ（株）水島製造所が、献血活動で、厚生労働大臣表彰を受けました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110805.html,jp,2011,out-of-scope: CSR article,,愛知県豊明市の小学校の家庭科研究部会教諭を対象に、研修会を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110714.html,jp,2011,out-of-scope: CSR article,,伊豆中央高校で、当社社員が「進路出前講義」の講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110708.html,jp,2011,out-of-scope: CSR article,,かわさき市民アカデミーの講座で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110706.html,jp,2011,out-of-scope: CSR article,,&ldquo;節電の夏&rdquo;、暮らし方を見直して快適で健康に過ごすために、小冊子『しぜんごこちのくらし』を発行しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110614.html,jp,2011,out-of-scope: CSR article,,「ファームルーム」活動に特別協賛し、 東京都千代田区の小学校で、農園開きセレモニーに参加しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110604.html,jp,2011,out-of-scope: CSR article,,富士支社で、第4回「ホタルまつり」を開催 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110603.html,jp,2011,out-of-scope: CSR article,,第7回『JPCAアワード』を受賞 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2011/20110527.html,jp,2011,out-of-scope: CSR article,,旭化成グループの社会貢献活動をご紹介した『旭化成グループの社会貢献活動 ～社会との共生を目指して～』を発行いたしました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130325.html,jp,2012,out-of-scope: CSR article,,『科学の甲子園』に協賛し、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130319.html,jp,2012,out-of-scope: CSR article,,化学工学会「女性賞」を、当社社員が受賞 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130314.html,jp,2012,out-of-scope: CSR article,,富士支社内の「あさひ・いのちの森」で、ホタルの幼虫を放流 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130201.html,jp,2012,out-of-scope: CSR article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130130_2.html,jp,2012,out-of-scope: CSR article,,福島県いわき市の中学校・小学校で、出前授業を実施 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130130.html,jp,2012,out-of-scope: CSR article,,板橋有徳高校の「職業講話」で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20130118.html,jp,2012,out-of-scope: CSR article,,朝日新聞「地球教室」に協賛し、東京・埼玉で出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121225.html,jp,2012,out-of-scope: CSR article,,「いわき生徒会長サミット」リーダー講習会で、当社最高顧問の蛭田史郎が講話を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121224.html,jp,2012,out-of-scope: CSR article,,「第56回 日本学生科学賞」中央表彰式が行われました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121215.html,jp,2012,out-of-scope: CSR article,,「エコプロダクツ2012」にグループとして出展しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121202.html,jp,2012,out-of-scope: CSR article,,中国人大学生の日本視察団に協力し、当社社員がホームステイを受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121118.html,jp,2012,out-of-scope: CSR article,,『青少年のための科学の祭典』倉敷大会に出展 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121117.html,jp,2012,out-of-scope: CSR article,,日本科学未来館の「サイエンティスト・トーク」に、当社社員が登場しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121102.html,jp,2012,out-of-scope: CSR article,,富士支社で、富士市立田子浦中学校の職場体験学習を受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121028.html,jp,2012,out-of-scope: CSR article,,水島製造所の体育館にて、当社主催の「ジュニアバレーボール大会」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20121026.html,jp,2012,out-of-scope: CSR article,,「びわ湖環境ビジネスメッセ2012」に出展『水環境ソリューション』をテーマに製品展示しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120924.html,jp,2012,out-of-scope: CSR article,,相模原高校の「社会人講話」で、当社社員が講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120922.html,jp,2012,out-of-scope: CSR article,,朝日新聞「かんきょう1日学校」で、くらしの中の省エネ活動について話をしました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120914.html,jp,2012,out-of-scope: CSR article,,カナダ・モントリオール大学の工場見学を受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/library/report/,jp,2012,out-of-scope: CSR section page (redirects),,301 Moved Permanently,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120823.html,jp,2012,out-of-scope: CSR article,,「未来のエコハウスをつくろう！」と題して、ワークショップを行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120810.html,jp,2012,out-of-scope: CSR article,,「教員の民間企業研修」に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120805.html,jp,2012,out-of-scope: CSR article,,『子ども化学実験ショー2012』に出展しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120723.html,jp,2012,out-of-scope: CSR article,,倉敷南高校の職業学習に協力し、研究施設の見学を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120717.html,jp,2012,out-of-scope: CSR article,,鴎友学園女子中学校の職業学習に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120711.html,jp,2012,out-of-scope: CSR article,,岩手県立宮古高校での「社会人講話」に協力し、社員が講話を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120702.html,jp,2012,out-of-scope: CSR article,,宮崎県延岡市の「旭化成延岡展示センター」をリニューアルオープンしました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120630.html,jp,2012,out-of-scope: CSR article,,日本化学会九州支部「第23回 産学交流フォーラム」で、製品を紹介しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120622.html,jp,2012,out-of-scope: CSR article,,川崎市地球温暖化防止活動推進センターの、「市民と事業者の環境への取り組み」意見交換会に参加しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120602.html,jp,2012,out-of-scope: CSR article,,旭化成（株）富士支社で、「ホタルまつり」を開催、約4000人の市民の皆様をお迎えしました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120523.html,jp,2012,out-of-scope: CSR article,,「電子コンパス」についての中学生の総合学習に、対応しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120513.html,jp,2012,out-of-scope: CSR article,,宮崎県高千穂町の「あさひの森・高千穂」で、植林を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120506.html,jp,2012,out-of-scope: CSR article,,『宮崎国際音楽祭』の開催に協賛、メイン&amp;スペシャルプログラムを提供 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120411.html,jp,2012,out-of-scope: CSR article,,富士常葉大学で、今年度の提供講座を開講しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2012/20120410.html,jp,2012,out-of-scope: CSR article,,中国・内モンゴルの砂漠に、8300本の植林を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140327.html,jp,2013,out-of-scope: CSR article,,日本学生科学賞・旭化成賞受賞者の皆さんが、守山支社を訪問・見学しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140324.html,jp,2013,out-of-scope: CSR article,,第3回『科学の甲子園』に協賛、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140307.html,jp,2013,out-of-scope: CSR article,,日本学生科学賞・静岡県知事賞の受賞者の皆さんが、富士支社を訪問、見学しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140226.html,jp,2013,out-of-scope: CSR article,,宮崎県の当社延岡・日向地区の「津波避難タワー」の建設が完了しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140223.html,jp,2013,out-of-scope: CSR article,,当社陸上部が、宮崎県延岡市で「小学生 陸上教室」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140221.html,jp,2013,out-of-scope: CSR article,,福島県いわき市の小・中学校での出前授業が3年目を迎えました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140214.html,jp,2013,out-of-scope: CSR article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140129.html,jp,2013,out-of-scope: CSR article,,板橋有徳高校の「職業講話」で当社社員が講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140125.html,jp,2013,out-of-scope: CSR article,,水島製造所の体育館にて、当社主催の「ジュニアバレーボール大会」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20140109.html,jp,2013,out-of-scope: CSR article,,静岡県伊豆の国市の当社大仁地区敷地において、静岡県警のヘリコプター離着陸訓練が行われました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131224.html,jp,2013,out-of-scope: CSR article,,「第57回 日本学生科学賞」中央表彰式が行われました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131217.html,jp,2013,out-of-scope: CSR article,,宮崎県延岡市の自社敷地内に、「津波避難タワー」を建設しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131215.html,jp,2013,out-of-scope: CSR article,,「エコプロダクツ2013」で、グループの環境対応製品・技術を紹介しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131211.html,jp,2013,out-of-scope: CSR article,,旭化成グループは、今年も「エコプロダクツ2013」に出展します | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131207.html,jp,2013,out-of-scope: CSR article,,日本科学未来館で開催中の『THE 世界一展 ～極める日本！モノづくり～』に、3つの製品・技術を出展しています | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131121.html,jp,2013,out-of-scope: CSR article,,大阪教育大学附属高校 池田校舎・平野校舎で、当社社員が、キャリア教育の講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131117.html,jp,2013,out-of-scope: CSR article,,『青少年のための科学の祭典』倉敷大会に、今年も出展 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131115.html,jp,2013,out-of-scope: CSR article,,川崎製造所にて、前橋女子高等学校の企業訪問を受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131108.html,jp,2013,out-of-scope: CSR article,,朝日新聞「地球教室」に協賛し、東京・千葉で、出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131101.html,jp,2013,out-of-scope: CSR article,,富士支社で、富士市立田子浦中学校の職場体験学習を受け入れ | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20131026.html,jp,2013,out-of-scope: CSR article,,「びわ湖環境ビジネスメッセ2013」に出展、『水の保全』をテーマに、製品を展示しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130929.html,jp,2013,out-of-scope: CSR article,,朝日新聞「かんきょう1日学校」で、くらしの中の省エネ活動について話をしました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130926.html,jp,2013,out-of-scope: CSR article,,川崎製造所にて、カナダの高校生の工場見学を受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130901.html,jp,2013,out-of-scope: CSR article,,『サザンオールスターズ茅ヶ崎公演・パブリックビューイング』において、プラスチック製飲料用カップのリサイクル活用（発電）に取り組みました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130804.html,jp,2013,out-of-scope: CSR article,,『子ども化学実験ショー2013』に出展しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130726.html,jp,2013,out-of-scope: CSR article,,「教員の民間企業研修」に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130709.html,jp,2013,out-of-scope: CSR article,,日本女子大学、鴎友学園女子中学校の職業学習に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130705.html,jp,2013,out-of-scope: CSR article,,岡山県倉敷市の倉敷南小学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130601.html,jp,2013,out-of-scope: CSR article,,旭化成（株）富士支社で、「ホタルまつり」を開催、約3000人の市民の皆様をお迎えしました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130531.html,jp,2013,out-of-scope: CSR article,,大阪で開催中の『THE 世界一展』に、3つの製品・技術を出展しています | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130526.html,jp,2013,out-of-scope: CSR article,,宮崎県高千穂町の「あさひの森・高千穂」で、植林を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2013/20130418.html,jp,2013,out-of-scope: CSR article,,昨年に続き、中国・内モンゴル ホルチン砂漠での植樹活動に参加 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150327.html,jp,2014,out-of-scope: CSR article,,被災地支援活動の一環として、東北3県の物産展「マルシェ」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150326.html,jp,2014,out-of-scope: CSR article,,日本学生科学賞「旭化成賞」受賞者の皆さんが、延岡地区を訪問・見学しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150324.html,jp,2014,out-of-scope: CSR article,,日本学生科学賞・環境大臣賞の受賞者の皆さんが、富士支社を訪問、見学しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150323.html,jp,2014,out-of-scope: CSR article,,第4回『科学の甲子園』に協賛、「旭化成賞」を授与しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150306.html,jp,2014,out-of-scope: CSR article,,群馬県立中央中等教育学校の総合学習を受け入れ、救急医療と機器についての授業を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150223.html,jp,2014,out-of-scope: CSR article,,静岡県伊豆の国市の大仁中学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150213.html,jp,2014,out-of-scope: CSR article,,千代田区立九段中等教育学校の総合学習に協力 | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150210.html,jp,2014,out-of-scope: CSR article,,神奈川県が実施する「かながわ環境教室」に協力し、相模原市の小学校で出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150201.html,jp,2014,out-of-scope: CSR article,,第3回「旭化成ジュニアバレーボール大会」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150126.html,jp,2014,out-of-scope: CSR article,,川崎製造所にて、化学工学会主催の高校生工場見学を受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150116.html,jp,2014,out-of-scope: CSR article,,今年も、福島県いわき市の小・中学校で出前授業を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150114_2.html,jp,2014,out-of-scope: CSR article,,救急時の心肺蘇生法実習のモデル授業に協力し、副読本とAEDを提供しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20150114_1.html,jp,2014,out-of-scope: CSR article,,杭州日本人学校の職業体験学習に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141224.html,jp,2014,out-of-scope: CSR article,,当社が協賛する「第58回 日本学生科学賞」の中央表彰式が行われました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141213_2.html,jp,2014,out-of-scope: CSR article,,「エコプロダクツ2014」で、グループの環境対応製品・技術を紹介しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141213_1.html,jp,2014,out-of-scope: CSR article,,東西石油化学が、蔚山（ウルサン）で「キムチ祭り」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141208.html,jp,2014,out-of-scope: CSR article,,旭化成グループは、「エコプロダクツ2014」に出展します | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141207.html,jp,2014,out-of-scope: CSR article,,『かわさき環境フォーラム』で、子ども向けの体験教室を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141125.html,jp,2014,out-of-scope: CSR article,,朝日新聞「地球教室」に協賛し、東京・神奈川で、出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141123.html,jp,2014,out-of-scope: CSR article,,第35回アビリンピック（全国障害者技能競技大会）に、12名の選手を派遣しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141024.html,jp,2014,out-of-scope: CSR article,,「びわ湖環境ビジネスメッセ2014」に出展、『水の保全』をテーマに、製品を展示しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141019.html,jp,2014,out-of-scope: CSR article,,『化学の日 子ども化学実験ショー2014＜大阪＞』に出展しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20141016.html,jp,2014,out-of-scope: CSR article,,静岡県伊豆の国市の大仁中学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140930.html,jp,2014,out-of-scope: CSR article,,「シェアリングラボ」のサイトを開設しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140921.html,jp,2014,out-of-scope: CSR article,,朝日新聞「かんきょう1日学校」で、&ldquo;家族でいっしょに！&rdquo;楽しくエコ生活をするコツをご紹介しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140905.html,jp,2014,out-of-scope: CSR article,,「ふくしまマルシェ（福島県物産展）」を開催しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/,jp,2014,out-of-scope: CSR section page (redirects),,301 Moved Permanently,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140830.html,jp,2014,out-of-scope: CSR article,,中国人留学生のインターンシップを受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140803.html,jp,2014,out-of-scope: CSR article,,『夏休み子ども化学実験ショー2014』に出展しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140730.html,jp,2014,out-of-scope: CSR article,,川崎製造所にて、東京都の中学校の理科の先生方の工場見学を受け入れました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140729.html,jp,2014,out-of-scope: CSR article,,「教員の民間企業研修」に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140712.html,jp,2014,out-of-scope: CSR article,,千葉工場社宅跡地の再開発で保育施設を設置、地域の待機児解消施策に協力しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140711.html,jp,2014,out-of-scope: CSR article,,岡山県倉敷市の倉敷南小学校で、出前授業を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140702.html,jp,2014,out-of-scope: CSR article,,日本科学未来館で開催中の『トイレ？ 行っトイレ！』展に、当社が開発した技術システムが紹介されています | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140701.html,jp,2014,out-of-scope: CSR article,,岩手県立宮古高等学校の「社会人講話」に協力し、当社社員が講話を担当しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140628.html,jp,2014,out-of-scope: CSR article,,川崎市で開催された、市民と事業者による環境イベントで、環境への取り組みなどを紹介しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140620.html,jp,2014,out-of-scope: CSR article,,明治学院大学で、当社社員が、「CSRの推進」について講義しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140618.html,jp,2014,out-of-scope: CSR article,,東京工業大学の学生の皆さんに向けて、当社社員による講義と、工場見学会を実施しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140601.html,jp,2014,out-of-scope: CSR article,,『あさひ・いのちの森』で恒例の「ホタルまつり」を開催、約4000人の市民の皆様にお楽しみいただきました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140526.html,jp,2014,out-of-scope: CSR article,,大阪府立泉陽高等学校で、当社社員が、「進路分野別セミナー」の講師を務めました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140427.html,jp,2014,out-of-scope: CSR article,,宮崎県高千穂町の「あさひの森・高千穂」で、2500本の植林を行いました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2014/20140413.html,jp,2014,out-of-scope: CSR article,,中国・内モンゴルの砂漠での植林活動に参加、5500本を植樹しました | CSRニュース | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2006/csr.html,jp,2006,out-of-scope: CSR listing tab,,CSRニュース | 2006年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2007/csr.html,jp,2007,out-of-scope: CSR listing tab,,CSRニュース | 2007年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2008/csr.html,jp,2008,out-of-scope: CSR listing tab,,CSRニュース | 2008年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2009/csr.html,jp,2009,out-of-scope: CSR listing tab,,CSRニュース | 2009年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2010/csr.html,jp,2010,out-of-scope: CSR listing tab,,CSRニュース | 2010年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2011/csr.html,jp,2011,out-of-scope: CSR listing tab,,CSRニュース | 2011年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2012/csr.html,jp,2012,out-of-scope: CSR listing tab,,CSRニュース | 2012年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2013/csr.html,jp,2013,out-of-scope: CSR listing tab,,CSRニュース | 2013年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/news/2014/csr.html,jp,2014,out-of-scope: CSR listing tab,,CSRニュース | 2014年度 | 旭化成株式会社,no (CSR out of scope)
+https://www.asahi-kasei.co.jp/asahi/jp/csr/news/2006/20070402.html,jp,2006,out-of-scope: CSR article,,旭化成の森林保護活動 「あさひの森」植樹祭を実施 / CSR ［旭化成の社会的責任］ - 旭化成,no (CSR out of scope)

@@ -5,6 +5,7 @@ SCOPE, RAW, LOGO, OUT = sys.argv[1:5]
 S = json.load(open(os.path.join(SCOPE, 'scope-summary.json')))
 U = json.load(open(os.path.join(SCOPE, 'urls-in-scope.json')))
 X = json.load(open(os.path.join(SCOPE, 'excluded.json')))
+OOS = json.load(open(os.path.join(SCOPE, 'out-of-scope-csr.json')))['urls']
 RAWD = {r['url']: r for r in json.load(open(RAW))}
 logo64 = base64.b64encode(open(LOGO, 'rb').read()).decode()
 esc = html.escape
@@ -27,6 +28,7 @@ def template(p):
 pages = [dict(u=p['url'][len(H):], l=p['locale'].upper(), y=p['year'], t=template(p), c=category(p), n=p['title']) for p in U['pages']]
 docs = [dict(u=d['url'][len(H):], l=d['locale'].upper(), y=d['year'], k=round((d['sizeBytes'] or 0) / 1024), f=(d['linkedFrom'] or [''])[0][len(H):]) for d in U['documents']]
 opt = [dict(u=r['url'][len(H):], n=r['title'], f=(r['linkedFrom'] or [''])[0][len(H):]) for r in U['optionalRelated']]
+oos = [dict(u=o['url'][len(H):], y=o['fy'], t=o['kind'], s=o['status'], n=o['title'] if o['status'] == 200 else 'Redirects to ' + (o.get('location') or ''), o=o['source']) for o in OOS]
 exc = [dict(u=e['url'].replace(H, ''), s=e['status'], r=e['reason'].replace(H, '')) for e in X]
 
 T = S['totals']
@@ -57,15 +59,16 @@ def sample(tname, loc, k=3):
     return [p['u'] for p in pages if p['t'] == tname and p['l'] == loc][::97][:k]
 
 today = datetime.date.today().strftime('%-d %B %Y')
-data = dict(pages=pages, docs=docs, opt=opt, exc=exc, years=by_year)
+data = dict(pages=pages, docs=docs, opt=opt, exc=exc, oos=oos, years=by_year)
+n_oos = len(OOS)
 
 # ---------- content blocks ----------
 def tiles():
     items = [
         ('Pages to import', f'{n_pages:,}', f'JP {jp_pages:,} · EN {en_pages:,}'),
         ('PDF attachments', f'{n_docs:,}', f'{pdf_mb:.1f} MB in total'),
+        ('Out of scope (CSR)', f'{len(OOS)}', 'per the client’s CSR URL sheet'),
         ('Import scripts', '3', 'listing · modern · legacy'),
-        ('Excluded links', f'{n_exc}', 'broken or already redirected'),
     ]
     return ''.join(f'<div class="tile"><div class="tile-label">{a}</div><div class="tile-value">{b}</div><div class="tile-sub">{c}</div></div>' for a, b, c in items)
 
@@ -82,7 +85,7 @@ ok, todo, part = '<span class="badge good">✓ Done</span>', '<span class="badge
 TEMPLATES = [
     dict(key='listing', name='Listing', script='import-index.js', count=tpl['Listing'], years='FY2006–FY2014',
          split=f"JP {tpl_loc[('Listing','JP')]} · EN {tpl_loc[('Listing','EN')]}",
-         desc='The year listing and its Press / IR / CSR tabs. The markup is the same in every year.',
+         desc='The year listing (“All”) and its Press and IR tabs. The markup is the same in every year. The JP CSR tab is out of scope.',
          sig=['h1.hdg-l1-01 page title', 'ul.navi-pagelink-01 tab bar (All · Press · IR · CSR)', 'table.tbl-news-01 rows: date | title link | PDF icon', 'ul.lyt-image-06 previous / next year links'],
          wire=['h1', 'tabs', 'rows', 'rows', 'rows', 'rows', 'pager'],
          samples=sample('Listing', 'JP', 2) + sample('Listing', 'EN', 1), difficulty='Low'),
@@ -153,7 +156,7 @@ RISKS = [
     ('medium', 'Dead and redirected links', f'{n_exc} linked URLs are broken (mostly old IR PDFs) or redirect to asahi-kasei.com.', 'Rewrite redirects to their target and unlink or flag broken ones. Report them in the import Excel.'),
     ('medium', 'Generic EN titles', 'EN FY2006–2010 articles all share a &lt;title&gt; such as “Fiscal 2006 / Press Releases”.', 'Take the page title from the article heading, never from &lt;title&gt;.'),
     ('medium', 'Wrong text encoding', '<code>/asahi/jp/news/2013/li130801.html</code> is UTF-16 but declares UTF-8.', 'Detect the byte-order mark before parsing. Check the Japanese text after import.'),
-    ('low', 'CSR folders are locked', '<code>/csr/news/{yyyy}/</code> returns 403, so CSR articles can only be found through listing links.', 'The URL list already covers them. Re-crawl if the listings change.'),
+    ('medium', 'Links to out-of-scope CSR pages', 'JP “All” listings, and a few press releases, link to CSR articles that will not be migrated.', 'The listing script drops CSR rows (or points them to asahi-kasei.com). The import report flags any remaining links to <code>/csr/</code>.'),
     ('low', 'Duplicate aliases', 'Year listings also answer at <code>/index.html</code>; old CSR year indexes redirect to the CSR tab.', 'Excluded from the import. Add redirects in the EDS redirects sheet.'),
     ('low', 'Links to the new domain', 'Internal links point to www.asahi-kasei.co.jp.', 'Rewrite to the EDS paths (deck tip, slide 19).'),
 ]
@@ -168,7 +171,7 @@ FIT = [
 ]
 
 PREREQ = [
-    ('URL list covering all patterns / sitemap', ok, f'{n_pages:,} pages, {n_docs} PDFs, {n_opt} optional, {n_exc} excluded. No sitemap exists, so the list was built by crawling.'),
+    ('URL list covering all patterns / sitemap', ok, f'{n_pages:,} pages, {n_docs} PDFs, {n_opt} optional, {n_exc} excluded, {len(OOS)} CSR URLs out of scope. No sitemap exists, so the list was built by crawling.'),
     ('Content grouped by template', ok, 'Listing · Modern article · Legacy article'),
     ('Block list and auto-block rules decided', part, 'Proposed below: article-header, news-list, caption, columns, table, metadata'),
     ('Block table structure confirmed', todo, 'Confirm with the client before writing parsers'),
@@ -180,10 +183,11 @@ DELIVER = [
     ('import-urls-jp.txt', f'{jp_pages:,} JP page URLs, one per line, for the Bulk importer'),
     ('import-urls-en.txt', f'{en_pages:,} EN page URLs'),
     ('documents.txt', f'{n_docs} PDF attachment URLs'),
-    ('migration-scope.csv', 'Every URL with locale, fiscal year, type, title and in-scope flag (opens in Excel)'),
+    ('migration-scope.csv', 'Every URL with locale, fiscal year, type, title and in-scope flag, including the CSR rows marked out of scope (opens in Excel)'),
     ('scope-summary.json', 'Totals, per-year counts, templates, importer notes'),
     ('url-groups.json', 'URLs grouped by path pattern'),
     ('excluded.json', 'Every excluded URL with status and reason'),
+    ('out-of-scope-csr.txt · .json', f'The {len(OOS)} CSR URLs that are out of scope, with type, fiscal year and source'),
     ('inner-patterns.json', 'Markup patterns sampled inside the article body'),
     ('crawl-raw.json · crawl-scripts/', 'Raw crawl results and the scripts to re-run it'),
 ]
@@ -244,7 +248,7 @@ section>h2 .num{font-size:12px;font-weight:700;color:#fff;background:var(--adobe
 section>.lead{color:var(--text-2);margin:0 0 18px;max-width:900px}
 h3{font-size:18px;margin:0}h4{font-size:12px;letter-spacing:.05em;text-transform:uppercase;color:var(--muted);margin:16px 0 6px}
 .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:20px 22px}
-.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}
+.grid2{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.grid3{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px}.grid4{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px}
 .tiles{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:16px;margin-top:20px}
 .tile{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);padding:16px 18px;border-top:3px solid var(--adobe-red)}
 .tile-label{font-size:13px;color:var(--text-2)}.tile-value{font-size:30px;font-weight:700;line-height:1.2;margin:4px 0 2px}.tile-sub{font-size:13px;color:var(--muted)}
@@ -322,9 +326,13 @@ ol.steps b{display:block}ol.steps span{font-size:13.5px;color:var(--text-2)}
 footer.foot{margin-top:56px;padding-top:18px;border-top:1px solid var(--border);color:var(--muted);font-size:13px;display:flex;gap:12px;align-items:center}
 footer.foot img{height:14px}
 .muted{color:var(--muted);font-size:13px}
-@media (max-width:1100px){.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}.flow{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:12px}.files,.grid3{grid-template-columns:1fr 1fr}ol.steps{grid-template-columns:1fr 1fr}}
+.tile-oos{border-top-color:#6e6e6e}
+.delta{font-weight:700;color:var(--text-2)}.delta.neg{color:var(--text)}
+ul.confirm{list-style:none;padding:0;margin:10px 0 0;display:grid;gap:10px}ul.confirm li{display:grid;grid-template-columns:240px minmax(0,1fr);gap:14px;padding:10px 12px;border:1px solid var(--border);border-left:3px solid var(--warn);border-radius:6px;background:#fffdf9;font-size:14px}
+@media (max-width:860px){ul.confirm li{grid-template-columns:1fr}}
+@media (max-width:1100px){.tiles{grid-template-columns:repeat(2,minmax(0,1fr))}.flow{grid-template-columns:repeat(3,minmax(0,1fr));row-gap:12px}.files,.grid3,.grid4{grid-template-columns:1fr 1fr}ol.steps{grid-template-columns:1fr 1fr}}
 @media (max-width:860px){.layout{grid-template-columns:1fr}nav.side{display:none;position:fixed;top:60px;left:0;width:260px;z-index:30;box-shadow:4px 0 20px rgba(0,0,0,.15)}nav.side.open{display:block}
-.topbar .menu{display:block}.topbar .date{display:none}main{padding:20px}.grid2,.fit,.tcard-grid,.files,.grid3{grid-template-columns:1fr}.risk{grid-template-columns:1fr}.risk .mit{border-left:0;border-top:1px solid var(--border)}.brow{grid-template-columns:1fr}.hero{padding:26px}}
+.topbar .menu{display:block}.topbar .date{display:none}main{padding:20px}.grid2,.fit,.tcard-grid,.files,.grid3,.grid4{grid-template-columns:1fr}.risk{grid-template-columns:1fr}.risk .mit{border-left:0;border-top:1px solid var(--border)}.brow{grid-template-columns:1fr}.hero{padding:26px}}
 @media print{.topbar,nav.side,.filters,.pager,.inv-tabs,.seg-toggle{display:none!important}.layout{display:block}main{padding:0}section{break-inside:avoid-page}}
 '''
 
@@ -338,7 +346,7 @@ addEventListener('scroll',spy,{passive:true});spy();
 document.querySelector('.menu').onclick=()=>document.querySelector('nav.side').classList.toggle('open');
 links.forEach(a=>a.addEventListener('click',()=>document.querySelector('nav.side').classList.remove('open')));
 /* ---- stacked column chart ---- */
-const SER=[{k:'jpn',n:'JP press & IR articles',c:'var(--s1)'},{k:'jpc',n:'JP CSR articles',c:'var(--s2)'},{k:'enn',n:'EN articles',c:'var(--s3)'}];
+const SER=[{k:'jpn',n:'JP press & IR articles',c:'var(--s1)'},{k:'enn',n:'EN articles',c:'var(--s3)'}];
 function drawChart(){
   const host=document.getElementById('chart');const W=920,H=300,m={l:44,r:12,t:20,b:36};
   const Y=D.years;const tot=Y.map(y=>SER.reduce((a,s)=>a+y[s.k],0));const max=Math.ceil(Math.max(...tot)/40)*40;
@@ -354,7 +362,7 @@ function drawChart(){
     g+=`<text x="${x+bw/2}" y="${H-m.b+18}" text-anchor="middle" font-size="12" fill="var(--text-2)">FY${d.y}</text>`;
     g+=`<rect class="hit" data-i="${i}" x="${m.l+band*i}" y="${m.t}" width="${band}" height="${ih}" fill="transparent"/>`});
   g+=`<line x1="${m.l}" x2="${W-m.r}" y1="${y(0)}" y2="${y(0)}" stroke="var(--border-2)"/>`;
-  host.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Articles to import per fiscal year, stacked by JP press and IR, JP CSR and EN">${g}</svg><div id="tip"></div>`;
+  host.innerHTML=`<svg viewBox="0 0 ${W} ${H}" role="img" aria-label="Articles to import per fiscal year, stacked by JP press and IR and EN">${g}</svg><div id="tip"></div>`;
   const tip=host.querySelector('#tip');
   host.querySelectorAll('.hit').forEach(r=>{r.addEventListener('mousemove',e=>{const d=Y[+r.dataset.i];const b=host.getBoundingClientRect();
     tip.innerHTML=`<b>Fiscal ${d.y}</b> <span class="muted">(Apr ${d.y} – Mar ${d.y+1})</span>`+SER.map(s=>`<div class="r"><span><i style="background:${s.c}"></i>${s.n}</span><b>${d[s.k]}</b></div>`).join('')+
@@ -368,7 +376,7 @@ document.querySelectorAll('.seg-toggle button').forEach(b=>b.onclick=()=>{docume
 /* ---- inventory ---- */
 const COLS={pages:[['u','URL'],['l','Lang'],['y','FY'],['t','Template'],['c','Category'],['n','Page title']],
   docs:[['u','PDF URL'],['l','Lang'],['y','FY'],['k','KB'],['f','Linked from']],
-  opt:[['u','URL'],['n','Page title'],['f','Linked from']],exc:[['u','URL'],['s','Status'],['r','Reason']]};
+  opt:[['u','URL'],['n','Page title'],['f','Linked from']],oos:[['u','URL'],['y','FY'],['t','Type'],['n','Page title'],['o','Source']],exc:[['u','URL'],['s','Status'],['r','Reason']]};
 let cur='pages',page=0;const PER=50;const H0='https://www.asahi-kasei.co.jp';
 const q=document.getElementById('q'),fl=document.getElementById('fl'),fy=document.getElementById('fy'),ft=document.getElementById('ft');
 function rows(){const s=q.value.trim().toLowerCase();return D[cur].filter(r=>(!s||Object.values(r).join(' ').toLowerCase().includes(s))&&(!fl.value||r.l===fl.value)&&(!fy.value||String(r.y)===fy.value)&&(!ft.value||r.t===ft.value))}
@@ -391,13 +399,14 @@ document.getElementById('csv').onclick=()=>{const cols=COLS[cur];const R=rows();
 document.getElementById('urls').onclick=()=>{const R=rows();const txt=R.map(r=>(String(r.u).startsWith('http')?'':H0)+r.u).join('\n')+'\n';
   const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([txt],{type:'text/plain'}));a.download=`asahi-kasei-news-${cur}-urls.txt`;a.click()};
 render();
+document.getElementById('oos-open').onclick=()=>{document.querySelector('.inv-tabs button[data-k="oos"]').click();document.getElementById('inventory').scrollIntoView()};
 '''
 
 year_rows = ''.join(
-    f'<tr><td>FY{r["y"]}</td><td class="n">{r["idx"]}</td><td class="n">{r["jpn"]}</td><td class="n">{r["jpc"]}</td><td class="n">{r["enidx"]}</td><td class="n">{r["enn"]}</td><td class="n"><b>{r["idx"]+r["jpn"]+r["jpc"]+r["enidx"]+r["enn"]}</b></td><td class="n">{r["pdf"]}</td><td class="n">{r["enpdf"]}</td></tr>'
+    f'<tr><td>FY{r["y"]}</td><td class="n">{r["idx"]}</td><td class="n">{r["jpn"]}</td><td class="n">{r["enidx"]}</td><td class="n">{r["enn"]}</td><td class="n"><b>{r["idx"]+r["jpn"]+r["enidx"]+r["enn"]}</b></td><td class="n">{r["pdf"]}</td><td class="n">{r["enpdf"]}</td></tr>'
     for r in by_year)
 ysum = lambda k: sum(r[k] for r in by_year)
-year_foot = f'<tr><td>Total</td><td class="n">{ysum("idx")}</td><td class="n">{ysum("jpn")}</td><td class="n">{ysum("jpc")}</td><td class="n">{ysum("enidx")}</td><td class="n">{ysum("enn")}</td><td class="n">{n_pages:,}</td><td class="n">{ysum("pdf")}</td><td class="n">{ysum("enpdf")}</td></tr>'
+year_foot = f'<tr><td>Total</td><td class="n">{ysum("idx")}</td><td class="n">{ysum("jpn")}</td><td class="n">{ysum("enidx")}</td><td class="n">{ysum("enn")}</td><td class="n">{n_pages:,}</td><td class="n">{ysum("pdf")}</td><td class="n">{ysum("enpdf")}</td></tr>'
 
 seg_total = n_pages
 segbar = ''.join(f'<div style="flex:{tpl[n]};background:{c}" title="{n}: {tpl[n]:,} pages ({tpl[n]/seg_total:.0%})">{tpl[n]/seg_total:.0%}</div>'
@@ -415,7 +424,7 @@ def eff_bars():
     return ''.join(out)
 
 NAV = [('Summary', [('overview', 'Overview')]),
-       ('Scope', [('method', 'How the scope was built'), ('volume', 'Volume by fiscal year'), ('templates', 'Templates & scripts'), ('mapping', 'Block mapping')]),
+       ('Scope', [('method', 'How the scope was built'), ('outofscope', 'Out of scope'), ('volume', 'Volume by fiscal year'), ('templates', 'Templates & scripts'), ('mapping', 'Block mapping')]),
        ('Plan', [('prereq', 'Prerequisites'), ('risks', 'Risks & importer notes'), ('next', 'Next steps')]),
        ('Data', [('inventory', 'URL inventory'), ('files', 'Deliverables')])]
 nav_html = ''.join(f'<div class="grp">{g}</div>' + ''.join(f'<a href="#{i}">{n}</a>' for i, n in items) for g, items in NAV)
@@ -426,11 +435,58 @@ flow_html = ''.join(f'<div class="st"><b>{a}</b><span>{b}</span><small>{c}</smal
 files_html = ''.join(f'<div class="card"><code>{a}</code><p>{b}</p></div>' for a, b in DELIVER)
 notes_html = ''.join(f'<li>{esc(n)}</li>' for n in S['importerNotes'])
 
+
+BEFORE = dict(pages=1178, jp=896, en=282, listing=63, legacy=554, modern=561, optional=41, excluded=173, pdf=155)
+AFTER = dict(pages=n_pages, jp=jp_pages, en=en_pages, listing=tpl['Listing'], legacy=tpl['Legacy article'], modern=tpl['Modern article'], optional=n_opt, excluded=n_exc, pdf=n_docs)
+oos_kind = collections.Counter(o['kind'] for o in OOS)
+OOS_TILES = [('CSR articles', oos_kind['CSR article'], '/asahi/jp/csr/news/{yyyy}/…'),
+             ('CSR listing tabs', oos_kind['CSR listing tab'], '/asahi/jp/news/{yyyy}/csr.html'),
+             ('Press / IR releases on the CSR tab', oos_kind['Press/IR release also on CSR tab'], 'also listed under Press or IR'),
+             ('Other linked pages', oos_kind['CSR section page (redirects)'] + oos_kind['Sports page linked from CSR tab'], '2 CSR redirects (to sustainability) · 1 sports page')]
+oos_tiles = ''.join(f'<div class="tile tile-oos"><div class="tile-label">{a}</div><div class="tile-value">{b}</div><div class="tile-sub">{esc(c)}</div></div>' for a, b, c in OOS_TILES)
+ba_rows = []
+for label, k in (('Pages to import', 'pages'), ('— Japanese', 'jp'), ('— English', 'en'), ('Listing pages', 'listing'), ('Modern articles (FY2011–2014)', 'modern'),
+                 ('Legacy articles (FY2006–2010)', 'legacy'), ('PDF attachments', 'pdf'), ('Optional pages', 'optional'), ('Excluded links', 'excluded')):
+    d = AFTER[k] - BEFORE[k]
+    ba_rows.append((label, f'{BEFORE[k]:,}', f'<b>{AFTER[k]:,}</b>', f'<span class="delta{" neg" if d < 0 else ""}">{d:+,}</span>' if d else '<span class="muted">no change</span>'))
+fy_oos = collections.defaultdict(collections.Counter)
+for o in OOS:
+    fy_oos[o['fy']]['tab' if o['kind'] == 'CSR listing tab' else 'art' if o['kind'] == 'CSR article' else 'other'] += 1
+fy_rows = [(f'FY{y}', fy_oos[y]['tab'], fy_oos[y]['art'], fy_oos[y]['other'], f'<b>{sum(fy_oos[y].values())}</b>') for y in range(2006, 2015)]
+fy_rows.append(('<b>Total</b>', f"<b>{sum(c['tab'] for c in fy_oos.values())}</b>", f"<b>{sum(c['art'] for c in fy_oos.values())}</b>", f"<b>{sum(c['other'] for c in fy_oos.values())}</b>", f'<b>{n_oos}</b>'))
+cross = [o for o in OOS if o['kind'] == 'Press/IR release also on CSR tab']
+orphan = [o for o in OOS if o['sheetRows'] == 0]
+dups = [o for o in OOS if o['sheetRows'] > 1]
+redir = [o for o in OOS if o['status'] in (301, 302)]
+sheet_rows = sum(o['sheetRows'] for o in OOS)
+CONFIRM = [
+    ('Press releases on the CSR tab', f'{len(cross)} releases appear on both the CSR tab and the Press or IR tab. They are out of scope because they are on the CSR sheet. If they should be migrated, they move back to Press/IR: '
+     + ', '.join(link(o['url'][len(H):], o['url'].rsplit('/', 1)[1]) for o in cross) + '.'),
+    ('One CSR article not on the sheet', ', '.join(link(o['url'][len(H):]) for o in orphan) + ' is a CSR article by its address but is linked only from the FY2007 “All” listing, not from a CSR tab. It is treated as out of scope too.'),
+    ('Sheet rows vs. unique URLs', f'The sheet has {sheet_rows} rows. ' + ', '.join(f'<code>{esc(o["url"][len(H):])}</code>' for o in dups)
+     + f' appears twice (FY2012 and FY2013 tabs), so the sheet holds {sheet_rows - len(dups)} unique URLs. With the article above, {n_oos} unique URLs are out of scope.'),
+    ('Already redirected', ', '.join(f'<code>{esc(o["url"][len(H):])}</code>' for o in redir) + ' already redirect to the sustainability section (which in turn redirects to asahi-kasei.com/jp/sustainability/); nothing to migrate.'),
+    ('PDFs are unaffected', f'No PDF is linked only from CSR pages, so all {n_docs} PDF attachments stay in scope.'),
+]
+confirm_html = ''.join(f'<li><b>{a}</b><span>{b}</span></li>' for a, b in CONFIRM)
+oos_list = ''.join(f'<tr><td class="u">{link(o["url"][len(H):])}</td><td class="n">{o["fy"]}</td><td><span class="pill">{esc(o["kind"])}</span></td><td class="t">{esc(o["title"]) if o["status"] == 200 else "Redirects to " + esc(o.get("location") or "")}</td></tr>' for o in OOS)
+OOS_SECTION = f"""<section id="outofscope"><h2><span class="num">02</span>Out of scope</h2>
+<p class="lead">As agreed with the client (CSR URL sheet, {sheet_rows} rows), <b>CSR content will not be migrated</b>. These URLs are removed from the import lists and from every count in this report.</p>
+<div class="tiles">{oos_tiles}</div>
+<div class="grid2" style="margin-top:16px">
+ <div class="card"><h3>Impact on the scope</h3><p class="muted" style="margin:4px 0 8px">Before and after removing CSR</p>{tbl(['', 'Before', 'After', 'Change'], ba_rows, 'compact')}</div>
+ <div class="card"><h3>Out-of-scope URLs by fiscal year</h3><p class="muted" style="margin:4px 0 8px">“Other” = press releases on the CSR tab, CSR redirects and the sports page</p>{tbl(['Fiscal year', 'CSR tab', 'CSR articles', 'Other', 'Total'], fy_rows, 'compact')}</div>
+</div>
+<div class="card" style="margin-top:16px"><h3>Points to confirm with the client</h3><ul class="confirm">{confirm_html}</ul></div>
+<div class="card" style="margin-top:16px"><div class="chart-head"><h3>All {n_oos} out-of-scope URLs</h3><button class="btn" id="oos-open">Open in URL inventory</button></div>
+<div class="tbl-wrap" style="max-height:440px"><table class="tbl"><thead><tr><th>URL</th><th class="n">FY</th><th>Type</th><th>Page title</th></tr></thead><tbody>{oos_list}</tbody></table></div></div>
+</section>
+"""
 data_json = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
 year_tbl = ('<div class="tbl-wrap"><table class="tbl"><thead><tr><th>Fiscal year</th><th class="n">JP listings</th><th class="n">JP press &amp; IR</th>'
-            '<th class="n">JP CSR</th><th class="n">EN listings</th><th class="n">EN articles</th><th class="n">Pages</th><th class="n">JP PDFs</th>'
+            '<th class="n">EN listings</th><th class="n">EN articles</th><th class="n">Pages</th><th class="n">JP PDFs</th>'
             f'<th class="n">EN PDFs</th></tr></thead><tbody>{year_rows}</tbody><tfoot>{year_foot}</tfoot></table></div>')
-legend3 = ''.join(f'<span><i style="background:{c}"></i>{n}</span>' for n, c in (('JP press &amp; IR articles', 'var(--s1)'), ('JP CSR articles', 'var(--s2)'), ('EN articles', 'var(--s3)')))
+legend3 = ''.join(f'<span><i style="background:{c}"></i>{n}</span>' for n, c in (('JP press &amp; IR articles', 'var(--s1)'), ('EN articles', 'var(--s3)')))
 doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>Asahi Kasei news archive FY2006–2014 · EDS migration scope</title>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700;800&family=Noto+Sans+JP:wght@400;700&family=Source+Code+Pro:wght@400&display=swap">
@@ -441,21 +497,20 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 
 <div class="hero" id="overview"><div class="eyebrow">Migration scope · EDS Importer</div>
 <h1>Asahi Kasei news archive, FY2006–FY2014 (Japanese &amp; English)</h1>
-<p>We crawled both news sections and checked {fetched:,} URLs one by one. {n_pages:,} pages and {n_docs} PDF attachments belong in the migration scope. The content follows three page patterns, so three import scripts are needed.</p>
+<p>We crawled both news sections and checked {fetched:,} URLs one by one. {n_pages:,} pages and {n_docs} PDF attachments belong in the migration scope. CSR content ({n_oos} URLs) is out of scope. The content follows three page patterns, so three import scripts are needed.</p>
 <div class="chips"><span class="chip">JP: <a href="{H}/asahi/jp/news/2014/" target="_blank" rel="noopener">/asahi/jp/news/{{2006…2014}}/</a></span><span class="chip">EN: <a href="{H}/asahi/en/news/2014/" target="_blank" rel="noopener">/asahi/en/news/{{2006…2014}}/</a></span><span class="chip">Fiscal year = April – March</span><span class="chip">Recommended tool: EDS Importer</span></div></div>
 <div class="tiles">{tiles()}</div>
 <div class="grid2" style="margin-top:16px">
  <div class="card"><h3>What is in scope</h3>
  {tbl(['', 'JP', 'EN', 'Total'], [
-   ['Year listing pages (All · Press · IR · CSR)', T['jp']['index'], T['en']['index'], T['jp']['index'] + T['en']['index']],
+   ['Year listing pages (All · Press · IR)', T['jp']['index'], T['en']['index'], T['jp']['index'] + T['en']['index']],
    ['Press &amp; IR articles', T['jp']['newsArticles'], T['en']['newsArticles'], T['jp']['newsArticles'] + T['en']['newsArticles']],
-   ['CSR articles', T['jp']['csrArticles'], '—', T['jp']['csrArticles']],
    ['<b>Pages to import</b>', f'<b>{jp_pages:,}</b>', f'<b>{en_pages:,}</b>', f'<b>{n_pages:,}</b>'],
    ['PDF attachments', T['jp']['pdf'], T['en']['pdf'], n_docs]], 'compact')}</div>
  <div class="card"><h3>Pages per import script</h3><p class="muted" style="margin:4px 0 0">Share of the {n_pages:,} pages handled by each script</p>
   <div class="segbar" role="img" aria-label="Listing {tpl['Listing']}, modern article {tpl['Modern article']}, legacy article {tpl['Legacy article']}">{segbar}</div><div class="legend">{seg_legend}</div>
   <h4>Outside the scope</h4>
-  <p style="margin:0;font-size:14px"><b>{n_opt}</b> optional sports result pages linked from the FY2007 JP listing, and <b>{n_exc}</b> excluded links that are broken or already redirect to asahi-kasei.com.</p></div>
+  <p style="margin:0;font-size:14px"><b>{n_oos}</b> CSR URLs are out of scope (see <a href="#outofscope">Out of scope</a>). There are also <b>{n_opt}</b> optional sports result pages and <b>{n_exc}</b> excluded links that are broken or already redirect to asahi-kasei.com.</p></div>
 </div>
 <div class="callout good"><div class="ic">✓</div><div><b>Recommendation: use the EDS Importer, not page-by-page migration.</b><br>{esc(S['recommendation'].split(': ',1)[-1])}</div></div>
 
@@ -463,15 +518,17 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <section id="method"><h2><span class="num">01</span>How the scope was built</h2>
 <p class="lead">The host has no sitemap.xml or robots.txt, and the CSR article folders return 403. The scope was therefore built by crawling the listing pages and following every link until no new URL turned up. Each URL was fetched, and its status, content type and title recorded.</p>
 <div class="flow">{flow_html}</div>
-<div class="grid3" style="margin-top:16px">
- <div class="card"><h4 style="margin-top:0">In scope</h4><p style="margin:0;font-size:14px">Live (200) pages under <code>/asahi/{{jp,en}}/news/2006–2014/</code> and <code>/asahi/jp/csr/news/2006–2014/</code>, plus PDFs in those folders.</p></div>
+<div class="grid4" style="margin-top:16px">
+ <div class="card"><h4 style="margin-top:0">In scope</h4><p style="margin:0;font-size:14px">Live (200) pages under <code>/asahi/{{jp,en}}/news/2006–2014/</code> (Press, IR and notices), plus PDFs in those folders.</p></div>
  <div class="card"><h4 style="margin-top:0">Optional</h4><p style="margin:0;font-size:14px">{n_opt} live sports result pages (athletics and judo) linked from the news section but stored under <code>/asahi/jp/sports/</code>.</p></div>
  <div class="card"><h4 style="margin-top:0">Excluded</h4><p style="margin:0;font-size:14px">Broken links (404), redirects to asahi-kasei.com, duplicate <code>/index.html</code> aliases, and the missing EN CSR tabs.</p></div>
+ <div class="card"><h4 style="margin-top:0">Out of scope</h4><p style="margin:0;font-size:14px">{n_oos} CSR URLs from the client’s CSR sheet: CSR tabs, CSR articles and the pages they link to. <a href="#outofscope">Details</a></p></div>
 </div>
 <h4>Why URLs were excluded</h4>{tbl(['Reason', 'URLs'], exc_rows, 'compact')}
 </section>
 
-<section id="volume"><h2><span class="num">02</span>Volume by fiscal year</h2>
+{OOS_SECTION}
+<section id="volume"><h2><span class="num">03</span>Volume by fiscal year</h2>
 <p class="lead">Articles to import per fiscal year. Hover a column for the breakdown and PDF counts, or switch to the table.</p>
 <div class="card"><div class="chart-head"><div class="legend chart-legend">{legend3}</div>
 <div class="seg-toggle" role="tablist"><button class="on" data-v="chart">Chart</button><button data-v="table">Table</button></div></div>
@@ -481,37 +538,37 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 {tbl(['Category', 'Articles'], [(esc(k), f'{v:,}') for k, v in cat_rows], 'compact')}</div>
 <div class="card"><h3>Reading the numbers</h3><ul style="margin:8px 0 0;padding-left:18px;font-size:14px">
 <li>Fiscal years run April to March, so the 2014 folder also holds articles dated January–March 2015.</li>
-<li>English has no CSR tab. EN listings are All, Press and IR only.</li>
+<li>CSR is out of scope, so JP CSR articles are not counted. English has no CSR tab.</li>
 <li>Most PDFs come from FY2010 and FY2011 (product images and data sheets attached to press releases).</li>
-<li>“Notice” = articles that appear only on the “All” listing, not under a Press / IR / CSR tab.</li></ul></div></div>
+<li>“Notice” = articles that appear only on the “All” listing, not under the Press or IR tab.</li></ul></div></div>
 </section>
 
-<section id="templates"><h2><span class="num">03</span>Templates &amp; import scripts</h2>
+<section id="templates"><h2><span class="num">04</span>Templates &amp; import scripts</h2>
 <p class="lead">Every page shares the same header, side column and footer, but the article content inside comes in two very different forms. As the deck recommends, each pattern gets its own script, and a few pages per pattern are tested in the Workbench first.</p>
 {template_cards()}</section>
 
-<section id="mapping"><h2><span class="num">04</span>Proposed block mapping</h2>
+<section id="mapping"><h2><span class="num">05</span>Proposed block mapping</h2>
 <p class="lead">A first draft of how source elements map to EDS blocks and default content. The block list and table structures must be confirmed before parser work starts (deck prerequisite).</p>
 {tbl(['Applies to', 'Source element', 'EDS target', 'Type'], [(f'<span class="pill">{a}</span>', f'<code>{b}</code>', c, d if d.startswith('<span') else f'<span class="pill">{d}</span>') for a, b, c, d in MAPPING])}
 </section>
 
-<section id="prereq"><h2><span class="num">05</span>Prerequisites before development</h2>
+<section id="prereq"><h2><span class="num">06</span>Prerequisites before development</h2>
 <p class="lead">The deck's checklist for starting importer development, and where this project stands.</p>
 {tbl(['Prerequisite', 'Status', 'Detail'], [(a, b, c) for a, b, c in PREREQ])}
 </section>
 
 
-<section id="risks"><h2><span class="num">06</span>Risks &amp; importer notes</h2>
+<section id="risks"><h2><span class="num">07</span>Risks &amp; importer notes</h2>
 <p class="lead">Edge cases found during the crawl that the import scripts have to handle.</p>
 {risk_html}</section>
 
-<section id="next"><h2><span class="num">07</span>Next steps</h2>
+<section id="next"><h2><span class="num">08</span>Next steps</h2>
 <ol class="steps">{numbered(NEXT)}</ol></section>
 
-<section id="inventory"><h2><span class="num">08</span>URL inventory</h2>
+<section id="inventory"><h2><span class="num">09</span>URL inventory</h2>
 <p class="lead">Every URL found in the crawl. Search and filter the lists, then download what you see as CSV, or as a plain URL list for the Bulk importer.</p>
 <div class="card">
-<div class="inv-tabs" role="tablist"><button class="on" data-k="pages">Pages in scope<em>{n_pages:,}</em></button><button data-k="docs">PDF attachments<em>{n_docs}</em></button><button data-k="opt">Optional<em>{n_opt}</em></button><button data-k="exc">Excluded<em>{n_exc}</em></button></div>
+<div class="inv-tabs" role="tablist"><button class="on" data-k="pages">Pages in scope<em>{n_pages:,}</em></button><button data-k="docs">PDF attachments<em>{n_docs}</em></button><button data-k="opt">Optional<em>{n_opt}</em></button><button data-k="oos">Out of scope (CSR)<em>{n_oos}</em></button><button data-k="exc">Excluded<em>{n_exc}</em></button></div>
 <div class="filters"><input id="q" type="search" placeholder="Search URL, title or reason…" aria-label="Search">
 <select id="fl" aria-label="Language"><option value="">All languages</option><option>JP</option><option>EN</option></select>
 <select id="fy" aria-label="Fiscal year"><option value="">All fiscal years</option>{''.join(f'<option>{y}</option>' for y in range(2006, 2015))}</select>
@@ -521,7 +578,7 @@ doc = f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name=
 <div class="pager"><span id="pg"></span><button class="btn" id="prev">‹ Previous</button><button class="btn" id="next">Next ›</button></div></div>
 </section>
 
-<section id="files"><h2><span class="num">09</span>Deliverables</h2>
+<section id="files"><h2><span class="num">10</span>Deliverables</h2>
 <p class="lead">Saved with this report in the project's migration folder (<code>asahi-kasei-co-jp-news-scope</code>).</p>
 <div class="files">{files_html}</div>
 <h4>Importer notes recorded in the scope summary</h4><ul style="font-size:14px;padding-left:18px;margin:0">{notes_html}</ul>
